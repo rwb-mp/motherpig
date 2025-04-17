@@ -4,7 +4,7 @@ const schedule = [
   date: 'March 27',
   opp: 'vs Boston',
   score: 'L 5-2',
-  recap: `Nathan Eovaldi outpitched Red Sox opening day starter and 2024 All-Star Garrett Crochet and left the game in a 2-2 tie after 6 innings. Eovaldi threw 87 pitches, giving up 3 hits and no walks, striking out 9. Newcomers Kevin Pillar (CF) and Kyle Higaahioka (C) had the RBIs against Crochet. Rangers reliever Luke Jackson gave up 3 runs in the 9th on a one-out walk, followed by a single and a HR by rightfielder Wilyer Abreu, his second of the game. The Boston bullpen held the Ranger offense to a pair of singles over the last 4 innings.`
+  recap: `Nathan Eovaldi outpitched Red Sox opening day starter and 2024 All-Star Garrett Crochet and left the game in a 2-2 tie after 6 innings. Eovaldi threw 87 pitches, giving up 3 hits and no walks, striking out 9. Newcomers Kevin Pillar (CF) and Kyle Higaahioka (C) had the RBIs against Crochet. Rangers' reliever Luke Jackson gave up 3 runs in the 9th on a one-out walk, followed by a single and a HR by rightfielder Wilyer Abreu, his second of the game. The Boston bullpen held the Ranger offense to a pair of singles over the last 4 innings.`
   },
   {
   id: 'mar28',
@@ -25,7 +25,7 @@ const schedule = [
   date: 'March 30',
   opp: 'vs Boston',
   score: 'W 3-2',
-  recap: `Jacob deGrom was sharp in his season debut pitching 5 scoreless innings and leaving with a 1-0 lead. Boston took a 2-1 lead in the 6th off reliever Shawn Armstrong on a looping double deep down the left field line and a throwing error by 3B Ezequiel Duran. Boston's rookie starter Richard Fitts had retired 12 straight entering the Rangers 6th. A 330-foot "wall-scraper" by Wyatt Langford down the RF line tied the game. 2 batters later Adolis Garcia homered 431-feet into the second deck in LF for what proved to be the game winner. Robert Garcia pitched a perfect 7th. Chris Martin stranded Alex Bregman at 3B in the 8th by striking out Kristian Campbell and Connor Wong. Luke Jackson allowed 2 baserunners in the 9th but struckout Alex Bregman with the tying run at 2B for his second save.`
+  recap: `Jacob deGrom was sharp in his season debut pitching 5 scoreless innings and leaving with a 1-0 lead. Boston took a 2-1 lead in the 6th off reliever Shawn Armstrong on a looping double deep down the left field line and a throwing error by 3B Ezequiel Duran. Boston's rookie starter Richard Fitts had retired 12 straight entering the Rangers' 6th. A 330-foot "wall-scraper" by Wyatt Langford down the RF line tied the game. 2 batters later Adolis Garcia homered 431-feet into the second deck in LF for what proved to be the game winner. Robert Garcia pitched a perfect 7th. Chris Martin stranded Alex Bregman at 3B in the 8th by striking out Kristian Campbell and Connor Wong. Luke Jackson allowed 2 baserunners in the 9th but struckout Alex Bregman with the tying run at 2B for his second save.`
   },
   {
   id: 'mar31',
@@ -39,7 +39,7 @@ const schedule = [
   date: 'April 1',
   opp: 'at Cincinnati',
   score: 'W 1-0',
-  recap: `Nathan Eovaldi was brilliant, throwing a complete game 4-hit shutout, striking out 8 and walking none. Reds starting pitcher Carson Spiers was unimpressive in 2024 posting an ERA of 5.64 and an opponent batting avg of .297, but the Rangers lineup needed all of Eovaldi's excellence as Spiers and a trio of Reds relievers held them to a single run on 4 hits. The lone run came in the 1st inning on Wyatt Langford's 361-foot HR to LF, his 2nd of the season. Eovaldi retired Elly De La Cruz on a bouncing ball to 1B to end the game with the tying run at 2nd.`
+  recap: `Nathan Eovaldi was brilliant, throwing a complete game 4-hit shutout, striking out 8 and walking none. Reds starting pitcher Carson Spiers was unimpressive in 2024 posting an ERA of 5.64 and an opponent batting avg of .297, but the Rangers' lineup needed all of Eovaldi's excellence as Spiers and a trio of Reds relievers held them to a single run on 4 hits. The lone run came in the 1st inning on Wyatt Langford's 361-foot HR to LF, his 2nd of the season. Eovaldi retired Elly De La Cruz on a bouncing ball to 1B to end the game with the tying run at 2nd.`
   },
   {
   id: 'apr2',
@@ -54,7 +54,7 @@ const schedule = [
   date: 'April 4',
   opp: 'Tampa Bay',
   score: 'W 5-2',
-  recap: `The Rangers took a 4-run lead in the 3rd on 5 consecutive base hits by Smith, Higashioka, Taveras, Semien, and Seager against Tampa Bay's Zack Littell. Littell was coming off an excellent start against Colorado in which he gave up just 1 run on 4 hits in 6 innings, walking none and striking out 7. Tyler Mahle shook off his control issues in his first start and was very effective tonight against a good hitting Rays team, throwing 5 shutout innings and not allowing a runner past first base. The Rays countered with 2 runs in the 7th, but Josh Smith homered in the Rangers half to extend the lead to 3. Luke Jackson pitched a perfect 9th for his 4th save.`
+  recap: `The Rangers took a 4-run lead in the 3rd on 5 consecutive base hits by Smith, Higashioka, Taveras, Semien, and Seager against Tampa Bay's Zack Littell. Littell was coming off an excellent start against Colorado in which he gave up just 1 run on 4 hits in 6 innings, walking none and striking out 7. Tyler Mahle shook off his control issues in his first start and was very effective tonight against a good hitting Rays team, throwing 5 shutout innings and not allowing a runner past first base. The Rays countered with 2 runs in the 7th, but Josh Smith homered in the Rangers' half to extend the lead to 3. Luke Jackson pitched a perfect 9th for his 4th save.`
   },
   {
   id: 'apr5',
@@ -117,15 +117,57 @@ const schedule = [
   date: 'April 15',
   opp: 'LA Angels',
   score: 'W 4-0',
-  recap: `Tyler Mahle (2-0, 1.32) vs. Yusei Kikuchi (0-2, 4.58). The Rangers offense entered the game with the fewest walks in MLB. Mahle looked like an ace for the 3rd straight time pitching 6 shutout innings, striking out 9. In the 6th, Taveras bunted for a single, stole 2B, and advanced to 3rd on a throwing error by the catcher. Semien scored him on a flyout to the wall in LF. The Rangers added a run in the 7th on a pair of doubles by Heim and Higashioka, and 2 more in the 8th on hits by Seager, Jung, and Pillar. Relievers Garcia, Martin, Webb, and Jackson preserved the shutout and the Rangers took the series opener.`
+  recap: `Tyler Mahle (2-0, 1.32) vs. Yusei Kikuchi (0-2, 4.58). The Rangers' offense entered the game with the fewest walks in MLB. Mahle looked like an ace for the 3rd straight time pitching 6 shutout innings, striking out 9. In the 6th, Taveras bunted for a single, stole 2B, and advanced to 3rd on a throwing error by the catcher. Semien scored him on a flyout to the wall in LF. The Rangers added a run in the 7th on a pair of doubles by Heim and Higashioka, and 2 more in the 8th on hits by Seager, Jung, and Pillar. Relievers Garcia, Martin, Webb, and Jackson preserved the shutout and the Rangers took the series opener.`
   },
   {
   id: 'apr16',
   date: 'April 16',
   opp: 'LA Angels',
+  score: 'W 3-1',
+  recap: `Patrick Corbin (0-0, 6.75) vs Jose Soriano (2-1, 2.70). A double down the RF line by Dustin Harris was followed by a soft single up the middle by Jake Burger to score the first run of the 2nd inning. After Heim and Semien drew walks, Seager came through with a 2-out 2-RBI single to take a 3-0 lead. Corbin baffled the Angels with his off-speed pitches for 5 innings, striking out 6. In the 6th inning, 3 straight hits with 1 out, including a bloop double that landed on the RF foul line, produced the Angels' lone run. Shawn Armstrong got the last 2 outs of the inning to keep the lead at 3-1. After Armstrong allowed 2 baserunners in the 7th, Jacob Webb got the final out of the inning on a flyball to the wall in LF. Luke Jackson got his 6th save by pitching a shutout ninth. The Rangers managed 11 hits but were 2 for 10 with runners in scoring position.`
+  },
+  {
+  id: 'apr17',
+  date: 'April 17',
+  opp: 'LA Angels',
   score: '',
   recap: ``
-  },    
+  },
+  {
+  id: 'apr18',
+  date: 'April 18',
+  opp: 'LA Dodgers',
+  score: '',
+  recap: ``
+  },
+  {
+  id: 'apr19',
+  date: 'April 19',
+  opp: 'LA Dodgers',
+  score: '',
+  recap: ``
+  },
+  {
+  id: 'apr20',
+  date: 'April 20',
+  opp: 'LA Dodgers',
+  score: '',
+  recap: ``
+  },
+  {
+  id: 'apr22',
+  date: 'April 22',
+  opp: 'at Athletics',
+  score: '',
+  recap: ``
+  },
+  {
+  id: 'apr23',
+  date: 'April 23',
+  opp: 'at Athletics',
+  score: '',
+  recap: ``
+  }, 
 ]
 
 let html = '';
