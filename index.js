@@ -400,7 +400,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '17',
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'W 5-3',
     recap: '<a href = "journal.html#apr17" target = "_blank">Recap</a>'
     },
     {

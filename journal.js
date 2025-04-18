@@ -130,7 +130,7 @@ const schedule = [
   id: 'apr17',
   date: 'April 17',
   opp: 'LA Angels',
-  score: '',
+  score: 'W 5-3',
   recap: `Kumar Rocker (0-2, 7.94) vs. Jack Kochanowicz (1-1, 5.74). The Rangers began the game with the best starting pitcher ERA in the AL. The teams traded runs in the 1st. In the 2nd the Rangers loaded the bases with nobody out for Taveras who delivered with a 2-run double, and Higashioka was thrown out at home on a play that wasn't close. Garcia homered in the 3rd to make it 4-1. In the 5th with 2 out and 2 on, Jake Burger set up way off the bag allowing the baserunner a huge lead. Instead of throwing to 1B after fielding a hard grounder, Josh Jung threw to 2B and was late. Rengifo then plated 2 with a single to left. Seager led off the 7th with his 100th HR as a Ranger to extend the lead to 5-3. Rocker was sensational in his 7 innings, striking out 8 and walking none on just 78 pitches, 58 for strikes. Chris Martin threw a perfect 8th, and Robert Garcia threw a perfect 9th for his first career save.`
   },
   {
