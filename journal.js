@@ -187,7 +187,7 @@ let html = '';
         <p>
           ${element.recap}
         </p>
-        <image src = "images/motherpigSMALL.png" class = "motherpigSMALL">
+        <image src = "logos/rangers.gif" width="30px" height="30px" class = "motherpigSMALL">
       </div>\n`
       html += newHTML
     });
