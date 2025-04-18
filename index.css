@@ -159,7 +159,7 @@ aside {
     }
 
 .leave-a-comment {
-  border: 3px solid black;
+  /*border: 3px solid black;*/
   width: 175px;
   height: 40px;
   background-color: black;
@@ -168,7 +168,7 @@ aside {
   margin-top: 25px;
   border-radius: 10px;
   box-shadow: 3px 3px;
-  color: white
+  color: white;
 }
 
 .leave-a-comment:hover {
@@ -192,6 +192,7 @@ aside {
   padding: 4px;
   text-align: center;
   filter: drop-shadow(5px 5px 5px #222);
+  z-index:99;
 }
 
 .bubble-bottom-left:before {
@@ -210,12 +211,16 @@ aside {
 .rocky {
   position: relative;
   top: -40px;
-  left: 20px;
+  /*left: 20px;*/
   filter: drop-shadow(5px 5px 5px #222);
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
 }
 
 .form {
   margin-top: -20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid black;
 }
 
 .input-box {
