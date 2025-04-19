@@ -410,9 +410,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '18',
     opp: 'LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '',
     score: '',
-    recap: 'CW33'
+    recap: '<a href = "journal.html#apr18" target = "_blank">Recap</a>'
     },
     {
     id: '35',
@@ -434,7 +434,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '37',
@@ -456,7 +456,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '9:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '39',
@@ -467,7 +467,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '9:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '40',
@@ -478,7 +478,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '9:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '41',
@@ -511,7 +511,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at SF <img src="logos/giants.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '44',
@@ -522,7 +522,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '45',
@@ -533,7 +533,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '46',
@@ -544,7 +544,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '47',
@@ -632,7 +632,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '55',
@@ -643,7 +643,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '56',
@@ -654,7 +654,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '57',
@@ -665,7 +665,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '58',
@@ -687,7 +687,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:45',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '60',
@@ -698,7 +698,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:45',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '61',
@@ -709,7 +709,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '62',
@@ -720,7 +720,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '63',
@@ -731,7 +731,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '64',
@@ -742,7 +742,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '65',
@@ -753,7 +753,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Col <img src="logos/rockies.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '66',
@@ -764,7 +764,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Col <img src="logos/rockies.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '67',
@@ -775,7 +775,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Col <img src="logos/rockies.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '68',
@@ -786,7 +786,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '69',
@@ -808,7 +808,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '71',
@@ -841,7 +841,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at NYY <img src="logos/yankees.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '74',
@@ -852,7 +852,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at NYY <img src="logos/yankees.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '75',
@@ -863,7 +863,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at NYY <img src="logos/yankees.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '11:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '76',
@@ -874,7 +874,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:40',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '77',
@@ -885,7 +885,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '78',
@@ -896,7 +896,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:15',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '79',
@@ -907,7 +907,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '80',
@@ -918,7 +918,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '81',
@@ -929,7 +929,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '82',
@@ -951,7 +951,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'SL <img src="logos/cardinals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '84',
@@ -962,7 +962,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'SL <img src="logos/cardinals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '85',
@@ -995,7 +995,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at TB <img src="logos/rays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '88',
@@ -1006,7 +1006,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at TB <img src="logos/rays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '89',
@@ -1017,7 +1017,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at TB <img src="logos/rays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '90',
@@ -1028,7 +1028,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Was <img src="logos/nationals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:45',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '91',
@@ -1039,7 +1039,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Was <img src="logos/nationals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '92',
@@ -1050,7 +1050,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Was <img src="logos/nationals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '93',
@@ -1072,7 +1072,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '95',
@@ -1083,7 +1083,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom"> ',
     time: '6:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '96',
@@ -1094,7 +1094,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom"> ',
     time: '12:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '97',
@@ -1105,7 +1105,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '98',
@@ -1116,7 +1116,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '99',
@@ -1127,7 +1127,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '100',
@@ -1149,7 +1149,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '102',
@@ -1160,7 +1160,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '103',
@@ -1171,7 +1171,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '104',
@@ -1182,7 +1182,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Pit <img src="logos/pirates.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:40',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '105',
@@ -1193,7 +1193,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Pit <img src="logos/pirates.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '106',
@@ -1204,7 +1204,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Pit <img src="logos/pirates.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '107',
@@ -1215,7 +1215,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '108',
@@ -1226,7 +1226,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '109',
@@ -1237,7 +1237,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '110',
@@ -1259,7 +1259,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '112',
@@ -1270,7 +1270,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '113',
@@ -1281,7 +1281,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '114',
@@ -1292,7 +1292,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '115',
@@ -1380,7 +1380,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '123',
@@ -1391,7 +1391,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '124',
@@ -1413,7 +1413,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at SD <img src="logos/padres.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '5:40',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '126',
@@ -1424,7 +1424,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at SD <img src="logos/padres.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '127',
@@ -1446,7 +1446,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '129',
@@ -1457,7 +1457,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '130',
@@ -1468,7 +1468,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '131',
@@ -1479,7 +1479,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '132',
@@ -1490,7 +1490,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:10',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '133',
@@ -1512,7 +1512,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '135',
@@ -1567,7 +1567,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '140',
@@ -1578,7 +1578,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '141',
@@ -1589,7 +1589,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '142',
@@ -1600,7 +1600,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '143',
@@ -1611,7 +1611,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '144',
@@ -1622,7 +1622,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '145',
@@ -1644,7 +1644,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Atl <img src="logos/braves.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '147',
@@ -1655,7 +1655,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Atl <img src="logos/braves.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '148',
@@ -1666,7 +1666,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Atl <img src="logos/braves.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '149',
@@ -1677,7 +1677,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '150',
@@ -1688,7 +1688,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '151',
@@ -1699,7 +1699,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '152',
@@ -1710,7 +1710,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '153',
@@ -1798,7 +1798,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '9:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '161',
@@ -1809,7 +1809,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '162',
@@ -1820,7 +1820,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '163',
@@ -1831,7 +1831,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'NYY <img src="logos/yankees.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '164',
@@ -1842,7 +1842,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'NYY <img src="logos/yankees.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '165',
@@ -1853,7 +1853,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'NYY <img src="logos/yankees.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '166',
@@ -1875,7 +1875,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Phi <img src="logos/phillies.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '168',
@@ -1897,7 +1897,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Phi <img src="logos/phillies.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '170',
@@ -1908,7 +1908,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '171',
@@ -1919,7 +1919,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '172',
@@ -1930,7 +1930,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '173',
@@ -1952,7 +1952,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:07',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '175',
@@ -1963,7 +1963,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '2:07',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '176',
@@ -1974,7 +1974,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:37',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '177',
@@ -1985,7 +1985,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '178',
@@ -1996,7 +1996,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '179',
@@ -2007,7 +2007,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '180',
@@ -2018,7 +2018,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '181',
@@ -2029,7 +2029,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Cle <img src="logos/guardians.gif" width="24px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '182',
@@ -2040,7 +2040,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Cle <img src="logos/guardians.gif" width="24px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '183',
@@ -2051,7 +2051,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Cle <img src="logos/guardians.gif" width="24px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '184',
@@ -2062,7 +2062,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '185',
@@ -2073,7 +2073,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '186',
@@ -2084,7 +2084,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '187',
@@ -2106,7 +2106,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '9:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '189',
@@ -2117,7 +2117,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '9:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '190',
@@ -2128,7 +2128,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '191',
@@ -2216,7 +2216,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '199',
@@ -2227,7 +2227,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '200',
@@ -2238,7 +2238,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '2:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '201',
@@ -2260,7 +2260,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '203',
@@ -2282,7 +2282,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '205',
@@ -2293,7 +2293,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Mil <img src="logos/brewers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '206',
@@ -2304,7 +2304,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Mil <img src="logos/brewers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '207',
@@ -2315,7 +2315,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Mil <img src="logos/brewers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '208',
@@ -2337,7 +2337,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at NYM <img src="logos/mets.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '210',
@@ -2348,7 +2348,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at NYM <img src="logos/mets.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '211',
@@ -2359,7 +2359,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at NYM <img src="logos/mets.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:40',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '212',
@@ -2370,7 +2370,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '213',
@@ -2381,7 +2381,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '214',
@@ -2392,7 +2392,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '215',
@@ -2414,7 +2414,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Mia <img src="logos/marlins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'CW33'
+    recap: 'CW33/Victory+'
     },
     {
     id: '217',
@@ -2425,7 +2425,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Mia <img src="logos/marlins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '218',
@@ -2436,7 +2436,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Mia <img src="logos/marlins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '219',
@@ -2458,7 +2458,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '221',
@@ -2469,7 +2469,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '222',
@@ -2480,7 +2480,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '223',
@@ -2491,7 +2491,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Cle <img src="logos/guardians.gif" width="24px" height="20px" style="vertical-align:bottom">',
     time: '6:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '224',
@@ -2502,7 +2502,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Cle <img src="logos/guardians.gif" width="24px" height="20px" style="vertical-align:bottom">',
     time: '5:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '225',
@@ -2513,7 +2513,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Cle <img src="logos/guardians.gif" width="24px" height="20px" style="vertical-align:bottom">',
     time: '2:10',
     score: '',
-    recap: 'RSN'
+    recap: 'Victory+'
     },
     {
     id: '226',
@@ -2805,7 +2805,7 @@ const Hours = document.getElementById('hours');
 const Minutes = document.getElementById('minutes');
 const Seconds = document.getElementById('seconds');
 
-const targetDate = new Date("April 18 2025 19:05:00").getTime();
+const targetDate = new Date("April 19 2025 15:05:00").getTime();
 
 function timer () {
     const currentDate = new Date().getTime();
