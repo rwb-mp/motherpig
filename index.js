@@ -411,7 +411,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '18',
     opp: 'LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'L 3-0',
     recap: '<a href = "journal.html#apr18" target = "_blank">Recap</a>'
     },
     {

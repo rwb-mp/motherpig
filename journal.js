@@ -131,14 +131,14 @@ const schedule = [
   date: 'April 17',
   opp: 'LA Angels',
   score: 'W 5-3',
-  recap: `Kumar Rocker (0-2, 7.94) vs. Jack Kochanowicz (1-1, 5.74). The Rangers began the game with the best starting pitcher ERA in the AL. The teams traded runs in the 1st. In the 2nd the Rangers loaded the bases with nobody out for Taveras who delivered with a 2-run double. Garcia homered in the 3rd to make it 4-1. In the 5th with 2 out and 2 on, Jake Burger set up way off the bag allowing the baserunner a huge lead. Instead of throwing to 1B after fielding a hard grounder, Josh Jung threw to 2B and was late. Rengifo then plated 2 with a single to left. Seager led off the 7th with a 427 ft. HR to CF to extend the lead to 5-3. It was Seager's 100th as a Ranger. Rocker was sensational in his 7 innings, striking out 8 and walking none on just 78 pitches, 58 for strikes. Chris Martin threw a perfect 8th, and Robert Garcia threw a perfect 9th for his first career save.`
+  recap: `Kumar Rocker (0-2, 7.94) vs. Jack Kochanowicz (1-1, 5.74). The Rangers began the game with the best starting pitcher ERA in the AL. The teams traded runs in the 1st. In the 2nd the Rangers loaded the bases with nobody out for Taveras who delivered with a 2-run double. Garcia homered in the 3rd to make it 4-1. In the 5th with 2 out and 2 on, Jake Burger set up way off the bag allowing the baserunner a huge lead. Instead of throwing to 1B after fielding a hard grounder, Josh Jung threw to 2B and was late. Rengifo then plated 2 with a single to left. Seager led off the 7th with a 427-ft. HR to CF to extend the lead to 5-3. It was Seager's 100th as a Ranger. Rocker was sensational in his 7 innings, striking out 8 and walking none on just 78 pitches, 58 for strikes. Chris Martin threw a perfect 8th, and Robert Garcia threw a perfect 9th for his first career save.`
   },
   {
   id: 'apr18',
   date: 'April 18',
   opp: 'LA Dodgers',
-  score: '',
-  recap: ``
+  score: 'L 3-0',
+  recap: `Jacob deGrom (0-0, 4.30) vs. Yoshinobu Yamamoto (2-1, 1.23). The Rangers wasted a beautiful start by deGrom: 3 hits and a walk in 7 innings with 7 K's. The Dodgers opened the scoring when Tommy Edman hit deGrom's 2nd pitch of the game 398-ft. over the RF wall. The Rangers had their chances but couldn't answer. In the 2nd inning Jung doubled with 1 out, but Dustin Harris and Jake Burger left him at 2nd. With 2 outs in the 3rd, Semien and Seager singled but Pederson grounded to 1st to end the inning. In the 4th Dustin Harris doubled down the line in left with 2 outs, but Burger struck out to strand him. The Dodgers scored two runs in the 9th off the bullpen. Rangers' hitters whiffed 22 times, 13 on chases below the zone.`
   },
   {
   id: 'apr19',
