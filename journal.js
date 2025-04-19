@@ -138,7 +138,7 @@ const schedule = [
   date: 'April 18',
   opp: 'LA Dodgers',
   score: 'L 3-0',
-  recap: `Jacob deGrom (0-0, 4.30) vs. Yoshinobu Yamamoto (2-1, 1.23). The Rangers wasted a beautiful start by deGrom: 3 hits and a walk in 7 innings with 7 K's. The Dodgers opened the scoring when Tommy Edman hit deGrom's 2nd pitch of the game 398-ft. over the RF wall. The Rangers had their chances but couldn't answer. In the 2nd inning Jung doubled with 1 out, but Dustin Harris and Jake Burger left him at 2nd. With 2 outs in the 3rd, Semien and Seager singled but Pederson grounded to 1st to end the inning. In the 4th Dustin Harris doubled down the line in left with 2 outs, but Burger struck out to strand him. The Dodgers scored two runs in the 9th off the bullpen. Rangers' hitters whiffed 22 times, 13 on chases below the zone.`
+  recap: `Jacob deGrom (0-0, 4.30) vs. Yoshinobu Yamamoto (2-1, 1.23). The Rangers wasted a beautiful start by deGrom: 3 hits and a walk in 7 innings with 7 K's. The Dodgers opened the scoring when Tommy Edman hit deGrom's 2nd pitch of the game 398-ft. over the RF wall. The Rangers had their chances but couldn't answer. In the 2nd inning Jung doubled with 1 out, but Dustin Harris and Jake Burger left him at 2nd. With 2 outs in the 3rd, Semien and Seager singled but Pederson grounded to 1st to end the inning. In the 4th Dustin Harris doubled down the line in left with 2 outs, but Burger struck out to strand him. The Dodgers scored two runs in the 9th off the bullpen. Rangers' hitters whiffed 22 times, 15 on chases out of the strike zone.`
   },
   {
   id: 'apr19',
