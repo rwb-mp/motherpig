@@ -151,8 +151,8 @@ const schedule = [
   id: 'apr20',
   date: 'April 20',
   opp: 'LA Dodgers',
-  score: '',
-  recap: ``
+  score: 'L 1-0',
+  recap: `The starting pitchers in the rubber game between the 2 most recent World Series champions were Tyler Mahle (3-0, 0.92) vs. Tyler Glasnow (1-0, 4.85). Glasnow cruised through the Rangers' lineup for 4 innings giving up no runs on 3 hits, but left the game with a leg injury after throwing one pitch in the 5th inning. The Rangers' lineup fared no better against the Dodger bullpen. Josh Smith had 3 singles in the game, but the only other hit through 8 innings was a single by Heim. Tyler Mahle continued his dominance with 7 shutout innings giving up no runs on a couple of hits and 3 walks. The Rangers' bullpen faltered as Chris Martin gave up the first run of the game in the 8th. In the Ranger half of the 8th, Semien advanced to 2B with 1 out after reaching on a walk, but Smith and Garcia struck out. Langford in his 1st game back after 10 days on the IL singled to start the 9th. Pillar popped out, Jung lined out to LF, and Langford was caught stealing 2B to end the game.`
   },
   {
   id: 'apr22',
