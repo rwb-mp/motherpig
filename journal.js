@@ -158,7 +158,7 @@ const schedule = [
   id: 'apr22',
   date: 'April 22',
   opp: 'at Athletics',
-  score: '',
+  score: 'W 8-5',
   recap: `Patrick Corbin (1-0, 3.86 vs. Osvaldo Bido (2-1, 2.61). The Rangers entered the game tied with the Royals for fewest runs scored in MLB at 67. For the first time this season, Bochy made significant changes to the batting order taking Semien out of the leadoff spot and replacing him with hot-hitting Josh Smith and his .452 on base percentage. Langford batted 2nd, followed by Seager, Garcia, and Semien. The new batting order paid dividends immediattely as both Smith and Langford reached base to start the game, and a Garcia double followed by a Semien sac fly gave the Rangers a 2-0 lead. Langford homered in the 3rd to make the lead 3-1. Smith homered to lead off the 5th and two batters later, singles by Seager and Garcia followed by a Semien HR extended the lead to 7-2. In the 6th, the 4th HR of the game for the Rangers, this time by Burger, made the lead 8-2. Patrick Corbin pitched 5 innings, giving up 2 runs on 7 hits and 2 walks and got the win. Jacob Webb was tagged with 2 HR's in the 8th to make the score 8-5. Luke Jackson pitched the 9th and got his 7th save.`
   },
   {
