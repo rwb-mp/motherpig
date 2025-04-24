@@ -165,9 +165,30 @@ const schedule = [
   id: 'apr23',
   date: 'April 23',
   opp: 'at Athletics',
+  score: 'L 5-2',
+  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). JP Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. In the 2nd Jacob Latz walked in the 5th A's run, followed by 4 1/3 shutout innings. Caleb Boushley pitched shutout innings in the 8th and 9th. The Rangers' bats managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford.`
+  },
+  {
+  id: 'apr24',
+  date: 'April 24',
+  opp: 'at Athletics',
   score: '',
   recap: ``
-  }, 
+  },
+  {
+  id: 'apr25',
+  date: 'April 25',
+  opp: 'at San Francisco',
+  score: '',
+  recap: ``
+  },
+  {
+  id: 'apr26',
+  date: 'April 26',
+  opp: 'at San Francisco',
+  score: '',
+  recap: ``
+  },       
 ]
 
 let html = '';
