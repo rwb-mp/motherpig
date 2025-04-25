@@ -166,7 +166,7 @@ const schedule = [
   date: 'April 23',
   opp: 'at Athletics',
   score: 'L 5-2',
-  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). J.P. Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. In the 2nd Jacob Latz walked in the 5th A's run, followed by 4 1/3 shutout innings. Caleb Boushley pitched shutout innings in the 8th and 9th. The Rangers' bats managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford. Joc Pederson ended an 0-for-41 slump with a 9th-inning double. Corey Seager was placed on the 10-day IL.`
+  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). J.P. Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. In the 2nd Jacob Latz walked in the 5th A's run, followed by 4 1/3 shutout innings. Caleb Boushley pitched shutout innings in the 8th and 9th. The Rangers' bats managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford. Joc Pederson ended an 0-for-41 slump with a 9th-inning double. Corey Seager was placed on the 10-day IL with hamstring soreness. Kumar Rocker was placed on the 15-day IL with a "mild shoulder impingement".`
   },
   {
   id: 'apr24',
