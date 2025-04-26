@@ -186,7 +186,7 @@ const schedule = [
   id: 'apr26',
   date: 'April 26',
   opp: 'at San Francisco',
-  score: '',
+  score: 'L 3-2',
   recap: `Tyler Mahle (3-0, 0.68) vs. Robbie Ray (3-0, 4.07). Coming into the game, Ray had walked 17 batters over 19 innings in his last 4 starts, but the Rangers only walked once over his 7 innings. A pair of sac flies by Burger gave the Rangers a 2-0 lead after 3. In the 5th Mahle gave up hits to the 8th and 9th-place hitters, both of whom scored on a single by Willy Adames. Mahle's line was 5 innings, 2 runs on 8 hits, a walk, and a strikeout. The Rangers hitters swung and missed 23 times against Ray in his 7 innings. With the score tied at 2, Semien and Heim singled to start the 9th, but Higashioka popped up a bunt attempt for the first out, and Smith and Pederson struck out on pitches out of the zone. In the bottom of the 9th, the first 2 Giants runners reached against Jacob Webb. Christian Koss executed a perfect sac bunt to move the runners and Patrick Bailey singled for the walkoff win.`
   },
   {

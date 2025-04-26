@@ -499,7 +499,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '26',
     opp: 'at SF <img src="logos/giants.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'L 3-2',
     recap: '<a href = "journal.html#apr26" target = "_blank">Recap</a>'
     },
     {
