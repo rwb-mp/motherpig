@@ -173,14 +173,14 @@ const schedule = [
   date: 'April 24',
   opp: 'at Athletics',
   score: 'L 4-3',
-  recap: `Jacob deGrom (0-1, 3.32) vs. J.T. Ginn (1-1, 3.69). The Rangers entered the 9th with a 3-2 lead, but an error by Taveras and a blown save by Luke Jackson cost the Rangers the game and the series. The Rangers' runs came in the 4th when Jung homered 414 feet to LF and Heim followed with a 405-foot blast to RF. After Burger grounded out Taveras homered 389 feet to right-center to give the Rangers a 3-2 lead. Later in the same inning the Rangers loaded the bases with 2 outs, but Garcia grounded out to 3B to end the threat. Both A's runs came in the 3rd when Langford lost an easy fly ball in the lights to put runners on 2nd and 3rd with 1 out. The next batter grounded back to the pitcher for what would have been the third out, and then Soderstrom followed with a double to score both runners. The Rangers wasted an opportunity in the 1st when Langford doubled with one out, but Garcia struck out on an apparent ball four and Jung popped out to 2B. The Rangers managed only one baserunner after the 4th inning. In the 9th Max Schuemann walked and scored from first on a single by Luis Urias that Taveras booted in CF. After a flyout to LF, Jacob Wilson singled in the winning run and the A's had the walk-off win. Kumar Rocker was placed on the 15-day IL with a "mild shoulder impingement".`
+  recap: `Jacob deGrom (0-1, 3.32) vs. J.T. Ginn (1-1, 3.69). The Rangers entered the 9th with a 3-2 lead, but an error by Taveras and a blown save by Luke Jackson cost the Rangers the game and the series. The Rangers' runs came in the 4th when Jung homered 414 feet to LF and Heim followed with a 405-foot blast to RF. After Burger grounded out Taveras homered 389 feet to right-center to give the Rangers a 3-2 lead. Later in the same inning the Rangers loaded the bases with 2 outs, but Garcia grounded out to 3B to end the threat. Both A's runs came in the 3rd when Langford lost an easy fly ball in the lights to put runners on 2nd and 3rd with 1 out. The next batter grounded back to the pitcher for what would have been the third out, and then Soderstrom followed with a double to score both runners. The Rangers wasted an opportunity in the 1st when Langford doubled with one out, but Garcia struck out on an apparent ball four and Jung popped out to 2B. The Rangers managed only one baserunner after the 4th inning. In the 9th Max Schuemann walked and scored from first on a single by Luis Urias that Taveras booted in CF. After a flyout to LF, Jacob Wilson singled and the A's had the walk-off win. Kumar Rocker was placed on the 15-day IL with a "mild shoulder impingement".`
   },
   {
   id: 'apr25',
   date: 'April 25',
   opp: 'at San Francisco',
-  score: '',
-  recap: ``
+  score: 'W 2-0',
+  recap: `Nathan Eovaldi (1-2, 2.64) vs. Justin Verlander (0-1, 5.47). Eovaldi was masterful again through his 6 innings allowing no runs on 3 hits and a walk with 7 K's. Dustin Harris in CF and Josh Jung at 3B made nice defensive plays behind Eovaldi. The trio of Martin, Garcia, and Jackson held the Giants scoreless the rest of the way on 1 hit with no walks and 7 K's. The Rangers managed 7 hits, 3 by Langford. Langford doubled in the team's 1st run in the 3rd when he followed a Jake Burger leadoff double. In the 6th Pederson batted in the team's 2nd run when he singled following a Smith single and a Langford double. Luke Jackson recorded his 8th save.`
   },
   {
   id: 'apr26',
