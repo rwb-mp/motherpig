@@ -159,7 +159,6 @@ aside {
     }
 
 .leave-a-comment {
-  /*border: 3px solid black;*/
   width: 175px;
   height: 40px;
   background-color: black;
@@ -211,7 +210,6 @@ aside {
 .rocky {
   position: relative;
   top: -40px;
-  /*left: 20px;*/
   filter: drop-shadow(5px 5px 5px #222);
   border-bottom: 2px solid black;
   border-top: 2px solid black;
@@ -493,7 +491,7 @@ td {
   background-color: rgb(223, 241, 223);
 }
 
-.mar27, .mar31, .apr7, .apr8, .apr11, .apr12, .apr13, .apr18, .apr20, .apr23, .apr24, .apr26 {
+.mar27, .mar31, .apr7, .apr8, .apr11, .apr12, .apr13, .apr18, .apr20, .apr23, .apr24, .apr26, .apr27 {
   background-color: rgb(248, 199, 199);
 }
 
