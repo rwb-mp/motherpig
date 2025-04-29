@@ -4,7 +4,7 @@ const schedule = [
   date: 'March 27',
   opp: 'vs Boston',
   score: 'L 5-2',
-  recap: `Nathan Eovaldi outpitched Red Sox opening day starter and 2024 All-Star Garrett Crochet and left the game in a 2-2 tie after 6 innings. Eovaldi threw 87 pitches, giving up 3 hits and no walks, striking out 9. Newcomers Kevin Pillar (CF) and Kyle Higaahioka (C) had the RBIs against Crochet. Rangers' reliever Luke Jackson gave up 3 runs in the 9th on a one-out walk, followed by a single and a HR by rightfielder Wilyer Abreu, his second of the game. The Boston bullpen held the Ranger offense to a pair of singles over the last 4 innings.`
+  recap: `Nathan Eovaldi outpitched Red Sox opening day starter and 2024 All-Star Garrett Crochet and left the game in a 2-2 tie after 6 innings. Eovaldi threw 87 pitches, giving up 3 hits and no walks, striking out 9. Newcomers Kevin Pillar and Kyle Higaahioka had the RBIs against Crochet. Rangers' reliever Luke Jackson gave up 3 runs in the 9th on a one-out walk, followed by a single and a HR by rightfielder Wilyer Abreu, his second of the game. The Boston bullpen held the Ranger offense to a pair of singles over the last 4 innings.`
   },
   {
   id: 'mar28',
@@ -200,8 +200,8 @@ const schedule = [
   id: 'apr28',
   date: 'April 28',
   opp: 'Athletics',
-  score: '',
-  recap: ``
+  score: 'L 2-1',
+  recap: `Patrick Corbin (2-0, 3.77) vs. J.P. Sears (3-2, 3.21). Bochy shuffled the batting order: Pillar, Higashioka, Langford, Heim, Semien, Jung, Garcia, Burger, and Smith. The lead-off batter for the Athletics reached in each of the first 5 innings but Corbin pitched out of trouble until the 5th when the A's broke through for 2 runs. Corbin's line over 4-2/3 innings: 2 runs on 7 hits, a walk and 5 K's. The bullpen held the A's scoreless the rest of the way, but 2 runs were all the A's needed. The Rangers scored in the 6th on a Higashioka double and a Heim single. The Rangers added 2 more baserunners in the inning but Garcia popped up in the infield to leave bases loaded. J.P. Sears defeated the Rangers for the 5th straight time.`
   },
   {
   id: 'apr29',
