@@ -208,7 +208,7 @@ const schedule = [
   date: 'April 29',
   opp: 'Athletics',
   score: 'W 15-2',
-  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez in his 1st start of the season. It was a great game for the hitters who feasted off of Lopez and what Jared Sandler referred to as "the underbelly of the A's bullpen". The Ranger hitters combined for 18 hits and 9 walks including an 8-run 6th inning. deGrom cruised through 6 shutout innings on 65 pitches, 4 hits, 7 K's and no walks. Dane Dunning pitched the final 3 innings in his first appearance of the season after being called up from Round Rock.`
+  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez in his 1st start of the season. It was a great game for the hitters who feasted off Lopez and what Jared Sandler referred to as "the underbelly of the A's bullpen". The Ranger hitters combined for 18 hits and 9 walks including an 8-run 6th inning. deGrom cruised through 6 shutout innings on 65 pitches, 4 hits, 7 K's and no walks. Dane Dunning pitched the final 3 innings in his first appearance of the season after being called up from Round Rock.`
   },
   {
   id: 'apr30',
