@@ -166,7 +166,7 @@ const schedule = [
   date: 'April 23',
   opp: 'at Athletics',
   score: 'L 5-2',
-  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). J.P. Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. In the 2nd Jacob Latz walked in the 5th A's run, followed by 4 1/3 shutout innings. Caleb Boushley pitched shutout innings in the 8th and 9th. The Rangers' bats managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford. Joc Pederson ended an 0-for-41 slump with a 9th-inning double. Corey Seager was placed on the 10-day IL with hamstring soreness.`
+  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). J.P. Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. In the 2nd Jacob Latz walked in the 5th A's run, followed by 4-1/3 shutout innings. Caleb Boushley pitched shutout innings in the 8th and 9th. The Rangers' bats managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford. Joc Pederson ended an 0-for-41 slump with a 9th-inning double. Corey Seager was placed on the 10-day IL with hamstring soreness.`
   },
   {
   id: 'apr24',
@@ -201,15 +201,36 @@ const schedule = [
   date: 'April 28',
   opp: 'Athletics',
   score: 'L 2-1',
-  recap: `Patrick Corbin (2-0, 3.77) vs. J.P. Sears (3-2, 3.21). Bochy shuffled the batting order: Pillar, Higashioka, Langford, Heim, Semien, Jung, Garcia, Burger, and Smith. The lead-off batter for the Athletics reached in each of the first 5 innings but Corbin pitched out of trouble until the 5th when the A's broke through for 2 runs. Corbin's line over 4-2/3 innings: 2 runs on 7 hits, a walk and 5 K's. The bullpen held the A's scoreless the rest of the way, but 2 runs were all the A's needed. The Rangers scored in the 6th on a Higashioka double and a Heim single. The Rangers added 2 more baserunners in the inning but Garcia popped up in the infield to leave them loaded. Semien led off the 9th with a single and moved to 2B on a Jung ground-out, but Garcia struck out and Dustin Harris grounded out giving J.P. Sears his 5th straight win over the Rangers.`
+  recap: `Patrick Corbin (2-0, 3.77) vs. J.P. Sears (3-2, 3.21). Bochy shuffled the batting order: Pillar, Higashioka, Langford, Heim, Semien, Jung, Garcia, Burger, and Smith. The lead-off batter for the Athletics reached in each of the first 5 innings but Corbin pitched out of trouble until the 5th when the A's broke through for 2 runs. Corbin's line over 4-2/3 innings: 2 runs on 7 hits, a walk and 5 K's. The bullpen held the A's scoreless the rest of the way, but 2 runs were all the A's needed. The Rangers scored in the 6th on a Higashioka double and a Heim single. The Rangers added 2 more baserunners in the inning but Garcia popped up in the infield to leave them loaded. Semien led off the 9th with a single and moved to 2B on a Jung groundout, but Garcia struck out and Dustin Harris grounded out giving J.P. Sears his 5th straight win over the Rangers. The Rangers were 1-for-7 with runners in scoring position.`
   },
   {
   id: 'apr29',
   date: 'April 29',
   opp: 'Athletics',
+  score: 'W 15-2',
+  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez in his 1st start of the season. It was a great game for the hitters who feasted off of Lopez and what Jared Sandler referred to as "the underbelly of the A's bullpen". The Ranger hitters combined for 18 hits and 9 walks including an 8-run 6th inning. deGrom cruised through 6 shutout innings on 65 pitches, 4 hits, 7 K's and no walks. Dane Dunning pitched the final 3 innings in his first appearance of the season after being called up from Round Rock.`
+  },
+  {
+  id: 'apr30',
+  date: 'April 30',
+  opp: 'Athletics',
   score: '',
   recap: ``
-  },           
+  },
+  {
+  id: 'may1',
+  date: 'May 1',
+  opp: 'Athletics',
+  score: '',
+  recap: ``
+  },
+  {
+  id: 'may2',
+  date: 'May 2',
+  opp: 'Mariners',
+  score: '',
+  recap: ``
+  },              
 ]
 
 let html = '';
