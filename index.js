@@ -630,9 +630,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Thu',
     date: '1',
     opp: 'Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '1:35',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'L 3-0',
+    recap: '<a href = "journal.html#may1" target = "_blank">Recap</a>'
     },
     {
     id: '55',

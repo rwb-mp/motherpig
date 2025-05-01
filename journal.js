@@ -221,8 +221,8 @@ const schedule = [
   id: 'may1',
   date: 'May 1',
   opp: 'Athletics',
-  score: '',
-  recap: ``
+  score: 'L 3-0',
+  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). It was another quality start for Mahle who pitched 6 innings giving up a run on 5 hits and a walk, striking out 6. Opponents were hitting .432 against Springs' fastball, but the Rangers' lineup could manage only 2 singles over 6 innings. The Rangers were 0-for-4 with RISP and have now lost 5 of 7 against the Athletics.`
   },
   {
   id: 'may2',
