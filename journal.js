@@ -215,7 +215,7 @@ const schedule = [
   date: 'April 30',
   opp: 'Athletics',
   score: 'L 7-1',
-  recap: `Nathan Eovaldi (2-2, 2.21) vs. Luis Severino (1-3, 3.49). The Rangers wasted another quality start by Eovaldi who gave up a run in 6 innings on 6 hits, no walks, and 8 K's. The lineup generated plenty of scoring opportunities but went 1-for-11 with RISP. The first 2 hitters reached in the 3rd, 6th, and 8th but failed to score. Burger hitting in the 3-spot struck out 4 times and left 5 runners on base. The A's exploded for 6 runs in the 9th on a pair of homers against the trio of Garcia, Jackson, and Armstrong. At the end of April the Rangers have the 6th best ERA in MLB, but the offense is ranked 27th in runs scored.`
+  recap: `Nathan Eovaldi (2-2, 2.21) vs. Luis Severino (1-3, 3.49). The Rangers wasted another quality start by Eovaldi who gave up a run in 6 innings on 6 hits, no walks, and 8 K's. The lineup generated plenty of scoring opportunities but went 1-for-11 with RISP. The first 2 hitters reached in the 3rd, 6th, and 8th but failed to score. Burger hitting in the 3-spot struck out 4 times leaving 5 runners on base, and Langford in the leadoff spot went 0-for-5 and stranded 6 runners. The A's exploded for 6 runs in the 9th on a pair of homers against the trio of Garcia, Jackson, and Armstrong. At the end of April the Rangers have the 6th best ERA in MLB, but the offense is ranked 27th in runs scored.`
   },
   {
   id: 'may1',
