@@ -222,7 +222,7 @@ const schedule = [
   date: 'May 1',
   opp: 'Athletics',
   score: 'L 3-0',
-  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). It was another quality start for Mahle who pitched 6 innings giving up a run on 5 hits and a walk, striking out 6. Opponents were hitting .432 against Springs' fastball, but the Rangers' lineup could manage only 2 singles over 6 innings. The Rangers were 0-for-4 with RISP and have now lost 5 of 7 against the Athletics.`
+  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). It was another quality start for Mahle who pitched 6 innings giving up a run on 5 hits and a walk, striking out 6. In Springs' previous start he gave up 7 runs to the 8-23 White Sox. Opponents were hitting .432 against Springs' fastball, but the Rangers' lineup could manage only 2 singles over 6 innings. The Rangers were 0-for-4 with RISP and have now lost 5 of 7 against the Athletics. After the game Jake Burger was sent down to Round Rock and Blaine Crimm (.313/.365/.565) was called up.`
   },
   {
   id: 'may2',
