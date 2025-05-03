@@ -228,8 +228,8 @@ const schedule = [
   id: 'may2',
   date: 'May 2',
   opp: 'Mariners',
-  score: '',
-  recap: ``
+  score: 'L 13-1',
+  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). A solo HR by Cal Raleigh in the 4th and a grand slam in the 5th gave the Mariners more runs than they would need against the anemic Rangers' offense. Woo pitched 6 innings, retiring the first 14 hitters he faced until Heim singled harmlessly in the 5th. Mariners' pitching retired the next 12 hitters until Smith homered to right with 2 outs in the ninth followed by a Langford single. The Smith HR ended a streak of 281 Ranger AB's without a HR. The Rangers' record fell below .500 for the first time since their opening day loss. Blaine Crim went 0-for 3 with 2 K's in his MLB debut.`
   },              
 ]
 

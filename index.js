@@ -642,7 +642,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '2',
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'L 13-1',
     recap: '<a href = "journal.html#may1" target = "_blank">Recap</a>'
     },
     {
