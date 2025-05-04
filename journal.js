@@ -236,7 +236,7 @@ const schedule = [
   date: 'May 3',
   opp: 'Mariners',
   score: 'L 2-1',
-  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). It was Seager's 1st game back from the 10-day IL. J.P. Crawford homered on Corbin's 1st pitch of the game 369-feet to RF. The Rangers answered in the 5th when Seager led off with a single and Heim scored him on a 2-out RBI-single. Corbin retired 12 in a row at one point and left after 5-2/3, giving up a run on 5 hits and 2 walks with 2 K's. Chris Martin pitched the 9th and gave up a leadoff double to the hot-hitting Polanco who scored on an RBI-single by Telez. In the bottom of the 9th Semien walked with 1 out and Heim moved him to 2nd on a ground-out to 1B. Garcia struck out on a slider way out of the zone to end the game. 1 run on 5 hits for the Rangers who have now lost 4 in a row and 9 of 11.`
+  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). It was Seager's 1st game back from the 10-day IL. J.P. Crawford homered on Corbin's 1st pitch of the game 369-feet to RF. The Rangers answered in the 5th when Seager led off with a single and Heim scored him on a 2-out RBI-single. Corbin retired 12 in a row at one point and left after 5-2/3, giving up a run on 5 hits and 2 walks with 2 K's. Chris Martin pitched the 9th and gave up a leadoff double to the hot-hitting Polanco who scored on an RBI-single by Telez. In the bottom of the 9th Semien walked with 1 out and Heim moved him to 2nd on a ground-out to 1B. Garcia struck out on a slider way out of the zone to end the game. 1 run on 5 hits for the Rangers who now have lost 4 straight and 9 of 11.`
   },                          
 ]
 
