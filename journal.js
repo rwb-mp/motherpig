@@ -243,7 +243,7 @@ const schedule = [
   date: 'May 4',
   opp: 'Mariners',
   score: 'W 8-1',
-  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60) making his 2nd MLB start. Seager started the Rangers' scoring in the 3rd with a clutch bases-loaded single scoring 2. After Pederson lined out for the 2nd out, Semien, Garcia, and Jung all had 2-out RBI's. The Rangers sent 11 to the plate in the inning scoring 6 runs on 6 singles and 2 walks. deGrom was solid again pitching 5 innings allowing a run on 3 hits and 2 walks with 3 K's. Josh Smith had 4 of the Rangers' 12 hits including a triple in the 8th that scored Jung.`
+  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60) making his 2nd MLB start. Seager started the Rangers' scoring in the 3rd with a clutch bases-loaded single scoring 2. After Pederson lined out for the 2nd out, Semien, Garcia, and Jung all had 2-out RBI's. The Rangers sent 11 to the plate in the inning scoring 6 runs on 6 singles and 2 walks. deGrom was solid again pitching 5 innings allowing a run on 3 hits and 2 walks with 3 K's. The bullpen shutout the Mariners over the last 4 innings allowing only 2 baserunners. Josh Smith had 4 of the Rangers' 12 hits including a triple in the 8th that scored Jung.`
   },                       
 ]
 
