@@ -32,7 +32,7 @@ const schedule = [
   date: 'March 31',
   opp: 'at Cincinnati',
   score: 'L 14-3',
-  recap: `The Reds began the game against rookie Kumar Rocker with a single, HR, single, and double and this one was never in doubt: 6 runs on 7 hits and 2 walks against Rocker in 3 innings. The relievers fared no better, as Gerson Garabito gave up 8 runs, 4 of them earned, on 7 hits and 2 hit-batters in his 2 2/3 innings. Meanwhile the weak-hitting Rangers made Brady Singer, who was 9-13 last year on a good Royals team, look like a Cy Young candidate. He pitched 7 innings of 1-hit ball, striking out 8. The Rangers managed a pair of runs in the 9th on Jake Burger's 1st HR of the season. Adolis Garcia's batting average is .357 while the remainder of the team is hitting .195.`
+  recap: `The Reds began the game against rookie Kumar Rocker with a single, HR, single, and double and this one was never in doubt: 6 runs on 7 hits and 2 walks against Rocker in 3 innings. The relievers fared no better, as Gerson Garabito gave up 8 runs, 4 of them earned, on 7 hits and 2 hit-batters in his 2-2/3 innings. Meanwhile the weak-hitting Rangers made Brady Singer, who was 9-13 last year on a good Royals team, look like a Cy Young candidate. He pitched 7 innings of 1-hit ball, striking out 8. The Rangers managed a pair of runs in the 9th on Jake Burger's 1st HR of the season. Adolis Garcia's batting average is .357 while the remainder of the team is hitting .195.`
   },
   {
   id: 'apr1',
@@ -82,7 +82,7 @@ const schedule = [
   date: 'April 8',
   opp: 'at Chicago Cubs',
   score: 'L 10-6',
-  recap: `A late inning defensive lapse resulted in 4 unearned runs for the Cubs. Starting pitchers were Patrick Corbin vs. Jameson Taillon (1-1, 6.35). Corbin, making his first start, was called up from Round Rock to replace injured Jack Leiter. Jonah Heim plated 2 with a 1-out bases-loaded single in the 2nd, and Taveras and Semien failed to score Jung from 3rd. The Cubs countered with 3 in the bottom half, but Langford tied it in the 3rd with a 407-foot HR to left. Corbin was finished after 4, giving up 3 runs on 5 hits and 2 walks. Jacob Webb was greeted with 3 singles in the 5th and all 3 eventually scored. In the 7th a double by Jung and a triple by Taveras cut the lead to 6-5. A 2-out single by Josh Smith in the 8th followed by a triple by Josh Jung tied the game at 6, but Heim left Jung stranded at 3rd. In the bottom of the inning, Taveras misplayed a deep flyball to CF for a leadoff 2-base error. The Cubs loaded the bases on an intentional walk and an error by Josh Jung on a potential double-play grounder. Dansby Swanson drove in the winning runs with a 2-run double.`
+  recap: `A late inning defensive lapse resulted in 4 unearned runs for the Cubs. Starting pitchers were Patrick Corbin vs. Jameson Taillon (1-1, 6.35). Corbin, making his first start, was called up from Round Rock to replace injured Jack Leiter. Jonah Heim plated 2 with a 1-out, bases-loaded single in the 2nd, and Taveras and Semien failed to score Jung from 3rd. The Cubs countered with 3 in the bottom half, but Langford tied it in the 3rd with a 407-foot HR to left. Corbin was finished after 4, giving up 3 runs on 5 hits and 2 walks. Jacob Webb was greeted with 3 singles in the 5th and all 3 eventually scored. In the 7th a double by Jung and a triple by Taveras cut the lead to 6-5. A 2-out single by Josh Smith in the 8th followed by a triple by Josh Jung tied the game at 6, but Heim left Jung stranded at 3rd. In the bottom of the inning, Taveras misplayed a deep flyball to CF for a leadoff 2-base error. The Cubs loaded the bases on an intentional walk and an error by Josh Jung on a potential double-play grounder. Dansby Swanson drove in the winning runs with a 2-run double.`
   },  
   {
   id: 'apr9',
@@ -96,7 +96,7 @@ const schedule = [
   date: 'April 11',
   opp: 'at Seattle',
   score: 'L 5-3',
-  recap: `Jacob deGrom (0-0, 3.38) vs. Bryce Miller (0-2, 5.73). The Rangers came into the game having lost 32 of their last 40 in Seattle. There were scoring opportunities, but the lineup went 2 for 12 with runners in scoring position. Josh Jung left bases loaded in the 1st. With 2 on in the 4th, both Burger and Heim struck out on pitches out of the strike zone. After a 1-out double by Semien in the 7th, Seager and Smith stranded him at 3rd. After a lead-off double by Garcia in the 8th, consecutive outs by Pederson, Jung, and Burger ended the inning. The 3 Ranger runs came on a Josh Jung HR in the 6th. After Church and Milner pitched scoreless innings in relief of deGrom, Chris Martin surrendered the game winner on a 2-run HR to Cal Raleigh in the 8th.`
+  recap: `Jacob deGrom (0-0, 3.38) vs. Bryce Miller (0-2, 5.73). The Rangers came into the game having lost 32 of their last 40 in Seattle. There were scoring opportunities, but the lineup went 2-for-12 with runners in scoring position. Josh Jung left bases loaded in the 1st. With 2 on in the 4th, both Burger and Heim struck out on pitches out of the strike zone. After a 1-out double by Semien in the 7th, Seager and Smith stranded him at 3rd. After a lead-off double by Garcia in the 8th, consecutive outs by Pederson, Jung, and Burger ended the inning. The 3 Ranger runs came on a Josh Jung HR in the 6th. After Church and Milner pitched scoreless innings in relief of deGrom, Chris Martin surrendered the game winner on a 2-run HR to Cal Raleigh in the 8th.`
   },
   {
   id: 'apr12',
@@ -124,7 +124,7 @@ const schedule = [
   date: 'April 16',
   opp: 'LA Angels',
   score: 'W 3-1',
-  recap: `Patrick Corbin (0-0, 6.75) vs. Jose Soriano (2-1, 2.70). A double down the RF line by Dustin Harris followed by a soft single up the middle by Jake Burger scored the first run of the 2nd inning. After Heim and Semien drew walks, Seager came through with a 2-out 2-RBI single to take a 3-0 lead. Corbin baffled the Angels with his off-speed pitches for 5 innings, striking out 6. In the 6th inning, 3 straight hits with 1 out, including a bloop double that landed on the RF foul line, produced the Angels' lone run. Shawn Armstrong got the last 2 outs of the inning to keep the lead at 3-1. After Armstrong allowed 2 baserunners in the 7th, Jacob Webb got the final out of the inning on a flyball to the wall in LF. Luke Jackson got his 6th save by pitching a shutout ninth. The Rangers managed 11 hits, 3 by Seager and 3 by Burger, but were 2 for 10 with runners in scoring position.`
+  recap: `Patrick Corbin (0-0, 6.75) vs. Jose Soriano (2-1, 2.70). A double down the RF line by Dustin Harris followed by a soft single up the middle by Jake Burger scored the first run of the 2nd inning. After Heim and Semien drew walks, Seager came through with a 2-out, 2-RBI single to take a 3-0 lead. Corbin baffled the Angels with his off-speed pitches for 5 innings, striking out 6. In the 6th inning, 3 straight hits with 1 out, including a bloop double that landed on the RF foul line, produced the Angels' lone run. Shawn Armstrong got the last 2 outs of the inning to keep the lead at 3-1. After Armstrong allowed 2 baserunners in the 7th, Jacob Webb got the final out of the inning on a flyball to the wall in LF. Luke Jackson got his 6th save by pitching a shutout ninth. The Rangers managed 11 hits, 3 by Seager and 3 by Burger, but were 2-for-10 with runners in scoring position.`
   },
   {
   id: 'apr17',
@@ -230,7 +230,14 @@ const schedule = [
   opp: 'Mariners',
   score: 'L 13-1',
   recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). A solo HR by Cal Raleigh in the 4th and a grand slam in the 5th gave the Mariners more runs than they would need against the anemic Rangers' offense. Woo pitched 6 innings, retiring the first 14 hitters he faced until Heim singled harmlessly in the 5th. Mariners' pitching retired the next 12 hitters until Smith homered to right with 2 outs in the ninth followed by a Langford single. The Smith HR ended a streak of 281 Ranger AB's without a HR. The Rangers' record fell below .500 for the first time since their opening day loss. Blaine Crim went 0-for 3 with 2 K's in his MLB debut.`
-  },              
+  },
+  {
+  id: 'may3',
+  date: 'May 3',
+  opp: 'Mariners',
+  score: '',
+  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). It was Seager's 1st game back from the 10-day IL. J.P. Crawford hit Corbin's 1st pitch of the game 369-feet to RF for a HR. The Rangers answered in the 5th when Seager led off with a single and Heim scored him on a 2-out RBI-single. Corbin retired 12 in a row at one point and left after 5-2/3, giving up a run on 5 hits and 2 walks with 2 K's. Chris Martin pitched the 9th and gave up a leadoff double to the hot-hitting Polanco who scored on an RBI-single by Telez. In the bottom of the 9th Semien walked with 1 out and Heim moved him to 2nd on a ground-out to 1B. Garcia struck out on a slider way out of the zone to end the game. 1 run on 5 hits for the Rangers who have now lost 9 of 11.`
+  },                          
 ]
 
 let html = '';
