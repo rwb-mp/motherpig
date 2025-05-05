@@ -67,7 +67,7 @@ const schedule = [
   date: 'April 6',
   opp: 'Tampa Bay',
   score: 'W 4-3',
-  recap: `The pitching matchup was Kumar Rocker (0-1, 13.50) vs. Drew Rasmussen who pitched 5 shutout innings in his first start against Pittsburgh. Rocker rebounded nicely from his first start, giving up a run on 6 hits and no walks in 5 innings. Corey Seager homered to right in the 6th off Rays reliever Garrett Cleavinger for a 2-1 lead. The Rangers added another with 2 outs in the 7th after Jonah Heim reached on an error and stole 2B, and Taveras singled to CF to score him. Hoby Milner from Ft.Worth Paschal HS retired all 6 hitters he faced. Marc Church pitched the 8th and blew the lead giving up a leadoff walk followed by a double, with both runners eventually scoring. Jacob Webb pitched a shutout ninth. In the bottom of the inning with 2 outs, Josh Smith doubled down the LF line and scored on Jonah Heim's single to CF to complete the sweep of the Rays.`
+  recap: `The pitching matchup was Kumar Rocker (0-1, 13.50) vs. Drew Rasmussen who pitched 5 shutout innings in his first start against Pittsburgh. Rocker rebounded nicely from his first start, giving up a run on 6 hits and no walks in 5 innings. Corey Seager homered to right in the 6th off Rays reliever Garrett Cleavinger for a 2-1 lead. The Rangers added another with 2 outs in the 7th after Jonah Heim reached on an error and stole 2B, and Taveras singled to CF to score him. Hoby Milner from Fort Worth Paschal HS retired all 6 hitters he faced. Marc Church pitched the 8th and blew the lead giving up a leadoff walk followed by a double, with both runners eventually scoring. Jacob Webb pitched a shutout ninth. In the bottom of the inning with 2 outs, Josh Smith doubled down the LF line and scored on Jonah Heim's single to CF to complete the sweep of the Rays.`
   },
   {
   id: 'apr7',
@@ -88,7 +88,7 @@ const schedule = [
   date: 'April 9',
   opp: 'at Chicago Cubs',
   score: 'W 6-2',
-  recap: `Tyler Mahle (1-0, 1.35) against Shota Imanaga (2-0, 1.40). Before the game Wyatt Langford was placed on the 10-day IL. Seager homered in the 1st for the early lead, but the Cubs answered in the 4th after a triple by Suzuki. The Rangers opened up a 4-run lead off Imanaga in the 5th on 5 hits: a single by Pillar, a 398-foot HR to CF by Heim, a single by Semien, a hard double to the CF wall by Jung, and a bloop single by Garcia. Seager's 2nd HR of the game came in the 7th and extended the lead to 6-1. Mahle was sensational over 7 innings: 2 hits, a walk, and 4 K's.`
+  recap: `Tyler Mahle (1-0, 1.35) against Shota Imanaga (2-0, 1.40). Seager homered in the 1st for the early lead, but the Cubs answered in the 4th after a triple by Suzuki. The Rangers opened up a 4-run lead off Imanaga in the 5th on 5 hits: a single by Pillar, a 398-foot HR to CF by Heim, a single by Semien, a hard double to the CF wall by Jung, and a bloop single by Garcia. Seager's 2nd HR of the game came in the 7th and extended the lead to 6-1. Mahle was sensational over 7 innings: 2 hits, a walk, and 4 K's. Wyatt Langford was placed on the 10-day IL.`
   },
   {
   id: 'apr11',
