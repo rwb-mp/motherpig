@@ -245,8 +245,8 @@ const schedule = [
   recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60) making his 2nd MLB start. Seager started the Rangers' scoring in the 3rd with a clutch bases-loaded single scoring 2. After Pederson lined out for the 2nd out, Semien, Garcia, and Jung all had 2-out RBIs. The Rangers sent 11 to the plate in the inning scoring 6 runs on 6 singles and 2 walks. deGrom was solid again pitching 5 innings allowing a run on 3 hits and 2 walks with 3 K's. The bullpen shutout the Mariners over the last 4 innings allowing only 2 baserunners. Josh Smith had 4 of the Rangers' 12 hits including a triple in the 8th that scored Jung.`
   },
   {
-  id: 'may5',
-  date: 'May 5',
+  id: 'may6',
+  date: 'May 6',
   opp: 'at Red Sox',
   score: 'W 6-1',
   recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50) making his 2nd start in 2025. The Rangers scored 5 in the 4th on doubles by Seager and Pederson, and singles by Semien, Carter, Heim, Smith, and Langford. It was another great start for Eovaldi: 6 innings, a run on 5 hits, a walk, and 7 K's. The Rangers had 16 base hits including 3 singles and a walk by Josh Smith. Evan Carter went 2-for-5 in his 1st start of 2025 with 1 of his hits coming against a LHP.`
