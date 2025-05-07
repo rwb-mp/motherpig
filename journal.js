@@ -165,14 +165,14 @@ const schedule = [
   date: 'April 23',
   opp: 'at Athletics',
   score: 'L 5-2',
-  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). J.P. Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. In the 2nd Jacob Latz walked in the 5th A's run, followed by 4-1/3 shutout innings. Caleb Boushley pitched shutout innings in the 8th and 9th. The Rangers' bats managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford. Joc Pederson ended an 0-for-41 slump with a 9th-inning double. Corey Seager was placed on the 10-day IL with hamstring soreness.`
+  recap: `Kumar Rocker (1-2, 6.38) vs. JP Sears (2-2, 3.13). J.P. Sears beat the Rangers 3 times in 2024. Rocker had a dreadful 1st inning giving up 4 runs on 6 hits. The Rangers' managed 7 hits against 4 A's pitchers and struck out 11 times. Langford hit a solo HR in the 4th and the Rangers manufactured a run in the 6th after a single by Pillar and a walk to Langford. Joc Pederson ended an 0-for-41 slump with a 9th-inning double. Corey Seager was placed on the 10-day IL with hamstring soreness.`
   },
   {
   id: 'apr24',
   date: 'April 24',
   opp: 'at Athletics',
   score: 'L 4-3',
-  recap: `Jacob deGrom (0-1, 3.32) vs. J.T. Ginn (1-1, 3.69). The Rangers entered the 9th with a 3-2 lead, but an error by Taveras and a blown save by Luke Jackson cost the Rangers the game and the series. The Rangers' runs came in the 4th when Jung homered 414-feet to LF and Heim followed with a 405-foot blast to RF. After Burger grounded out Taveras homered 389 feet to right-center to give the Rangers a 3-2 lead. Later in the same inning the Rangers loaded the bases with 2 outs, but Garcia grounded out to 3B to end the threat. Both A's runs came in the 3rd when Langford lost an easy fly ball in the lights to put runners on 2nd and 3rd with 1 out. The next batter grounded back to the pitcher for what would have been the third out, and then Soderstrom followed with a double to score both runners. The Rangers wasted an opportunity in the 1st when Langford doubled with one out, but Garcia struck out on an apparent ball four and Jung popped out to 2B. The Rangers managed only one baserunner after the 4th inning. In the 9th Max Schuemann walked and scored from first on a single by Luis Urias that Taveras booted in CF. After a flyout to LF, Jacob Wilson singled and the A's had the walk-off win. Kumar Rocker was placed on the 15-day IL with a "mild shoulder impingement".`
+  recap: `Jacob deGrom (0-1, 3.32) vs. J.T. Ginn (1-1, 3.69). The Rangers entered the 9th with a 3-2 lead. Max Schuemann walked and scored from first on a single by Luis Urias when Taveras booted it in CF. After a flyout to LF, Jacob Wilson singled and the A's had the walk-off win and Luke Jackson was charged with a blown save. The Rangers wasted an opportunity in the 1st when Langford doubled with one out, but Garcia struck out on ball four and Jung popped out to end the inning. The A's scored 2 in the 3rd when Langford lost an easy fly ball in the lights to put runners on 2nd and 3rd with 1 out. After a ground out that should have ended the inning, Soderstrom doubled to score both runners. The Rangers' runs came in the 4th on HRs by Jung, Heim, and Taveras. Later in the inning the Rangers loaded the bases with 2 outs, but Garcia grounded out to 3B to end the threat. The Rangers managed only one baserunner after the 4th inning. Kumar Rocker was placed on the 15-day IL with a "mild shoulder impingement".`
   },
   {
   id: 'apr25',
@@ -207,7 +207,7 @@ const schedule = [
   date: 'April 29',
   opp: 'Athletics',
   score: 'W 15-2',
-  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez in his 1st start of the season. It was a great game for the hitters who feasted off Lopez and what Jared Sandler referred to as "the underbelly of the A's bullpen". The Ranger hitters combined for 18 hits and 9 walks including an 8-run 6th inning. deGrom cruised through 6 shutout innings on 65 pitches, 4 hits, 7 K's and no walks. Dane Dunning pitched the final 3 innings in his first appearance of the season after being called up from Round Rock.`
+  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez in his 1st start of the season. Lopez was a Triple-A call-up to spot start for the injured J.T. Ginn. It was a great game for the hitters who feasted off Lopez and what Jared Sandler referred to as "the underbelly of the A's bullpen". The Ranger hitters combined for 18 hits and 9 walks including an 8-run 6th inning. deGrom cruised through 6 shutout innings on 65 pitches, 4 hits, 7 K's and no walks. Dane Dunning pitched the final 3 innings in his first appearance of the season after being called up from Round Rock.`
   },
   {
   id: 'apr30',
@@ -243,6 +243,13 @@ const schedule = [
   opp: 'Mariners',
   score: 'W 8-1',
   recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60) making his 2nd MLB start. Seager started the Rangers' scoring in the 3rd with a clutch bases-loaded single scoring 2. After Pederson lined out for the 2nd out, Semien, Garcia, and Jung all had 2-out RBIs. The Rangers sent 11 to the plate in the inning scoring 6 runs on 6 singles and 2 walks. deGrom was solid again pitching 5 innings allowing a run on 3 hits and 2 walks with 3 K's. The bullpen shutout the Mariners over the last 4 innings allowing only 2 baserunners. Josh Smith had 4 of the Rangers' 12 hits including a triple in the 8th that scored Jung.`
+  },
+  {
+  id: 'may5',
+  date: 'May 5',
+  opp: 'at Red Sox',
+  score: 'W 6-1',
+  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50) making his 2nd start in 2025. The Rangers scored 5 in the 4th on doubles by Seager and Pederson, and singles by Semien, Carter, Heim, Smith, and Langford. It was another great start for Eovaldi: 6 innings, a run on 5 hits, a walk, and 7 K's. The Rangers had 16 base hits including 3 singles and a walk by Josh Smith. Evan Carter went 2-for-5 in his 1st start of 2025 with 1 of his hits coming against a LHP.`
   },                       
 ]
 

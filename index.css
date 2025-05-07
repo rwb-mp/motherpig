@@ -35,7 +35,7 @@ a:active {
 body {
   display: flex;
   flex-direction: row;
-  background-image: url('images/tr3.jpg');
+  background-image: url('images/seager.jpg');
   background-repeat:no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -283,7 +283,7 @@ h1 {
   text-shadow:3px 4px 6px rgba(000,000,000,0.4);
   height: 64px;
   padding-top: 50px;
-  color:white;
+  color:black;
 }
 
 .animate {
@@ -440,7 +440,7 @@ td {
   margin-top: 20px;
   margin-bottom: 30px;
   border-bottom: 2px solid #ccc;
-  color:white;
+  color:black;
 }
 
 .two-week-month, .six-week-month, .mar, .apr, .may, .jun, .jul, .aug, .sep {
@@ -487,7 +487,7 @@ td {
   background-color: yellow;
 }
 
-.mar28, .mar29, .mar30, .apr1, .apr2, .apr4, .apr5, .apr6, .apr9, .apr15, .apr16, .apr17, .apr19, .apr22, .apr25, .apr29, .may4 {
+.mar28, .mar29, .mar30, .apr1, .apr2, .apr4, .apr5, .apr6, .apr9, .apr15, .apr16, .apr17, .apr19, .apr22, .apr25, .apr29, .may4, .may6 {
   background-color: rgb(223, 241, 223);
 }
 
