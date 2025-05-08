@@ -697,7 +697,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '7',
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: 'L 5-3',
+    score: 'L 6-4',
     recap: '<a href = "journal.html#may7" target = "_blank">Recap</a>'
     },
     {
