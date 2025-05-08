@@ -249,7 +249,14 @@ const schedule = [
   date: 'May 6',
   opp: 'at Boston',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50) making his 2nd start in 2025. The Rangers scored 5 in the 4th on doubles by Seager and Pederson, and singles by Semien, Carter, Heim, Smith, and Langford. It was another great start for Eovaldi: 6 innings, a run on 5 hits, a walk, and 7 K's. The Rangers had 16 base hits including 3 singles and a walk by Josh Smith, and 3 singles, a walk, and a sac fly by Adolis Garcia. Evan Carter went 2-for-5 in his 1st start of 2025 with 1 of his hits coming against a LHP.`
+  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50) making his 2nd start in 2025. The Rangers scored 5 in the 4th on doubles by Seager and Pederson, and singles by Semien, Carter, Heim, Smith, and Langford. It was another great start for Eovaldi: 6 innings, a run on 5 hits, a walk, and 7 K's. The bullpen of Armstrong, Garcia, and Martin pitched 3 shutout innings allowing 1 baserunner. The Rangers had 16 base hits including 3 singles and a walk by Josh Smith, and 3 singles, a walk, and a sac fly by Adolis Garcia. Evan Carter went 2-for-5 in his 1st start of 2025 with 1 of his hits coming against a LHP.`
+  },
+  {
+  id: 'may7',
+  date: 'May 7',
+  opp: 'at Boston',
+  score: 'L 5-3',
+  recap: `Tyler Mahle (3-1, 1.19) vs. Tanner Houck (0-2, 6.38). Jonah Heim homered twice off Houck in a 4-1 win the 2nd game of the season. Rangers scored 1 in the 3rd after a Heim walk and a Jung double, but Semien grounded out softly to leave the bases loaded. Garcia solo-homered in the 4th for the Rangers' 2nd run. Bregman and Wilyer Abreu homered in the Boston half to tie the game 2-2. A Seager lead-off single followed by a Pederson double set the Rangers up in the 5th. After Semien grounded out softly on the first pitch, Garcia scored Seager on a sac fly to CF to give the Rangers a 3-2 lead. Mahle left after 5 innings with the lead having given up 2 runs on 4 hits and a walk with 0 K's. The bullpen faltered as Milner, Webb, Garcia, and Boushley gave up 4 runs in relief. Bregman had the big hit in the 7th with a 2-run single. Jung homered to lead off the 9th, but after a walk to Langford, Aroldis Chapman got Seager to fly out deep and struck out Crim to end the game The Rangers were 0-for-10 with RISP.`
   },                       
 ]
 
