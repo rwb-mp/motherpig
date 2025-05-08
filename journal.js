@@ -257,7 +257,14 @@ const schedule = [
   opp: 'at Boston',
   score: 'L 6-4',
   recap: `Tyler Mahle (3-1, 1.19) vs. Tanner Houck (0-2, 6.38). Jonah Heim homered twice off Houck in a 4-1 win the 2nd game of the season. The bullpen consisting of Milner, Webb, Garcia, and Boushley turned a 3-2 lead into a 6-3 deficit. Mahle's line was 2 runs on 4 hits over 5 innings with a walk and 0 K's. Wilyer Abreu and Alex Bregman did most of the damage for Boston. Aroldis Chapman pitched the 9th and Jung homered on the first pitch to start the inning. Seager and Crim batted as the tying run, but Seager flew out to the warning track and Crim struck out to end the game. The Rangers went 0-for-10 with RISP including Semien who went hitless and stranded 6 baserunners. Garcia homered in the 4th ending a string of 14 games for the Rangers without a HR. Pederson had a single, a double, and a walk in 3 plate appearances. Evan Carter went 0-for-4 in his 2nd game back.`
-  },                       
+  },
+  {
+  id: 'may8',
+  date: 'May 8',
+  opp: 'at Boston',
+  score: '',
+  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers were shutout on 5 hits, 6 walks, and a HBP. 5 of the walks came in the first 4-2/3 innings but the Rangers couldn't capitalize as they were 0-for-7 in the game with RISP. Leiter pitched 5-1/3 and was charged with 4 runs on 3 hits and 4 walks and a hit-batter, striking out 3. Tucker Barnhart had 3 of the Rangers' 5 hits.`
+  },                     
 ]
 
 let html = '';
