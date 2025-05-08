@@ -263,7 +263,7 @@ const schedule = [
   date: 'May 8',
   opp: 'at Boston',
   score: '',
-  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers were shutout on 5 hits, 6 walks, and a HBP. 5 of the walks came in the first 4-2/3 innings but the Rangers couldn't capitalize as they were 0-for-7 in the game with RISP. Leiter pitched 5-1/3 and was charged with 4 runs on 3 hits and 4 walks and a hit-batter, striking out 3. Tucker Barnhart had 3 of the Rangers' 5 hits.`
+  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers were shutout on 5 hits, 6 walks, and a HBP. 5 of the walks came in the first 4-2/3 innings but the Rangers couldn't capitalize as they were 0-for-7 in the game with RISP. Langford and Semien each stranded 5 baserunners. Leiter pitched 5-1/3 and was charged with 4 runs on 3 hits and 4 walks and a hit-batter, striking out 3. Tucker Barnhart had 3 of the Rangers' 5 hits.`
   },                     
 ]
 
