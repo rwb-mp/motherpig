@@ -144,7 +144,7 @@ const schedule = [
   date: 'April 19',
   opp: 'LA Dodgers',
   score: 'W 4-3',
-  recap: `The Rangers won in walk-off fashion in the 9th on a 2-run HR by Adolis Garcia. The pitching match-up was Nathan Eovaldi (1-2, 2.55) vs. Roki Sasaki (0-1, 3.29). Higashioka started the scoring in the 3rd with a 381-foot HR to LF following a walk to Dustin Harris. Freddie Freeman answered in the 4th with a 404-foot HR to RF after a Mookie Betts single. The Dodgers scored a third run in the inning on a Conforto single and a Max Muncy double. It was another quality start for Eovaldi who gave up 3 runs on 5 hits, no walks, and 7 strikeouts over 6 innings. Robert Garcia and Jacob Webb pitched 3 shutout innings to keep the score 3-2. In the bottom of the ninth, Smith doubled down the LF line, and on a 1-1 count, Adolis Garcia homered 394 feet to LF for the win.`
+  recap: `The Rangers won in walk-off fashion in the 9th on a 2-run HR by Adolis Garcia. The pitching match-up was Nathan Eovaldi (1-2, 2.55) vs. Roki Sasaki (0-1, 3.29). Higashioka started the scoring in the 3rd with a 381-foot HR to LF following a walk to Dustin Harris. Freddie Freeman answered in the 4th with a 404-foot HR to RF after a Mookie Betts single. The Dodgers scored a third run in the inning on a Conforto single and a Max Muncy double. It was another quality start for Eovaldi who gave up 3 runs on 5 hits, no walks, and 7 strikeouts over 6 innings. Robert Garcia and Jacob Webb pitched 3 shutout innings to keep the score 3-2. In the bottom of the ninth, Smith doubled down the LF line, and on a 1-1 count, Adolis Garcia homered 394-feet to LF for the win.`
   },
   {
   id: 'apr20',
