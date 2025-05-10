@@ -263,8 +263,15 @@ const schedule = [
   date: 'May 8',
   opp: 'at Boston',
   score: 'L 5-0',
-  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers were shutout on 5 hits, 6 walks, and a HBP. Five of the walks came in the first 4-2/3 innings but the Rangers couldn't capitalize as they were 0-for-7 in the game with RISP. Langford and Semien each stranded 5 baserunners. Leiter pitched 5-1/3 and was charged with 4 runs on 3 hits, 4 walks, and a hit-batter, striking out 3. Tucker Barnhart had 3 of the Rangers' 5 hits.`
-  },                     
+  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers were shutout on 5 hits, 6 walks, and a HBP. Five of the walks came in the first 4-2/3 innings but the Rangers couldn't capitalize as they were 0-for-7 in the game with RISP. Langford and Semien each stranded 5 baserunners. Leiter pitched 5-1/3 and was charged with 4 runs on 3 hits, 4 walks, and a hit batter, striking out 3. Tucker Barnhart had 3 of the Rangers' 5 hits.`
+  },
+  {
+  id: 'may9',
+  date: 'May 9',
+  opp: 'at Detroit',
+  score: 'L 2-1',
+  recap: `Patrick Corbin (2-1, 3.28) vs. Tarik Skubal (3-2, 2.21). 32 swings and misses over 7 innings against Skubal who retired the first 15 batters he faced. 2 singles and a hit batter produced the Rangers' run in the 6th. Corbin's line was 2 runs on 3 hits and 4 walks with 3 K's. The Rangers managed a 3rd base hit in the 8th, but they went quietly in the 9th.`
+  },                   
 ]
 
 let html = '';
