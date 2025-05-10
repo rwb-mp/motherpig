@@ -249,7 +249,7 @@ const schedule = [
   date: 'May 6',
   opp: 'at Boston',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50) making his 2nd start in 2025. The Rangers scored 5 in the 4th on doubles by Seager and Pederson, and singles by Semien, Carter, Heim, Smith, and Langford. It was another great start for Eovaldi: 6 innings, a run on 5 hits, a walk, and 7 K's. The bullpen of Armstrong, Garcia, and Martin pitched 3 shutout innings allowing 1 baserunner. The Rangers had 16 base hits including 3 singles and a walk by Josh Smith, and 3 singles, a walk, and a sac fly by Adolis Garcia. Evan Carter went 2-for-5 in his 1st start of 2025 with 1 of his hits coming against a LHP.`
+  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50) making his 2nd start in 2025. Leody Taveras was claimed off waivers by Seattle. The Rangers scored 5 in the 4th on doubles by Seager and Pederson, and singles by Semien, Carter, Heim, Smith, and Langford. It was another great start for Eovaldi: 6 innings, a run on 5 hits, a walk, and 7 K's. The bullpen of Armstrong, Garcia, and Martin pitched 3 shutout innings allowing 1 baserunner. The Rangers had 16 base hits including 3 singles and a walk by Josh Smith, and 3 singles, a walk, and a sac fly by Adolis Garcia. Evan Carter went 2-for-5 in his 1st start of 2025 with 1 of his hits coming against a LHP.`
   },
   {
   id: 'may7',
