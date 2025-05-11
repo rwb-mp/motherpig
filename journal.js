@@ -226,21 +226,21 @@ const schedule = [
   {
   id: 'may2',
   date: 'May 2',
-  opp: 'Mariners',
+  opp: 'Seattle',
   score: 'L 13-1',
   recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). A solo HR by Cal Raleigh in the 4th and a grand slam in the 5th gave the Mariners more runs than they would need against the anemic Rangers' offense. Woo pitched 6 innings, retiring the first 14 hitters he faced until Heim singled harmlessly in the 5th. Mariners' pitching retired the next 12 hitters until Smith homered to right with 2 outs in the ninth followed by a Langford single. The Smith HR ended a streak of 281 Ranger AB's without a HR. The Rangers' record fell below .500 for the first time since their opening day loss. Blaine Crim went 0-for 3 with 2 K's in his MLB debut.`
   },
   {
   id: 'may3',
   date: 'May 3',
-  opp: 'Mariners',
+  opp: 'Seattle',
   score: 'L 2-1',
   recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). It was Seager's 1st game back from the 10-day IL. J.P. Crawford homered on Corbin's 1st pitch of the game 369-feet to RF. The Rangers answered in the 5th when Seager led off with a single and Heim scored him on a 2-out RBI-single. Corbin retired 12 in a row at one point and left after 5-2/3, giving up a run on 5 hits and 2 walks with 2 K's. Chris Martin pitched the 9th and gave up a leadoff double to the hot-hitting Polanco who scored on an RBI-single by Telez. In the bottom of the 9th Semien walked with 1 out and Heim moved him to 2nd on a ground-out to 1B. Garcia struck out on a slider low and outside to end the game. 1 run on 5 hits for the Rangers who now have lost 4 straight and 9 of 11.`
   },
   {
   id: 'may4',
   date: 'May 4',
-  opp: 'Mariners',
+  opp: 'Seattle',
   score: 'W 8-1',
   recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60) making his 2nd MLB start. Seager started the Rangers' scoring in the 3rd with a clutch bases-loaded single scoring 2. After Pederson lined out for the 2nd out, Semien, Garcia, and Jung all had 2-out RBIs. The Rangers sent 11 to the plate in the inning scoring 6 runs on 6 singles and 2 walks. deGrom was solid again pitching 5 innings allowing a run on 3 hits and 2 walks with 3 K's. The bullpen shutout the Mariners over the last 4 innings allowing only 2 baserunners. Josh Smith had 4 of the Rangers' 12 hits including a triple in the 8th that scored Jung.`
   },
@@ -271,7 +271,14 @@ const schedule = [
   opp: 'at Detroit',
   score: 'L 2-1',
   recap: `Patrick Corbin (2-1, 3.28) vs. Tarik Skubal (3-2, 2.21). 32 swings and misses over 7 innings against Skubal who retired the first 15 batters he faced. 2 singles and a hit batter produced the Rangers' run in the 6th. Corbin's line was 2 runs on 3 hits and 4 walks with 3 K's. The Rangers managed a 3rd base hit in the 8th, but they went quietly in the 9th.`
-  },                   
+  },
+  {
+  id: 'may10',
+  date: 'May 10',
+  opp: 'at Detroit',
+  score: 'W 10-3',
+  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79) who came into the game having lost his last 4 starts. The Rangers showed off the heavy lumber by slugging 5 HR's to RF and not one of them was cheap. Smith homered 389-feet to start the game and two batters later Seager homered 403-feet. Carter led off the 2nd by going deep 390-feet. Pederson homered 401-feet in the 4th and Seager 393-feet in the 7th. Meanwhile deGrom struck out 10 in his 5 innings of work, giving up 2 runs on 5 hits and a walk.`
+  },                 
 ]
 
 let html = '';
