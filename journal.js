@@ -277,8 +277,15 @@ const schedule = [
   date: 'May 10',
   opp: 'at Detroit',
   score: 'W 10-3',
-  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79) who came into the game having lost his last 4 starts. The Rangers showed off the heavy lumber by slugging 5 HR's to RF and not one of them was cheap. Smith homered 389-feet to start the game and two batters later Seager homered 403-feet. Carter led off the 2nd by going deep 390-feet. Pederson homered 401-feet in the 4th and Seager 393-feet in the 7th. Meanwhile deGrom struck out 10 in his 5 innings of work, giving up 2 runs on 5 hits and a walk. Milner, Armstrong, and Jackson gave up a run in 4 innings of relief. Rangers' pitchers struck out 13 Tigers' hitters.`
-  },                 
+  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79) who came into the game having lost his last 4 starts. The Rangers slugged 5 HR's to RF and none of them was cheap. Smith homered 389-feet to start the game and two batters later Seager homered 403-feet. Carter led off the 2nd by going deep 390-feet. Pederson homered 401-feet in the 4th and Seager 393-feet in the 7th. Meanwhile deGrom struck out 10 in his 5 innings of work, giving up 2 runs on 5 hits and a walk. Milner, Armstrong, and Jackson gave up a run in 4 innings of relief. Rangers' pitchers struck out 13 Tigers' hitters.`
+  },
+  {
+  id: 'may11',
+  date: 'May 11',
+  opp: 'at Detroit',
+  score: 'W 6-1',
+  recap: `Nathan Eovaldi (3-2, 2.03) vs. Reese Olson (4-2, 3.03). The Tigers came into the series averaging 5.47 runs per game, but Rangers' pitchers held them to 6 runs in the entire series. Eovaldi's line was 2 hits and a walk in 7 innings with 7 K's. The offense was primarily long ball again today. Semien and Jung hit 2-run blasts in the 2nd and 5th, and Heim hit a solo HR in the 8th. Carter had an RBI single in the 3rd. Langford left bases loaded in the 2nd on one of the hardest-hit balls of the game at 107 mph. In the last 2 games of the series, 7 different Rangers hit HR's. After retiring the 1st batter in the 9th, Jacob Latz loaded the bases on 2 singles and a walk. Robert Garcia came in for Latz and gave up a sac fly for the 2nd out and got a fly ball to right for the final out to secure the win.`
+  },              
 ]
 
 let html = '';
