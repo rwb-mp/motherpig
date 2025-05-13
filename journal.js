@@ -285,7 +285,14 @@ const schedule = [
   opp: 'at Detroit',
   score: 'W 6-1',
   recap: `Nathan Eovaldi (3-2, 2.03) vs. Reese Olson (4-2, 3.03). The Tigers came into the series averaging 5.47 runs per game, but Rangers' pitchers held them to 6 runs in the entire series. Eovaldi's line was 2 hits and a walk in 7 innings with 7 K's. The offense was primarily long ball again today. Semien and Jung hit 2-run blasts in the 2nd and 5th, and Heim hit a solo HR in the 8th. Carter had an RBI single in the 3rd. Langford left bases loaded in the 2nd on one of the hardest-hit balls of the game at 107 mph. In the last 2 games of the series, 7 different Rangers hit HR's. After retiring the 1st batter in the 9th, Jacob Latz loaded the bases on 2 singles and a walk. Robert Garcia came in for Latz and gave up a sac fly for the 2nd out and a fly ball to right for the final out to secure the win.`
-  },              
+  },
+  {
+  id: 'may12',
+  date: 'May 12',
+  opp: 'Colorado',
+  score: 'W 2-1',
+  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). No Rockies' starter had pitched as many as 4 hitless innings all season, but the Rangers' first hit came with 2 outs in the 6th when Langford homered 412-feet to CF to give the Rangers the lead. Mahle pitched 6-1/3 innings giving up a run on 4 hits and a walk with 5 K's. Garcia and Martin pitched 1-2/3 innings of no-hit ball to get to the 9th with the lead. Ryan McMahon singled to start the ninth on a ball up the middle that struck and injured Luke Jackson. Jacob Webb loaded the bases with one out but got a double-play ball to end the game and record his 1st save.`
+  },
 ]
 
 let html = '';
