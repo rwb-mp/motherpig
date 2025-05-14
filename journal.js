@@ -298,7 +298,7 @@ const schedule = [
   date: 'May 13',
   opp: 'Colorado',
   score: 'W 4-1',
-  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Seager was placed on the 10-day IL retroactive to Sunday. After Colorado scored in the 1st, the Rangers started the game with 2 singles and a 396-foot HR to RF by Jung. Leiter's line was a run on 2 hits and 3 walks with 5 K's over 6 innings. Milner pitched a scoreless 7th and 8th. Jung homered again in the 8th 392-feet to LF. The first 2 Rockies reached on baee hits in the 9th off Milner and Martin but Shawn Armstrong struck out the next 3 hitters for his first save.`
+  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Seager was placed on the 10-day IL retroactive to Sunday. After Colorado scored in the 1st, the Rangers started the game with 2 singles and a 396-foot HR to RF by Jung. Leiter's line was a run on 2 hits and 3 walks with 5 K's over 6 innings. Milner pitched a scoreless 7th and 8th. Jung homered again in the 8th 392-feet to LF. The first 2 Rockies in the 9th reached on base hits off Milner and Martin but Shawn Armstrong struck out the next 3 hitters for his first save.`
   }, 
 ]
 
