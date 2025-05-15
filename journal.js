@@ -299,6 +299,13 @@ const schedule = [
   opp: 'Colorado',
   score: 'W 4-1',
   recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Seager was placed on the 10-day IL retroactive to Sunday. After Colorado scored in the 1st, the Rangers started the game with 2 singles and a 396-foot HR to RF by Jung. Leiter's line was a run on 2 hits and 3 walks with 5 K's over 6 innings. Milner pitched a scoreless 7th and 8th. Jung homered again in the 8th 392-feet to LF. The first 2 Rockies in the 9th reached on base hits off Milner and Martin but Shawn Armstrong struck out the next 3 hitters for his first save.`
+  },
+  {
+  id: 'may14',
+  date: 'May 14',
+  opp: 'Colorado',
+  score: 'W 8-3',
+  recap: `Patrick Corbin (2-2, 3.13) vs. Antonio Senzatela (1-6, 5.77). The Rangers scored 4 in the 1st when the first 6 hitters reached base on 4 singles, a walk, and a 2-run 368-foot HR to RF by Langford. Burger plated 2 more in the 5th on a 2-out 2-RBI double. Garcia homered 394-feet to right in the 6th following a walk to Pederson. Corbin pitched 6 innings giving up 3 runs on 4 hits, a walk, and a hit-batter, striking out 9. Boushley pitched a scoreless 2-1/3 but gave up 2 singles in the 9th. Garcia got the last 2 outs to end the game and get the sweep. In the series the Rangers were 3-for-20 with RISP.`
   }, 
 ]
 
