@@ -311,7 +311,7 @@ const schedule = [
   id: 'may15',
   date: 'May 15',
   opp: 'Houston',
-  score: '',
+  score: 'W 1-0',
   recap: `Jacob deGrom (3-1, 2.72) vs. Hunter Brown (6-1, 1.48). The Rangers managed only 3 base hits in 8 innings off Hunter Brown but one of them was a Jake Burger 394-foot HR to RF to lead off the 6th. 3 sensational plays in the outfield by Garcia and 1 by Carter kept Houston off the scoreboard through deGrom's 8 innings. deGrom's line was 5 hits, a walk, and 7 K's. The first baserunner for the Rangers didn't come until the 5th when Garcia led off with a double. Semien and Jung struck out and Carter popped out to leave him at 2B. The Rangers' third hit was a Jake Burger single in the 8th. Shawn Armstrong issued a 2-out walk in the 9th but retired Dezenzo on an infield pop-up to earn the save.`
   }, 
 ]
