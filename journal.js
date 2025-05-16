@@ -306,6 +306,13 @@ const schedule = [
   opp: 'Colorado',
   score: 'W 8-3',
   recap: `Patrick Corbin (2-2, 3.13) vs. Antonio Senzatela (1-6, 5.77). The Rangers scored 4 in the 1st when the first 6 hitters reached base on 4 singles, a walk, and a 2-run 368-foot HR to RF by Langford. Burger plated 2 more in the 5th on a 2-out 2-RBI double. Garcia homered 394-feet to right in the 6th following a walk to Pederson. Corbin pitched 6 innings giving up 3 runs on 4 hits, a walk, and a hit-batter, striking out 9. Boushley pitched a scoreless 2-1/3 but gave up 2 singles in the 9th. Garcia got the last 2 outs to end the game and get the sweep. In the series the Rangers were 3-for-20 with RISP.`
+  },
+  {
+  id: 'may15',
+  date: 'May 15',
+  opp: 'Houston',
+  score: '',
+  recap: `Jacob deGrom (3-1, 2.72) vs. Hunter Brown (6-1, 1.48). The Rangers managed only 3 base hits in 8 innings off Hunter Brown but one of them was a Jake Burger 394-foot HR to RF to lead off the 6th. 3 sensational plays in the outfield by Garcia and 1 by Carter kept Houston off the scoreboard through deGrom's 8 innings. deGrom's line was 5 hits, a walk, and 7 K's. The first baserunner for the Rangers didn't come until the 5th when Garcia led off with a double. Semien and Jung struck out and Carter popped out to leave him at 2B. The Rangers' third hit was a Jake Burger single in the 8th. Shawn Armstrong issued a 2-out walk in the 9th but retired Dezenzo on an infield pop-up to earn the save.`
   }, 
 ]
 
