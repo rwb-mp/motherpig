@@ -795,9 +795,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '16',
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
-    score: '',
-    recap: 'Apple TV+'
+    time: '',
+    score: 'L 6-3',
+    recap: '<a href = "journal.html#may16" target = "_blank">Recap</a>'
     },
     {
     id: '70',
