@@ -319,7 +319,7 @@ const schedule = [
   date: 'May 16',
   opp: 'Houston',
   score: 'L 6-3',
-  recap: `Nathan Eovaldi (4-2, 1.78) vs. Lance McCullers (0-1, 15.75). Heim started the scoring in the 2nd with a 2-out, 2-RBI single after a single by Jung and an Astros error. The Rangers left RISP in the 3rd and 4th and then the bats went dormant as the Astros bullpen retired 15 in a row until Jung homered in the 9th. Eovaldi's line was 5-2/3 shutout innings, walking 3 and striking out 5. Milner and Armstrong imploded in the 7th giving up 5 runs including a Christian Walker 3-run HR off Armstrong. `
+  recap: `Nathan Eovaldi (4-2, 1.78) vs. Lance McCullers (0-1, 15.75). Heim started the scoring in the 2nd with a 2-out, 2-RBI single after a single by Jung and an Astros error. The Rangers left RISP in the 3rd and 4th and then the bats went dormant as the Astros bullpen retired 15 in a row until Jung homered in the 9th. Eovaldi's line was 5-2/3 shutout innings, walking 3 and striking out 5. Milner and Armstrong imploded in the 7th giving up 6 runs including a Christian Walker 3-run HR off Armstrong. `
   },  
 ]
 
