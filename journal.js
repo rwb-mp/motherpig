@@ -326,8 +326,15 @@ const schedule = [
   date: 'May 17',
   opp: 'Houston',
   score: 'W 5-1',
-  recap: `Tyler Mahle (4-1, 1.47) vs. Ronel Blanco (3-3, 4.04). After the Astros scored in the 1st, the Rangers answered in the 3rd with 2 hits, 2 walks, and an Astros error. Semien had a chance to break the game open, but grounded out weakly with bases loaded. Burger doubled in the 4th, but Higashioka and Haggerty left him at 2B. The Rangers finally broke the tie in the 6th on a Joc Pederson 2-run HR. Langford scored 2 more with a HR in the 7th. The Rangers had a chance to put the game out of reach by loading the bases with 1 out in the 8th, but Haggerty popped out and Smith struck out to strand the runners. Mahle pitched 6 innings allowing a run on 5 hits and 2 walks with 3 K's. Webb, Martin, and Garcia no-hit the Astros over the final 3 innings.`
-  },   
+  recap: `Tyler Mahle (4-1, 1.47) vs. Ronel Blanco (3-3, 4.04). After the Astros scored in the 1st, the Rangers answered in the 3rd with 2 hits, 2 walks, and an Astros error. Semien had a chance to break the game open, but grounded out weakly with bases loaded. Burger doubled in the 4th, but Higashioka and Haggerty left him at 2B. The Rangers finally broke the tie in the 6th on a Joc Pederson 409-foot, 2-run HR, and Langford homered 431-feet in the 7th. The Rangers had a chance to put the game out of reach by loading the bases with 1 out in the 8th, but Haggerty popped out and Smith struck out to strand the runners. Mahle pitched 6 innings allowing a run on 5 hits and 2 walks with 3 K's. Webb, Martin, and Garcia no-hit the Astros over the final 3 innings.`
+  },
+  {
+  id: 'may18',
+  date: 'May 18',
+  opp: 'Houston',
+  score: '',
+  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54).`
+  }, 
 ]
 
 let html = '';
