@@ -320,7 +320,14 @@ const schedule = [
   opp: 'Houston',
   score: 'L 6-3',
   recap: `Nathan Eovaldi (4-2, 1.78) vs. Lance McCullers (0-1, 15.75). Heim started the scoring in the 2nd with a 2-out, 2-RBI single after a single by Jung and an Astros error. The Rangers left RISP in the 3rd and 4th and then the bats went dormant as the Astros bullpen retired 15 in a row until Jung homered in the 9th. Eovaldi's line was 5-2/3 shutout innings, 2 hits, 3 walks, and 5 K's. Milner and Armstrong imploded in the 7th as 7 consecutive Astros reached base with 2 outs, giving up 6 runs including a Christian Walker 3-run HR.`
-  },  
+  },
+  {
+  id: 'may17',
+  date: 'May 17',
+  opp: 'Houston',
+  score: 'W 5-1',
+  recap: `Tyler Mahle (4-1, 1.47) vs. Ronel Blanco (3-3, 4.04). After the Astros scored in the 1st, the Rangers answered in the 3rd with 2 hits, 2 walks, and an Astros error. Semien had a chance to break the game open, but grounded out weakly with bases loaded. Burger doubled in the 4th, but Higashioka and Haggerty left him at 2B. The Rangers finally broke the tie in the 6th on a Joc Pederson 2-run HR. Langford scored 2 more with a HR in the 7th. The Rangers had a chance to put the game out of reach by loading the bases with 1 out in the 8th, but Haggerty popped out and Smith struck out to strand the runners. Mahle pitched 6 innings allowing a run on 5 hits and 2 walks with 3 K's. Webb, Martin, and Garcia no-hit the Astros over the final 3 innings.`
+  },   
 ]
 
 let html = '';
