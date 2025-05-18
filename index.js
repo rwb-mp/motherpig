@@ -817,9 +817,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '18',
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '12:05',
-    score: '',
-    recap: 'Roku'
+    time: '',
+    score: 'L 4-3',
+    recap: '<a href = "journal.html#may18" target = "_blank">Recap</a>'
     },
     {
     id: '72',

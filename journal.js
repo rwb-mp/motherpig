@@ -332,8 +332,8 @@ const schedule = [
   id: 'may18',
   date: 'May 18',
   opp: 'Houston',
-  score: '',
-  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54).`
+  score: 'L 4-3',
+  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Leiter had a no-hitter through 6-2/3 innings and a 3-0 lead, but Yainer Diaz homered in the 7th to make it 3-1. Leiter gave up bloop singles to the first 2 hitters in the 8th. The second bloop single occurred after an apparent strike 3 was called a ball. Robert Garcia retired the next 2, but Isaac Paredes homered 351-feet down the LF line to give tha Astros the lead. The Rangers scored their runs in the 4th when they had 4 singles, a walk, and a sac fly. Haggerty stranded a runner at 3B in the 7th, and Heim stranded Garcia at 2B in the 8th when he flew out 389-feet to the warning track.`
   }, 
 ]
 
