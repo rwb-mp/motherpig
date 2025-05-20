@@ -35,7 +35,7 @@ a:active {
 body {
   display: flex;
   flex-direction: row;
-  background-image: url('images/beltre.jpg');
+  background-image: url('images/tr5.jpg');
   background-repeat:no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -284,7 +284,7 @@ h1 {
   height: 64px;
   padding-top: 50px;
   /*color:black;*/
-  color:white;
+  color:black;
 }
 
 .animate {
@@ -442,7 +442,7 @@ td {
   margin-bottom: 30px;
   border-bottom: 2px solid #ccc;
   /*color:black;*/
-  color:white;
+  color:black;
 }
 
 .two-week-month, .six-week-month, .mar, .apr, .may, .jun, .jul, .aug, .sep {
@@ -493,7 +493,7 @@ td {
   background-color: rgb(223, 241, 223);
 }
 
-.mar27, .mar31, .apr7, .apr8, .apr11, .apr12, .apr13, .apr18, .apr20, .apr23, .apr24, .apr26, .apr27, .apr28, .apr30, .may1, .may2, .may3, .may7, .may8, .may9, .may16, .may18 {
+.mar27, .mar31, .apr7, .apr8, .apr11, .apr12, .apr13, .apr18, .apr20, .apr23, .apr24, .apr26, .apr27, .apr28, .apr30, .may1, .may2, .may3, .may7, .may8, .may9, .may16, .may18, .may20 {
   background-color: rgb(248, 199, 199);
 }
 
