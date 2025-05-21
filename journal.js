@@ -298,7 +298,7 @@ const schedule = [
   date: 'May 13',
   opp: 'Colorado',
   score: 'W 4-1',
-  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Seager was placed on the 10-day IL retroactive to Sunday, May 11. After Colorado scored in the 1st, the Rangers started the game with 2 singles and a 396-foot HR to RF by Jung. Leiter's line was a run on 2 hits and 3 walks with 5 K's over 6 innings. Milner pitched a scoreless 7th and 8th. Jung homered again in the 8th 392-feet to LF. The first 2 Rockies in the 9th reached on base hits off Milner and Martin but Shawn Armstrong struck out the next 3 hitters for his first save.`
+  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Seager was placed on the 10-day IL retroactive to Sunday May 11. After Colorado scored in the 1st, the Rangers started the game with 2 singles and a 396-foot HR to RF by Jung. Leiter's line was a run on 2 hits and 3 walks with 5 K's over 6 innings. Milner pitched a scoreless 7th and 8th. Jung homered again in the 8th 392-feet to LF. The first 2 Rockies in the 9th reached on base hits off Milner and Martin but Shawn Armstrong struck out the next 3 hitters for his first save.`
   },
   {
   id: 'may14',
@@ -333,14 +333,14 @@ const schedule = [
   date: 'May 18',
   opp: 'Houston',
   score: 'L 4-3',
-  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Evan Carter was placed on the 10-day IL with a right quad strain retroactive to yesterday, May 17. Leiter had a no-hitter through 6-2/3 innings and a 3-0 lead, but Yainer Diaz homered in the 7th to make it 3-1. Leiter gave up bloop singles to the first 2 hitters in the 8th. The second bloop single occurred after an apparent third strike was called a ball. Robert Garcia retired the next 2, but Isaac Paredes homered 351-feet down the LF line to give tha Astros the lead. The Rangers scored their runs in the 4th when they had 4 singles, a walk, and a sac fly. A baserunning blunder with one out in the 7th: Heim was thrown out at 3B trying to advance on a grounder to the left side of the infield. Duran then singled Pillar to 3B and Haggerty grounded out to end the inning. In the 8th Heim stranded Garcia at 2B when he flew out 389-feet to the warning track.`
+  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Evan Carter was placed on the 10-day IL with a right quad strain retroactive to yesterday May 17. Leiter had a no-hitter through 6-2/3 innings and a 3-0 lead, but Yainer Diaz homered in the 7th to make it 3-1. Leiter gave up bloop singles to the first 2 hitters in the 8th. The second bloop single occurred after an apparent third strike was called a ball. Robert Garcia retired the next 2, but Isaac Paredes homered 351-feet down the LF line to give tha Astros the lead. The Rangers scored their runs in the 4th when they had 4 singles, a walk, and a sac fly. A baserunning blunder with one out in the 7th: Heim was thrown out at 3B trying to advance on a grounder to the left side of the infield. Duran then singled Pillar to 3B and Haggerty grounded out to end the inning. In the 8th Heim stranded Garcia at 2B when he flew out 389-feet to the warning track.`
   },
   {
   id: 'may20',
   date: 'May 20',
   opp: 'at New York Yankees',
   score: 'L 5-2',
-  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue retroactive to yesterday, May 19. Apparently the game plan was to take the strikes and swing at the balls. The Rangers struck out 14 times. Heim doubled in the 5th and Haggerty struck out. The Rangers loaded the bases in the 6th and Semien and Pederson struck out. Langford doubled and advanced to 3B on a wild pitch, but Jung and Garcia struck out. Pederson walked in the 9th and Heim homered to avoid the shutout. Corbin's line was 5 innings, 3 runs, 5 hits, and 2 walks.`
+  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue retroactive to yesterday May 19. Apparently the game plan was to take the strikes and swing at the balls. The Rangers struck out 14 times. Heim doubled in the 5th and Haggerty struck out. The Rangers loaded the bases in the 6th and Semien and Pederson struck out. Langford doubled and advanced to 3B on a wild pitch, but Jung and Garcia struck out. Pederson walked in the 9th and Heim homered to avoid the shutout. Corbin's line was 5 innings, 3 runs, 5 hits, and 2 walks.`
   }, 
 ]
 
