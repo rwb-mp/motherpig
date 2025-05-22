@@ -348,7 +348,14 @@ const schedule = [
   opp: 'at New York Yankees',
   score: 'L 4-3',
   recap: `Jacob deGrom (4-1, 2.29) vs. Will Yarbrough (1-0, 3.70). The Rangers outhit the Yankees 10-5 including 3 HR's, but could not get the clutch bases-loaded hit in either the 6th or the 8th. Barnhart left them loaded in the 6th and Smith in the 8th. Burger homered 390-feet in the 5th and 367-feet in the 7th. Three batters later in the 7th, Haggerty homered 390-feet to RF. deGrom retired 15 in a row after giving up a run in the 2nd. His line was 7 innings, 2 runs on 3 hits and a walk with 9 K's. After Robert Garcia walked 2 batters in the 8th, Aaron Judge singled off Luke Jackson to tie the game at 3. In the 9th Jackson surrendered a 372-foot HR to RF for the walk-off loss.`
-  }, 
+  },
+  {
+  id: 'may22',
+  date: 'May 22',
+  opp: 'at New York Yankees',
+  score: 'L 1-0',
+  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers embarrassed themselves again as they struck out 12 times and managed only 4 hits against 4 Yankee pitchers. Eovaldi had another strong start throwing 6 innings, allowing a run on 5 hits and a walk with 6 K's. Milner and Armstrong pitched a hitless 2 innings in relief. Their best opportunity was in the 7th when Semien led off with a single and moved to 2B on a WP. Heim struck out, Garcia grounded out, and Smith struck out to strand him at 3B. Langford reached 2B in the 6th with 1 out but Jung and Burger struck out to end the inning. The Rangers were 1-for-7 with RISP. It was the 5th time the Rangers have been shutout this season. `
+  },
 ]
 
 let html = '';
