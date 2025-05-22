@@ -347,7 +347,7 @@ const schedule = [
   date: 'May 21',
   opp: 'at New York Yankees',
   score: 'L 4-3',
-  recap: `Jacob deGrom (4-1, 2.29) vs. Will Yarbrough (1-0, 3.70). The Rangers outhit the Yankees 10-5 including 3 HR's, but could not get the clutch bases-loaded hit in either the 6th or the 8th. Barnhart left them loaded in the 6th and Smith in the 8th. Burger homered 390-feet in the 5th and 367-feet in the 7th. Three batters later in the 7th, Haggerty homered 390-feet to RF. deGrom retired 15 in a row after giving up a run in the 2nd. In his 7 innings he gave up 2 runs on 3 hits and a walk with 9 K's. After Robert Garcia gave up a pair of walks in the 8th, Aaron Judge singled off Luke Jackson to tie the game at 3. In the 9th Jackson surrendered a 372-foot HR to RF for the walk-off loss.`
+  recap: `Jacob deGrom (4-1, 2.29) vs. Will Yarbrough (1-0, 3.70). The Rangers outhit the Yankees 10-5 including 3 HR's, but could not get the clutch bases-loaded hit in either the 6th or the 8th. Barnhart left them loaded in the 6th and Smith in the 8th. Burger homered 390-feet in the 5th and 367-feet in the 7th. Three batters later in the 7th, Haggerty homered 390-feet to RF. deGrom retired 15 in a row after giving up a run in the 2nd. His line was 7 innings, 2 runs on 3 hits and a walk with 9 K's. After Robert Garcia walked 2 batters in the 8th, Aaron Judge singled off Luke Jackson to tie the game at 3. In the 9th Jackson surrendered a 372-foot HR to RF for the walk-off loss.`
   }, 
 ]
 
