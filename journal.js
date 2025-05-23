@@ -354,7 +354,7 @@ const schedule = [
   date: 'May 22',
   opp: 'at New York Yankees',
   score: 'L 1-0',
-  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers embarrassed themselves again as they struck out 12 times and managed only 4 hits against 4 Yankee pitchers. Eovaldi had another strong start throwing 6 innings, allowing a run on 5 hits and a walk with 6 K's. Milner and Armstrong pitched a hitless 2 innings in relief. Their best opportunity was in the 7th when Semien led off with a single and moved to 2B on a WP. Heim struck out, Garcia grounded out, and Smith struck out to strand him at 3B. Langford reached 2B in the 6th with 1 out but Jung and Burger struck out to end the inning. The Rangers were 1-for-7 with RISP. It was the 6th time the Rangers have been shutout this season. `
+  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers embarrassed themselves again as they struck out 12 times and managed only 4 hits against 4 Yankee pitchers. Eovaldi had another strong start throwing 6 innings, allowing a run on 5 hits and a walk with 6 K's. Milner and Armstrong pitched a hitless 2 innings in relief. Their best opportunity was in the 7th when Semien led off with a single and moved to 2B on a WP. Heim struck out, Garcia grounded out, and Smith struck out to strand him at 3B. Langford reached 2B in the 6th with 1 out but Jung and Burger struck out to end the inning. The Rangers were 1-for-7 with RISP. It was the 6th time the Rangers have been shutout. `
   },
 ]
 
