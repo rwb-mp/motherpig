@@ -340,7 +340,7 @@ const schedule = [
   date: 'May 20',
   opp: 'at New York Yankees',
   score: 'L 5-2',
-  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue retroactive to yesterday May 19. Apparently the game plan was to take the strikes and swing at the balls. The Rangers struck out 14 times. Heim doubled in the 5th and Haggerty struck out. The Rangers loaded the bases in the 6th and Semien and Pederson struck out. Langford doubled and advanced to 3B on a wild pitch, but Jung and Garcia struck out. Pederson walked in the 9th and Heim homered to avoid the shutout. Corbin's line was 5 innings, 3 runs, 5 hits, and 2 walks.`
+  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue retroactive to yesterday May 19. Apparently the game plan was to take the strikes and swing at the balls. The Rangers struck out 14 times. Heim doubled in the 5th and Haggerty struck out. The Rangers loaded the bases in the 6th and Semien and Pederson struck out. Langford doubled and advanced to 3B on a wild pitch and Jung and Garcia struck out. Pederson walked in the 9th and Heim homered to avoid the shutout. Corbin's line was 5 innings, 3 runs, 5 hits, and 2 walks.`
   },
   {
   id: 'may21',
@@ -355,6 +355,13 @@ const schedule = [
   opp: 'at New York Yankees',
   score: 'L 1-0',
   recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers embarrassed themselves again as they struck out 12 times and managed only 4 hits against 4 Yankee pitchers. Eovaldi had another strong start throwing 6 innings, allowing a run on 5 hits and a walk with 6 K's. Milner and Armstrong pitched a hitless 2 innings in relief. Their best opportunity was in the 7th when Semien led off with a single and moved to 2B on a WP. Heim struck out, Garcia grounded out, and Smith struck out to strand him at 3B. Langford reached 2B in the 6th with 1 out but Jung and Burger struck out to end the inning. The Rangers were 1-for-7 with RISP. It was the 6th time the Rangers have been shutout. `
+  },
+  {
+  id: 'may23',
+  date: 'May 23',
+  opp: 'at Chicago White Sox',
+  score: 'L 4-1',
+  recap: `Tyler Mahle (5-1, 1.47) vs. Sean Burke (2-5, 4.69). Bochy moved Garcia to the 8th spot in the lineup and Semien, who has batted 5th since April 28, to the 9th spot. Mahle had a bad 3rd inning in which he gave up 3 runs on 3 singles, 2 walks, and a sac fly. One of the walks came with the bases loaded. After stranding a runner at 2B twice in the first 4 innings, the Rangers finally scored a run in the 6th on a Burger double with Jung being thrown out at the plate to end the inning. The Rangers finished the gane with 3 hits and were 1-for-4 with RISP.`
   },
 ]
 
