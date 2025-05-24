@@ -363,6 +363,13 @@ const schedule = [
   score: 'L 4-1',
   recap: `Tyler Mahle (5-1, 1.47) vs. Sean Burke (2-5, 4.69). Bochy moved Garcia to the 8th spot in the lineup and Semien, who has batted 5th since April 28, to the 9th spot. Mahle had a bad 3rd inning in which he gave up 3 runs on 3 singles, 2 walks, and a sac fly. One of the walks came with the bases loaded. After stranding a runner at 2B twice in the first 4 innings, the Rangers finally scored a run in the 6th on a Burger double with Jung being thrown out at the plate to end the inning. The Rangers finished the gane with 3 hits and were 1-for-4 with RISP.`
   },
+  {
+  id: 'may24',
+  date: 'May 24',
+  opp: 'at Chicago White Sox',
+  score: 'L 10-5',
+  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). Leiter allowed many baserunners in his 5 innings but pitched out of trouble multiple times and left with a 4-2 lead. The Chicago 6th started with Langford and Haggerty colliding at the wall allowing a triple on what should have been the first out. Jung then misplayed a grounder on what should have been the 2nd out. Then Semien missed a tag of the runner and threw late to 1B for what should have been the 3rd out. The White Sox went on to have a 6-run inning with Jacob Webb allowing a single, 2 BB's, and 2 doubles. Rangers' pitching gave up 14 hits and 8 BB's.`
+  },
 ]
 
 let html = '';
