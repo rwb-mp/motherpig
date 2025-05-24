@@ -368,7 +368,7 @@ const schedule = [
   date: 'May 24',
   opp: 'at Chicago White Sox',
   score: 'L 10-5',
-  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). For the first time in a week the Rangers scored more than 3 runs.Leiter allowed many baserunners in his 5 innings but pitched out of trouble multiple times and left with a 4-2 lead. The Chicago 6th started with Langford and Haggerty colliding at the wall allowing a triple on what should have been the first out. Jung then misplayed a grounder on what should have been the 2nd out. Then Semien missed a tag of the runner and threw late to 1B for what should have been the 3rd out. The White Sox went on to have a 6-run inning with Jacob Webb allowing a single, 2 BB's, and 2 doubles. Rangers' pitching gave up 14 hits and 8 BB's.`
+  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). For the first time in a week the Rangers scored more than 3 runs. Leiter allowed many baserunners in his 5 innings but pitched out of trouble multiple times and left with a 4-2 lead. The Chicago 6th started with Langford and Haggerty colliding at the wall allowing a triple on what should have been the first out. Jung then misplayed a grounder on what should have been the 2nd out. Then Semien missed a tag of the runner and threw late to 1B for what should have been the 3rd out. The White Sox went on to have a 6-run inning with Jacob Webb allowing a single, 2 BB's, and 2 doubles. Rangers' pitching gave up 14 hits and 8 BB's.`
   },
 ]
 
