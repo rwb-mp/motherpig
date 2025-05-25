@@ -370,6 +370,13 @@ const schedule = [
   score: 'L 10-5',
   recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). For the first time in a week the Rangers scored more than 3 runs. Leiter allowed many baserunners in his 5 innings but pitched out of trouble multiple times and left with a 4-2 lead. The Chicago 6th started with Langford and Haggerty colliding at the wall allowing a triple on what should have been the first out. Jung then misplayed a grounder on what should have been the 2nd out. Then Semien missed a tag of the runner and threw late to 1B for what should have been the 3rd out. The White Sox went on to have a 6-run inning with Jacob Webb allowing a single, 2 BB's, and 2 doubles. Rangers' pitching gave up 14 hits and 8 BB's.`
   },
+  {
+  id: 'may25',
+  date: 'May 25',
+  opp: 'at Chicago White Sox',
+  score: 'W 5-4',
+  recap: `Patrick Corbin (3-3, 3.59) vs. Davis Martin (2-5, 3.49). Joc Pederson was placed on the 10-day IL with a fractured right hand after being hit by a pitch in Saturday's game. Alejandro Osuna made his MLB debut in LF. Trailing 3-2 in the 9th, Burger doubled after Jung was hit by a pitch. Osuna struck out and Higashioka hit a hot smash that the thirdbaseman couldn't handle scoring Jung with the tying run. Adolis Garcia followed with a double scoring Burger and Higashioka to take a 5-3 lead. Robert Garcia was summoned to pitch the 9th and gave up a pair of doubles with one out that drew the White Sox to within one with the tying run at 2B. Garcia picked the runner off 2B and Osuna caught a flyball on the warning track to end the game and avoid the sweep. Jake Burger put the Rangers on the board in the 2nd with a 423-foot 2-run bomb to left in the 2nd. Corbin's line was 5-1/3 innings, 3 runs on 5 hits and a walk with 6 K's.`
+  },
 ]
 
 let html = '';
