@@ -377,6 +377,13 @@ const schedule = [
   score: 'W 5-4',
   recap: `Patrick Corbin (3-3, 3.59) vs. Davis Martin (2-5, 3.49). Joc Pederson was placed on the 10-day IL with a fractured right hand after being hit by a pitch in yesterday's game. Alejandro Osuna made his MLB debut in LF. Trailing 3-2 in the 9th, Burger doubled after Jung was hit by a pitch. Osuna struck out and Higashioka hit a hot smash to 3B for an infield single,  scoring Jung with the tying run. Adolis Garcia followed with a double scoring Burger and Higashioka to take a 5-3 lead. Robert Garcia was summoned to pitch the 9th. The White Sox scored on a pair of doubles with one out to make the score 5-4 with the tying run at 2B. Robert Garcia picked the runner off 2B for the second out and Osuna caught a flyball on the warning track to end the game and avoid the sweep. Jake Burger put the Rangers on the board in the 2nd with a 423-foot 2-run bomb to left. Corbin's line was 5-1/3 innings, 3 runs on 5 hits and a walk with 6 K's.`
   },
+  {
+  id: 'may26',
+  date: 'May 26',
+  opp: 'Toronto',
+  score: 'L 2-1',
+  recap: `Jacob deGrom (4-1, 2.33) vs. Kevin Gausman (4-4, 4.03). 1 run on 5 hits for Texas. Their lone run came in the 4th on a Langford line-drive homer to LF. The Rangers had an opportunity in the 5th when Heim and Osuna led off with singles. Garcia struck out, Semien flew out to shallow RF, and Haggerty struck out. The Rangers entered the 9th needing a run, but Langford, Jung, and Burger went 3 up and 3 down. deGrom's line was 5-1/3 innings, 2 runs on 5 hits and 2 walks. It was the first start in his career in which he failed to strike out a batter. Osuna had 2 hits in his 2nd MLB game.`
+  },
 ]
 
 let html = '';
