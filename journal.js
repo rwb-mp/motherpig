@@ -46,7 +46,7 @@ const schedule = [
   date: 'April 2',
   opp: 'at Cincinnati',
   score: 'W 1-0',
-  recap: `Jack Leiter (1-0, 1.80) vs. Hunter Greene (0-0, 3.60). The Rangers managed a run off Greene in the 4th on a Joc Pederson single and a 2-out double by Josh Smith on a 100-mph fastball. Leiter was spectacular in his 5 innings allowing just one hit and no walks with 6 K's. Bochy pulled Leiter before the 6th inning as a precaution due to a blister on his middle finger. Hunter Greene pitched 7 innings of 3-hit ball for the Reds, allowing the one run, walking 1, and striking out 8. Jacob Webb, Robert Garcia, Chris Martin, and Luke Jackson combined to shutout the Reds over the last 4 innings. For the first time in their history the Rangers won back-to-back 1-0 games.`
+  recap: `Jack Leiter (1-0, 1.80) vs. Hunter Greene (0-0, 3.60). The Rangers managed a run off Greene in the 4th on a Joc Pederson single and a 2-out double by Josh Smith on a 100-mph fastball. Leiter was spectacular in his 5 innings allowing just one hit and no walks with 6 K's. Bochy pulled Leiter after 5 innings due to a blister on his middle finger. Hunter Greene pitched 7 innings of 3-hit ball for the Reds, allowing the one run, walking 1, and striking out 8. Jacob Webb, Robert Garcia, Chris Martin, and Luke Jackson combined to shutout the Reds over the last 4 innings. For the first time in their history the Rangers won back-to-back 1-0 games.`
   },
   {
   id: 'apr4',
@@ -383,6 +383,13 @@ const schedule = [
   opp: 'Toronto',
   score: 'L 2-1',
   recap: `Jacob deGrom (4-1, 2.33) vs. Kevin Gausman (4-4, 4.03). 1 run on 5 hits for Texas. Their lone run came in the 4th on a Langford line-drive homer to LF. The Rangers had an opportunity in the 5th when Heim and Osuna led off with singles. Garcia struck out, Semien flew out to shallow RF, and Haggerty struck out. The Rangers entered the 9th needing a run, but Langford, Jung, and Burger went 3 up and 3 down. deGrom's line was 5-1/3 innings, 2 runs on 5 hits and 2 walks. It was the first start in his career in which he failed to strike out a batter. Osuna had 2 hits in his 2nd MLB game.`
+  },
+  {
+  id: 'may27',
+  date: 'May 27',
+  opp: 'Toronto',
+  score: 'W 2-0',
+  recap: `Nathan Eovaldi (4-3, 1.60) vs. Bowden Francis (2-6, 5.54). Bowden Francis has given up more HR's than any pitcher in the AL. Eovaldi left after two shutout innings with right triceps fatigue. Latz, Armstrong, Milner, Jackson, and Garcia pitched 7 shutout innings in relief giving up only 2 hits and 2 walks. The Rangers were shutout on 4 hits through 7 innings. Higashioka singled with one out and Haggerty pinch-ran and stole 2B. After a walk to Langford, Haggerty scored on a Jung 2-out single, and Langford scored on an errant pickoff attempt by the catcher.`
   },
 ]
 
