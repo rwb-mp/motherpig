@@ -396,7 +396,7 @@ const schedule = [
   date: 'May 28',
   opp: 'Toronto',
   score: 'L 2-0',
-  recap: `Tyler Mahle (5-2, 1.80) vs. Paxton Schultz (0-0, 2.53). Seager was in the lineup for the first time since May 10. It was a bullpen game for the Blue Jays as reliever Paxton Shultz started and 4 others followed. Josh Smith led off the game with a single and the Rangers didn't get another hit. No runner got to 2B and the Rangers struck out 13 times. Mahle pitched 6 shutout innings on 4 hits, 3 walks and 5 K's. Bo Bichette homered in the 9th off Jacob Webb and the Rangers were shutout for the 7th time. Seager went 0-for4 striking out twice.`
+  recap: `Tyler Mahle (5-2, 1.80) vs. Paxton Schultz (0-0, 2.53). Seager was in the lineup for the first time since May 10. It was a bullpen game for the Blue Jays as reliever Paxton Shultz started and 4 others followed. Josh Smith led off the game with a single and the Rangers didn't get another hit. No runner got to 2B and the Rangers struck out 13 times. Mahle pitched 6 shutout innings on 4 hits, 3 walks, and 5 K's. Bo Bichette homered in the 9th off Jacob Webb and the Rangers were shutout for the 7th time. Seager went 0-for-4 striking out twice.`
   },
 ]
 
