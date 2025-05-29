@@ -391,6 +391,13 @@ const schedule = [
   score: 'W 2-0',
   recap: `Nathan Eovaldi (4-3, 1.60) vs. Bowden Francis (2-6, 5.54). Bowden Francis has given up more HR's than any pitcher in the AL. Eovaldi left after two shutout innings with right triceps fatigue. Latz, Armstrong, Milner, Jackson, and Garcia pitched 7 shutout innings in relief giving up only 2 hits and 2 walks. The Rangers were shutout on 4 hits through 7 innings. Higashioka singled with one out and Haggerty pinch-ran and stole 2B. After a walk to Langford, Haggerty scored on a Jung 2-out single, and Langford scored on an errant pickoff attempt by the catcher.`
   },
+  {
+  id: 'may28',
+  date: 'May 28',
+  opp: 'Toronto',
+  score: 'L 2-0',
+  recap: `Tyler Mahle (5-2, 1.80) vs. Paxton Schultz (0-0, 2.53). Seager was in the lineup for the first time since May 10. It was a bullpen game for the Blue Jays as reliever Paxton Shultz started and 4 others followed. Josh Smith led off the game with a single and the Rangers didn't get another hit. No runner got to 2B and the Rangers struck out 13 times. Mahle pitched 6 shutout innings on 4 hits, 3 walks and 5 K's. Bo Bichette homered in the 9th off Jacob Webb and the Rangers were shutout for the 7th time. Seager went 0-for4 striking out twice.`
+  },
 ]
 
 let html = '';
