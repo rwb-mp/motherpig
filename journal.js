@@ -333,7 +333,7 @@ const schedule = [
   date: 'May 18',
   opp: 'Houston',
   score: 'L 4-3',
-  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Evan Carter was placed on the 10-day IL with a right quad strain retroactive to yesterday May 17. Leiter had a no-hitter through 6-2/3 innings and a 3-0 lead, but Yainer Diaz homered in the 7th to make it 3-1. Leiter gave up bloop singles to the first 2 hitters in the 8th. The second bloop single occurred after an apparent third strike was called a ball. Robert Garcia retired the next 2, but Isaac Paredes homered 351-feet down the LF line to give tha Astros the lead. The Rangers scored their runs in the 4th when they had 4 singles, a walk, and a sac fly. A baserunning blunder with one out in the 7th: Heim was thrown out at 3B trying to advance on a grounder to the left side of the infield. Duran then singled Pillar to 3B and Haggerty grounded out to end the inning. In the 8th Heim stranded Garcia at 2B when he flew out 389-feet to the warning track.`
+  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Evan Carter was placed on the 10-day IL with a right quad strain retroactive to yesterday May 17. Leiter had a no-hitter through 6-2/3 innings and a 3-0 lead, but Yainer Diaz homered in the 7th to cut the lead to 3-1. The first 2 Astros hitters in the 8th reached on bloop singles, and Leiter was replaced by Robert Garcia. Garcia retired the next 2 batters, but Isaac Paredes homered 351-feet down the LF line to give tha Astros a 4-3 lead. The Rangers scored their 3 runs in the 4th on 4 singles, a walk, and a sac fly. In the 7th Jonah Heim committed a baserunning blunder as he was thrown out at 3B trying to advance on a grounder to the left side of the infield. Duran then singled Pillar to 3B and Haggerty grounded out to end the inning. Heim stranded Garcia at 2B in the 8th when he flew out 389-feet to the warning track.`
   },
   {
   id: 'may20',
@@ -404,6 +404,13 @@ const schedule = [
   opp: 'St. Louis',
   score: 'W 11-1',
   recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). 11 runs on 15 hits for the struggling Rangers' offense. 4 runs scored in the 2nd on singles by Higashioka and Semien, a triple by Haggerty, and a Langford HR. 4 more scored in the 6th on 4 singles and 2 BB's. Semien homered in the 7th to add 2 more. Leiter pitched 5-2/3 innings, no runs on 3 hits and 2 BB's with 6 K's. Caleb Boushley pitched the final 3 innings to get the save. Marcus Semien came into the game batting .173 and went 4-for-4 with a HR. Haggerty reached base 5 times in the leadoff spot.`
+  },
+  {
+  id: 'may31',
+  date: 'May 31',
+  opp: 'St. Louis',
+  score: '',
+  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and could only manage 4 hits and a couple of walks, with one baserunner reaching 2B. Ranger pitchers only gave up 5 hits, but the Cardinals manufactured a run in the 2nd and scored on 2 doubles in the 4th. Corbin's line was 2 runs on 3 hits and 2 walks with 3 K's in 5-1/3 innings. The Rangers were shutout for the 8th time.`
   },
 ]
 
