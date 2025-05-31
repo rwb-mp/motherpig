@@ -409,7 +409,7 @@ const schedule = [
   id: 'may31',
   date: 'May 31',
   opp: 'St. Louis',
-  score: '',
+  score: 'L 2-0',
   recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and could only manage 4 hits and a couple of walks, with one baserunner reaching 2B. Ranger pitchers only gave up 5 hits, but the Cardinals manufactured a run in the 2nd and scored on 2 doubles in the 4th. Corbin's line was 2 runs on 3 hits and 2 walks with 3 K's in 5-1/3 innings. The Rangers were shutout for the 8th time.`
   },
 ]
