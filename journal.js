@@ -403,7 +403,7 @@ const schedule = [
   date: 'May 30',
   opp: 'St. Louis',
   score: 'W 11-1',
-  recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). 11 runs on 15 hits for the struggling Rangers' offense. 4 runs scored in the 2nd on singles by Higashioka and Semien, a triple by Haggerty, and a Langford HR. 4 more scored in the 6th on 4 singles and 2 BB's. Semien homered in the 7th to add 2 more. Leiter pitched 5-2/3 innings, no runs on 3 hits and 2 BB's with 6 K's. Caleb Boushley pitched the final 3 innings to get the save. Marcus Semien came into the game batting .173 but went 4-for-4 with a HR. Haggerty reached base 5 times in the leadoff spot.`
+  recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). 11 runs on 15 hits for the struggling Rangers' offense. 4 runs scored in the 2nd on singles by Higashioka and Semien, a triple by Haggerty, and a Langford HR. 4 more scored in the 6th on 4 singles and 2 BB's. Semien homered in the 7th to add 2 more. Leiter pitched 5-2/3 innings, no runs on 3 hits and 2 BB's with 6 K's. Caleb Boushley pitched the final 3 innings to get the save. Marcus Semien came into the game batting .173 and went 4-for-4 with a HR. Haggerty reached base 5 times in the leadoff spot.`
   },
 ]
 
