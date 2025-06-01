@@ -417,7 +417,7 @@ const schedule = [
   date: 'June 1',
   opp: 'St. Louis',
   score: 'W 8-1',
-  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. Josh Smith hit a 2-out, 2-RBI double in the 2nd to give Texas the early lead. They added another in the 7th on a Langford sac fly after loading the bases with no outs. The Rangers broke the game open in the 8th with 5 runs on a Jung single, a double by Burger, a sac fly by Heim, a Semien walk, a sac bunt by Haggerty, and a 2-run HR by Josh Smith. deGrom allowed a run on 4 hits and 3 walks with 4 K's in 6 innings. Armstrong, Milner, and Jackson pitched the final 3 shutout innings to give the Rangers the series win. Semien reached base 10 times in 11 plate appearances in the series.`
+  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. Josh Smith hit a 2-out, 2-RBI double in the 2nd to give Texas the early lead. They added another in the 7th on a Langford sac fly after loading the bases with no outs. The Rangers broke the game open in the 8th with 5 runs on a Jung single, a double by Burger, a sac fly by Heim, a Semien walk, a sac bunt by Haggerty, and a 2-run HR by Josh Smith. deGrom allowed a run on 4 hits and 3 walks with 4 K's in 6 innings. Armstrong, Milner, and Jackson pitched the final 3 shutout innings to give the Rangers the series win. Semien reached base 10 times in 11 plate appearances in the three games.`
   },
 ]
 
