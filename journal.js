@@ -412,6 +412,13 @@ const schedule = [
   score: 'L 2-0',
   recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and could only manage 4 hits and a couple of walks, with one baserunner reaching 2B. Ranger pitchers only gave up 5 hits, but the Cardinals manufactured a run in the 2nd and scored on 2 doubles in the 4th. Corbin's line was 2 runs on 3 hits and 2 walks with 3 K's in 5-1/3 innings. The Rangers were shutout for the 8th time this season and had a record of 12-15 in the month of May. They are the only team in MLB to not overcome a 2-run deficit all season.`
   },
+  {
+  id: 'jun1',
+  date: 'June 1',
+  opp: 'St. Louis',
+  score: 'W 8-1',
+  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. Josh Smith hit a 2-out, 2-RBI double in the 2nd to give Texas the early lead. They added another in the 7th on a Langford sac fly after loading the bases with no outs. The Rangers broke the game open in the 8th with 5 runs on a Jung single, a double by Burger, a sac fly by Heim, a Semien walk, a sac bunt by Haggerty, and a 2-run HR by Josh Smith. deGrom allowed a run on 4 hits and 3 walks with 4 K's in 6 innings. Armstrong, Milner, and Jackson pitched the final 3 shutout innings to give the Rangers the series win. Semien reached base 10 times in 11 plate appearances in the series.`
+  },
 ]
 
 let html = '';
