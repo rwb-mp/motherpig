@@ -53,14 +53,14 @@ const schedule = [
   date: 'April 4',
   opp: 'Tampa Bay',
   score: 'W 5-2',
-  recap: `Tyler Mahle (0-0, 5.40) vs. Zack Littell (0-1, 1.50). The Rangers took a 4-run lead in the 3rd on 5 consecutive base hits by Smith, Higashioka, Taveras, Semien, and Seager. Littell was coming off a start against Colorado in which he gave up just 1 run on 4 hits in 6 innings, walking none and striking out 7. Mahle shook off his control issues in his first start and was effective against a good hitting Rays team, throwing 5 shutout innings and not allowing a runner past first base. The Rays countered with 2 runs in the 7th, but Josh Smith homered in the Rangers' half to extend the lead to 3. Luke Jackson pitched a perfect 9th for his 4th save.`
+  recap: `Tyler Mahle (0-0, 5.40) vs. Zack Littell (0-1, 1.50). The Rangers took a 4-run lead in the 3rd on 5 consecutive base hits by Smith, Higashioka, Taveras, Semien, and Seager. Littell was coming off a start against Colorado in which he gave up just 1 run on 4 hits in 6 innings, walking none and striking out 7. Mahle shook off his control issues in his first start and was effective against a good hitting Rays team, throwing 5 shutout innings and not allowing a runner past first base. The Rays countered with 2 runs in the 7th, but Josh Smith homered in the Rangers' half to extend the lead to 5-2. Luke Jackson pitched a perfect 9th for his 4th save.`
   },
   {
   id: 'apr5',
   date: 'April 5',
   opp: 'Tampa Bay',
   score: 'W 6-4',
-  recap: `Jacob deGrom (0-0, 0.00) vs. Taj Bradley (1-0, 3.00). Marcus Semien homered to left to start the game and Jake Burger followed with a 3-run homer after walks to Langford and Garcia to give deGrom a 4-run 1st inning lead. But the Rangers couldn't hold the lead. Brandon Lowe homered off deGrom in the 3rd and Jonathan Aranda drew the Rays to within a run with a towering HR off the rightfield foul pole in the 6th. After a 2-out double by Kameron Misner, deGrom's night was over. Reliever Jacob Webb allowed a double to the first batter he faced to tie the game. The Rangers would not get another hit until the 7th when Kevin Pillar pinch hit for Taveras and singled to left. With 2 outs Wyatt Langford hit a line drive HR that just cleared the wall in LF. Garcia, Martin, and Jackson pitched 2-1/3 scoreless innings and Jackson got his 5th save. The Rangers were outhit 10 to 4 but drew 6 walks and out-homered the Rays 3 to 2.`
+  recap: `Jacob deGrom (0-0, 0.00) vs. Taj Bradley (1-0, 3.00). Marcus Semien homered to left to start the game and Jake Burger followed with a 3-run homer after walks to Langford and Garcia to give deGrom a 4-run 1st inning lead, but the Rangers couldn't hold it. Brandon Lowe homered off deGrom in the 3rd and Jonathan Aranda drew the Rays to within a run with a towering HR off the rightfield foul pole in the 6th. After a 2-out double by Kameron Misner, deGrom was replaced by Jacob Webb. Webb allowed a double to the first batter he faced to tie the game at 4. The Rangers were hitless after the 1st inning until Pillar pinch hit for Taveras and singled to left. With 2 outs Wyatt Langford hit a line drive HR that just cleared the wall in LF. Garcia, Martin, and Jackson pitched 2-1/3 scoreless innings and Jackson got his 5th save. The Rangers were outhit 10 to 4 but drew 6 walks and out-homered the Rays 3 to 2.`
   },
   {
   id: 'apr6',
