@@ -424,7 +424,7 @@ const schedule = [
   date: 'June 3',
   opp: 'at Tampa Bay',
   score: 'L 5-1',
-  recap: `Tyler Mahle (5-2, 1.64) vs. Drew Rasmussen (4-4, 2.33). It was 1 run on 4 hits for the Rangers who struck out 9 times, 7 times looking. The Rays took the lead in the 2nd on a 328-foot HR down the LF line. It was the shortest HR in MLB this year. Mahli loaded the bases with one out in the 6th on a single and 2 walks and was replaced by Jacob Latz. All 3 inherited runners scored. The Ranger's run came in the 7th on a Garcia single, a walk to Semien, and a Burger single. Mahli's line was 5-1/3 innings, 4 runs on 5 hits and 2 walks with 5 K's.`
+  recap: `Tyler Mahle (5-2, 1.64) vs. Drew Rasmussen (4-4, 2.33). It was 1 run on 4 hits for the Rangers who struck out 9 times, 7 times looking. The Rays took the lead in the 2nd on a 328-foot HR down the LF line. It was the shortest HR in MLB this year. Mahle loaded the bases with one out in the 6th on a single and 2 walks and was replaced by Jacob Latz. All 3 inherited runners scored. The Ranger's run came in the 7th on a Garcia single, a walk to Semien, and a Burger single. Mahle's line was 5-1/3 innings, 4 runs on 5 hits and 2 walks with 5 K's.`
   },
 ]
 
