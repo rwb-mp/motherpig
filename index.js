@@ -1016,7 +1016,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '5',
     opp: 'at TB <img src="logos/rays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'L 4-3',
     recap: '<a href = "journal.html#jun5" target = "_blank">Recap</a>'
     },
     {
