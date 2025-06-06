@@ -443,7 +443,7 @@ const schedule = [
   date: 'June 4',
   opp: 'at Tampa Bay',
   score: 'L 5-4',
-  recap: `Kumar Rocker (1-3, 8.10) vs. Shane Baz (4-3, 4.92). In his first start off the IL, Kumar Rocker gave up a solo homer to the second Rays batter and ran into more trouble in the third, allowing four runs on a walk, three singles, and two doubles. He exited after 3 1/3 innings, having allowed five runs on six hits and two walks with five strikeouts. The Rangers fought back in the fifth. Jonah Heim followed an Adolis García single with a 341-foot homer to left, and Josh Smith and Wyatt Langford added back-to-back hits to cut the deficit to 5–3. Texas’ bullpen kept the game close with 4 2/3 scoreless innings. In the ninth, Smith reached on an error, advanced on defensive indifference, and scored on Langford’s single to make it 5–4. But Corey Seager grounded out softly to second, ending the comeback attempt.`
+  recap: `Kumar Rocker (1-3, 8.10) vs. Shane Baz (4-3, 4.92). In his first start off the IL, Kumar Rocker gave up a solo homer to the second Rays batter and ran into more trouble in the third, allowing four runs on a walk, three singles, and two doubles. He exited after 3 1/3 innings, having allowed five runs on six hits and two walks with five strikeouts. The Rangers fought back in the fifth. Jonah Heim followed an Adolis García single with a 341-foot homer to left, and Josh Smith and Wyatt Langford added back-to-back hits to cut the deficit to 5–3. Texas’ bullpen kept the game close with 4 2/3 scoreless innings. In the ninth, Smith reached on an error, advanced on defensive indifference, and scored on Langford’s single to make it 5–4. But Corey Seager grounded out to second, ending the comeback attempt.`
   },
   {
   id: 'jun5',
