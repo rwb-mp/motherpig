@@ -457,7 +457,14 @@ const schedule = [
   date: 'June 6',
   opp: 'at Washington',
   score: 'L 2-0',
-  recap: `Patrick Corbin (3-4, 3.71) vs. Michael Soroka (2-5, 5.81). Despite facing a Nationals pitching staff ranked 26th in MLB, the Rangers managed just two hits and a walk in a 2-0 loss. Only one Texas batter reached second base as they were shut out for the ninth time this season. Patrick Corbin took the loss despite throwing an 8-inning complete game, allowing 2 runs on five hits, no walks, and striking out two.`
+  recap: `Patrick Corbin (3-4, 3.71) vs. Michael Soroka (2-5, 5.81). Despite facing a Nationals pitching staff with the 26th best ERA in MLB, the Rangers managed just two hits and a walk in nine innings. Only one Texas batter reached second base as they were shut out for the ninth time this season. Patrick Corbin took the loss despite throwing an 8-inning complete game, allowing 2 runs on five hits, no walks, and striking out two.`
+  },
+  {
+  id: 'jun7',
+  date: 'June 7',
+  opp: 'at Washington',
+  score: 'W 5-0',
+  recap: `Jacob deGrom (5-2, 2.34) vs. Mitchell Parker (4-5, 4.71). The Rangers jumped out early with two runs in the first inning on singles by Haggerty, Jung, and Semien, aided by a centerfield error. After that, the offense went quiet—14 straight batters were retired until the 6th when Haggerty singled. Three walks loaded the bases for Texas in the 7th, but Josh Smith’s shallow flyout ended the threat. Texas broke through in the 8th. Haggerty and Langford singled before Semien laced a 2-run double. Garcia added insurance with a 2-out bloop single to plate Semien. Jacob deGrom was brilliant, tossing 7 shutout innings with just 2 hits, no walks, a hit batter, and 8 strikeouts.`
   },
 ]
 
