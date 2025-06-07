@@ -85,7 +85,7 @@ const schedule = [
   date: 'April 8',
   opp: 'at Chicago Cubs',
   score: 'L 10-6',
-  recap: `Patrick Corbin (0-0, 0.00) vs. Jameson Taillon (1-1, 6.35). Corbin was called up from Round Rock to replace the injured Jack Leiter and gave the Rangers four innings in his debut, allowing three runs on five hits and two walks. Texas jumped ahead in the second on Jonah Heim’s two-run single, but squandered a chance for more when Leody Taveras and Marcus Semien failed to bring Josh Jung home from third. The Cubs answered with three in the bottom half before Wyatt Langford tied it in the third with a 407-foot solo homer to left. Jacob Webb struggled in the fifth, allowing three straight singles—all of whom came around to score, putting Chicago up 6–3. The Rangers chipped away—Jung doubled and Taveras tripled in the seventh to make it 6–5. In the eighth, Josh Smith singled with two outs, and Jung followed with an RBI triple to tie the game. But Heim stranded the go-ahead run at third. In the bottom of the inning, a misplayed fly ball by Taveras resulted in a two-base error. After an intentional walk and a Jung error on a potential double-play ball, Dansby Swanson delivered the decisive blow with a two-run double, giving the Cubs a 10–6 win.`
+  recap: `Patrick Corbin (0-0, 0.00) vs. Jameson Taillon (1-1, 6.35). Corbin was called up from Round Rock to replace the injured Jack Leiter and gave the Rangers four innings in his debut, allowing three runs on five hits and two walks. Texas jumped ahead in the second on Jonah Heim’s two-run single, but squandered a chance for more when Leody Taveras and Marcus Semien failed to bring Josh Jung home from third. The Cubs answered with three in the bottom half before Wyatt Langford tied it in the third with a 407-foot solo homer to left. Jacob Webb struggled in the fifth, allowing three straight singles—all of whom came around to score, putting Chicago up 6–3. The Rangers chipped away—Jung doubled and Taveras tripled in the seventh to make it 6–5. In the eighth, Josh Smith singled with two outs, and Jung followed with an RBI triple to tie the game. But Heim stranded the go-ahead run at third. In the bottom of the inning, a misplayed fly ball by Taveras resulted in a two-base error. After an intentional walk and a Jung error on a potential double-play ball, Dansby Swanson delivered the decisive blow with a two-run double, giving the Cubs an 8–6 lead. Crow-Armstrong knocked in 2 more with a 2-out single.`
   },  
   {
   id: 'apr9',
@@ -451,6 +451,13 @@ const schedule = [
   opp: 'at Tampa Bay',
   score: 'L 4-3',
   recap: `Jack Leiter (4-2, 3.66) vs. Ryan Pepiot (3-5, 3.21). Jack Leiter allowed just one run over five strong innings, striking out seven and leaving with a 2-1 lead. After giving up a solo homer in the 2nd, Jake Burger answered with a 442-foot blast in the 3rd to tie it. Marcus Semien homered twice—once in the 5th to put Texas ahead and again in the 7th to extend the lead to 3-1. The bullpen held strong as Milner, Armstrong, and Latz combined for three perfect innings. But in the 9th, Robert Garcia couldn’t close the door. A single, a walk, and another single cut the lead to 3-2. With two outs and runners on first and second, Christopher Morel grounded hard to Jung at third. Jung initially looked to second and then threw late to first to load the bases. Taylor Walls bounced one to second. Josh Smith went wide taking himself out of the play and the hitter beat Garcia to 1B. Aranda scored from third and Caminero scored from second to give the Rangers a walk-off loss.`
+  },
+  {
+  id: 'jun6',
+  date: 'June 6',
+  opp: 'at Washington',
+  score: 'L 2-0',
+  recap: `Patrick Corbin (3-4, 3.71) vs. Michael Soroka (2-5, 5.81). Despite facing a Nationals pitching staff ranked 26th in MLB, the Rangers managed just two hits and a walk in a 2-0 loss. Only one Texas batter reached second base as they were shut out for the ninth time this season. Patrick Corbin took the loss despite throwing an 8-inning complete game, allowing 2 runs on five hits, no walks, and striking out two.`
   },
 ]
 
