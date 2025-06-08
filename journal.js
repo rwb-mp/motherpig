@@ -216,7 +216,7 @@ const schedule = [
   date: 'April 29',
   opp: 'Athletics',
   score: 'W 15-2',
-  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez (0-0, 0.00) The Rangers’ offense erupted for 18 hits and nine walks in a lopsided win over the A’s, backing a dominant outing from Jacob deGrom in a 15–2 blowout. Facing Triple-A call-up Joe Luis López, who was filling in for the injured J.T. Ginn, Texas capitalized early and often — highlighted by an eight-run sixth inning. deGrom was in complete control, needing just 65 pitches to throw six shutout innings. He allowed four hits, struck out seven, and didn’t issue a walk. Dane Dunning, making his season debut after being recalled from Round Rock, handled the final three innings to secure the team’s third shutout of the year.`
+  recap: `Jacob deGrom (0-1, 3.33) vs. Jacob Lopez (0-0, 0.00) The Rangers’ offense erupted for 18 hits and nine walks in a lopsided win over the A’s, backing a dominant outing from Jacob deGrom in a 15–2 blowout. Facing Triple-A call-up Joe Luis López, who was filling in for the injured J.T. Ginn, Texas capitalized early and often — highlighted by an eight-run sixth inning. deGrom was in complete control, needing just 65 pitches to throw six shutout innings. He allowed four hits, struck out seven, and didn’t issue a walk. Dane Dunning, making his season debut after being recalled from Round Rock, handled the final three innings.`
   },
   {
   id: 'apr30',
@@ -465,6 +465,13 @@ const schedule = [
   opp: 'at Washington',
   score: 'W 5-0',
   recap: `Jacob deGrom (5-2, 2.34) vs. Mitchell Parker (4-5, 4.71). The Rangers jumped out early with two runs in the first inning on singles by Haggerty, Jung, and Semien, aided by a centerfield error. After that, the offense went quiet—14 straight batters were retired until the 6th when Haggerty singled. Three walks loaded the bases for Texas in the 7th, but Josh Smith’s shallow flyout ended the threat. Texas broke through in the 8th. Haggerty and Langford singled before Semien laced a 2-run double. Garcia added insurance with a 2-out bloop single to plate Semien. Jacob deGrom was brilliant, tossing 7 shutout innings with just 2 hits, no walks, a hit batter, and 8 strikeouts.`
+  },
+  {
+  id: 'jun8',
+  date: 'June 8',
+  opp: 'at Washington',
+  score: 'W 4-2',
+  recap: `Jacob Latz (0-0, 2.95) vs. Trevor Williams (3-6, 6.03). The Rangers went with a bullpen game to give Tyler Mahle extra rest, and the strategy paid off. The combination of Latz, Webb, Milner, Armstrong, and Garcia allowed just two runs on six hits and two walks while striking out 11. Evan Carter opened the scoring with a 382-foot homer to right-center in the second following a Marcus Semien single. The Nationals tied it with two runs in the fourth, but Texas regained the lead in the fifth on a Semien groundout after loading the bases. Despite going 0-for-11 with runners in scoring position and stranding the bases loaded in the sixth, the Rangers added insurance in the eighth with a 385-foot solo homer from Jake Burger.`
   },
 ]
 
