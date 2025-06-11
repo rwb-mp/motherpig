@@ -473,6 +473,13 @@ const schedule = [
   score: 'W 4-2',
   recap: `Jacob Latz (0-0, 2.95) vs. Trevor Williams (3-6, 6.03). The Rangers went with a bullpen game to give Tyler Mahle extra rest, and the strategy paid off. The combination of Latz, Webb, Milner, Armstrong, and Garcia allowed just two runs on six hits and two walks while striking out 11. Evan Carter opened the scoring with a 382-foot homer to right-center in the second following a Marcus Semien single. The Nationals tied it with two runs in the fourth, but Texas regained the lead in the fifth on a Semien groundout after loading the bases. Despite going 0-for-11 with runners in scoring position and stranding the bases loaded in the sixth, the Rangers added insurance in the eighth with a 385-foot solo homer from Jake Burger.`
   },
+  {
+  id: 'jun10',
+  date: 'June 10',
+  opp: 'at Minnesota',
+  score: 'W 16-4',
+  recap: `Tyler Mahle (5-3, 2.02) vs. Simeon Woods Richardson (2-2, 5.02). The Rangers erupted for a season-high 16 runs on 17 hits, four walks, and three Twins errors in a rare offensive outburst. Every Texas batter recorded at least one hit. Evan Carter and Wyatt Langford both homered, while Kyle Higashioka led the way with five RBIs. Carter paced the offense with three hits and a walk. Tyler Mahle earned the win despite allowing four runs on ten hits and a walk over 5-2/3 innings. The bullpen trio of Armstrong, Winn, and Boushley combined for 3-1/3 scoreless innings to close out the rout.`
+  },
 ]
 
 let html = '';
