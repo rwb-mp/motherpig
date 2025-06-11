@@ -478,7 +478,7 @@ const schedule = [
   date: 'June 10',
   opp: 'at Minnesota',
   score: 'W 16-4',
-  recap: `Tyler Mahle (5-3, 2.02) vs. Simeon Woods Richardson (2-2, 5.02). The Rangers erupted for a season-high 16 runs on 17 hits, four walks, and three Twins errors in a rare offensive outburst. Every Texas batter recorded at least one hit. Evan Carter and Wyatt Langford both homered, while Kyle Higashioka led the way with five RBIs. Carter paced the offense with three hits and a walk. Tyler Mahle earned the win despite allowing four runs on ten hits and a walk over 5-2/3 innings. The bullpen trio of Armstrong, Winn, and Boushley combined for 3-1/3 scoreless innings to close out the rout.`
+  recap: `Tyler Mahle (5-3, 2.02) vs. Simeon Woods Richardson (2-2, 5.02). The Rangers erupted for a season-high 16 runs on 17 hits, four walks, and three Twins errors in a rare offensive outburst. Every Ranger in the starting lineup recorded at least one hit. Evan Carter and Wyatt Langford both homered, while Kyle Higashioka led the way with five RBIs. Carter paced the offense with three hits and a walk. Tyler Mahle earned the win despite allowing four runs on ten hits and a walk over 5-2/3 innings. The bullpen trio of Armstrong, Winn, and Boushley combined for 3-1/3 scoreless innings to close out the rout.`
   },
 ]
 
