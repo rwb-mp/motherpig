@@ -487,6 +487,14 @@ const schedule = [
   score: 'L 6-2',
   recap: `Jack Leiter (4-2, 3.48) vs. David Festa (0-1, 5.40). Marcus Semien opened the scoring with a leadoff homer in the second, and the Rangers added another run in the third on back-to-back doubles by Jonah Heim and Josh Smith. But the offense stalled again, going just 1-for-9 with runners in scoring position. Byron Buxton's 3-run, 479-foot blast in the bottom of the third turned the game around. Jack Leiter struggled with command, allowing four runs on five hits and four walks over four innings. Jacob Latz was tagged for two more runs in the fifth. Despite chances late, the Rangers stranded runners in scoring position in the 7th, 8th, and 9th innings, sealing the loss.`
   },
+  {
+  id: 'jun12',
+  date: 'June 12',
+  opp: 'at Minnesota',
+  score: 'W 13-3',
+  recap: `Patrick Corbin (3-5, 3.52) vs. Bailey Ober (4-2, 3.78). After receiving no run support over his last 16-2/3 innings, Patrick Corbin finally got some help—a lot of it. The Rangers exploded for 16 runs on 16 hits and 9 walks, hammering the Twins behind six home runs. Josh Smith, Jake Burger, Wyatt Langford, Evan Carter, Adolis García, and Sam Haggerty all went deep. Langford, Burger, García, and Haggerty each drove in three runs, and the team went 6-for-11 with runners in scoring position. 
+  Corbin earned the win with five innings of work, allowing three runs on six hits and three walks while striking out six.`
+  },
 ]
 
 let html = '';
