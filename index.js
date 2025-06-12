@@ -1093,7 +1093,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '12',
     opp: 'at Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom"> ',
     time: '',
-    score: 'W 13-3',
+    score: 'W 16-3',
     recap: '<a href = "journal.html#jun12" target = "_blank">Recap</a>'
     },
     {

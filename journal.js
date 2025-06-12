@@ -491,7 +491,7 @@ const schedule = [
   id: 'jun12',
   date: 'June 12',
   opp: 'at Minnesota',
-  score: 'W 13-3',
+  score: 'W 16-3',
   recap: `Patrick Corbin (3-5, 3.52) vs. Bailey Ober (4-2, 3.78). After receiving no run support over his last 16-2/3 innings, Patrick Corbin finally got some help—a lot of it. The Rangers exploded for 16 runs on 16 hits and 9 walks, hammering the Twins behind six home runs. Josh Smith, Jake Burger, Wyatt Langford, Evan Carter, Adolis García, and Sam Haggerty all went deep. Langford, Burger, García, and Haggerty each drove in three runs, and the team went 6-for-11 with runners in scoring position. 
   Corbin earned the win with five innings of work, allowing three runs on six hits and three walks while striking out six.`
   },
