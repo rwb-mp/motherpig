@@ -480,6 +480,13 @@ const schedule = [
   score: 'W 16-4',
   recap: `Tyler Mahle (5-3, 2.02) vs. Simeon Woods Richardson (2-2, 5.02). The Rangers erupted for a season-high 16 runs on 17 hits, four walks, and three Twins errors in a rare offensive outburst. Every Ranger in the starting lineup recorded at least one hit. Evan Carter and Wyatt Langford both homered, while Kyle Higashioka led the way with five RBIs. Carter paced the offense with three hits and a walk. Tyler Mahle earned the win despite allowing four runs on ten hits and a walk over 5-2/3 innings. The bullpen trio of Armstrong, Winn, and Boushley combined for 3-1/3 scoreless innings to close out the rout.`
   },
+  {
+  id: 'jun11',
+  date: 'June 11',
+  opp: 'at Minnesota',
+  score: 'L 6-2',
+  recap: `Jack Leiter (4-2, 3.48) vs. David Festa (0-1, 5.40). Marcus Semien opened the scoring with a leadoff homer in the second, and the Rangers added another run in the third on back-to-back doubles by Jonah Heim and Josh Smith. But the offense stalled again, going just 1-for-9 with runners in scoring position. Byron Buxton's 3-run, 479-foot blast in the bottom of the third turned the game around. Jack Leiter struggled with command, allowing four runs on five hits and four walks over four innings. Jacob Latz was tagged for two more runs in the fifth. Despite chances late, the Rangers stranded runners in scoring position in the 7th, 8th, and 9th innings, sealing the loss.`
+  },
 ]
 
 let html = '';
