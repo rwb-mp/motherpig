@@ -450,7 +450,7 @@ const schedule = [
   date: 'June 5',
   opp: 'at Tampa Bay',
   score: 'L 4-3',
-  recap: `Jack Leiter (4-2, 3.66) vs. Ryan Pepiot (3-5, 3.21). Jack Leiter allowed just one run over five strong innings, striking out seven and leaving with a 2-1 lead. After giving up a solo homer in the 2nd, Jake Burger answered with a 442-foot blast in the 3rd to tie it. Marcus Semien homered twice—once in the 5th to put Texas ahead and again in the 7th to extend the lead to 3-1. The bullpen held strong as Milner, Armstrong, and Latz combined for three perfect innings. But in the 9th, Robert Garcia couldn’t close the door. A single, a walk, and another single cut the lead to 3-2. With two outs and runners on first and second, Christopher Morel grounded hard to Jung at third. Jung initially looked to second and then threw late to first to load the bases. Taylor Walls bounced one to second. Josh Smith went wide taking himself out of the play and the hitter beat Garcia to 1B. Aranda scored from third and Caminero scored from second to give the Rangers a walk-off loss.`
+  recap: `Jack Leiter (4-2, 3.66) vs. Ryan Pepiot (3-5, 3.21). Jack Leiter allowed just one run over five strong innings, striking out seven and leaving with a 2-1 lead. After giving up a solo homer in the 2nd, Jake Burger answered with a 442-foot blast in the 3rd to tie it. Marcus Semien homered twice—once in the 5th to put Texas ahead and again in the 7th to extend the lead to 3-1. The bullpen held strong as Milner, Armstrong, and Latz combined for three perfect innings. But in the 9th, Robert Garcia couldn’t close the door. A single, a walk, and another single cut the lead to 3-2. With two outs and runners on first and second, Christopher Morel grounded hard to Jung at third. Jung initially looked to second and then threw late to first to load the bases. Taylor Walls bounced one to second. Josh Smith went wide taking himself out of the play and the hitter beat Garcia to 1B. Aranda scored from third and Caminero scored from second to hand the Rangers a walk-off loss.`
   },
   {
   id: 'jun6',
@@ -494,6 +494,13 @@ const schedule = [
   score: 'W 16-3',
   recap: `Patrick Corbin (3-5, 3.52) vs. Bailey Ober (4-2, 3.78). After receiving no run support over his last 16-2/3 innings, Patrick Corbin finally got some help—a lot of it. The Rangers exploded for 16 runs on 16 hits and 9 walks, hammering the Twins behind six home runs. Josh Smith, Jake Burger, Wyatt Langford, Evan Carter, Adolis García, and Sam Haggerty all went deep. Langford, Burger, García, and Haggerty each drove in three runs, and the team went 6-for-11 with runners in scoring position. 
   Corbin earned the win with five innings of work, allowing three runs on six hits and three walks while striking out six.`
+  },
+  {
+  id: 'jun13',
+  date: 'June 13',
+  opp: 'Chicago White Sox',
+  score: 'W 3-1',
+  recap: `Shawn Armstrong (2-1, 3.33 ) vs. Adrian Houser (2-1, 1.48). For the second time in five games, the Rangers pitched a bullpen game, and the bullpen delivered another strong performance. Armstrong opened with three perfect innings, followed by scoreless work from Webb and Jackson, who allowed just two singles over the next three frames. Milner ran into trouble in the seventh, surrendering a run on two singles and a double. With the potential tying runs on second and third and only one out, Martin pitched out of the jam to preserve the 3-1 lead. Cole Winn tossed a clean eighth, and Garcia survived a tense ninth, loading the bases on a double and two walks before striking out Michael Taylor to end it. Josh Smith led the offense from the leadoff spot, scoring all three Texas runs. He singled and scored on a Seager sacrifice fly in the first, homered in the third, and walked in the fifth before scoring on a Marcus Semien double.`
   },
 ]
 
