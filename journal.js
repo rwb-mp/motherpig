@@ -509,6 +509,15 @@ const schedule = [
   score: 'W 5-4',
   recap: `Jacob deGrom (6-2, 2.12 ) vs. Mike Vasil (3-2, 2.18). Adolis García delivered a walk-off single in the 11th inning to give the Rangers a 5–4 win, despite a frustrating night at the plate for the team. Texas went 4-for-23 with runners in scoring position and left 17 runners on base. After a Langford single, trailing 2–1 in the seventh, Seager reached on a called ball four that should’ve been called strike three, and scored the go-ahead run after a Marcus Semien double and a wild pitch. With Semien in scoring position and no outs, Burger, Jung, and García struck out in order. After Chicago tied the game in the top of the eighth, Josh Smith scored the go-ahead run on an error by the Twins' shortstop that should have ended the inning. But the lead didn’t last: with two outs in the ninth, Robert García was brought in to record the final out but allowed a game-tying double. Ultimately, Adolis García singled home the winning run and sealed a missed-opportunities kind of win for Texas.`
   },
+  {
+  id: 'jun15',
+  date: 'June 15',
+  opp: 'Chicago White Sox',
+  score: 'W 2-1',
+  recap: `Kumar Rocker (1-4, 8.87 ) vs. Aaron Civale (1-2, 4.91). The Rangers placed Tyler Mahle on the 15-day IL with shoulder fatigue and called up Kumar Rocker from Triple-A Round Rock. Rocker delivered, tossing five shutout innings while allowing just four hits and a walk, and striking out six. Offensively, Texas did just enough, despite going 0-for-7 with runners in scoring position and stranding multiple scoring chances. Adolis García drew a walk and scored on an Ezequiel Duran double in the second inning. In the fifth, Josh Smith led off with a single, moved to third on a Corey Seager base hit, and scored on a Marcus Semien sacrifice fly. The Rangers left runners in scoring position in six different innings, including bases loaded in the first and runners on second and third in both the fifth and eighth. Semien also doubled in the seventh but was left stranded. The bullpen trio of Jacob Webb, Cole Winn, and Luke Jackson held the White Sox to one run over four innings, giving up just four hits and a walk while striking out six to preserve the narrow 2–1 win.
+
+`
+  },
 ]
 
 let html = '';
