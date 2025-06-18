@@ -521,8 +521,7 @@ const schedule = [
   date: 'June 17',
   opp: 'Kansas City',
   score: 'L 6-1',
-  recap: `Jack Leiter (4-3, 3.88 ) vs. Seth Lugo (3-5, 3.18). The Royals jumped on Jack Leiter early, scoring three runs in the first inning on a double, a single, and a home run by Salvador Perez. Bobby Witt Jr. added a solo shot in the fifth, and Perez struck again with his second homer of the game in the sixth, helping Kansas City cruise to a dominant win. Leiter allowed six runs on eight hits and two walks over 5⅔ innings, striking out four. Caleb Boushley retired all 10 batters he faced in relief. 
-  Offensively, the Rangers struggled mightily—managing just five hits, one walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
+  recap: `Jack Leiter (4-3, 3.88 ) vs. Seth Lugo (3-5, 3.18). The Royals jumped on Jack Leiter early, scoring three runs in the first inning on a double, a single, and a Salvador Perez home run. Bobby Witt Jr. added a solo shot in the fifth, and Perez struck again with his second homer of the game in the sixth, helping Kansas City cruise to a dominant win. Leiter allowed six runs on eight hits and two walks over 5-2/3 innings, striking out four. Caleb Boushley retired all 10 batters he faced in relief. Offensively, the Rangers managed just five hits, a walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
   },
 ]
 
