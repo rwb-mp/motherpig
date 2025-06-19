@@ -530,6 +530,13 @@ const schedule = [
   score: 'L 6-3',
   recap: `Patrick Corbin (4-5, 3.66 ) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Sam Haggerty, an RBI double from Wyatt Langford, and a two-out single by Adolis García. But the Royals responded with four runs in the third off Patrick Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings but failed to capitalize, continuing a trend of missed opportunities. Haggerty and Langford each had three hits for the Rangers. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
   },
+  {
+  id: 'jun19',
+  date: 'June 19',
+  opp: 'Kansas City',
+  score: 'L 4-1',
+  recap: `Shawn Armstrong (2-1, 2.90 ) vs. Michael Wacha (3-6, 3.38). With both Nathan Eovaldi and Tyler Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Shawn Armstrong for a two-run homer in the first. Jacob Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. However, the Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. The loss sealed a three-game sweep at the hands of Kansas City and extended a frustrating stretch for the injury-depleted Texas pitching staff.`
+  },
 ]
 
 let html = '';
