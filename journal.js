@@ -528,7 +528,7 @@ const schedule = [
   date: 'June 18',
   opp: 'Kansas City',
   score: 'L 6-3',
-  recap: `Patrick Corbin (4-5, 3.66 ) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Sam Haggerty, an RBI double from Wyatt Langford, and a two-out single by Adolis García. But the Royals responded with four runs in the third off Patrick Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings, but failed to capitalize, continuing a trend of missed opportunities. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
+  recap: `Patrick Corbin (4-5, 3.66 ) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Sam Haggerty, an RBI double from Wyatt Langford, and a two-out single by Adolis García. But the Royals responded with four runs in the third off Patrick Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings but failed to capitalize, continuing a trend of missed opportunities. Haggerty and Langford each had three hits for the Rangers. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
   },
 ]
 
