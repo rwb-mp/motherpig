@@ -535,7 +535,7 @@ const schedule = [
   date: 'June 19',
   opp: 'Kansas City',
   score: 'L 4-1',
-  recap: `Shawn Armstrong (2-1, 2.90 ) vs. Michael Wacha (3-6, 3.38). With both Nathan Eovaldi and Tyler Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Shawn Armstrong for a two-run homer in the first. Jacob Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. However, the Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. The loss sealed a three-game sweep at the hands of Kansas City and extended a frustrating stretch for the injury-depleted Texas pitching staff.`
+  recap: `Shawn Armstrong (2-1, 2.90 ) vs. Michael Wacha (3-6, 3.38). With both Nathan Eovaldi and Tyler Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Shawn Armstrong for a two-run homer in the first. Jacob Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. The Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. They had a great chance in the fifth when Garcia and Osuna walked, but Burger, Jung, and Heim left them stranded. The loss sealed a three-game sweep at the hands of the Royals.`
   },
 ]
 
