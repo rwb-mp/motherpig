@@ -523,6 +523,13 @@ const schedule = [
   score: 'L 6-1',
   recap: `Jack Leiter (4-3, 3.88 ) vs. Seth Lugo (3-5, 3.18). The Royals jumped on Jack Leiter early, scoring three runs in the first inning on a double, a single, and a Salvador Perez home run. Bobby Witt Jr. added a solo shot in the fifth, and Perez struck again with his second homer of the game in the sixth, helping Kansas City cruise to a dominant win. Leiter allowed six runs on eight hits and two walks over 5-2/3 innings, striking out four. Caleb Boushley retired all 10 batters he faced in relief. Offensively, the Rangers managed just five hits, a walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
   },
+  {
+  id: 'jun18',
+  date: 'June 18',
+  opp: 'Kansas City',
+  score: 'L 6-3',
+  recap: `Patrick Corbin (4-5, 3.66 ) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Sam Haggerty, an RBI double from Wyatt Langford, and a two-out single by Adolis García. But the Royals responded with four runs in the third off Patrick Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to close the gap, including runners on second with no outs in both the fourth and seventh innings, but failed to capitalize. They went hitless in those situations, continuing a trend of missed opportunities. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
+  },
 ]
 
 let html = '';
