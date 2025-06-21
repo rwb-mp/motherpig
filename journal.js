@@ -537,6 +537,13 @@ const schedule = [
   score: 'L 4-1',
   recap: `Shawn Armstrong (2-1, 2.90 ) vs. Michael Wacha (3-6, 3.38). With both Nathan Eovaldi and Tyler Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Shawn Armstrong for a two-run homer in the first. Jacob Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. The Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. They had a great chance in the fifth when Garcia and Osuna walked, but Burger, Jung, and Heim left them stranded. The loss sealed a three-game sweep at the hands of the Royals.`
   },
+  {
+  id: 'jun20',
+  date: 'June 20',
+  opp: 'at Pittsburgh',
+  score: 'W 6-2',
+  recap: `Jacob deGrom (6-2, 2.19 ) vs. Mike Burrows (1-1, 4.24). Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. Adolis García launched a solo homer in the fourth, and Corey Seager added another in the fifth. In the seventh, Marcus Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Ezequiel Duran. Jacob deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Chris Martin, and Robert Garcia each tossed a scoreless frame to close out the win.`
+  },
 ]
 
 let html = '';

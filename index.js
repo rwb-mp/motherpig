@@ -1180,9 +1180,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '20',
     opp: 'at Pit <img src="logos/pirates.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '5:40',
-    score: '',
-    recap: 'CW33/Victory+'
+    time: '',
+    score: 'W 6-2',
+    recap: '<a href = "journal.html#jun20" target = "_blank">Recap</a>'
     },
     {
     id: '105',
