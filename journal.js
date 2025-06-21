@@ -548,7 +548,7 @@ const schedule = [
   id: 'jun21',
   date: 'June 21',
   opp: 'at Pittsburgh',
-  score: '',
+  score: 'W 3-2',
   recap: `Kumar Rocker (2-4, 7.31) vs. Mitch Keller (1-9, 4.08). Before the game, the Rangers placed Jake Burger on the 10-day IL with a left oblique strain. The Rangers managed just four hits in the game. Texas scored an unearned run in the third after Ezequiel Duran walked and Kyle Higashioka singled to left—then advanced when the ball skipped past the outfielder. In the sixth, the Rangers added two more on a pair of singles, a walk, and a sacrifice fly. Kumar Rocker pitched around traffic, holding Pittsburgh to two runs over 5-1/3 innings. The Pirates went 0-for-8 with runners in scoring position. Rocker allowed five hits and three walks while striking out four. Shawn Armstrong, Hoby Milner, and Chris Martin combined to retire the final 11 batters to lock down the win.`
   },
 ]

@@ -1192,7 +1192,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '21',
     opp: 'at Pit <img src="logos/pirates.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'W 3-2',
     recap: '<a href = "journal.html#jun21" target = "_blank">Recap</a>'
     },
     {
