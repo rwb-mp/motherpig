@@ -542,7 +542,7 @@ const schedule = [
   date: 'June 20',
   opp: 'at Pittsburgh',
   score: 'W 6-2',
-  recap: `Jacob deGrom (6-2, 2.19 ) vs. Mike Burrows (1-1, 4.24). Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. Adolis García launched a solo homer in the fourth, and Corey Seager added another in the fifth. In the seventh, Marcus Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Ezequiel Duran. Jacob deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Chris Martin, and Robert Garcia each tossed a scoreless frame to close out the win.`
+  recap: `Jacob deGrom (6-2, 2.19 ) vs. Mike Burrows (1-1, 4.24). Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. Adolis García launched a solo homer in the fourth, and Corey Seager added another in the fifth. In the seventh, Marcus Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Ezequiel Duran. Jacob deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Robert Garcia each tossed a scoreless frame to close out the win.`
   },
 ]
 
