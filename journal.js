@@ -542,7 +542,7 @@ const schedule = [
   date: 'June 20',
   opp: 'at Pittsburgh',
   score: 'W 6-2',
-  recap: `Jacob deGrom (6-2, 2.19) vs. Mike Burrows (1-1, 4.24). Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. Adolis García launched a solo homer in the fourth, and Corey Seager added another in the fifth. In the seventh, Marcus Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Ezequiel Duran. Jacob deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Robert Garcia each tossed a scoreless frame to close out the win.`
+  recap: `Jacob deGrom (6-2, 2.19) vs. Mike Burrows (1-1, 4.24). The Rangers are 27-4 in games in which they score at least four runs. Bochy has asked for four runs per game from the offense. Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. Adolis García launched a solo homer in the fourth, and Corey Seager added another in the fifth. In the seventh, Marcus Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Ezequiel Duran. Jacob deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Robert Garcia each tossed a scoreless frame to close out the win.`
   },
   {
   id: 'jun21',
@@ -557,6 +557,13 @@ const schedule = [
   opp: 'at Pittsburgh',
   score: 'L 8-3',
   recap: `Jack Leiter (4-4, 4.40) vs. Bailey Falter (5-3, 3.49).  The Rangers were held to just six hits and went 2-for-12 with runners in scoring position. Texas took an early 2–0 lead in the second inning, capitalizing on two walks and a pair of singles. Jack Leiter surrendered the lead in the fourth, allowing two runs on three singles and a sacrifice fly. After walking the leadoff batter in the fifth, Leiter was lifted for Caleb Boushley. Boushley gave up five runs on three singles and two doubles, allowing Pittsburgh to break the game open. Meanwhile, the Rangers' bats went silent. The Pirates' bullpen retired the final 10 Texas hitters, striking out five. Pittsburgh finished an efficient 7-for-14 with runners in scoring position.`
+  },
+  {
+  id: 'jun23',
+  date: 'June 23',
+  opp: 'at Baltimore',
+  score: 'L 6-0',
+  recap: `Patrick Corbin (4-6, 3.91) vs. Trevor Rogers (0-0, 3.12). Trevor Rogers, who had pitched just 8-2/3 innings across two starts this season, dominated the Rangers with eight shutout innings, allowing only three singles. Texas advanced just one runner to second base, and was shut out for the 10th time. Patrick Corbin took the loss, surrendering five runs on nine hits over five innings. Dane Dunning allowed one additional run in relief.`
   },
 ]
 
