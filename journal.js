@@ -259,7 +259,7 @@ const schedule = [
   date: 'May 6',
   opp: 'at Boston',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50). Leody Taveras was claimed off waivers by Seattle. A five-run fourth inning and another strong start from Nathan Eovaldi powered the Rangers to a 6–1 win over the Red Sox. Texas strung together six hits in the fourth, including doubles by Corey Seager and Joc Pederson and singles from Marcus Semien, Evan Carter, Jonah Heim, Josh Smith, and Wyatt Langford. The offense racked up 16 hits on the night, led by Smith (3 singles, walk) and Adolis Garcia (3 singles, walk, sac fly). Eovaldi was sharp again, going six innings and allowing just one run on five hits and a walk while striking out seven. The bullpen trio of Armstrong, Garcia, and Martin closed it out with three scoreless innings, allowing only one baserunner. Evan Carter, in his first start of 2025, went 2-for-5 with a hit off a left-hander.`
+  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50). Leody Taveras was claimed off waivers by Seattle. A five-run fourth inning and another strong start from Nathan Eovaldi powered the Rangers to a win. Texas strung together seven hits in the fourth, including doubles by Seager and Pederson and singles by Semien, Carter, Heim, Smith, and Langford. The offense racked up 16 hits on the night, led by Smith (3 singles, walk) and Adolis Garcia (3 singles, walk, sac fly). Eovaldi was sharp again, going six innings and allowing just one run on five hits and a walk while striking out seven. The bullpen trio of Armstrong, Garcia, and Martin closed it out with three scoreless innings, allowing only one baserunner. Evan Carter, in his first start of 2025, went 2-for-5 with a hit off a left-hander.`
   },
   {
   id: 'may7',
@@ -564,6 +564,15 @@ const schedule = [
   opp: 'at Baltimore',
   score: 'L 6-0',
   recap: `Patrick Corbin (4-6, 3.91) vs. Trevor Rogers (0-0, 3.12). Trevor Rogers, who had pitched just 8-2/3 innings across two starts this season, dominated the Rangers with eight shutout innings, allowing only three singles. Texas advanced just one runner to second base, and was shut out for the 10th time. Patrick Corbin took the loss, surrendering five runs on nine hits over five innings. Dane Dunning allowed one additional run in relief.`
+  },
+  {
+  id: 'jun24',
+  date: 'June 24',
+  opp: 'at Baltimore',
+  score: 'W 6-5',
+  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). The Rangers pulled out a 6–5 win in 10 innings over the Orioles, overcoming a late collapse and capitalizing on aggressive baserunning and timely execution. Texas took a 3–0 lead in the fourth, stringing together a walk, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Josh Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Jacob Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Chris Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Sam Haggerty walked, stole second and third, and scored on a Jonah Heim sacrifice fly to tie the game. In the ninth, Corey Seager singled and stole second, but Marcus Semien, Adolis García, and Evan Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate after Haggerty’s infield grounder. Robert Garcia pitched a clean bottom of the 10th to lock down the win.
+
+`
   },
 ]
 
