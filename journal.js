@@ -570,9 +570,14 @@ const schedule = [
   date: 'June 24',
   opp: 'at Baltimore',
   score: 'W 6-5',
-  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). Texas took a 3–0 lead in the fourth, stringing together a walk, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Josh Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Jacob Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Chris Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Sam Haggerty walked, stole second and third, and scored on a Jonah Heim sacrifice fly to tie the game. In the ninth, Corey Seager singled and stole second, but Marcus Semien, Adolis García, and Evan Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate on Haggerty’s infield grounder. Robert Garcia pitched a clean bottom of the 10th to lock down the win.
-
-`
+  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). Texas took a 3–0 lead in the fourth, stringing together a walk, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Josh Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Jacob Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Chris Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Sam Haggerty walked, stole second and third, and scored on a Jonah Heim sacrifice fly to tie the game. In the ninth, Corey Seager singled and stole second, but Marcus Semien, Adolis García, and Evan Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate on Haggerty’s infield grounder. Robert Garcia pitched a clean bottom of the 10th to lock down the win.`
+  },
+  {
+  id: 'jun25',
+  date: 'June 25',
+  opp: 'at Baltimore',
+  score: 'W 7-0',
+  recap: `Jacob deGrom (7-2, 2.24) vs. Brandon Young (0-1, 6.23). Jacob deGrom was nearly untouchable, retiring the first 18 batters he faced. A leadoff walk in the seventh ended his bid for a perfect game, and a leadoff single in the eighth spoiled the no-hitter, but deGrom finished with seven scoreless innings in a masterful outing. Marcus Semien led the offense with three hits, while Josh Jung drove in three runs, including a two-run homer in the fourth that snapped a personal 32-game home run drought. Jonah Heim added a solo shot in the sixth. Jacob Webb and Cole Winn closed out the win by retiring all six batters they faced in relief.`
   },
 ]
 
