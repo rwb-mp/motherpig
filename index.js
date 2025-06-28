@@ -1281,7 +1281,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'Victory+'
+    recap: 'Victory+/FS1'
     },
     {
     id: '114',
