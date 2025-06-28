@@ -18,7 +18,7 @@ const schedule = [
   date: 'March 29',
   opp: 'vs Boston',
   score: 'W 4-3',
-  recap: `Tyler Mahle (0-0, 0.00) vs. Walker Buehler (0-0, 0.00). Tyler Mahle struggled in his season debut, throwing 31 balls in just 61 pitches and failing to make it out of the second inning. Despite the early control issues, the Rangers held a 2-1 lead after two, thanks in part to a close play in left field—Kristian Campbell appeared to make a diving catch on an Adolis García liner, but the ball popped loose when he hit the ground. The bullpen was outstanding, with five relievers keeping Texas in the game. García carried the offense, driving in three runs with two doubles and a home run. The Rangers entered the ninth with a 4-3 lead, and Arlington High School alum Chris Martin sealed the win with a perfect inning for his first save of the season.
+  recap: `Tyler Mahle (0-0, 0.00) vs. Walker Buehler (0-0, 0.00). Tyler Mahle struggled in his season debut, throwing 31 balls in 61 pitches and failing to make it out of the second inning. Despite the early control issues, the Rangers held a 2-1 lead when Mahle departed, thanks in part to a close play in left field—Kristian Campbell appeared to make a diving catch on an Adolis García liner, but the ball popped loose when he hit the ground. The bullpen was outstanding, with five relievers keeping Texas in the game. García carried the offense, driving in three runs with two doubles and a home run. The Rangers entered the ninth with a 4-3 lead, and Arlington High School alum Chris Martin sealed the win with a perfect inning for his first save of the season.
 
 `
   },
@@ -223,36 +223,35 @@ const schedule = [
   date: 'April 30',
   opp: 'Athletics',
   score: 'L 7-1',
-  recap: `Nathan Eovaldi (2-2, 2.21) vs. Luis Severino (1-3, 3.49). Nathan Eovaldi delivered another quality start, but the Rangers’ bats went cold, leading to a 7–1 defeat against the A’s. Eovaldi pitched six innings, allowing just one run on six hits, issuing no walks, and striking out eight. However, Texas repeatedly squandered scoring chances, going 1-for-11 with runners in scoring position. The first two hitters reached base in the third, sixth, and eighth innings but failed to push across runs. Jake Burger, batting third, struck out four times and left five runners stranded. Wyatt Langford, hitting leadoff, went 0-for-5 and stranded six runners. The game slipped away in the ninth when the A’s erupted for six runs, including two home runs, against the Rangers’ bullpen trio of Garcia, Jackson, and Armstrong. Despite pitching to the sixth-best ERA in MLB at the end of April, Texas ranks 27th in runs scored.`
+  recap: `Nathan Eovaldi (2-2, 2.21) vs. Luis Severino (1-3, 3.49). Nathan Eovaldi delivered another quality start, but the Rangers’ bats went cold. Eovaldi pitched six innings, allowing just one run on six hits, issuing no walks, and striking out eight. However, Texas repeatedly squandered scoring chances, going 1-for-11 with runners in scoring position. The first two hitters reached base in the third, sixth, and eighth innings but Texas ailed to push across runs. Jake Burger, batting third, struck out four times and left five runners stranded. Wyatt Langford, hitting leadoff, went 0-for-5 and stranded six runners. The game slipped away in the ninth when the A’s erupted for six runs, including two home runs, against the Rangers’ bullpen trio of Garcia, Jackson, and Armstrong. Rangers' pitchers have the sixth-best ERA in MLB at the end of April, but Texas ranks 27th in runs scored.`
   },
   {
   id: 'may1',
   date: 'May 1',
   opp: 'Athletics',
   score: 'L 3-0',
-  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). Tyler Mahle delivered another solid outing, but the Rangers’ offense couldn’t capitalize, falling 3–0 to the Athletics. Mahle pitched six innings, allowing just one run on five hits and a walk while striking out six. Meanwhile, rookie pitcher Springs, who struggled in his previous start against the White Sox, held the Rangers to only two singles over six innings. Opponents had been hitting .432 against Springs’ fastball, but Texas couldn’t break through. The Rangers went 0-for-4 with runners in scoring position and have now dropped five of their last seven games against Oakland. Following the game, Jake Burger was optioned to Round Rock, and Blaine Crimm (.313/.365/.565) was called up to the big league roster.`
+  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). Tyler Mahle delivered another solid outing, but the Rangers’ offense couldn’t capitalize. Mahle pitched six innings, allowing just one run on five hits and a walk while striking out six. Meanwhile, rookie pitcher Springs, who struggled in his previous start against the White Sox, held the Rangers to only two singles over six innings. Opponents had been hitting .432 against Springs’ fastball, but Texas couldn’t break through. The Rangers went 0-for-4 with runners in scoring position and have now dropped five of their last seven games against Oakland. Following the game, Jake Burger was optioned to Round Rock, and Blaine Crimm (.313/.365/.565) was called up to the big league roster.`
   },
   {
   id: 'may2',
   date: 'May 2',
   opp: 'Seattle',
   score: 'L 13-1',
-  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). The Mariners’ offense, highlighted by a solo homer and a grand slam from Cal Raleigh, proved more than enough to hand the Rangers a tough defeat, dropping Texas below .500 for the first time since Opening Day. Bryan Woo was dominant on the mound, retiring the first 14 Rangers batters before Jonah Heim’s harmless single in the fifth. Seattle’s pitching staff retired the next 12 batters until Josh Smith broke through with a two-out homer in the ninth — ending a 281 at-bat homerless streak for Texas. Rangers rookie Blaine Crimm made his MLB debut, going 0-for-3 with two strikeouts in the loss.`
+  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). The Mariners’ offense, highlighted by a solo homer and a grand slam from Cal Raleigh, proved more than enough to hand the Rangers a loss, dropping Texas below .500 for the first time since Opening Day. Bryan Woo was dominant on the mound, retiring the first 14 Rangers batters before Jonah Heim’s harmless single in the fifth. Seattle’s pitching staff retired the next 12 batters until Josh Smith broke through with a two-out homer in the ninth — ending a 281 at-bat homerless streak for Texas. Rangers rookie Blaine Crimm made his MLB debut, going 0-for-3 with two strikeouts in the loss.`
   },
   {
   id: 'may3',
   date: 'May 3',
   opp: 'Seattle',
   score: 'L 2-1',
-  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). Corey Seager returned from the 10-day IL, but the Rangers' offensive struggles continued in a 2–1 loss to the Mariners — their fourth straight defeat and ninth in the last 11 games. 
-  J.P. Crawford homered on Patrick Corbin’s first pitch of the game, but Corbin settled in, retiring 12 straight at one point. He exited after 5-2/3 innings, allowing one run on five hits, two walks, and two strikeouts. The Rangers tied it in the fourth when Seager led off with a single and scored on a two-out RBI single by Jonah Heim. However, the offense managed just five hits on the night and went quietly after that. Chris Martin gave up the go-ahead run in the ninth, allowing a leadoff double to Jorge Polanco, who scored on a Rowdy Tellez single. The Rangers threatened in the bottom half, but Adolis Garcia struck out with the tying run on second to end the game.`
+  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). Corey Seager returned from the 10-day IL, but the Rangers' offensive struggles continued. It was their fourth straight loss and ninth in the last 11 games. J.P. Crawford homered on Corbin’s first pitch of the game, but Corbin settled in, retiring 12 straight at one point. He exited after 5-2/3 innings, allowing one run on five hits, two walks, and two strikeouts. The Rangers tied it in the fourth when Seager led off with a single and scored on a two-out RBI single by Jonah Heim. However, the offense managed just five hits on the night and went quietly after that. Chris Martin gave up the go-ahead run in the ninth, allowing a leadoff double to Jorge Polanco, who scored on a Rowdy Tellez single. The Rangers threatened in the bottom half, but Adolis Garcia struck out with the tying run on second to end the game.`
   },
   {
   id: 'may4',
   date: 'May 4',
   opp: 'Seattle',
   score: 'W 8-1',
-  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60). The Rangers broke out with a six-run third inning, highlighted by Corey Seager’s two-run single and a flurry of clutch two-out hits from Marcus Semien, Adolis Garcia, and Josh Jung, to take down the Mariners 8–1. Texas sent 11 batters to the plate in the third, collecting six singles and two walks. Josh Smith led the offensive charge with a 4-hit night, capping it with an RBI triple in the eighth that scored Jung. Jacob deGrom turned in another solid outing, allowing one run on three hits and two walks over five innings, with three strikeouts. The bullpen was dominant, shutting out Seattle over the final four innings and allowing just two baserunners.`
+  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60). The Rangers broke out with a six-run third inning, highlighted by Corey Seager’s two-run single and a flurry of clutch two-out hits from Marcus Semien, Adolis Garcia, and Josh Jung, to take down the Mariners. Texas sent 11 batters to the plate in the third, collecting six singles and two walks. Josh Smith led the offensive charge with a 4-hit night, capping it with an RBI triple in the eighth that scored Jung. Jacob deGrom turned in another solid outing, allowing one run on three hits and two walks over five innings, with three strikeouts. The bullpen was dominant, shutting out Seattle over the final four innings and allowing just two baserunners.`
   },
   {
   id: 'may6',
@@ -266,7 +265,7 @@ const schedule = [
   date: 'May 7',
   opp: 'at Boston',
   score: 'L 6-4',
-  recap: `Tyler Mahle (3-1, 1.19) vs. Tanner Houck (0-2, 6.38). The Rangers’ bullpen couldn’t hold a one-run lead, surrendering four runs after the fifth inning as Texas fell 6–4 to the Red Sox. Tyler Mahle turned in a steady start, allowing two runs on four hits with one walk over five innings. Texas led 2–0 after Adolis Garcia’s solo homer in the fourth — the club’s first long ball in 15 games. The Rangers added another run in the fifth on a Seager single and a Pederson double. But relievers Milner, Webb, Garcia, and Boushley combined to give up four runs, with Wilyer Abreu and Alex Bregman doing the bulk of Boston’s damage. Josh Jung homered on the first pitch of the ninth off Aroldis Chapman to cut the deficit to 6–4. Wyatt Langford followed with a walk to bring the tying run to the plate, but Corey Seager flew out to the warning track and Blaine Crim struck out to end the game. The Rangers went 0-for-10 with runners in scoring position. Marcus Semien was hitless and left six men on base. Joc Pederson was a bright spot, reaching base all three times with a single, double, and walk. Evan Carter went 0-for-4 in his second game back.`
+  recap: `Tyler Mahle (3-1, 1.19) vs. Tanner Houck (0-2, 6.38). The Rangers’ bullpen couldn’t hold a one-run lead, surrendering four runs after the fifth inning. Tyler Mahle turned in a steady start, allowing two runs on four hits with one walk over five innings. Texas led 2–0 after Adolis Garcia’s solo homer in the fourth — the club’s first long ball in 15 games. The Rangers added another run in the fifth on a Seager single and a Pederson double. But relievers Milner, Webb, Garcia, and Boushley combined to give up four runs, with Wilyer Abreu and Alex Bregman doing the bulk of Boston’s damage. Josh Jung homered on the first pitch of the ninth off Aroldis Chapman to cut the deficit to 6–4. Wyatt Langford followed with a walk to bring the tying run to the plate, but Corey Seager flew out to the warning track and Blaine Crim struck out to end the game. The Rangers went 0-for-10 with runners in scoring position. Marcus Semien was hitless and left six men on base. Joc Pederson was a bright spot, reaching base all three times with a single, double, and walk. Evan Carter went 0-for-4 in his second game back.`
   },
   {
   id: 'may8',
@@ -578,6 +577,13 @@ const schedule = [
   opp: 'at Baltimore',
   score: 'W 7-0',
   recap: `Jacob deGrom (7-2, 2.24) vs. Brandon Young (0-1, 6.23). Jacob deGrom was nearly untouchable, retiring the first 18 batters he faced. A leadoff walk in the seventh ended his bid for a perfect game, and a leadoff single in the eighth spoiled the no-hitter, but deGrom finished with seven scoreless innings in a masterful outing. Marcus Semien led the offense with three hits, while Josh Jung drove in three runs, including a two-run homer in the fourth that snapped a personal 32-game home run drought. Jonah Heim added a solo shot in the sixth. Jacob Webb and Cole Winn closed out the win by retiring all six batters they faced in relief.`
+  },
+  {
+  id: 'jun27',
+  date: 'June 27',
+  opp: 'Seattle',
+  score: 'L 7-6',
+  recap: `Nathan Eovaldi (4-3, 1.56) vs. Logan Gilbert (2-2, 3.12). In his first start since May 27, Nathan Eovaldi was on a strict pitch limit, throwing just 45 pitches. The Rangers’ pitching staff allowed 16 hits and five walks, but managed to hold Seattle to just 4-for-23 with runners in scoring position. After the Mariners struck first in the opening inning, Corey Seager responded with a solo home run in the bottom half to tie it. Seattle regained control with two runs in the third and added insurance in the fourth and sixth to build a 5–1 lead. Texas came alive in the bottom of the sixth, cutting the deficit to one on a Marcus Semien RBI double and a two-run single by Adolis García. They tied it in the seventh on a two-out double by Josh Smith followed by a Sam Haggerty RBI single. The teams traded runs in the tenth, with García delivering a sacrifice fly for his third RBI of the game. But Seattle pushed across the go-ahead run in the 12th, and the Rangers couldn't answer—García lined out to right and Josh Jung struck out on a high pitch to end it. Texas had their chances but couldn’t capitalize, going just 3-for-20 with runners in scoring position and leaving 13 runners on base.`
   },
 ]
 
