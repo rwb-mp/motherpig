@@ -569,7 +569,7 @@ const schedule = [
   date: 'June 24',
   opp: 'at Baltimore',
   score: 'W 6-5',
-  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). Texas took a 3–0 lead in the fourth, stringing together a walk, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Josh Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Jacob Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Chris Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Sam Haggerty walked, stole second and third, and scored on a Jonah Heim sacrifice fly to tie the game. In the ninth, Corey Seager singled and stole second, but Marcus Semien, Adolis García, and Evan Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate on Haggerty’s infield grounder. Robert Garcia pitched a clean bottom of the 10th to lock down the win.`
+  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). Texas took a 3–0 lead in the fourth on a walk, an error, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Josh Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Jacob Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Chris Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Sam Haggerty walked, stole second and third, and scored on a Jonah Heim sacrifice fly to tie the game. In the ninth, Corey Seager singled and stole second, but Marcus Semien, Adolis García, and Evan Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate on Haggerty’s infield grounder. Robert Garcia pitched a clean bottom of the 10th to lock down the win.`
   },
   {
   id: 'jun25',
@@ -605,6 +605,13 @@ const schedule = [
   opp: 'Baltimore',
   score: 'L 10-6',
   recap: `Patrick Corbin (4-7, 4.24) vs. Trevor Rogers (1-0, 1.62). The Rangers played their fourth consecutive extra-inning game. Patrick Corbin ran into early trouble, surrendering three runs in the third as Baltimore opened the inning with three singles, a walk, and a double. Corbin settled down, retiring 12 of the next 13 batters to complete six innings and earn a quality start. Texas chipped away at the deficit in the sixth when Sam Haggerty drew a walk and Marcus Semien followed with a 422-foot home run to left. The Rangers tied it 3–3 in the seventh without a hit, as Michael Helman walked, then scored from first on a stolen base attempt when the throw to second hit him and bounced into center field. The Rangers had a golden opportunity to walk it off in the ninth. Kyle Higashioka worked a one-out walk, and pinch-runner Ezequiel Duran stole second and third. But Osuna struck out and Haggerty grounded out to first, stranding the potential winning run. The Orioles homered twice in the 10th to take a 6–3 lead. But the Rangers responded in the bottom half—after a squib single to the right of the mound by Semien, Adolis García tied the game with a 417-foot homer to left. In the 11th Baltimore broke it open with four runs off Hoby Milner to put the game out of reach.`
+  },
+  {
+  id: 'jul1',
+  date: 'July 1',
+  opp: 'Baltimore',
+  score: 'W 10-2',
+  recap: `Jacob deGrom (8-2, 2.08) vs. Brandon Young (0-2, 7.11). The Rangers had fourteen hits and drew five walks in an offensive onslaught. Garcia led the offense with three hits and four RBI's. Seager had a pair of doubles, and Osuna hit his first big league home run. Foscue had a double to end an 0-for-44 hitless streak. Billy McKinney had his first hit as a Ranger. deGrom's line: six innings, two runs on five hits and a walk, with six strikeouts. Latz pitched three shurout innings in relief.`
   },
 ]
 
