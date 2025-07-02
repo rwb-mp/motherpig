@@ -611,7 +611,7 @@ const schedule = [
   date: 'July 1',
   opp: 'Baltimore',
   score: 'W 10-2',
-  recap: `Jacob deGrom (8-2, 2.08) vs. Brandon Young (0-2, 7.11). The Rangers had fourteen hits and drew five walks in an offensive onslaught. Garcia led the offense with three hits and four RBI's. Seager had a pair of doubles, and Osuna hit his first big league home run. Foscue had a double to end an 0-for-44 hitless streak. Billy McKinney had his first hit as a Ranger. deGrom's line: six innings, two runs on five hits and a walk, with six strikeouts. Latz pitched three shurout innings in relief.`
+  recap: `Jacob deGrom (8-2, 2.08) vs. Brandon Young (0-2, 7.11). The Rangers broke out offensively with 14 hits and five walks led by García’s three-hit, four-RBI performance. Every starter in the Rangers' lineup had at least one base hit. Seager doubled twice, and Osuna hit his first big league home run. Foscue finally broke through, ending an 0-for-44 slump with a double, and Billy McKinney recorded his first hit as a Ranger. deGrom turned in a strong start, allowing two runs on five hits and a walk over six innings, striking out six. Latz finished the game with three shutout innings.`
   },
 ]
 
