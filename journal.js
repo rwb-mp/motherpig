@@ -613,6 +613,13 @@ const schedule = [
   score: 'W 10-2',
   recap: `Jacob deGrom (8-2, 2.08) vs. Brandon Young (0-2, 7.11). The Rangers broke out offensively with 14 hits and five walks led by García’s three hits and four RBI's. Every starter in the Rangers' lineup had at least one base hit. Seager doubled twice, and Osuna hit his first big league home run. Foscue broke through, ending an 0-for-44 slump with a double, and Billy McKinney recorded his first hit as a Ranger. deGrom turned in a strong start, allowing two runs on five hits and a walk over six innings, striking out six. Latz finished the game with three shutout innings.`
   },
+  {
+  id: 'jul2',
+  date: 'July 2',
+  opp: 'Baltimore',
+  score: 'W 6-0',
+  recap: `Nathan Eovaldi (4-3, 1.87) vs. Tomoyuki Sugano (6-4, 4.06). The Rangers entered the game with MLB’s best ERA at 3.27. In just his second start since returning from the IL, Eovaldi threw 72 pitches over five innings while allowing only two hits and a walk and striking out five. Semien opened the scoring in the third with a clutch two-out, three-run homer. Duran added to the lead with a two-out, two-run single in the fourth, and Corey Seager made it 6–0 with a leadoff homer in the fifth. The bullpen kept the shutout intact as Webb tossed a clean sixth and Dane Dunning closed it out with three scoreless innings for the save. Offensively, Smith had three of the team’s 11 hits. Before the game, Josh Jung was optioned to Triple-A Round Rock.`
+  },
 ]
 
 let html = '';
