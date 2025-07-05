@@ -127,7 +127,7 @@ const schedule = [
   date: 'April 16',
   opp: 'Los Angeles Angels',
   score: 'W 3-1',
-  recap: `Patrick Corbin (0-0, 6.75) vs. Jose Soriano (2-1, 2.70). The Rangers jumped out early with a three-run second inning, highlighted by Dustin Harris’s double down the right-field line and Jake Burger’s RBI single up the middle. After walks to Jonah Heim and Marcus Semien, Corey Seager delivered a two-out, two-RBI single to make it 3–0. Starter Patrick Corbin kept the Angels off balance with his off-speed stuff, striking out six over five strong innings. In the sixth, the Angels broke through with three consecutive one-out hits, including a bloop double that landed just inside the right-field line, scoring their only run. Shawn Armstrong came on to record the final two outs and preserve the 3–1 lead. Armstrong allowed two baserunners in the seventh, but Jacob Webb escaped the jam with a deep flyout to left. Luke Jackson pitched a clean ninth for his sixth save. Texas tallied 11 hits—including three each from Seager and Burger—but went just 2-for-10 with runners in scoring position.`
+  recap: `Patrick Corbin (0-0, 6.75) vs. Jose Soriano (2-1, 2.70). The Rangers jumped out early with a three-run second inning. Dustin Harris doubled down the right-field line and Jake Burger singled up the middle to score him. After walks to Jonah Heim and Marcus Semien, Corey Seager delivered a two-out, two-RBI single to make it 3–0. Starter Patrick Corbin kept the Angels off balance with his off-speed stuff, striking out six over five strong innings. In the sixth, the Angels broke through with three consecutive one-out hits, including a bloop double that landed just inside the right-field line, scoring their only run. Shawn Armstrong came on to record the final two outs and preserve the 3–1 lead. Armstrong allowed two baserunners in the seventh, but Jacob Webb escaped the jam with a deep flyout to left. Luke Jackson pitched a clean ninth for his sixth save. Texas tallied 11 hits—including three each from Seager and Burger—but went just 2-for-10 with runners in scoring position.`
   },
   {
   id: 'apr17',
@@ -618,7 +618,14 @@ const schedule = [
   date: 'July 2',
   opp: 'Baltimore',
   score: 'W 6-0',
-  recap: `Nathan Eovaldi (4-3, 1.87) vs. Tomoyuki Sugano (6-4, 4.06). The Rangers entered the game with MLB’s best ERA at 3.27. In just his second start since returning from the IL, Eovaldi threw 72 pitches over five innings while allowing only two hits and a walk and striking out five. Semien opened the scoring in the third with a clutch two-out, three-run homer. Duran added to the lead with a two-out, two-run single in the fourth, and Corey Seager made it 6–0 with a leadoff homer in the fifth. The bullpen kept the shutout intact as Webb tossed a clean sixth and Dane Dunning closed it out with three scoreless innings for the save. Offensively, Smith had three of the team’s 11 hits. Before the game, Josh Jung was optioned to Triple-A Round Rock.`
+  recap: `Nathan Eovaldi (4-3, 1.87) vs. Tomoyuki Sugano (6-4, 4.06). The Rangers entered the game with MLB’s best ERA at 3.27. In his second start since returning from the IL, Eovaldi threw 72 pitches over five innings while allowing only two hits and a walk and striking out five. Semien opened the scoring in the third with a two-out, three-run homer. Duran added to the lead with a two-out, two-run single in the fourth, and Corey Seager made it 6–0 with a leadoff homer in the fifth. The bullpen kept the shutout intact as Webb tossed a clean sixth and Dane Dunning closed it out with three scoreless innings for the save. Offensively, Smith had three of the team’s 11 hits. Before the game, Josh Jung was optioned to Triple-A Round Rock.`
+  },
+  {
+  id: 'jul4',
+  date: 'July 4',
+  opp: 'at San Diego',
+  score: 'L 3-2',
+  recap: `Kumar Rocker (3-4, 6.13) vs. Randy Vasquez (3-4, 3.84). The Rangers managed just five hits and went 1-for-12 with runners in scoring position. Texas took a 2–0 lead in the third inning when Josh Smith walked with two outs, Corey Seager singled, and Marcus Semien drove them both in with a double to right-center. San Diego responded with a solo homer by Manny Machado in the fourth, and tied the game in the sixth after Adolis García misplayed a deep fly ball into a triple, followed by a one-out RBI single. Kumar Rocker pitched 5-1/3 innings, allowing two runs on four hits and two walks while striking out four. Milner, Armstrong, Martin, and Webb combined for 3-2/3 scoreless innings to send the game to extras. The Rangers squandered key opportunities late. Higashioka doubled to the wall with one in the seventh but Smith and Semien couldn't score him. In the ninth, pinch-runner Duran stole second with two outs but Smith grounded out to strand him. In the tenth, Seager, García, and Sam Haggerty failed to bring home the free runner from second. San Diego took advantage and walked it off in the bottom of the tenth.`
   },
 ]
 
