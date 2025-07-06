@@ -627,6 +627,13 @@ const schedule = [
   score: 'L 3-2',
   recap: `Kumar Rocker (3-4, 6.13) vs. Randy Vasquez (3-4, 3.84). The Rangers managed just five hits and went 1-for-12 with runners in scoring position. Texas took a 2–0 lead in the third inning when Smith walked with two outs, Seager singled, and Semien drove them both in with a double to right-center. San Diego responded with a solo homer in the fourth, and tied the game in the sixth after García misplayed a deep fly ball into a triple, followed by a one-out RBI single. Rocker pitched 5-1/3 innings, allowing two runs on four hits and two walks while striking out four. Milner, Armstrong, Martin, and Webb combined for 3-2/3 scoreless innings to send the game to extras. The Rangers squandered key opportunities late. Higashioka doubled to the wall with one out in the seventh but Smith and Semien couldn't score him. In the ninth, pinch-runner Duran stole second with two outs but Smith grounded out to strand him. In the tenth, Seager, García, and Haggerty failed to bring home the free runner from second. San Diego capitalized and walked it off in the bottom of the tenth.`
   },
+  {
+  id: 'jul5',
+  date: 'July 5',
+  opp: 'at San Diego',
+  score: 'W 7-4',
+  recap: `Patrick Corbin (4-7, 4.26) vs. Stephen Kolek (3-3, 3.73). Higashioka had five RBI's, with at least one in each of his four of his plate appearances. The bottom of the order that included Heim, Burger, and Higashioka combined to go 6-for-9. Smith hit the first pitch of the game 409 feet for a leadoff home run. Smith and Langford made sensational plays in the field to create outs. Corbin turned in another quality start, allowing two runs on six hits and a walk over six innings, striking out three. The Padres loaded the bases in the seventh against Luke Jackson on two walks and a single. Milner came in and allowed a pair of sacrifice flies but limited the damage to preserve a 6–4 lead. The Rangers scored again in the eighth. In the ninth, the Padres loaded the bases with two outs against Garcia, but Armstrong got the final out to secure the save.`
+  },
 ]
 
 let html = '';
