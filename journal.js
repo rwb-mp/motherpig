@@ -120,7 +120,7 @@ const schedule = [
   date: 'April 15',
   opp: 'Los Angeles Angels',
   score: 'W 4-0',
-  recap: `Tyler Mahle (2-0, 1.32) vs. Yusei Kikuchi (0-2, 4.58). The Rangers offense entered the game with the fewest walks in MLB. Tyler Mahle looked like a front-line starter for the third straight outing, tossing six shutout innings with nine strikeouts. Leody Taveras sparked the offense in the sixth with a bunt single and a stolen base, and reached third on a throwing error. Marcus Semien brought him home with a deep sac fly to left. Texas added insurance with a pair of doubles from Jonah Heim and Kyle Higashioka in the seventh, and two more runs in the eighth on hits by Corey Seager, Josh Jung, and Kevin Pillar. Relievers Garcia, Martin, Webb, and Jackson combined to finish the shutout.`
+  recap: `Tyler Mahle (2-0, 1.32) vs. Yusei Kikuchi (0-2, 4.58). The Rangers offense entered the game with the fewest walks in MLB. Tyler Mahle looked like a front-line starter for the third straight outing, tossing six shutout innings with nine strikeouts. Leody Taveras sparked the offense in the sixth with a bunt single and a stolen base, and reached third on a throwing error. Marcus Semien brought him home with a deep sac fly to left. Texas added an insurance run with doubles from Jonah Heim and Kyle Higashioka in the seventh, and two more runs in the eighth on hits by Corey Seager, Josh Jung, and Kevin Pillar. Relievers Garcia, Martin, Webb, and Jackson combined to finish the shutout.`
   },
   {
   id: 'apr16',
@@ -639,7 +639,14 @@ const schedule = [
   date: 'July 6',
   opp: 'at San Diego',
   score: 'L 4-1',
-  recap: `Jack Leiter (4-5, 4.29) vs. David Morgan (0-1, 2.08). It was a bullpen game for the Padres who used an opener followed by five more relievers. Smith led off the game with a single followed by a Seager RBI double. Texas went on to load the bases with two outs in the inning, but Heim hit a soft line drive for the third out. The Rangers managed only three singles the rest of the game and failed to advance another runner to second base. Leiter threw 85 pitches in just 3-2/3 innings, allowing two runs on five hits and two walks, striking out five. Latz pitched three innings in relief and was charged with the other two San Diego runs. It was the 25th time this season that the Rangers were held to one run or less.`
+  recap: `Jack Leiter (4-5, 4.29) vs. David Morgan (0-1, 2.08). It was a bullpen game for the Padres who used an opener followed by five more relievers. Smith led off the game with a single followed by a Seager RBI double. Texas went on to load the bases with two outs in the inning, but Heim lined out on a great play at second base to save two runs. The Rangers managed only three singles the rest of the game and failed to advance another runner to second base. Leiter threw 85 pitches in just 3-2/3 innings, allowing two runs on five hits and two walks, striking out five. Latz pitched three innings in relief and was charged with the other two San Diego runs. It was the 25th time this season that the Rangers were held to one run or less.`
+  },
+  {
+  id: 'jul7',
+  date: 'July 7',
+  opp: 'at Los Angeles Angels',
+  score: '',
+  recap: `Jacob deGrom (9-2, 2.13) vs. Yusei Kukuchi (3-6, 2.81). `
   },
 ]
 
