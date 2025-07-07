@@ -634,6 +634,13 @@ const schedule = [
   score: 'W 7-4',
   recap: `Patrick Corbin (4-7, 4.26) vs. Stephen Kolek (3-3, 3.73). Higashioka had five RBI's, with at least one in each of his four plate appearances. The bottom of the order, Heim, Burger, and Higashioka, combined to go 6-for-9. Smith hit the first pitch of the game 409 feet for a leadoff home run. Smith and Langford made sensational plays in the field to create outs. Corbin turned in another quality start, allowing two runs on six hits and a walk over six innings, striking out three. The Padres loaded the bases with no outs in the seventh against Luke Jackson on two walks and a single. Milner came in and allowed a pair of sacrifice flies but limited the damage to preserve a 6–4 lead. The Rangers scored again in the eighth. In the ninth, the Padres loaded the bases with two outs against Garcia, but Armstrong got the final out to secure the save.`
   },
+  {
+  id: 'jul6',
+  date: 'July 6',
+  opp: 'at San Diego',
+  score: 'L 4-1',
+  recap: `Jack Leiter (4-5, 4.29) vs. David Morgan (0-1, 2.08). It was a bullpen game for the Padres who used an opener followed by five more relievers. Smith led off the game with a single followed by a Seager RBI double. Texas went on to load the bases with two outs in the inning, but Heim hit a soft line drive for the third out. The Rangers managed only three singles the rest of the game and failed to advance another runner to second base. Leiter threw 85 pitches in just 3-2/3 innings, allowing two runs on five hits and two walks, striking out five. Latz pitched three innings in relief and was charged with the other two San Diego runs. It was the 25th time this season that the Rangers were held to one run or less.`
+  },
 ]
 
 let html = '';
