@@ -645,8 +645,8 @@ const schedule = [
   id: 'jul7',
   date: 'July 7',
   opp: 'at Los Angeles Angels',
-  score: '',
-  recap: `Jacob deGrom (9-2, 2.13) vs. Yusei Kukuchi (3-6, 2.81). `
+  score: 'L 6-5',
+  recap: `Jacob deGrom (9-2, 2.13) vs. Yusei Kukuchi (3-6, 2.81). deGrom threw 95 pitches over five innings and left with a 4-3 lead. It was his first time allowing more than two runs in a start since April 11. Seager launched a 430-foot, two-run homer in the first, and Adolis García and Jonah Heim added RBI singles in the third to give Texas a 4–3 lead. Shawn Armstrong took over in the sixth and quickly recorded two outs before surrendering three straight hits that allowed the Angels to take a 5–4 lead. The Rangers tied the game in the eighth when Burger reached with two outs on a wild pitch after a strikeout, and Josh Smith came through with a pinch-hit RBI double to make it 5–5. In the ninth, Martin allowed two hits to put runners on the corners. After an intentional walk to load the bases, Hoby Milner was called on to try to send the game to extra innings—but issued a seven-pitch walk, forcing in the winning run and handing the Angels a walk-off win.`
   },
 ]
 
