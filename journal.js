@@ -653,7 +653,7 @@ const schedule = [
   date: 'July 8',
   opp: 'at Los Angeles Angels',
   score: 'W 13-1',
-  recap: `Nathan Eovaldi (5-3, 1.75) vs. Jose Soriano (6-5, 3.72). Eovaldi threw 72 pitches over six innings in his third start since returning from the IL, allowing one unearned run on five hits, no walks, with six strikeouts. The only Los Angeles run came in the first after a Smith throwing error, and the Angels failed to advance another runner to second base. Texas drew nine walks to go with twelve base hits. The trio of Langford, Carter, and Burger combined for six hits and eleven RBI's. Seager hit his 13th home run 427 feet to rightfield.`
+  recap: `Nathan Eovaldi (5-3, 1.75) vs. Jose Soriano (6-5, 3.72). Eovaldi threw 72 pitches over six innings in his third start since returning from the IL, allowing one unearned run on five hits, no walks, with six strikeouts. Dunning pitched two perfect innings, and Duran pitched the ninth. The only Los Angeles run came in the first after a Smith throwing error, and the Angels failed to advance another runner to second base. Texas drew nine walks to go with twelve base hits. The trio of Langford, Carter, and Burger combined for six hits and eleven RBI's. Seager hit his 13th home run, 427 feet to rightfield.`
   },
 ]
 
