@@ -653,7 +653,14 @@ const schedule = [
   date: 'July 8',
   opp: 'at Los Angeles Angels',
   score: 'W 13-1',
-  recap: `Nathan Eovaldi (5-3, 1.75) vs. Jose Soriano (6-5, 3.72). Eovaldi threw 72 pitches over six innings in his third start since returning from the IL, allowing one unearned run on five hits, no walks, with six strikeouts. Dunning pitched two perfect innings, and Duran pitched the ninth. The only Los Angeles run came in the first after a Smith throwing error, and the Angels failed to advance another runner to second base. Texas drew nine walks to go with twelve base hits. The trio of Langford, Carter, and Burger combined for six hits and eleven RBI's. Seager hit his 13th home run, 427 feet to rightfield.`
+  recap: `Nathan Eovaldi (5-3, 1.75) vs. Jose Soriano (6-5, 3.72). Eovaldi threw 72 pitches over six innings in his third start since returning from the IL, allowing one unearned run on five hits, no walks, with six strikeouts. Dunning pitched two perfect innings, and Duran pitched the ninth. The only Los Angeles run came in the first after a Smith throwing error, and the Angels failed to advance another runner to second base. Texas drew a season high nine walks to go with twelve base hits. The trio of Langford, Carter, and Burger combined for six hits and eleven RBI's. Seager hit his 13th home run, 427 feet to rightfield. It was his 6th home run in the last 11 games.`
+  },
+  {
+  id: 'jul9',
+  date: 'July 9',
+  opp: 'at Los Angeles Angels',
+  score: 'L 11-8',
+  recap: `Kumar Rocker (3-4, 5.80) vs. Kyle Hendricks (5-6, 4.68). Rangers' pitchers and defense blew three leads. Smith scored twice early and Higashioka homered in the third for a 3-0 lead, but the Angels scored four in their half of the third. A Langford single and a Smith double gave Texas a 5-4 lead. Rocker surrendered a pair of solo home runs to give the Angels a 6-5 lead. The Rangers tied it in the sixth and took a two-run lead in the seventh on a Semien home run. A Burger error in the seventh allowed two unearned runs to tie the game again. Luke Jackson was tagged for three runs on four hits in the eighth, and the Rangers couldn't muster a ninth-inning comeback.    The Rangers lost three separate leads in a back-and-forth game. Texas jumped out to a 3–0 lead early behind a pair of runs scored by Smith and a solo homer by Higashioka. But the Angels responded immediately with four runs in the bottom of the third to take a 4–3 lead. The Rangers regained the advantage after a Langford single and a Smith double to go up 5–4. Rocker gave up a pair of solo home runs, allowing the Angels to take a 6–5 lead. Texas tied it in the sixth and pulled ahead again in the seventh on a two-run homer by Semien. That lead didn’t last either. A Jake Burger error in the bottom of the seventh allowed two unearned runs to tie the game at 8–8. In the eighth, Luke Jackson was tagged for three runs on four hits, and the Rangers were unable to rally in the ninth.`
   },
 ]
 
