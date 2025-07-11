@@ -662,6 +662,13 @@ const schedule = [
   score: 'L 11-8',
   recap: `Kumar Rocker (3-4, 5.80) vs. Kyle Hendricks (5-6, 4.68). Rangers' pitching and defense lost three separate leads in a back-and-forth game. Texas jumped out to a 3–0 lead early behind a pair of runs scored by Smith and a solo homer by Higashioka. But the Angels responded immediately with four runs in the bottom of the third to take a 4–3 lead. The Rangers regained the advantage after a Langford single and a Smith double to go up 5–4. Rocker gave up a pair of solo home runs, allowing the Angels to take a 6–5 lead. Texas tied it in the sixth and pulled ahead again in the seventh on a 423-foot, two-run homer by Semien. That lead didn’t last either. A Jake Burger error in the bottom of the seventh allowed two unearned runs to tie the game at 8–8. In the eighth, Luke Jackson was tagged for three runs on four hits, and the Rangers were unable to rally in the ninth. Texas was 2-for-11 with runners in scoring position.`
   },
+  {
+  id: 'jul10',
+  date: 'July 10',
+  opp: 'at Los Angeles Angels',
+  score: 'W 11-4',
+  recap: `Patrick Corbin (5-7, 4.18) vs. Jack Kochanowicz (3-8, 5.42). The Rangers scored often and early with three runs on four consecutive singles in the first. Texas broke it open in the third with seven runs on five singles, a double, and 3 walks.Garcia added a two-run homer in the eighth. Semien went 4-for-5, scoring three runs and knocking in one. Corbin got the win pitching five innings, allowing two runs on seven hits and two walks, striking out six. In the four game series, the Rangers scored 37 runs on 43 hits and 21 walks.`
+  },
 ]
 
 let html = '';
