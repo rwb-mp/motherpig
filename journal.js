@@ -667,7 +667,7 @@ const schedule = [
   date: 'July 10',
   opp: 'at Los Angeles Angels',
   score: 'W 11-4',
-  recap: `Patrick Corbin (5-7, 4.18) vs. Jack Kochanowicz (3-8, 5.42). The Rangers scored often and early with three runs on four consecutive singles in the first. Texas broke it open in the third with seven runs on five singles, a double, and 3 walks.Garcia added a two-run homer in the eighth. Semien went 4-for-5, scoring three runs and knocking in one. Corbin got the win pitching five innings, allowing two runs on seven hits and two walks, striking out six. In the four game series, the Rangers scored 37 runs on 43 hits and 21 walks.`
+  recap: `Patrick Corbin (5-7, 4.18) vs. Jack Kochanowicz (3-8, 5.42). The Rangers scored early and often with three runs on four consecutive singles in the first. Texas broke it open in the third with seven runs after two were out, on five singles, a double, and 3 walks. Garcia added a two-run homer in the eighth. Semien went 4-for-5, scoring three runs and knocking in one. Corbin got the win pitching five innings, allowing two runs on seven hits and two walks, striking out six. In the four-game series, the Rangers scored 37 runs on 43 hits and 21 walks.`
   },
 ]
 
