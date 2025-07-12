@@ -672,7 +672,7 @@ const schedule = [
   date: 'July 11',
   opp: 'at Houston',
   score: '',
-  recap: `Jack Leitern (4-6, 4.32) vs. Lance McCullers Jr. (2-3, 5.82). The Rangers racked up 13 hits and 4 walks against four Houston pitchers. After loading the bases in the first on two singles and a hit-by-pitch, Carter delivered a clutch two-out, two-run single. Garcia homered 425 feet to center in the third to make the score 3-1. In the same inning after two were out, Carter walked, Burger singled, and Heim delivered with a two-RBI double. Langford added insurance runs in the seventh with a two-run, 392-foot shot to left, one of his four hits in the game. Leiter pitched 5-1/3 innings, allowing three runs on five hits and four walks, striking out six.`
+  recap: `Jack Leiter (4-6, 4.32) vs. Lance McCullers Jr. (2-3, 5.82). The Rangers racked up 13 hits and 4 walks against four Houston pitchers. After loading the bases in the first on two singles and a hit-by-pitch, Carter delivered a clutch two-out, two-run single. Garcia homered 425 feet to center in the third to make the score 3-1. In the same inning after two were out, Carter walked, Burger singled, and Heim delivered with a two-RBI double. Langford added insurance runs in the seventh with a two-run, 392-foot shot to left, one of his four hits in the game. Leiter pitched 5-1/3 innings, allowing three runs on five hits and four walks, striking out six.`
   },
 ]
 
