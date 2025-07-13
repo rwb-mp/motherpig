@@ -677,7 +677,7 @@ const schedule = [
   date: 'July 12',
   opp: 'at Houston',
   score: 'L 5-4',
-  recap: `Jacob deGrom (9-2, 2.29) vs. Framber Valdez (10-4, 2.90). The Rangers loaded the bases in the first and Haggerty scored on a wild pitch, but Langford and Heim struck out to end the inning. Leadoff doubles by Haggerty and Seager in the 3rd and the 6th were left stranded. Houston hit three solo home runs to take a 3-1 lead into the 8th. Semien homered 401 feet to left field to cut the lead to 3-2. With two outs in the ninth, Hagashioka homered to tie the game. Garcia singled to score Semien in the 11th. In the bottom of the inning, Robert Garcia, pitching his second inning in relief, walked the first batters to load the bases. Milner gave up a sacrifice fly and a single, and Houston walked it off. The Rangers struck out 19 times and were 2-for-17 with runners in scoring position.`
+  recap: `Jacob deGrom (9-2, 2.29) vs. Framber Valdez (10-4, 2.90). The Rangers loaded the bases in the first and Haggerty scored on a wild pitch, but Langford and Heim struck out to end the inning. Leadoff doubles by Haggerty and Seager in the 3rd and the 6th were left stranded. Houston hit three solo home runs to take a 3-1 lead into the 8th. Semien homered 401 feet to left field to cut the lead to 3-2. With two outs in the ninth, Hagashioka homered to tie the game. Garcia singled to score Semien in the 11th. In the bottom of the inning, Robert Garcia, pitching his second inning in relief, walked the first two batters to load the bases. Milner gave up a sacrifice fly and a single, and Houston walked it off. The Rangers struck out 19 times and were 2-for-17 with runners in scoring position.`
   },
 ]
 
