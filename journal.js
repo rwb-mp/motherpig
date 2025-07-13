@@ -298,50 +298,49 @@ const schedule = [
   date: 'May 12',
   opp: 'Colorado',
   score: 'W 2-1',
-  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). The Rangers had no hits through 5-2/3 innings before Langford broke through with a 412-foot solo homer to right, giving Texas a 1–0 lead in the 6th — their first hit of the night. 
-  Mahle was sharp again, allowing just one run over 6-1/3 innings on 4 hits and a walk while striking out five. Garcia and Martin followed with 1-2/3 innings of no-hit relief to carry the lead into the 9th. Drama unfolded in the final frame when Ryan McMahon led off with a single that deflected off closer Luke Jackson, forcing him to leave the game. Webb entered, loaded the bases with one out, but induced a game-ending double play to seal the 2–1 win and earn his first save of the season.`
+  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). The Rangers were hitless through 5-2/3 innings before Langford broke through with a 412-foot solo homer to right, giving Texas a 1–0 lead in the 6th. Mahle was sharp again, allowing just one run over 6-1/3 innings on 4 hits and a walk while striking out five. Garcia and Martin followed with 1-2/3 innings of no-hit relief to carry the lead into the 9th. In the ninth inning Colorado led off with a single that deflected off closer Luke Jackson, forcing him to leave the game. Webb entered, loaded the bases with one out, but induced a game-ending double play to seal the 2–1 win and earn his first save of the season.`
   },
   {
   id: 'may13',
   date: 'May 13',
   opp: 'Colorado',
   score: 'W 4-1',
-  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Josh Jung powered the Rangers with two home runs and four RBIs, including a 396-foot blast in the 1st inning after back-to-back singles and a solo shot in the 8th to pad the lead. Jack Leiter held Colorado to one run over 6 innings on 2 hits and 3 walks with 5 strikeouts. Milner and Martin worked into the 9th, where the Rockies put two on with no outs, but Shawn Armstrong struck out the next three to lock down his first save. Corey Seager was placed on the 10-day IL retroactive to May 11 with a hamstring issue.`
+  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Jung powered the Rangers with two home runs and four RBIs, including a 396-foot blast in the 1st inning after back-to-back singles and a solo shot in the 8th to pad the lead. Leiter held Colorado to one run over 6 innings on 2 hits and 3 walks with 5 strikeouts. Milner and Martin worked into the 9th, where the Rockies put two on with no outs, but Armstrong struck out the next three to lock down his first save. Seager was placed on the 10-day IL retroactive to May 11 with a hamstring issue.`
   },
   {
   id: 'may14',
   date: 'May 14',
   opp: 'Colorado',
   score: 'W 8-3',
-  recap: `Patrick Corbin (2-2, 3.13) vs. Antonio Senzatela (1-6, 5.77). The first six hitters reached base and the Rangers exploded for 4 runs in the 1st inning, highlighted by Langford’s 2-run 368-foot homer to right field. Jake Burger added a 2-out, 2-RBI double in the 5th, and Adolis Garcia crushed a 394-foot solo homer in the 6th. Corbin was solid, pitching 6 innings with 3 runs allowed on 4 hits, a walk, and a hit-by-pitch, striking out 9. Boushley followed with 2-1/3 scoreless innings but gave up two singles in the 9th before Garcia closed out the game, completing the sweep. Despite the offensive burst, the Rangers were just 3-for-20 with runners in scoring position during the series.`
+  recap: `Patrick Corbin (2-2, 3.13) vs. Antonio Senzatela (1-6, 5.77). The first six hitters reached base and the Rangers exploded for 4 runs in the 1st inning, highlighted by Langford’s 2-run 368-foot homer to right field. Burger added a 2-out, 2-RBI double in the 5th, and Garcia crushed a 394-foot solo homer in the 6th. Corbin was solid, pitching 6 innings with 3 runs allowed on 4 hits, a walk, and a hit-by-pitch, striking out 9. Boushley followed with 2-1/3 scoreless innings but gave up two singles in the 9th before Garcia closed out the game, completing the sweep. Despite the offensive burst, the Rangers were just 3-for-20 with runners in scoring position during the series.`
   },
   {
   id: 'may15',
   date: 'May 15',
   opp: 'Houston',
   score: 'W 1-0',
-  recap: `Jacob deGrom (3-1, 2.72) vs. Hunter Brown (6-1, 1.48). Jacob deGrom tossed eight scoreless innings, allowing five hits and a walk while striking out seven, backed by stellar outfield defense from Garcia and Carter that erased multiple Astros threats. The Rangers managed just three hits off Hunter Brown, but Jake Burger’s 394-foot solo homer to right in the 6th proved the difference. Garcia also doubled to lead off the 5th, but was stranded at second. Armstrong worked the 9th, issuing a two-out walk before retiring Dezenzo on a popup to seal the 1-0 win and secure the save.`
+  recap: `Jacob deGrom (3-1, 2.72) vs. Hunter Brown (6-1, 1.48). deGrom tossed eight scoreless innings, allowing five hits and a walk while striking out seven, backed by stellar outfield defense from Garcia and Carter that erased multiple Astros threats. The Rangers managed just three hits off Hunter Brown, but Burger’s 394-foot solo homer to right in the 6th proved the difference. Garcia also doubled to lead off the 5th, but was stranded at second. Armstrong worked the 9th, issuing a two-out walk before retiring Dezenzo on a popup to seal the 1-0 win and secure the save.`
   },
   {
   id: 'may16',
   date: 'May 16',
   opp: 'Houston',
   score: 'L 6-3',
-  recap: `Nathan Eovaldi (4-2, 1.78) vs. Lance McCullers (0-1, 15.75). The Rangers jumped out early with a 2-out, 2-RBI single from Jonah Heim in the 2nd, capitalizing on a Jung single and an Astros error. Despite threats in the 3rd and 4th, the Rangers left runners in scoring position and then went quiet—15 consecutive batters retired until a solo homer by Jung in the 9th. Nathan Eovaldi delivered 5-2/3 shutout innings, allowing just 2 hits and 3 walks while striking out 5. But things unraveled in the 7th when relievers Hoby Milner and Shawn Armstrong allowed seven straight Astros to reach with two outs, resulting in six runs—highlighted by Christian Walker’s 3-run homer.`
+  recap: `Nathan Eovaldi (4-2, 1.78) vs. Lance McCullers (0-1, 15.75). The Rangers jumped out early with a 2-out, 2-RBI single from Heim in the 2nd, capitalizing on a Jung single and an Astros error. Despite threats in the 3rd and 4th, the Rangers left runners in scoring position and then went quiet—15 consecutive batters retired until a solo homer by Jung in the 9th. Eovaldi delivered 5-2/3 shutout innings, allowing just two hits and three walks while striking out five. Things unraveled in the 7th when relievers Milner and Armstrong allowed seven straight Astros to reach with two outs, resulting in six runs.`
   },
   {
   id: 'may17',
   date: 'May 17',
   opp: 'Houston',
   score: 'W 5-1',
-  recap: `Tyler Mahle (4-1, 1.47) vs. Ronel Blanco (3-3, 4.04). After falling behind 1-0 early, the Rangers tied the game in the 3rd on two hits, two walks, and an Astros error. Semien had a chance to break the game open, but grounded out with the bases loaded. Joc Pederson broke the tie in the 6th with a 409-foot, 2-run homer, and Wyatt Langford added insurance in the 7th with a 431-foot blast. The Rangers loaded the bases again in the 8th but came up empty. Tyler Mahle was sharp, allowing one run over six innings with 5 hits, 2 walks, and 3 strikeouts. Webb, Martin, and Garcia combined to no-hit the Astros over the final three innings to lock down the win.`
+  recap: `Tyler Mahle (4-1, 1.47) vs. Ronel Blanco (3-3, 4.04). After falling behind 1-0 early, the Rangers tied the game in the 3rd on two hits, two walks, and an Astros error. Semien had a chance to break the game open, but grounded out with the bases loaded. Pederson broke the tie in the 6th with a 409-foot, 2-run homer, and Langford added insurance in the 7th with a 431-foot blast. The Rangers loaded the bases again in the 8th but came up empty. Mahle was sharp, allowing one run over six innings with 5 hits, 2 walks, and 3 strikeouts. Webb, Martin, and Garcia combined to no-hit the Astros over the final three innings to lock down the win.`
   },
   {
   id: 'may18',
   date: 'May 18',
   opp: 'Houston',
   score: 'L 4-3',
-  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Jack Leiter took a no-hitter into the 7th and left with a 3-1 lead, but the Astros rallied late to hand the Rangers a tough 4–3 loss. Yainer Diaz broke up the no-hit bid and the shutout with a solo homer in the 7th. In the 8th, two bloop singles ended Leiter’s night, and reliever Robert Garcia gave up a go-ahead three-run homer to Isaac Paredes. The Rangers plated all three of their runs in the 4th on four singles, a walk, and a sac fly. A baserunning mistake in the 7th by Jonah Heim—thrown out at 3rd on a grounder to the left side—killed a potential rally, and he later stranded the tying run at 2nd with a deep flyout in the 8th. Evan Carter was placed on the 10-day IL with a right quad strain, retroactive to May 17.`
+  recap: `Jack Leiter (3-2, 4.34) vs. Framber Valdez (2-4, 3.54). Leiter took a no-hitter into the 7th and left with a 3-1 lead, but the Astros rallied late to hand the Rangers a tough 4–3 loss. Yainer Diaz broke up the no-hit bid and the shutout with a solo homer in the 7th. In the 8th, two bloop singles ended Leiter’s night, and reliever Garcia gave up a go-ahead three-run homer to Isaac Paredes. The Rangers plated all three of their runs in the 4th on four singles, a walk, and a sac fly. A baserunning mistake in the 7th by Heim—thrown out at 3rd on a grounder to the left side—killed a potential rally, and he later stranded the tying run at 2nd with a deep flyout in the 8th. Carter was placed on the 10-day IL with a right quad strain, retroactive to May 17.`
   },
   {
   id: 'may20',
@@ -356,105 +355,105 @@ const schedule = [
   opp: 'at New York Yankees',
   score: 'L 4-3',
   recap: `Jacob deGrom (4-1, 2.29) vs. Will Yarbrough (1-0, 3.70). The Rangers outhit the Yankees 10-5 and slugged three home runs but couldn't come through with the big hit when it mattered, stranding the bases loaded in both the 6th and 8th innings. 
-  Jake Burger went deep twice—390 feet in the 5th and 367 feet in the 7th—and Sam Haggerty added a 390-foot blast to RF later in the 7th. Despite the power display, the Rangers couldn't add on when needed. Barnhart left the bases loaded in the 6th, and Smith did the same in the 8th. Jacob deGrom was strong again, retiring 15 straight at one point and finishing with 7 innings of 2-run ball, allowing just 3 hits and a walk while striking out 9. The Yankees tied it in the 8th after Robert Garcia walked two and Aaron Judge singled off Luke Jackson. Jackson then surrendered a 372-foot walk-off homer in the 9th to hand the Rangers a frustrating loss.`
+  Burger went deep twice—390 feet in the 5th and 367 feet in the 7th—and Haggerty added a 390-foot blast to RF later in the 7th. Despite the power display, the Rangers couldn't add on when needed. Barnhart left the bases loaded in the 6th, and Smith did the same in the 8th. deGrom was strong again, retiring 15 straight at one point and finishing with 7 innings of 2-run ball, allowing just 3 hits and a walk while striking out 9. The Yankees tied it in the 8th after Garcia walked two and Aaron Judge singled off Luke Jackson. Jackson then surrendered a 372-foot walk-off homer in the 9th to hand the Rangers a frustrating loss.`
   },
   {
   id: 'may22',
   date: 'May 22',
   opp: 'at New York Yankees',
   score: 'L 1-0',
-  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers’ offensive struggles continued as they struck out 12 times and managed just 4 hits in a 1-0 loss to the Yankees—marking their sixth shutout of the season. Nathan Eovaldi delivered another strong outing, allowing just 1 run on 5 hits over 6 innings with 6 strikeouts. Milner and Armstrong combined for two hitless innings out of the bullpen. Texas had chances but couldn’t convert, going 1-for-7 with runners in scoring position. In the 6th, Langford reached second with one out, but Jung and Burger struck out. In the 7th, Semien led off with a single and advanced on a wild pitch, only to be stranded after Heim struck out, Garcia grounded out, and Smith went down swinging.`
+  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers’ offensive struggles continued as they struck out 12 times and managed just 4 hits in a 1-0 loss to the Yankees—marking their sixth shutout of the season. Eovaldi delivered another strong outing, allowing just 1 run on 5 hits over 6 innings with 6 strikeouts. Milner and Armstrong combined for two hitless innings out of the bullpen. Texas had chances but couldn’t convert, going 1-for-7 with runners in scoring position. In the 6th, Langford reached second with one out, but Jung and Burger struck out. In the 7th, Semien led off with a single and advanced on a wild pitch, only to be stranded after Heim struck out, Garcia grounded out, and Smith went down swinging.`
   },
   {
   id: 'may23',
   date: 'May 23',
   opp: 'at Chicago White Sox',
   score: 'L 4-1',
-  recap: `Tyler Mahle (5-1, 1.47) vs. Sean Burke (2-5, 4.69). Bruce Bochy shuffled the lineup, dropping Adolis Garcia to 8th and Marcus Semien to 9th, but the offensive struggles continued as the Rangers managed just 3 hits. Tyler Mahle ran into trouble in the 3rd, surrendering 3 runs on 3 singles, 2 walks, and a sac fly. One of the walks came with the bases loaded. The Rangers had early chances but stranded a runner at second twice in the first four innings. They finally broke through in the 6th on a Jake Burger RBI double, but Jung was thrown out at the plate to end the inning. Texas went 1-for-4 with runners in scoring position.`
+  recap: `Tyler Mahle (5-1, 1.47) vs. Sean Burke (2-5, 4.69). Bochy shuffled the lineup, dropping Garcia to 8th and Semien to 9th, but the offensive struggles continued as the Rangers managed just 3 hits. Mahle ran into trouble in the 3rd, surrendering 3 runs on 3 singles, 2 walks, and a sac fly. One of the walks came with the bases loaded. The Rangers had early chances but stranded a runner at second twice in the first four innings. They finally broke through in the 6th on a Burger RBI double, but Jung was thrown out at the plate to end the inning. Texas went 1-for-4 with runners in scoring position.`
   },
   {
   id: 'may24',
   date: 'May 24',
   opp: 'at Chicago White Sox',
   score: 'L 10-5',
-  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). For the first time in a week, the Rangers scored more than three runs, but defensive miscues and wild pitching unraveled a promising night. Jack Leiter battled through traffic for five innings, escaping multiple jams and leaving with a 4-2 lead. But the 6th inning spiraled out of control. Wyatt Langford and Sam Haggerty collided at the wall on what should’ve been the first out, leading to a triple. Josh Jung misplayed a routine grounder, and Marcus Semien missed a tag before making a late throw to first—three defensive lapses, three missed outs. Reliever Jacob Webb poured fuel on the fire, giving up a single, two walks, and two doubles as part of a six-run inning. Rangers pitching issued eight walks and surrendered 14 hits on the night.`
+  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). For the first time in a week, the Rangers scored more than three runs, but defensive miscues and wild pitching unraveled a promising night. Leiter battled through traffic for five innings, escaping multiple jams and leaving with a 4-2 lead. But the 6th inning spiraled out of control. Langford and Haggerty collided at the wall on what should’ve been the first out, leading to a triple. Jung misplayed a routine grounder, and Semien missed a tag before making a late throw to first—three defensive lapses, three missed outs. Reliever Jacob Webb poured fuel on the fire, giving up a single, two walks, and two doubles as part of a six-run inning. Rangers pitching issued eight walks and surrendered 14 hits on the night.`
   },
   {
   id: 'may25',
   date: 'May 25',
   opp: 'at Chicago White Sox',
   score: 'W 5-4',
-  recap: `Patrick Corbin (3-3, 3.59) vs. Davis Martin (2-5, 3.49). The Rangers lost Joc Pederson to a fractured right hand after he was hit by a pitch in yesterday’s game, placing him on the 10-day IL. Alejandro Osuna made his MLB debut in left field. Down 3-2 in the 9th, the Rangers mounted a comeback. After Jung was hit by a pitch, Jake Burger doubled to put two on. Osuna struck out, but Kyle Higashioka reached on an error that scored Jung with the tying run. Adolis García followed with a clutch double to right, scoring Burger and Higashioka to take a 5-3 lead. Robert Garcia pitched the 9th and allowed a run on back-to-back one-out doubles, but picked off the tying run at second before Osuna secured the final out on the warning track to seal the win. Burger had earlier put Texas on the board with a 423-foot, two-run homer in the 2nd. Starter Patrick Corbin went 5 1/3 innings, allowing three runs on five hits and a walk with six strikeouts.`
+  recap: `Patrick Corbin (3-3, 3.59) vs. Davis Martin (2-5, 3.49). The Rangers lost Pederson to a fractured right hand after he was hit by a pitch in yesterday’s game, placing him on the 10-day IL. Alejandro Osuna made his MLB debut in left field. Down 3-2 in the 9th, the Rangers mounted a comeback. After Jung was hit by a pitch, Burger doubled to put two on. Osuna struck out, but Higashioka reached on an error that scored Jung with the tying run. García followed with a clutch double to right, scoring Burger and Higashioka to take a 5-3 lead. Garcia pitched the 9th and allowed a run on back-to-back one-out doubles, but picked off the tying run at second before Osuna secured the final out on the warning track to seal the win. Burger had earlier put Texas on the board with a 423-foot, two-run homer in the 2nd. Corbin went 5 1/3 innings, allowing three runs on five hits and a walk with six strikeouts.`
   },
   {
   id: 'may26',
   date: 'May 26',
   opp: 'Toronto',
   score: 'L 2-1',
-  recap: `Jacob deGrom (4-1, 2.33) vs. Kevin Gausman (4-4, 4.03). The Rangers managed just one run on five hits in a 2-1 loss. Their lone run came in the 4th on a line-drive solo homer to left by Wyatt Langford. Texas had a chance in the 5th when Jonah Heim and Alejandro Osuna led off with singles, but three straight outs—two by strikeout—ended the threat. In the 9th, the Rangers needed a run to extend the game, but Langford, Josh Jung, and Jake Burger went down in order. Jacob deGrom allowed two runs on five hits and two walks over 5-1/3 innings. It marked the first start of his career without recording a strikeout. Osuna had two hits in his second major league game.`
+  recap: `Jacob deGrom (4-1, 2.33) vs. Kevin Gausman (4-4, 4.03). The Rangers managed just one run on five hits in a 2-1 loss. Their lone run came in the 4th on a line-drive solo homer to left by Langford. Texas had a chance in the 5th when Heim and Osuna led off with singles, but three straight outs—two by strikeout—ended the threat. In the 9th, the Rangers needed a run to extend the game, but Langford, Jung, and Burger went down in order. deGrom allowed two runs on five hits and two walks over 5-1/3 innings. It marked the first start of his career without recording a strikeout. Osuna had two hits in his second major league game.`
   },
   {
   id: 'may27',
   date: 'May 27',
   opp: 'Toronto',
   score: 'W 2-0',
-  recap: `Nathan Eovaldi (4-3, 1.60) vs. Bowden Francis (2-6, 5.54). Bowden Francis, who leads the AL in home runs allowed, kept the Rangers in check early. Nathan Eovaldi exited after two scoreless innings with right triceps fatigue, but the Texas bullpen picked him up. Latz, Armstrong, Milner, Jackson, and Garcia combined for seven shutout innings, allowing just two hits and two walks. The Rangers were held to four hits through seven innings before finally breaking through in the 8th. Kyle Higashioka singled with one out, and pinch-runner Sam Haggerty stole second. After a walk to Wyatt Langford, Josh Jung delivered a clutch 2-out RBI single. Langford then scored from 3rd on an errant pickoff attempt by the catcher, sealing the win.`
+  recap: `Nathan Eovaldi (4-3, 1.60) vs. Bowden Francis (2-6, 5.54). Bowden Francis, who leads the AL in home runs allowed, kept the Rangers in check early. Eovaldi exited after two scoreless innings with right triceps fatigue, but the Texas bullpen picked him up. Latz, Armstrong, Milner, Jackson, and Garcia combined for seven shutout innings, allowing just two hits and two walks. The Rangers were held to four hits through seven innings before finally breaking through in the 8th. Higashioka singled with one out, and pinch-runner Haggerty stole second. After a walk to Langford, Jung delivered a clutch 2-out RBI single. Langford then scored from 3rd on an errant pickoff attempt by the catcher, sealing the win.`
   },
   {
   id: 'may28',
   date: 'May 28',
   opp: 'Toronto',
   score: 'L 2-0',
-  recap: `Tyler Mahle (5-2, 1.80) vs. Paxton Schultz (0-0, 2.53). Corey Seager returned to the lineup for the first time since May 10, but the Rangers' offense remained cold. Josh Smith led off the game with a single, and Texas failed to record another hit the rest of the way. No Ranger reached second base, and the lineup struck out 13 times against five Blue Jays relievers in a bullpen game started by Paxton Shultz. Tyler Mahle delivered six shutout innings, scattering four hits and three walks while striking out five. But Jacob Webb gave up a solo homer to Bo Bichette in the 9th, and the Rangers were shut out for the seventh time this season. Seager went 0-for-4 with two strikeouts in his return.`
+  recap: `Tyler Mahle (5-2, 1.80) vs. Paxton Schultz (0-0, 2.53). Seager returned to the lineup for the first time since May 10, but the Rangers' offense remained cold. Smith led off the game with a single, and Texas failed to record another hit the rest of the way. No Ranger reached second base, and the lineup struck out 13 times against five Blue Jays relievers in a bullpen game started by Paxton Shultz. Mahle delivered six shutout innings, scattering four hits and three walks while striking out five. But Webb gave up a solo homer to Bo Bichette in the 9th, and the Rangers were shut out for the seventh time this season. Seager went 0-for-4 with two strikeouts in his return.`
   },
   {
   id: 'may30',
   date: 'May 30',
   opp: 'St. Louis',
   score: 'W 11-1',
-  recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). The Rangers' struggling offense finally broke out, scoring 11 runs on 15 hits in a rout of the Blue Jays. Marcus Semien, hitting just .173 entering the game, went 4-for-4 with a home run and 3 RBIs. Sam Haggerty, batting leadoff, reached base five times and tripled during a 4-run 2nd inning that also featured a Langford homer. Texas added four more in the 6th on a string of singles and walks, then Semien capped the scoring with a 2-run homer in the 7th. Jack Leiter delivered 5-2/3 shutout innings, allowing just three hits and two walks while striking out six. Caleb Boushley pitched the final three innings to earn the save.`
+  recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). The Rangers' struggling offense finally broke out, scoring 11 runs on 15 hits in a rout of the Blue Jays. Semien, hitting just .173 entering the game, went 4-for-4 with a home run and 3 RBIs. Haggerty, batting leadoff, reached base five times and tripled during a 4-run 2nd inning that also featured a Langford homer. Texas added four more in the 6th on a string of singles and walks, then Semien capped the scoring with a 2-run homer in the 7th. Leiter delivered 5-2/3 shutout innings, allowing just three hits and two walks while striking out six. Boushley pitched the final three innings to earn the save.`
   },
   {
   id: 'may31',
   date: 'May 31',
   opp: 'St. Louis',
   score: 'L 2-0',
-  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and managed just four hits and two walks, with only one baserunner reaching second base. Texas was blanked for the eighth time this season and closed out May with a 12–15 record. Starter Patrick Corbin allowed two runs on three hits and two walks over 5-1/3 innings, but the offense provided no support. St. Louis manufactured a run in the 2nd and added another on a pair of doubles in the 4th. The Rangers remain the only team in MLB yet to come back from a 2-run deficit this season.`
+  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and managed just four hits and two walks, with only one baserunner reaching second base. Texas was blanked for the eighth time this season and closed out May with a 12–15 record. Corbin allowed two runs on three hits and two walks over 5-1/3 innings, but the offense provided no support. St. Louis manufactured a run in the 2nd and added another on a pair of doubles in the 4th. The Rangers remain the only team in MLB yet to come back from a 2-run deficit this season.`
   },
   {
   id: 'jun1',
   date: 'June 1',
   opp: 'St. Louis',
   score: 'W 8-1',
-  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. The Rangers secured a series win behind a strong outing from Jacob deGrom and a strong performance from Josh Smith. Smith delivered a 2-out, 2-RBI double in the 2nd and capped the scoring with a 2-run homer in the 8th. He finished the game with 4 RBIs. Texas loaded the bases with no outs in the 7th and added a run on a Langford sac fly. They broke it open in the 8th with a 5-run inning that included a Jung single, a Burger double, a Heim sacrifice fly, a Semien walk, a Haggerty sacrifice bunt, and Smith’s blast. deGrom went 6 innings, allowing 1 run on 4 hits and 3 walks while striking out 4. Armstrong, Milner, and Jackson closed it out with three shutout innings. Semien reached base 10 times in 11 plate appearances in the series. Rangers’ starters have now allowed 3 or fewer runs in 54 of the team’s first 60 games.`
+  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. The Rangers secured a series win behind a strong outing from Jacob deGrom and a strong performance from Smith. Smith delivered a 2-out, 2-RBI double in the 2nd and capped the scoring with a 2-run homer in the 8th. He finished the game with 4 RBIs. Texas loaded the bases with no outs in the 7th and added a run on a Langford sac fly. They broke it open in the 8th with a 5-run inning that included a Jung single, a Burger double, a Heim sacrifice fly, a Semien walk, a Haggerty sacrifice bunt, and Smith’s blast. deGrom went 6 innings, allowing 1 run on 4 hits and 3 walks while striking out 4. Armstrong, Milner, and Jackson closed it out with three shutout innings. Semien reached base 10 times in 11 plate appearances in the series. Rangers’ starters have now allowed 3 or fewer runs in 54 of the team’s first 60 games.`
   },
   {
   id: 'jun3',
   date: 'June 3',
   opp: 'at Tampa Bay',
   score: 'L 5-1',
-  recap: `Tyler Mahle (5-2, 1.64) vs. Drew Rasmussen (4-4, 2.33). The Rangers managed just one run on four hits while striking out 12 times—seven of them looking. Tampa Bay took the lead in the 2nd inning on a 328-foot home run down the left field line—the shortest homer in MLB this season. Tyler Mahle ran into trouble in the 6th, loading the bases with one out on a single and two walks. He was relieved by Jacob Latz, who allowed all three inherited runners to score. Texas scored its lone run in the 7th, stringing together a Garcia single, a walk to Semien, and a run-scoring single from Jake Burger. Mahle’s final line: 5.1 IP, 5 H, 4 ER, 2 BB, 5 K.`
+  recap: `Tyler Mahle (5-2, 1.64) vs. Drew Rasmussen (4-4, 2.33). The Rangers managed just one run on four hits while striking out 12 times—seven of them looking. Tampa Bay took the lead in the 2nd inning on a 328-foot home run down the left field line—the shortest homer in MLB this season. Mahle ran into trouble in the 6th, loading the bases with one out on a single and two walks. He was relieved by Jacob Latz, who allowed all three inherited runners to score. Texas scored its lone run in the 7th, stringing together a Garcia single, a walk to Semien, and a run-scoring single from Burger. Mahle’s final line: 5.1 IP, 5 H, 4 ER, 2 BB, 5 K.`
   },
   {
   id: 'jun4',
   date: 'June 4',
   opp: 'at Tampa Bay',
   score: 'L 5-4',
-  recap: `Kumar Rocker (1-3, 8.10) vs. Shane Baz (4-3, 4.92). In his first start off the IL, Kumar Rocker gave up a solo homer to the second Rays batter and ran into more trouble in the third, allowing four runs on a walk, three singles, and two doubles. He exited after 3-1/3 innings, having allowed five runs on six hits and two walks with five strikeouts. The Rangers fought back in the fifth. Jonah Heim followed an Adolis García single with a 341-foot homer to left, and Josh Smith and Wyatt Langford added back-to-back hits to cut the deficit to 5–3. Texas’ bullpen kept the game close with 4-2/3 scoreless innings. In the ninth, Smith reached on an error, advanced on defensive indifference, and scored on Langford’s single to make it 5–4. But Corey Seager grounded out to second, ending the comeback attempt.`
+  recap: `Kumar Rocker (1-3, 8.10) vs. Shane Baz (4-3, 4.92). In his first start off the IL, Rocker gave up a solo homer to the second Rays batter and ran into more trouble in the third, allowing four runs on a walk, three singles, and two doubles. He exited after 3-1/3 innings, having allowed five runs on six hits and two walks with five strikeouts. The Rangers fought back in the fifth. Heim followed a García single with a 341-foot homer to left, and Smith and Langford added back-to-back hits to cut the deficit to 5–3. Texas’ bullpen kept the game close with 4-2/3 scoreless innings. In the ninth, Smith reached on an error, advanced on defensive indifference, and scored on Langford’s single to make it 5–4. But Seager grounded out to second, ending the comeback attempt.`
   },
   {
   id: 'jun5',
   date: 'June 5',
   opp: 'at Tampa Bay',
   score: 'L 4-3',
-  recap: `Jack Leiter (4-2, 3.66) vs. Ryan Pepiot (3-5, 3.21). Jack Leiter allowed just one run over five strong innings, striking out seven and leaving with a 2-1 lead. After Leiter gave up a solo homer in the 2nd, Jake Burger answered with a 442-foot blast in the 3rd to tie it. Marcus Semien homered twice—once in the 5th to put Texas ahead and again in the 7th to extend the lead to 3-1. The bullpen held strong as Milner, Armstrong, and Latz combined for three perfect innings. But in the 9th, Robert Garcia couldn’t close the door. A single, a walk, and another single cut the lead to 3-2. With two outs and runners on first and second, Christopher Morel grounded hard to Jung at third. Jung initially looked to second and then threw late to first to load the bases. Taylor Walls bounced one to second. Josh Smith went wide taking himself out of the play and the hitter beat Garcia to 1B. Aranda scored from third and Caminero scored from second to hand the Rangers a walk-off loss.`
+  recap: `Jack Leiter (4-2, 3.66) vs. Ryan Pepiot (3-5, 3.21). Leiter allowed just one run over five strong innings, striking out seven and leaving with a 2-1 lead. After Leiter gave up a solo homer in the 2nd, Burger answered with a 442-foot blast in the 3rd to tie it. Semien homered twice—once in the 5th to put Texas ahead and again in the 7th to extend the lead to 3-1. The bullpen held strong as Milner, Armstrong, and Latz combined for three perfect innings. But in the 9th, Garcia couldn’t close the door. A single, a walk, and another single cut the lead to 3-2. With two outs and runners on first and second, Christopher Morel grounded hard to Jung at third. Jung initially looked to second and then threw late to first to load the bases. Taylor Walls bounced one to second. Smith went wide taking himself out of the play and the hitter beat Garcia to 1B. Aranda scored from third and Caminero scored from second to hand the Rangers a walk-off loss.`
   },
   {
   id: 'jun6',
   date: 'June 6',
   opp: 'at Washington',
   score: 'L 2-0',
-  recap: `Patrick Corbin (3-4, 3.71) vs. Michael Soroka (2-5, 5.81). Despite facing a Nationals pitching staff with the 26th best ERA in MLB, the Rangers managed just two hits and a walk in nine innings. Only one Texas batter reached second base as they were shut out for the ninth time this season. Patrick Corbin took the loss despite throwing an 8-inning complete game, allowing 2 runs on five hits, no walks, and striking out two.`
+  recap: `Patrick Corbin (3-4, 3.71) vs. Michael Soroka (2-5, 5.81). Despite facing a Nationals pitching staff with the 26th best ERA in MLB, the Rangers managed just two hits and a walk in nine innings. Only one Texas batter reached second base as they were shut out for the ninth time this season. Corbin took the loss despite throwing an 8-inning complete game, allowing 2 runs on five hits, no walks, and striking out two.`
   },
   {
   id: 'jun7',
@@ -468,141 +467,140 @@ const schedule = [
   date: 'June 8',
   opp: 'at Washington',
   score: 'W 4-2',
-  recap: `Jacob Latz (0-0, 2.95) vs. Trevor Williams (3-6, 6.03). The Rangers went with a bullpen game to give Tyler Mahle extra rest, and the strategy paid off. The combination of Latz, Webb, Milner, Armstrong, and Garcia allowed just two runs on six hits and two walks while striking out 11. Evan Carter opened the scoring with a 382-foot homer to right-center in the second following a Marcus Semien single. The Nationals tied it with two runs in the fourth, but Texas regained the lead in the fifth on a Semien groundout after loading the bases. Despite going 0-for-11 with runners in scoring position and stranding the bases loaded in the sixth, the Rangers added insurance in the eighth with a 385-foot solo homer from Jake Burger.`
+  recap: `Jacob Latz (0-0, 2.95) vs. Trevor Williams (3-6, 6.03). The Rangers went with a bullpen game to give Mahle extra rest, and the strategy paid off. The combination of Latz, Webb, Milner, Armstrong, and Garcia allowed just two runs on six hits and two walks while striking out 11. Carter opened the scoring with a 382-foot homer to right-center in the second following a Semien single. The Nationals tied it with two runs in the fourth, but Texas regained the lead in the fifth on a Semien groundout after loading the bases. Despite going 0-for-11 with runners in scoring position and stranding the bases loaded in the sixth, the Rangers added insurance in the eighth with a 385-foot solo homer from Burger.`
   },
   {
   id: 'jun10',
   date: 'June 10',
   opp: 'at Minnesota',
   score: 'W 16-4',
-  recap: `Tyler Mahle (5-3, 2.02) vs. Simeon Woods Richardson (2-2, 5.02). The Rangers erupted for a season-high 16 runs on 17 hits, four walks, and three Twins errors in a rare offensive outburst. Every Ranger in the starting lineup recorded at least one hit. Evan Carter and Wyatt Langford both homered, while Kyle Higashioka led the way with five RBIs. Carter paced the offense with three hits and a walk. Tyler Mahle earned the win despite allowing four runs on ten hits and a walk over 5-2/3 innings. The bullpen trio of Armstrong, Winn, and Boushley combined for 3-1/3 scoreless innings to close out the rout.`
+  recap: `Tyler Mahle (5-3, 2.02) vs. Simeon Woods Richardson (2-2, 5.02). The Rangers erupted for a season-high 16 runs on 17 hits, four walks, and three Twins errors in a rare offensive outburst. Every Ranger in the starting lineup recorded at least one hit. Carter and Langford both homered, while Higashioka led the way with five RBIs. Carter paced the offense with three hits and a walk. Mahle earned the win despite allowing four runs on ten hits and a walk over 5-2/3 innings. The bullpen trio of Armstrong, Winn, and Boushley combined for 3-1/3 scoreless innings to close out the rout.`
   },
   {
   id: 'jun11',
   date: 'June 11',
   opp: 'at Minnesota',
   score: 'L 6-2',
-  recap: `Jack Leiter (4-2, 3.48) vs. David Festa (0-1, 5.40). Marcus Semien opened the scoring with a leadoff homer in the second, and the Rangers added another run in the third on back-to-back doubles by Jonah Heim and Josh Smith. But the offense stalled again, going just 1-for-9 with runners in scoring position. Byron Buxton's 3-run, 479-foot blast in the bottom of the third turned the game around. Jack Leiter struggled with command, allowing four runs on five hits and four walks over four innings. Jacob Latz was tagged for two more runs in the fifth. Despite chances late, the Rangers stranded runners in scoring position in the 7th, 8th, and 9th innings, sealing the loss.`
+  recap: `Jack Leiter (4-2, 3.48) vs. David Festa (0-1, 5.40). Semien opened the scoring with a leadoff homer in the second, and the Rangers added another run in the third on back-to-back doubles by Heim and Smith. But the offense stalled again, going just 1-for-9 with runners in scoring position. Byron Buxton's 3-run, 479-foot blast in the bottom of the third turned the game around. Leiter struggled with command, allowing four runs on five hits and four walks over four innings. Latz was tagged for two more runs in the fifth. Despite chances late, the Rangers stranded runners in scoring position in the 7th, 8th, and 9th innings, sealing the loss.`
   },
   {
   id: 'jun12',
   date: 'June 12',
   opp: 'at Minnesota',
   score: 'W 16-3',
-  recap: `Patrick Corbin (3-5, 3.52) vs. Bailey Ober (4-2, 3.78). After receiving no run support over his last 16-2/3 innings, Patrick Corbin finally got some help—a lot of it. The Rangers exploded for 16 runs on 16 hits and 9 walks, hammering the Twins behind six home runs. Josh Smith, Jake Burger, Wyatt Langford, Evan Carter, Adolis García, and Sam Haggerty all went deep. Langford, Burger, García, and Haggerty each drove in three runs, and the team went 6-for-11 with runners in scoring position. 
-  Corbin earned the win with five innings of work, allowing three runs on six hits and three walks while striking out six.`
+  recap: `Patrick Corbin (3-5, 3.52) vs. Bailey Ober (4-2, 3.78). After receiving no run support over his last 16-2/3 innings, Corbin finally got some help. The Rangers scored 16 runs on 16 hits and 9 walks, hammering the Twins behind six home runs. Smith, Burger, Langford, Carter, García, and Haggerty all went deep. Langford, Burger, García, and Haggerty each drove in three runs, and the team went 6-for-11 with runners in scoring position. Corbin earned the win with five innings of work, allowing three runs on six hits and three walks while striking out six.`
   },
   {
   id: 'jun13',
   date: 'June 13',
   opp: 'Chicago White Sox',
   score: 'W 3-1',
-  recap: `Shawn Armstrong (2-1, 3.33) vs. Adrian Houser (2-1, 1.48). For the second time in five games, the Rangers pitched a bullpen game, and the bullpen delivered another strong performance. Armstrong opened with three perfect innings, followed by scoreless work from Jacob Webb and Luke Jackson, who allowed just two singles over the next three frames. Hoby Milner ran into trouble in the seventh, surrendering a run on two singles and a double. With the potential tying runs on second and third and only one out, Chris Martin pitched out of the jam to preserve the 3-1 lead. Cole Winn tossed a clean eighth, and Robert Garcia survived a tense ninth, loading the bases on a double and two walks before striking out Michael Taylor to end it. Josh Smith led the offense from the leadoff spot, scoring all three Texas runs. He singled and scored on a Seager sacrifice fly in the first, homered in the third, and walked in the fifth before scoring on a Marcus Semien double.`
+  recap: `Shawn Armstrong (2-1, 3.33) vs. Adrian Houser (2-1, 1.48). For the second time in five games, the Rangers pitched a bullpen game, and the bullpen delivered another strong performance. Armstrong opened with three perfect innings, followed by scoreless work from Webb and Jackson, who allowed just two singles over the next three frames. Milner ran into trouble in the seventh, surrendering a run on two singles and a double. With the potential tying runs on second and third and only one out, Martin pitched out of the jam to preserve the 3-1 lead. Winn tossed a clean eighth, and Garcia survived a tense ninth, loading the bases on a double and two walks before striking out Michael Taylor to end it. Smith led the offense from the leadoff spot, scoring all three Texas runs. He singled and scored on a Seager sacrifice fly in the first, homered in the third, and walked in the fifth before scoring on a Semien double.`
   },
   {
   id: 'jun14',
   date: 'June 14',
   opp: 'Chicago White Sox',
   score: 'W 5-4',
-  recap: `Jacob deGrom (6-2, 2.12) vs. Mike Vasil (3-2, 2.18). Adolis García delivered a walk-off single in the 11th inning to give the Rangers a win, despite a frustrating night at the plate for the team. Texas went 4-for-23 with runners in scoring position and left 17 runners on base. After a Langford single, trailing 2–1 in the seventh, Seager reached on a called ball four that should’ve been called strike three, and scored the go-ahead run after a Marcus Semien double and a wild pitch. With Semien in scoring position and no outs, Burger, Jung, and García struck out in order. After Chicago tied the game in the top of the eighth, Josh Smith scored the go-ahead run on an error by the Twins' shortstop that should have ended the inning. But the lead didn’t last: with two outs in the ninth, Robert García was brought in to record the final out but allowed a game-tying double. Ultimately, Adolis García singled home the winning run and sealed a missed-opportunities kind of win for Texas.`
+  recap: `Jacob deGrom (6-2, 2.12) vs. Mike Vasil (3-2, 2.18). Texas went 4-for-23 with runners in scoring position and left 17 runners on base. Trailing 2–1 in the seventh, after a Langford single, Seager reached on a called ball four that should have been called strike three, and scored the go-ahead run after a Semien double and a wild pitch. Then Burger, Jung, and García struck out in order. After Chicago tied the game in the top of the eighth, Smith scored the go-ahead run on an error by the Twins' shortstop that should have ended the inning. But the lead didn’t last: with two outs in the ninth, Robert García was brought in to record the final out but allowed a game-tying double. Adolis García delivered a walk-off single in the 11th inning to give the Rangers the win. `
   },
   {
   id: 'jun15',
   date: 'June 15',
   opp: 'Chicago White Sox',
   score: 'W 2-1',
-  recap: `Kumar Rocker (1-4, 8.87) vs. Aaron Civale (1-2, 4.91). The Rangers placed Tyler Mahle on the 15-day IL with shoulder fatigue and called up Kumar Rocker from Triple-A Round Rock. Rocker delivered, tossing five shutout innings while allowing just four hits and a walk, and striking out six. Offensively, Texas did just enough, despite going 0-for-7 with runners in scoring position and stranding multiple scoring chances. Adolis García drew a walk and scored on an Ezequiel Duran double in the second inning. In the fifth, Josh Smith led off with a single, moved to third on a Corey Seager base hit, and scored on a Marcus Semien sacrifice fly. The Rangers left runners in scoring position in six different innings. The bullpen trio of Jacob Webb, Cole Winn, and Luke Jackson held the White Sox to one run over four innings, giving up just four hits and a walk while striking out six. For the first time since May 21, the Rangers are a .500 team.`
+  recap: `Kumar Rocker (1-4, 8.87) vs. Aaron Civale (1-2, 4.91). The Rangers placed Mahle on the 15-day IL with shoulder fatigue and called up Kumar Rocker from Triple-A Round Rock. Rocker delivered, tossing five shutout innings while allowing just four hits and a walk, and striking out six. Offensively, Texas did just enough, despite going 0-for-7 with runners in scoring position and stranding multiple scoring chances. García drew a walk and scored on a Duran double in the second inning. In the fifth, Smith led off with a single, moved to third on a Seager base hit, and scored on a Semien sacrifice fly. The Rangers left runners in scoring position in six different innings. The bullpen trio of Webb, Winn, and Jackson held the White Sox to one run over four innings, giving up just four hits and a walk while striking out six. For the first time since May 21, the Rangers are a .500 team.`
   },
   {
   id: 'jun17',
   date: 'June 17',
   opp: 'Kansas City',
   score: 'L 6-1',
-  recap: `Jack Leiter (4-3, 3.88) vs. Seth Lugo (3-5, 3.18). The Royals jumped on Jack Leiter early, scoring three runs in the first inning on a double, a single, and a Salvador Perez home run. Bobby Witt Jr. added a solo shot in the fifth, and Perez struck again with his second homer of the game in the sixth, helping Kansas City cruise to a dominant win. Leiter allowed six runs on eight hits and two walks over 5-2/3 innings, striking out four. Caleb Boushley retired all 10 batters he faced in relief. Offensively, the Rangers managed just five hits, a walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
+  recap: `Jack Leiter (4-3, 3.88) vs. Seth Lugo (3-5, 3.18). The Royals jumped on Leiter early, scoring three runs in the first inning on a double, a single, and a Salvador Perez home run. Bobby Witt Jr. added a solo shot in the fifth, and Perez struck again with his second homer of the game in the sixth, helping Kansas City cruise to a dominant win. Leiter allowed six runs on eight hits and two walks over 5-2/3 innings, striking out four. Boushley retired all 10 batters he faced in relief. Offensively, the Rangers managed just five hits, a walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
   },
   {
   id: 'jun18',
   date: 'June 18',
   opp: 'Kansas City',
   score: 'L 6-3',
-  recap: `Patrick Corbin (4-5, 3.66) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Sam Haggerty, an RBI double from Wyatt Langford, and a two-out single by Adolis García. But the Royals responded with four runs in the third off Patrick Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings but failed to capitalize, continuing a trend of missed opportunities. Haggerty and Langford each had three hits for the Rangers. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
+  recap: `Patrick Corbin (4-5, 3.66) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Haggerty, an RBI double from Langford, and a two-out single by García. But the Royals responded with four runs in the third off Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings but failed to capitalize. Haggerty and Langford each had three hits for the Rangers. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
   },
   {
   id: 'jun19',
   date: 'June 19',
   opp: 'Kansas City',
   score: 'L 4-1',
-  recap: `Shawn Armstrong (2-1, 2.90) vs. Michael Wacha (3-6, 3.38). With both Nathan Eovaldi and Tyler Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Shawn Armstrong for a two-run homer in the first. Jacob Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. The Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. They had a great chance in the fifth when Garcia and Osuna walked, but Burger, Jung, and Heim left them stranded. The loss sealed a three-game sweep at the hands of the Royals.`
+  recap: `Shawn Armstrong (2-1, 2.90) vs. Michael Wacha (3-6, 3.38). With both Eovaldi and Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Armstrong for a two-run homer in the first. Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. The Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. They had a great chance in the fifth when Garcia and Osuna walked, but Burger, Jung, and Heim left them stranded. The loss sealed a three-game sweep at the hands of the Royals.`
   },
   {
   id: 'jun20',
   date: 'June 20',
   opp: 'at Pittsburgh',
   score: 'W 6-2',
-  recap: `Jacob deGrom (6-2, 2.19) vs. Mike Burrows (1-1, 4.24). The Rangers are 27-4 in games in which they score at least four runs. Bochy has asked for four runs per game from the offense. Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. Adolis García launched a solo homer in the fourth, and Corey Seager added another in the fifth. In the seventh, Marcus Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Ezequiel Duran. Jacob deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Robert Garcia each tossed a scoreless frame to close out the win.`
+  recap: `Jacob deGrom (6-2, 2.19) vs. Mike Burrows (1-1, 4.24). The Rangers are 27-4 in games in which they score at least four runs. Bochy has asked for four runs per game from the offense. Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. García launched a solo homer in the fourth, and Seager added another in the fifth. In the seventh, Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Duran. deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Garcia each tossed a scoreless frame to close out the win.`
   },
   {
   id: 'jun21',
   date: 'June 21',
   opp: 'at Pittsburgh',
   score: 'W 3-2',
-  recap: `Kumar Rocker (2-4, 7.31) vs. Mitch Keller (1-9, 4.08). Before the game, the Rangers placed Jake Burger on the 10-day IL with a left oblique strain. The Rangers managed just four hits in the game. Texas scored an unearned run in the third after Ezequiel Duran walked and Kyle Higashioka singled to left—then advanced when the ball skipped past the outfielder. In the sixth, the Rangers added two more on a pair of singles, a walk, and a sacrifice fly. Kumar Rocker pitched around traffic, holding Pittsburgh to two runs over 5-1/3 innings. The Pirates went 0-for-8 with runners in scoring position. Rocker allowed five hits and three walks while striking out four. Shawn Armstrong, Hoby Milner, and Chris Martin combined to retire the final 11 batters to lock down the win.`
+  recap: `Kumar Rocker (2-4, 7.31) vs. Mitch Keller (1-9, 4.08). Before the game, the Rangers placed Burger on the 10-day IL with a left oblique strain. The Rangers managed just four hits in the game. Texas scored an unearned run in the third after Duran walked and Kyle Higashioka singled to left—then advanced when the ball skipped past the outfielder. In the sixth, the Rangers added two more on a pair of singles, a walk, and a sacrifice fly. Rocker pitched around traffic, holding Pittsburgh to two runs over 5-1/3 innings. The Pirates went 0-for-8 with runners in scoring position. Rocker allowed five hits and three walks while striking out four. Armstrong, Milner, Martin combined to retire the final 11 batters to lock down the win.`
   },
   {
   id: 'jun22',
   date: 'June 22',
   opp: 'at Pittsburgh',
   score: 'L 8-3',
-  recap: `Jack Leiter (4-4, 4.40) vs. Bailey Falter (5-3, 3.49).  The Rangers were held to just six hits and went 2-for-12 with runners in scoring position. Texas took an early 2–0 lead in the second inning, capitalizing on two walks and a pair of singles. Jack Leiter surrendered the lead in the fourth, allowing two runs on three singles and a sacrifice fly. After walking the leadoff batter in the fifth, Leiter was lifted for Caleb Boushley. Boushley gave up five runs on three singles and two doubles, allowing Pittsburgh to break the game open. Meanwhile, the Rangers' bats went silent. The Pirates' bullpen retired the final 10 Texas hitters, striking out five. Pittsburgh finished an efficient 7-for-14 with runners in scoring position.`
+  recap: `Jack Leiter (4-4, 4.40) vs. Bailey Falter (5-3, 3.49). The Rangers were held to just six hits and went 2-for-12 with runners in scoring position. Texas took an early 2–0 lead in the second inning, capitalizing on two walks and a pair of singles. Leiter surrendered the lead in the fourth, allowing two runs on three singles and a sacrifice fly. After walking the leadoff batter in the fifth, Leiter was lifted for Boushley. Boushley gave up five runs on three singles and two doubles, allowing Pittsburgh to break the game open. Meanwhile, the Rangers' bats went silent. The Pirates' bullpen retired the final 10 Texas hitters, striking out five. Pittsburgh finished an efficient 7-for-14 with runners in scoring position.`
   },
   {
   id: 'jun23',
   date: 'June 23',
   opp: 'at Baltimore',
   score: 'L 6-0',
-  recap: `Patrick Corbin (4-6, 3.91) vs. Trevor Rogers (0-0, 3.12). Trevor Rogers, who had pitched just 8-2/3 innings across two starts this season, dominated the Rangers with eight shutout innings, allowing only three singles. Texas advanced just one runner to second base, and was shut out for the 10th time. Patrick Corbin took the loss, surrendering five runs on nine hits over five innings. Dane Dunning allowed one additional run in relief.`
+  recap: `Patrick Corbin (4-6, 3.91) vs. Trevor Rogers (0-0, 3.12). Trevor Rogers, who had pitched just 8-2/3 innings across two starts this season, dominated the Rangers with eight shutout innings, allowing only three singles. Texas advanced just one runner to second base, and was shut out for the 10th time. Corbin took the loss, surrendering five runs on nine hits over five innings. Dane Dunning allowed one additional run in relief.`
   },
   {
   id: 'jun24',
   date: 'June 24',
   opp: 'at Baltimore',
   score: 'W 6-5',
-  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). Texas took a 3–0 lead in the fourth on a walk, an error, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Josh Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Jacob Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Chris Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Sam Haggerty walked, stole second and third, and scored on a Jonah Heim sacrifice fly to tie the game. In the ninth, Corey Seager singled and stole second, but Marcus Semien, Adolis García, and Evan Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate on Haggerty’s infield grounder. Robert Garcia pitched a clean bottom of the 10th to lock down the win.`
+  recap: `Jacob Latz (1-0, 3.26) vs. Charlie Morton (4-7, 5.64). Texas took a 3–0 lead in the fourth on a walk, an error, two seeing-eye singles, and a sacrifice fly. They threatened again in the sixth, loading the bases with two outs, but Smith grounded out to end the inning. The Rangers added a fourth run in the seventh on three singles. Latz was outstanding, carrying a no-hitter into the seventh. But after allowing a leadoff single and a walk, his night was over. Martin came on in relief and faced three batters—each of whom homered—giving Baltimore a sudden 5–4 lead. The Rangers responded in the eighth as Haggerty walked, stole second and third, and scored on a Heim sacrifice fly to tie the game. In the ninth, Seager singled and stole second, but Semien, García, and Carter were unable to bring him home. In the 10th, Carter advanced to third on a wild pitch and scored the go-ahead run on a close play at the plate on Haggerty’s infield grounder. Garcia pitched a clean bottom of the 10th to lock down the win.`
   },
   {
   id: 'jun25',
   date: 'June 25',
   opp: 'at Baltimore',
   score: 'W 7-0',
-  recap: `Jacob deGrom (7-2, 2.24) vs. Brandon Young (0-1, 6.23). Jacob deGrom was nearly untouchable, retiring the first 18 batters he faced. A leadoff walk in the seventh ended his bid for a perfect game, and a leadoff single in the eighth spoiled the no-hitter, but deGrom finished with seven scoreless innings in a masterful outing. Marcus Semien led the offense with three hits, while Josh Jung drove in three runs, including a two-run homer in the fourth that snapped a personal 32-game home run drought. Jonah Heim added a solo shot in the sixth. Jacob Webb and Cole Winn closed out the win by retiring all six batters they faced in relief.`
+  recap: `Jacob deGrom (7-2, 2.24) vs. Brandon Young (0-1, 6.23). deGrom was nearly untouchable, retiring the first 18 batters he faced. A leadoff walk in the seventh ended his bid for a perfect game, and a leadoff single in the eighth spoiled the no-hitter, but deGrom finished with seven scoreless innings in a masterful outing. Semien led the offense with three hits, while Jung drove in three runs, including a two-run homer in the fourth that snapped a personal 32-game home run drought. Heim added a solo shot in the sixth. Webb and Winn closed out the win by retiring all six batters they faced in relief.`
   },
   {
   id: 'jun27',
   date: 'June 27',
   opp: 'Seattle',
   score: 'L 7-6',
-  recap: `Nathan Eovaldi (4-3, 1.56) vs. Logan Gilbert (2-2, 3.12). In his first start since May 27, Nathan Eovaldi was on a strict pitch limit of 45 pitches. The Rangers’ pitchers allowed 16 hits and five walks, but the defense turned five double plays to help hold Seattle to just 4-for-23 with runners in scoring position. After the Mariners struck first in the opening inning, Corey Seager responded with a solo home run in the bottom half to tie it. Seattle regained control with two runs in the third and added insurance in the fourth and sixth to build a 5–1 lead. Texas came alive in the bottom of the sixth, cutting the deficit to one on a Semien RBI double and a two-run single by García. They tied it in the seventh on a two-out double by Smith followed by a Haggerty RBI single. The teams traded runs in the tenth, with García delivering a sacrifice fly for his third RBI of the game. But Seattle pushed across the go-ahead run in the 12th, and the Rangers couldn't answer—García lined out to right and Josh Jung struck out on a high pitch to end it. Texas had their chances but couldn’t capitalize, going just 3-for-20 with runners in scoring position and leaving 13 runners on base.`
+  recap: `Nathan Eovaldi (4-3, 1.56) vs. Logan Gilbert (2-2, 3.12). In his first start since May 27, Eovaldi was on a strict pitch limit of 45 pitches. The Rangers’ pitchers allowed 16 hits and five walks, but the defense turned five double plays to help hold Seattle to just 4-for-23 with runners in scoring position. After the Mariners struck first in the opening inning, Seager responded with a solo home run in the bottom half to tie it. Seattle regained control with two runs in the third and added insurance in the fourth and sixth to build a 5–1 lead. Texas came alive in the bottom of the sixth, cutting the deficit to one on a Semien RBI double and a two-run single by García. They tied it in the seventh on a two-out double by Smith followed by a Haggerty RBI single. The teams traded runs in the tenth, with García delivering a sacrifice fly for his third RBI of the game. But Seattle pushed across the go-ahead run in the 12th, and the Rangers couldn't answer—García lined out to right and Jung struck out on a high pitch to end it. Texas went 3-for-20 with runners in scoring position and left 13 runners on base.`
   },
   {
   id: 'jun28',
   date: 'June 28',
   opp: 'Seattle',
   score: 'W 3-2',
-  recap: `Kumar Rocker (3-4, 6.68) vs. Bryan Woo (7-4, 3.12). For the second straight game, the Rangers and Mariners went to extra innings, and this time it was Texas that came out on top. Rocker turned in a strong outing, allowing two runs on four hits and a walk over six innings while striking out six. After Smith reached on an error in the third, Seager followed with a two-run homer to give the Rangers a 2–1 lead. Seattle tied it in the sixth, but the Texas bullpen came through. Milner, Martin, and Garcia tossed three scoreless frames to keep the game deadlocked through nine. Shawn Armstrong worked a clean 10th, stranding Seattle’s free runner at second. In the bottom of the 10th, with Osuna as the free runner at second base, Mariners closer Andrés Muñoz struck out Sam Haggerty to open the inning before hitting Smith with a pitch. A wild pitch advanced both runners, and Seager walked to load the bases. With one out and a full count, Semien swung at ball four and flared the pitch off the end of his bat just beyond the reach of the second baseman, scoring Osuna for the walk-off win.`
+  recap: `Kumar Rocker (3-4, 6.68) vs. Bryan Woo (7-4, 3.12). For the second straight game, the Rangers and Mariners went to extra innings, and this time it was Texas that came out on top. Rocker turned in a strong outing, allowing two runs on four hits and a walk over six innings while striking out six. After Smith reached on an error in the third, Seager followed with a two-run homer to give the Rangers a 2–1 lead. Seattle tied it in the sixth, but the Texas bullpen came through. Milner, Martin, and Garcia tossed three scoreless frames to keep the game deadlocked through nine. Armstrong worked a clean 10th, stranding Seattle’s free runner at second. In the bottom of the 10th, with Osuna as the free runner at second base, Mariners closer Andrés Muñoz struck out Sam Haggerty to open the inning before hitting Smith with a pitch. A wild pitch advanced both runners, and Seager walked to load the bases. With one out and a full count, Semien swung at ball four and flared the pitch off the end of his bat just beyond the reach of the second baseman, scoring Osuna for the walk-off win.`
   },
   {
   id: 'jun29',
   date: 'June 29',
   opp: 'Seattle',
   score: 'L 6-4',
-  recap: `Jack Leiter (4-5, 4.55) vs. Luis Castillo (4-5, 3.69). For the third straight game, the Rangers and Mariners played extra innings. Evan Carter led the offense with three hits and scored the game’s first run in the second inning on a Jung RBI single. Leiter was sharp, leaving a 1–1 game after six strong innings, allowing seven hits, no walks, and striking out seven. Jacob Latz and Luke Jackson combined for three scoreless innings to push the game to extras. But in the 10th, Jackson gave up two runs to the Mariners. Seager responded with his third home run of the series, a two-run shot to tie it at 3–3. Cole Winn tossed a scoreless 11th, but the Rangers failed to capitalize. Jonah Heim executed a sacrifice bunt to move the free runner to third, but Jung and Higashioka struck out, ending the threat. In the 12th, Seattle took full advantage, plating three runs—capped by a Mitch Garver two-run homer—to put the game away. The Rangers again struggled in key spots, going 2-for-15 with runners in scoring position. Adolis García, hitting cleanup the past two games, is 0-for-9 with six strikeouts over that span.`
+  recap: `Jack Leiter (4-5, 4.55) vs. Luis Castillo (4-5, 3.69). For the third straight game, the Rangers and Mariners played extra innings. Carter led the offense with three hits and scored the game’s first run in the second inning on a Jung RBI single. Leiter was sharp, leaving a 1–1 game after six strong innings, allowing seven hits, no walks, and striking out seven. Latz and Jackson combined for three scoreless innings to push the game to extras. But in the 10th, Jackson gave up two runs to the Mariners. Seager responded with his third home run of the series, a two-run shot to tie it at 3–3. Winn tossed a scoreless 11th, but the Rangers failed to capitalize. Heim executed a sacrifice bunt to move the free runner to third, but Jung and Higashioka struck out, ending the threat. In the 12th, Seattle took full advantage, plating three runs—capped by a Mitch Garver two-run homer—to put the game away. The Rangers again struggled in key spots, going 2-for-15 with runners in scoring position. García, hitting cleanup the past two games, is 0-for-9 with six strikeouts over that span.`
   },
   {
   id: 'jun30',
   date: 'June 30',
   opp: 'Baltimore',
   score: 'L 10-6',
-  recap: `Patrick Corbin (4-7, 4.24) vs. Trevor Rogers (1-0, 1.62). The Rangers played their fourth consecutive extra-inning game. Patrick Corbin ran into early trouble, surrendering three runs in the third as Baltimore opened the inning with three singles, a walk, and a double. Corbin settled down, retiring 12 of the next 13 batters to complete six innings and earn a quality start. Texas chipped away at the deficit in the sixth when Sam Haggerty drew a walk and Marcus Semien followed with a 422-foot home run to left. The Rangers tied it 3–3 in the seventh without a hit, as Michael Helman walked, then scored from first on a stolen base attempt when the throw to second hit him and bounced into center field. The Rangers had a golden opportunity to walk it off in the ninth. Kyle Higashioka worked a one-out walk, and pinch-runner Ezequiel Duran stole second and third. But Osuna struck out and Haggerty grounded out to first, stranding the potential winning run. The Orioles homered twice in the 10th to take a 6–3 lead. But the Rangers responded in the bottom half—after a squib single to the right of the mound by Semien, Adolis García tied the game with a 417-foot homer to left. In the 11th Baltimore broke it open with four runs off Hoby Milner to put the game out of reach.`
+  recap: `Patrick Corbin (4-7, 4.24) vs. Trevor Rogers (1-0, 1.62). The Rangers played their fourth consecutive extra-inning game. Corbin ran into early trouble, surrendering three runs in the third as Baltimore opened the inning with three singles, a walk, and a double. Corbin settled down, retiring 12 of the next 13 batters to complete six innings and earn a quality start. Texas chipped away at the deficit in the sixth when Haggerty drew a walk and Semien followed with a 422-foot home run to left. The Rangers tied it 3–3 in the seventh without a hit, as Michael Helman walked, then scored from first on a stolen base attempt when the throw to second hit him and bounced into center field. The Rangers had a golden opportunity to walk it off in the ninth. Higashioka worked a one-out walk, and pinch-runner Duran stole second and third. But Osuna struck out and Haggerty grounded out to first, stranding the potential winning run. The Orioles homered twice in the 10th to take a 6–3 lead. But the Rangers responded in the bottom half—after a squib single to the right of the mound by Semien, García tied the game with a 417-foot homer to left. In the 11th Baltimore broke it open with four runs off Milner to put the game out of reach.`
   },
   {
   id: 'jul1',
@@ -616,7 +614,7 @@ const schedule = [
   date: 'July 2',
   opp: 'Baltimore',
   score: 'W 6-0',
-  recap: `Nathan Eovaldi (4-3, 1.87) vs. Tomoyuki Sugano (6-4, 4.06). The Rangers entered the game with MLB’s best ERA at 3.27. In his second start since returning from the IL, Eovaldi threw 72 pitches over five innings while allowing only two hits and a walk and striking out five. Semien opened the scoring in the third with a two-out, three-run homer. Duran added to the lead with a two-out, two-run single in the fourth, and Corey Seager made it 6–0 with a leadoff homer in the fifth. The bullpen kept the shutout intact as Webb tossed a clean sixth and Dane Dunning closed it out with three scoreless innings for the save. Offensively, Smith had three of the team’s 11 hits. Before the game, Josh Jung was optioned to Triple-A Round Rock.`
+  recap: `Nathan Eovaldi (4-3, 1.87) vs. Tomoyuki Sugano (6-4, 4.06). The Rangers entered the game with MLB’s best ERA at 3.27. In his second start since returning from the IL, Eovaldi threw 72 pitches over five innings while allowing only two hits and a walk and striking out five. Semien opened the scoring in the third with a two-out, three-run homer. Duran added to the lead with a two-out, two-run single in the fourth, and Seager made it 6–0 with a leadoff homer in the fifth. The bullpen kept the shutout intact as Webb tossed a clean sixth and Dane Dunning closed it out with three scoreless innings for the save. Offensively, Smith had three of the team’s 11 hits. Before the game, Jung was optioned to Triple-A Round Rock.`
   },
   {
   id: 'jul4',
@@ -658,7 +656,7 @@ const schedule = [
   date: 'July 9',
   opp: 'at Los Angeles Angels',
   score: 'L 11-8',
-  recap: `Kumar Rocker (3-4, 5.80) vs. Kyle Hendricks (5-6, 4.68). Rangers' pitching and defense lost three separate leads in a back-and-forth game. Texas jumped out to a 3–0 lead early behind a pair of runs scored by Smith and a solo homer by Higashioka. But the Angels responded with four runs in the bottom of the third to take a 4–3 lead. The Rangers regained the advantage after a Langford single and a Smith double to go up 5–4. Rocker gave up a pair of solo home runs, allowing the Angels to take a 6–5 lead. Texas tied it in the sixth and pulled ahead again in the seventh on a 423-foot, two-run homer by Semien. That lead didn’t last either. A Jake Burger error in the bottom of the seventh allowed two unearned runs to tie the game at 8–8. In the eighth, Luke Jackson was tagged for three runs on four hits, and the Rangers were unable to rally in the ninth. Texas was 2-for-11 with runners in scoring position.`
+  recap: `Kumar Rocker (3-4, 5.80) vs. Kyle Hendricks (5-6, 4.68). Rangers' pitching and defense lost three separate leads in a back-and-forth game. Texas jumped out to a 3–0 lead early behind a pair of runs scored by Smith and a solo homer by Higashioka. But the Angels responded with four runs in the bottom of the third to take a 4–3 lead. The Rangers regained the advantage after a Langford single and a Smith double to go up 5–4. Rocker gave up a pair of solo home runs, allowing the Angels to take a 6–5 lead. Texas tied it in the sixth and pulled ahead again in the seventh on a 423-foot, two-run homer by Semien. That lead didn’t last either. An error by Burger in the bottom of the seventh allowed two unearned runs to tie the game at 8–8. In the eighth, Jackson was tagged for three runs on four hits, and the Rangers were unable to rally in the ninth. Texas was 2-for-11 with runners in scoring position.`
   },
   {
   id: 'jul10',
@@ -673,6 +671,13 @@ const schedule = [
   opp: 'at Houston',
   score: 'W 7-4',
   recap: `Jack Leiter (4-6, 4.32) vs. Lance McCullers Jr. (2-3, 5.82). The Rangers racked up 13 hits and 4 walks against four Houston pitchers. After loading the bases in the first on two singles and a hit-by-pitch, Carter delivered a clutch two-out, two-run single. Garcia homered 425 feet to center in the third to make the score 3-1. In the same inning after two were out, Carter walked, Burger singled, and Heim delivered with a two-RBI double. Langford added insurance runs in the seventh with a two-run, 392-foot shot to left, one of his four hits in the game. Leiter pitched 5-1/3 innings, allowing three runs on five hits and four walks, striking out six.`
+  },
+  {
+  id: 'jul12',
+  date: 'July 12',
+  opp: 'at Houston',
+  score: 'L 5-4',
+  recap: `Jacob deGrom (9-2, 2.29) vs. Framber Valdez (10-4, 2.90). The Rangers loaded the bases in the first and Haggerty scored on a wild pitch, but Langford and Heim struck out to end the inning. Leadoff doubles by Haggerty and Seager in the 3rd and the 6th were left stranded. Houston hit three solo home runs to take a 3-1 lead into the 8th. Semien homered 401 feet to left field to cut the lead to 3-2. With two outs in the ninth, Hagashioka homered to tie the game. Garcia singled to score Semien in the 11th. In the bottom of the inning, Robert Garcia, pitching his second inning in relief, walked the first batters to load the bases. Milner gave up a sacrifice fly and a single, and Houston walked it off. The Rangers struck out 19 times and were 2-for-17 with runners in scoring position.`
   },
 ]
 
