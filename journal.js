@@ -679,6 +679,13 @@ const schedule = [
   score: 'L 5-4',
   recap: `Jacob deGrom (9-2, 2.29) vs. Framber Valdez (10-4, 2.90). The Rangers loaded the bases in the first and Haggerty scored on a wild pitch, but Langford and Heim struck out to end the inning. Leadoff doubles by Haggerty and Seager in the 3rd and the 6th were left stranded. Houston hit three solo home runs to take a 3-1 lead into the 8th. Semien homered 401 feet to left field to cut the lead to 3-2. With two outs in the ninth, Hagashioka homered to tie the game. Garcia singled to score Semien in the 11th. In the bottom of the inning, Robert Garcia, pitching his second inning in relief, walked the first two batters to load the bases. Milner gave up a sacrifice fly and a single, and Houston walked it off. The Rangers struck out 19 times and were 2-for-17 with runners in scoring position.`
   },
+  {
+  id: 'jul13',
+  date: 'July 13',
+  opp: 'at Houston',
+  score: 'W 5-1',
+  recap: `Nathan Eovaldi (6-3, 1.62) vs. Hunter Brown (9-3, 2.21). Texas opened the scoring in the 2nd when Carter tripled scoring Langford who reached on a walk. Two outs later, Duran doubled scoring Carter. With two outs in the 3rd, Garcia homered 381 feet to left to make it 3-0. The Rangers added another run in the 4th when Carter doubled and scored two batters later on an Osuna sacrifice fly. Semien homered in the 8th to make the score 5-1. Eovaldi pitched 7-2/3 innings allowing a run on 5 hits and a walk with 8 strikeouts.`
+  },
 ]
 
 let html = '';
