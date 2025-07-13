@@ -684,7 +684,7 @@ const schedule = [
   date: 'July 13',
   opp: 'at Houston',
   score: 'W 5-1',
-  recap: `Nathan Eovaldi (6-3, 1.62) vs. Hunter Brown (9-3, 2.21). Texas opened the scoring in the 2nd when Carter tripled scoring Langford who reached on a walk. Two outs later, Duran doubled scoring Carter. With two outs in the 3rd, Garcia homered 381 feet to left to make it 3-0. The Rangers added another run in the 4th when Carter doubled and scored two batters later on an Osuna sacrifice fly. Semien homered in the 8th to make the score 5-1. Eovaldi pitched 7-2/3 innings allowing a run on 5 hits and a walk with 8 strikeouts.`
+  recap: `Nathan Eovaldi (6-3, 1.62) vs. Hunter Brown (9-3, 2.21). Texas opened the scoring in the 2nd when Carter tripled scoring Langford who reached on a walk. Two outs later, Duran doubled scoring Carter. With two outs in the 3rd, Garcia homered 381 feet to left to make it 3-0. The Rangers added another run in the 4th when Carter doubled and scored two batters later on an Osuna sacrifice fly. Semien homered in the 8th to make the score 5-1. Eovaldi pitched 7-2/3 innings allowing a run on 5 hits and a walk with 8 strikeouts. Hunter Brown, the ace of the Astros staff, only lasted 5 innings and was charged with 4 runs.`
   },
 ]
 
