@@ -1512,7 +1512,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
     score: 'W 5-1',
-    recap: ''
+    recap: '<a href = "journal.html#jul13" target = "_blank">Recap</a>'
     },
     {
     id: '135',
