@@ -691,7 +691,7 @@ const schedule = [
   date: 'July 18',
   opp: 'Detroit',
   score: 'W 2-0',
-  recap: `Patrick Corbin (6-7, 4.15) vs. Reese Olson (4-3, 2.95). Jake Burger was placed on the 10-day IL on July 16 retroactive to July 13. Texas managed only two singles and a walk through seven innings. The Rangers finally broke through in the eighth when Seager hit a 2-out, 2-run double after a Higashioka double and a Smith walk. Seager had stranded a runner on third base in both the third and the sixth. Corbin pitched 5-2/3 shutout innings, allowing three hits and two walks, striking out six. Armstrong, Martin, and Garcia pitched 3-2/3 shutout innings in relief. The Rangers are a .500 team for the first time since May 21.`
+  recap: `Patrick Corbin (6-7, 4.15) vs. Reese Olson (4-3, 2.95). Jake Burger was placed on the 10-day IL on July 16 retroactive to July 13. Texas managed only two singles and a walk through seven innings. The Rangers finally broke through in the eighth when Seager hit a 2-out, 2-run double after a Higashioka double and a Smith walk. Seager had stranded a runner on third base in both the third and the sixth. Corbin pitched 5-2/3 shutout innings, allowing three hits and two walks, striking out six. Armstrong, Martin, and Garcia pitched 3-2/3 scoreless innings in relief. The Rangers are a .500 team for the first time since May 21.`
   },
 ]
 
