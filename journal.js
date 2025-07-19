@@ -686,6 +686,13 @@ const schedule = [
   score: 'W 5-1',
   recap: `Nathan Eovaldi (6-3, 1.62) vs. Hunter Brown (9-3, 2.21). Texas opened the scoring in the 2nd when Carter tripled scoring Langford who reached on a walk. Two outs later, Duran doubled scoring Carter. With two outs in the 3rd, Garcia homered 381 feet to left to make it 3-0. The Rangers added another run in the 4th when Carter doubled and scored two batters later on an Osuna sacrifice fly. Semien homered in the 8th to make the score 5-1. Eovaldi pitched 7-2/3 innings allowing a run on 5 hits and a walk with 8 strikeouts. Hunter Brown, the ace of the Astros staff, only lasted 5 innings and was charged with 4 runs.`
   },
+  {
+  id: 'jul18',
+  date: 'July 18',
+  opp: 'Detroit',
+  score: 'W 2-0',
+  recap: `Patrick Corbin (6-7, 4.15) vs. Reese Olson (4-3, 2.95). Jake Burger was placed on the 10-day IL on July 16 retroactive to July 13. Texas managed only two singles and a walk through seven innings. The Rangers finally broke through in the eighth when Seager hit a 2-out, 2-run double after a Higashioka double and a Smith walk. Seager had stranded a runner on third base in both the third and the sixth. Corbin pitched 5-2/3 shutout innings, allowing three hits and two walks, striking out six. Armstrong, Martin, and Garcia pitched 3-2/3 shutout innings in relief. Rowdy Tellez went 0-for-3 in his Rangers debut.`
+  },
 ]
 
 let html = '';
