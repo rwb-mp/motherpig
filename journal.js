@@ -693,6 +693,13 @@ const schedule = [
   score: 'W 2-0',
   recap: `Patrick Corbin (6-7, 4.15) vs. Reese Olson (4-3, 2.95). Jake Burger was placed on the 10-day IL on July 16 retroactive to July 13. Texas managed only two singles and a walk through seven innings. The Rangers finally broke through in the eighth when Seager hit a 2-out, 2-run double after a Higashioka double and a Smith walk. Seager had stranded a runner on third base in both the third and the sixth. Corbin pitched 5-2/3 shutout innings, allowing three hits and two walks, striking out six. Armstrong, Martin, and Garcia pitched 3-2/3 scoreless innings in relief. The Rangers are a .500 team for the first time since June 15.`
   },
+  {
+  id: 'jul19',
+  date: 'July 19',
+  opp: 'Detroit',
+  score: 'W 4-1',
+  recap: `Kumar Rocker (3-4, 6.39) vs. Keider Montero (4-1, 4.02). Rocker held Detroit hitless until the sixth when he gave up a two-out single. Only one runner reached second base against Rocker in 6-1/3 innings. Rowdy Tellez hit a three-run blast 432 feet to center in the second inning after a Garcia single and a Carter walk. Seager plated a run in the fourth after Higashioka and Osuna reached. After Webb gave up a solo home run in the ninth, Langford made a great running catch in left field for the second out of the inning. Webb got the final out on a popup, and the Rangers are above .500 for the first time since May 20.`
+  },
 ]
 
 let html = '';
