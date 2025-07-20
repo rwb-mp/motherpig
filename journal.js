@@ -698,7 +698,7 @@ const schedule = [
   date: 'July 19',
   opp: 'Detroit',
   score: 'W 4-1',
-  recap: `Kumar Rocker (3-4, 6.39) vs. Keider Montero (4-1, 4.02). Rocker held Detroit hitless until the sixth when he gave up a two-out single. Only one runner reached second base against Rocker in 6-1/3 innings. Rowdy Tellez hit a three-run blast 432 feet to center in the second inning after a Garcia single and a Carter walk. Seager plated a run in the fourth after Higashioka and Osuna reached. After Webb gave up a solo home run in the ninth, Langford made a great running catch in left field for the second out of the inning. Webb got the final out on a popup, and the Rangers are above .500 for the first time since May 20.`
+  recap: `Kumar Rocker (3-4, 6.39) vs. Keider Montero (4-1, 4.02). Rocker held Detroit hitless until the sixth when he gave up a two-out single. Only one runner reached second base against Rocker in 6-1/3 innings. In his second game as a Ranger, Rowdy Tellez hit a three-run blast 432 feet to center in the second inning after a Garcia single and a Carter walk. Seager plated a run in the fourth after Higashioka and Osuna reached. After Webb gave up a solo home run in the ninth, Langford made a great running catch in left field for the second out of the inning. Webb got the final out on a popup, and the Rangers are above .500 for the first time since May 20.`
   },
 ]
 
