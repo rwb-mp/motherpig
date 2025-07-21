@@ -705,7 +705,7 @@ const schedule = [
   date: 'July 20',
   opp: 'Detroit',
   score: 'L 2-1',
-  recap: `Jacob Latz (1-0, 3.00) vs. Tarik Skubal (10-3, 2.23). Rangers pitching was outstanding again as Latz and four relievers held Detroit to a pair of runs. Texas struck out 15 times and, for the third straight game, could manage only four hits. The lone Ranger run came in the seventh when Garcia scored on a wild pitch after reaching on a double to left and advancing to third on a Higashioka single. Needing a tying run in the ninth, Seager, Semien, and Garcia went quietly.`
+  recap: `Jacob Latz (1-0, 3.00) vs. Tarik Skubal (10-3, 2.23). Rangers pitching was outstanding again as Latz and four relievers held Detroit to a pair of runs. Texas struck out 15 times and, for the third straight game, could manage only four hits. The lone Ranger run came in the seventh when Garcia scored on a wild pitch after reaching on a double to left and advancing to third on a Higashioka single. Needing a tying run in the ninth, Seager, Semien, and Garcia went quietly on six pitches.`
   },
 ]
 
