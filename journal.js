@@ -700,6 +700,13 @@ const schedule = [
   score: 'W 4-1',
   recap: `Kumar Rocker (3-4, 6.39) vs. Keider Montero (4-1, 4.02). Rocker held Detroit hitless until the sixth when he gave up a two-out single. Only one runner reached second base against Rocker in 6-1/3 innings. In his second game as a Ranger, Rowdy Tellez hit a three-run blast 432 feet to center in the second inning after a Garcia single and a Carter walk. Seager plated a run in the fourth after Higashioka and Osuna reached. After Webb gave up a solo home run in the ninth, Langford made a great running catch in left field for the second out of the inning. Webb got the final out on a popup, and the Rangers are above .500 for the first time since May 20.`
   },
+  {
+  id: 'jul20',
+  date: 'July 20',
+  opp: 'Detroit',
+  score: 'L 2-1',
+  recap: `Jacob Latz (1-0, 3.00) vs. Tarik Skubal (10-3, 2.23). Rangers pitching was outstanding again as Latz and four relievers held Detroit to a pair of runs. Texas struck out 15 times and, for the third straight game, could manage only four hits. The lone Ranger run came in the seventh when Garcia scored on a wild pitch after reaching on a double to left and advancing to third on a Higashioka single. Needing a tying run in the ninth, Seager, Semien, and Garcia went quietly.`
+  },
 ]
 
 let html = '';
