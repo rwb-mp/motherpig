@@ -707,6 +707,13 @@ const schedule = [
   score: 'L 2-1',
   recap: `Jacob Latz (1-0, 3.00) vs. Tarik Skubal (10-3, 2.23). Rangers pitching was outstanding again as Latz and four relievers held Detroit to a pair of runs. Texas struck out 15 times and, for the third straight game, could manage only four hits. The lone Ranger run came in the seventh when Garcia scored on a wild pitch after reaching on a double to left and advancing to third on a Higashioka single. Needing a tying run in the ninth, Seager, Semien, and Garcia went quietly on six pitches.`
   },
+  {
+  id: 'jul21',
+  date: 'July 21',
+  opp: 'Athletics',
+  score: 'W 7-2',
+  recap: `Jack Leiter (5-6, 4.37) vs. Jacob Lopez (3-5, 4.20). Josh Jung was recalled today from Round Rock and homered in his first at bat to give Texas the early lead. In the fifth inning after Smith singled and Jung walked, Cody Freeman got his first major league hit with an RBI double. Michael Helman followed with a 3-run, 407-foot homer to left to give Texas a 5-1 lead. It was the first home run of Helman's career. In the seventh inning, after a Smith double and a Jung single, Helman put down a perfect sacrifice bunt to score Smith. Seager followed with a single to score Jung. Leiter pitched six innings allowing four hits and four walks with 7 K's. Milner, Armstrong, and Winn pitched the final three innings allowing only two baserunners.`
+  },
 ]
 
 let html = '';
