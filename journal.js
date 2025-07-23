@@ -712,7 +712,14 @@ const schedule = [
   date: 'July 21',
   opp: 'Athletics',
   score: 'W 7-2',
-  recap: `Jack Leiter (5-6, 4.37) vs. Jacob Lopez (3-5, 4.20). Josh Jung was recalled today from Round Rock and homered in his first at bat to give Texas the early lead. In the fifth inning after Smith singled and Jung walked, Cody Freeman got his first major league hit with an RBI double. Michael Helman followed with a 3-run, 407-foot homer to left to give Texas a 5-1 lead. It was the first home run of Helman's career. In the seventh inning, after a Smith double and a Jung single, Helman put down a perfect sacrifice bunt to score Smith. Seager followed with a single to score Jung. Leiter pitched six innings allowing four hits and four walks with 7 K's. Milner, Armstrong, and Winn pitched the final three innings allowing only two baserunners.`
+  recap: `Jack Leiter (5-6, 4.37) vs. Jacob Lopez (3-5, 4.20). Josh Jung was recalled today from Round Rock and homered in his first at bat to give Texas the early lead. In the fifth inning after Smith singled and Jung walked, Cody Freeman got his first major league hit with an RBI double. Michael Helman followed with a 3-run, 407-foot homer to left to give Texas a 5-1 lead. It was the first home run of Helman's career. In the seventh inning, after a Smith double and a Jung single, Helman put down a perfect sacrifice bunt to score Smith. Seager followed with a single to score Jung. Leiter pitched six innings allowing four hits and four walks with 7 K's. Milner, Armstrong, and Winn pitched the final three innings allowing only two baserunners. The Rangers were 4-for-6 with RISP.`
+  },
+  {
+  id: 'jul22',
+  date: 'July 22',
+  opp: 'Athletics',
+  score: 'W 6-2',
+  recap: `Jacob deGrom (9-2, 2.32) vs. J.T. Ginn (1-2, 4.91). After the Athletics homered to lead off the game, Garcia blasted one 427 feet to center in the 4th to tie the score at 1-1. Semien gave the Rangers a 2-1 lead in the 6th when he homered 364 feet down the leftfield line. Texas opened things up in the 7th after Langford and Tellez mmade outs to start the inning. Jung, Higashioka, and Smith hit consecutive singles to score one run, and Seager homered 399 feet to right to score three more. deGrom pitched another quality start over six innings, allowing one run on three hits and a walk while striking out nine.`
   },
 ]
 
