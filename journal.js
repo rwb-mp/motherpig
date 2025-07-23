@@ -719,7 +719,7 @@ const schedule = [
   date: 'July 22',
   opp: 'Athletics',
   score: 'W 6-2',
-  recap: `Jacob deGrom (9-2, 2.32) vs. J.T. Ginn (1-2, 4.91). After the Athletics homered to lead off the game, Garcia blasted one 427 feet to center in the 4th to tie the score at 1-1. Semien gave the Rangers a 2-1 lead in the 6th when he homered 364 feet down the leftfield line. Texas opened things up in the 7th after Langford and Tellez mmade outs to start the inning. Jung, Higashioka, and Smith hit consecutive singles to score one run, and Seager homered 399 feet to right to score three more. deGrom pitched another quality start over six innings, allowing one run on three hits and a walk while striking out nine.`
+  recap: `Jacob deGrom (9-2, 2.32) vs. J.T. Ginn (1-2, 4.91). After the Athletics homered to lead off the game, Garcia blasted one 427 feet to center in the 4th to tie the score at 1-1. Semien gave the Rangers a 2-1 lead in the 6th when he homered 364 feet down the leftfield line. Texas opened things up in the 7th after Langford and Tellez made outs to start the inning. Jung, Higashioka, and Smith hit consecutive singles to score one run, and Seager homered 399 feet to right to score three more. deGrom pitched another quality start over six innings, allowing one run on three hits and a walk while striking out nine.`
   },
 ]
 
