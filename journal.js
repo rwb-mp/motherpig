@@ -719,7 +719,14 @@ const schedule = [
   date: 'July 22',
   opp: 'Athletics',
   score: 'W 6-2',
-  recap: `Jacob deGrom (9-2, 2.32) vs. J.T. Ginn (1-2, 4.91). After the Athletics homered to lead off the game, Garcia blasted one 427 feet to center in the 4th to tie the score at 1-1. Semien gave the Rangers a 2-1 lead in the 6th when he homered 364 feet down the left field line. Texas opened things up in the 7th after Langford and Tellez made outs to start the inning. Jung, Higashioka, and Smith hit consecutive singles to score one run, and Seager homered 399 feet to right to score three more. deGrom pitched another quality start over six innings, allowing one run on three hits and a walk while striking out nine.`
+  recap: `Jacob deGrom (9-2, 2.32) vs. J.T. Ginn (1-2, 4.91). After the Athletics homered to lead off the game, Garcia blasted one 427 feet to center in the 4th to tie the score at 1-1. Semien gave the Rangers a 2-1 lead in the 6th when he homered 364 feet down the left field line. Texas opened things up in the 7th after Langford and Tellez made outs to start the inning. Jung, Higashioka, and Smith hit consecutive singles to score one run, and Seager homered 399 feet to right to score three more. deGrom pitched another quality start over six innings, allowing one run on three hits and a walk while striking out nine. It was the first time Seager, Semien, and Garcia homered in the same game since September 2023.`
+  },
+  {
+  id: 'jul23',
+  date: 'July 23',
+  opp: 'Athletics',
+  score: 'W 2-1',
+  recap: `Patrick Corbin (6-7, 3.91) vs. JP Sears (7-8, 5.13). Sears is 5-0 in his last five starts against Texas. The Rangers had four base hits in the game. Seager doubled in the first, and then homered 434-feet to center in the third to give Texas an early 1-0 lead. The next 12 Ranger hitters failed to reach base. With two outs in the 7th, Langford walked. Heim hit a popup to shallow left field between the shortstop and the left fielder who miscommunicated allowing the ball to drop. Langford who was hustling on the play scored all the way from first what proved to be the winning run. Corbin pitched 5-2/3, allowing a run on five hits, with no walks and seven K's. Jon Gray, in his first appearance of the season, pitched two shutout innings in relief, and Milner and Garcia closed out the win.`
   },
 ]
 
