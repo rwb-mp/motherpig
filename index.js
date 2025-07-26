@@ -1643,7 +1643,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '25',
     opp: 'Atl <img src="logos/braves.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: 'W 8-1',
+    score: 'W 8-3',
     recap: '<a href = "journal.html#jul25" target = "_blank">Recap</a>'
     },
     {
