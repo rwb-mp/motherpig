@@ -732,8 +732,8 @@ const schedule = [
   id: 'jul25',
   date: 'July 25',
   opp: 'Athletics',
-  score: '',
-  recap: `Nathan Eovaldi (7-3, 1.58) vs. Joey Wentz (2-1, 5.71). `
+  score: 'W 8-1',
+  recap: `Nathan Eovaldi (7-3, 1.58) vs. Joey Wentz (2-1, 5.71). Haggerty manufactured a run in the first when he singled, stole second and advanced to third on a wild throw by the catcher, and scored on a Semien sacrifice fly. Heim homered in the second to make it 2-0. Semien walked and scored on a Langford double in the fourth. Helman singled and scored on a Haggerty double in the fifth to make the score 4-0. Texas put the game out of reach in the 8th when they sent 10 batters to the plate and scored four runs. Eovaldi got the win by pitching five shutout innings, allowing three hits and four walks, striking out seven.`
   },
 ]
 
