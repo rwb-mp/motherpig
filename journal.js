@@ -742,6 +742,13 @@ const schedule = [
   score: 'W 6-5',
   recap: `Kumar Rocker (4-4, 5.66) vs. Grant Holmes (4-9, 3.81). Rocker threw 95 pitches and was finished after four innings. Control issues contributed to two early runs for the Braves. The Rangers tied the game in the second with an RBI triple by Carter and an RBI single by Jung. Texas scored two more in the third after Seager singled and Semien was hit by a pitch. A wild pitch advanced the runners, and Garcia scored them both with a clutch single. In a 4-4 game in the top of the ninth, Langford attempted a sliding catch in left field and missed, resulting in a triple. The next hitter scored him on a sacrifice fly to give Atlanta a 5-4 lead. In the bottom of the ninth, Jung walked and Heim delivered a one-out clutch double to tie the game 5-5. Armstrong pitched a scoreless tenth. Semien singled to score the free runner in the bottom of the tenth and the Rangers had the walk-off win.`
   },
+  {
+  id: 'jul27',
+  date: 'July 27',
+  opp: 'Braves',
+  score: 'W 8-1',
+  recap: `Jack Leiter (6-6, 4.27) vs. Bryce Elder (4-6, 5.63). Langford set the tone in the first with a bases-clearing double after Smith, Seager, and Garcia walked. Smith hit a two-run shot in the second to make the score 5-1. Three more runs scored in the third on a walk, a hit batter, and three singles. Smith had three hits and a walk, scoring twice, and knocking in two. Leiter pitched six innings, allowing a run on two hits and three walks with seven K's. The win put Texas at 6 games over .500 which ties a season high.`
+  },
 ]
 
 let html = '';
