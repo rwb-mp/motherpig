@@ -747,7 +747,7 @@ const schedule = [
   date: 'July 27',
   opp: 'Braves',
   score: 'W 8-1',
-  recap: `Jack Leiter (6-6, 4.27) vs. Bryce Elder (4-6, 5.63). Langford set the tone in the first with a bases-clearing double after Smith, Seager, and Garcia walked. Smith hit a two-run shot in the second to make the score 5-1. Three more runs scored in the third on a walk, a hit batter, and three singles. Smith had three hits and a walk, scoring twice, and knocking in two. Leiter pitched six innings, allowing a run on two hits and three walks with seven K's. The win put Texas at 6 games over .500 which ties a season high.`
+  recap: `Jack Leiter (6-6, 4.27) vs. Bryce Elder (4-6, 5.63). Langford set the tone in the first with a bases-clearing double after Smith, Seager, and Garcia walked. Smith hit a two-run shot in the second to make the score 5-1. Three more runs scored in the third on a walk, a hit batter, and three singles. Smith had three hits and a walk, scoring twice, and knocking in two. Leiter pitched six innings, allowing a run on two hits and three walks with seven K's. Boushley and Winn threw three shutout innings in relief. The win put Texas at 6 games over .500 which ties a season high.`
   },
 ]
 
