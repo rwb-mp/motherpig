@@ -731,9 +731,16 @@ const schedule = [
   {
   id: 'jul25',
   date: 'July 25',
-  opp: 'Athletics',
+  opp: 'Braves',
   score: 'W 8-3',
   recap: `Nathan Eovaldi (7-3, 1.58) vs. Joey Wentz (2-1, 5.71). Haggerty manufactured a run in the first when he singled, stole second and advanced to third on a wild throw by the catcher, and scored on a Semien sacrifice fly. Heim homered in the second to make it 2-0. Semien walked and scored on a Langford double in the fourth. Helman singled and scored on a Haggerty double in the fifth to make the score 4-0. Texas put the game out of reach in the 8th when they sent 10 batters to the plate and scored four runs. Eovaldi got the win by pitching five shutout innings, allowing three hits and four walks, striking out seven. Caleb Boushley had a bad ninth inning, allowing two runs on a double, a single, and two walks. Garcia had to come in to get the final two outs.`
+  },
+  {
+  id: 'jul26',
+  date: 'July 26',
+  opp: 'Braves',
+  score: 'W 6-5',
+  recap: `Kumar Rocker (4-4, 5.66) vs. Grant Holmes (4-9, 3.81). Rocker threw 95 pitches and was finished after four innings.Control issues contributed to two early runs for the Braves. The Rangers tied the game in the second with an RBI triple by Carter and an RBI single by Jung. Texas scored two more in the third after Seager singled and Semien was hit by a pitch. A wild pitch advanced both runners, and Garcia scored them both with a clutch single. In a 4-4 game in the top of the ninth, Langford attempted a sliding catch in left field and missed, resulting in a triple. The next hitter scored him on a sacrifice fly to give Atlanta a 5-4 lead. In the bottom of the ninth, Jung walked and Heim delivered a one-out clutch double to tie the game 5-5. Armstrong pitched a scoreless tenth. Semien singled to score the free runner in the bottom of the tenth and the Rangers had the walk-off win.`
   },
 ]
 
