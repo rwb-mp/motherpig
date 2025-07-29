@@ -754,7 +754,7 @@ const schedule = [
   date: 'July 28',
   opp: 'at Los Angeles Angels',
   score: 'L 6-4',
-  recap: `Jacob deGrom (10-2, 2.28) vs. Jack Kochanowicz (3-6, 6.03). deGrom lasted 5-1/3 innings and was charged with five earned runs for the first time this season. The first Rangers hit came with two outs in the fifth when Smith tripled and Seager was intentionally walked. They both scored when the rightfielder dropped a soft fly ball by Garcia. Jung hit a solo home run in the 6th, and Carter scored in the 8th when he doubled and Heim singled him in. The lineup went 1-for-8 with RISP, and Joc Pederson struck out with runners on second and third to end the 5th and the 7th. In his two games back from the IL, Pederson is 0-for-8 with 3 K's and has left nine runners on base batting in the five hole.`
+  recap: `Jacob deGrom (10-2, 2.28) vs. Jack Kochanowicz (3-6, 6.03). deGrom lasted 5-1/3 innings and was charged with a season-high five runs. The first Rangers hit came with two outs in the fifth when Smith tripled and Seager was intentionally walked. They both scored when the rightfielder dropped a soft fly ball by Garcia. Jung hit a solo home run in the 6th, and Carter scored in the 8th when he doubled and Heim singled him in. The lineup went 1-for-8 with RISP, and Joc Pederson struck out with runners on second and third to end the 5th and the 7th. In his two games back from the IL, Pederson is 0-for-8 with 3 K's and has left nine runners on base batting in the five hole.`
   },
   {
   id: 'jul29',
