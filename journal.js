@@ -383,7 +383,7 @@ const schedule = [
   date: 'May 25',
   opp: 'at Chicago White Sox',
   score: 'W 5-4',
-  recap: `Patrick Corbin (3-3, 3.59) vs. Davis Martin (2-5, 3.49). The Rangers lost Pederson to a fractured right hand after he was hit by a pitch in yesterday’s game, placing him on the 10-day IL. Alejandro Osuna made his MLB debut in left field. Down 3-2 in the 9th, the Rangers mounted a comeback. After Jung was hit by a pitch, Burger doubled to put two on. Osuna struck out, but Higashioka reached on an error that scored Jung with the tying run. García followed with a clutch double to right, scoring Burger and Higashioka to take a 5-3 lead. Garcia pitched the 9th and allowed a run on back-to-back one-out doubles, but picked off the tying run at second before Osuna secured the final out on the warning track to seal the win. Burger had earlier put Texas on the board with a 423-foot, two-run homer in the 2nd. Corbin went 5 1/3 innings, allowing three runs on five hits and a walk with six strikeouts.`
+  recap: `Patrick Corbin (3-3, 3.59) vs. Davis Martin (2-5, 3.49). Pederson was placed on the IL with a fractured right hand. Alejandro Osuna made his MLB debut in left field. Down 3-2 in the 9th, the Rangers mounted a comeback. After Jung was hit by a pitch, Burger doubled to put two on. Osuna struck out, but Higashioka reached on an error that scored Jung with the tying run. García followed with a clutch double to right, scoring Burger and Higashioka to take a 5-3 lead. Garcia pitched the 9th and allowed a run on back-to-back one-out doubles, but picked off the tying run at second before Osuna secured the final out on the warning track to seal the win. Burger had earlier put Texas on the board with a 423-foot, two-run homer in the 2nd. Corbin went 5 1/3 innings, allowing three runs on five hits and a walk with six strikeouts.`
   },
   {
   id: 'may26',
@@ -754,7 +754,14 @@ const schedule = [
   date: 'July 28',
   opp: 'at Los Angeles Angels',
   score: 'L 6-4',
-  recap: `Jacob deGrom (10-2, 2.28) vs. Jack Kochanowicz (3-6, 6.03). deGrom lasted 5-1/3 innings and was charged with five earned runs for the first time this season. The first Rangers hit came with two outs in the fifth when Smith tripled and Seager was intentionally walked. They both scored when the rightfielder dropped a soft fly ball by Garcia. Jung hit a solo home run in the 6th, and Carter scored in the 8th when he doubled and Heim singled him in. The lineup went 1-for-8 with RISP, and Joc Pederson struck out twice with runners on second and third to end the 5th and the 7th. In his two games since returning from the IL, Pederson is 0-for-8 with 3 K's and has left nine runners on base batting in the five hole.`
+  recap: `Jacob deGrom (10-2, 2.28) vs. Jack Kochanowicz (3-6, 6.03). deGrom lasted 5-1/3 innings and was charged with five earned runs for the first time this season. The first Rangers hit came with two outs in the fifth when Smith tripled and Seager was intentionally walked. They both scored when the rightfielder dropped a soft fly ball by Garcia. Jung hit a solo home run in the 6th, and Carter scored in the 8th when he doubled and Heim singled him in. The lineup went 1-for-8 with RISP, and Joc Pederson struck out with runners on second and third to end the 5th and the 7th. In his two games back from the IL, Pederson is 0-for-8 with 3 K's and has left nine runners on base batting in the five hole.`
+  },
+  {
+  id: 'jul29',
+  date: 'July 29',
+  opp: 'at Los Angeles Angels',
+  score: '',
+  recap: `Patrick Corbin (6-7, 3.78) vs. Yusei Kikuchi (4-7, 3.23). `
   },
 ]
 
