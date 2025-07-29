@@ -132,7 +132,7 @@ const schedule = [
   date: 'April 17',
   opp: 'Los Angeles Angels',
   score: 'W 5-3',
-  recap: `Kumar Rocker (0-2, 7.94) vs. Jack Kochanowicz (1-1, 5.74). The Rangers entered the game with the best starting rotation ERA in the American League and backed it up with another strong outing. The teams traded runs in the first, but Texas started the scoring in the second with a bases-loaded, two-run double by Taveras. García added a solo shot in the third to make it 4–1. After the Angels trimmed the lead to 4–3 in the fifth, Seager provided insurance with a towering 427-foot homer to center in the seventh—his 100th as a Ranger. Rocker was dominant, allowing just three runs over seven innings while striking out eight, walking none, and needing only 78 pitches (58 strikes). Martin worked a clean eighth, and Garcia pitched a perfect ninth to notch his first career save.`
+  recap: `Kumar Rocker (0-2, 7.94) vs. Jack Kochanowicz (1-1, 5.74). The Rangers entered the game with the best starting rotation ERA in the American League and backed it up with another strong outing. The teams traded runs in the first, and Texas added two more in the second with a bases-loaded, two-run double by Taveras. García added a solo shot in the third to make it 4–1. After the Angels trimmed the lead to 4–3 in the fifth, Seager provided insurance with a towering 427-foot homer to center in the seventh—his 100th as a Ranger. Rocker was dominant, allowing just three runs over seven innings while striking out eight, walking none, and needing only 78 pitches (58 strikes). Martin worked a clean eighth, and Garcia pitched a perfect ninth to notch his first career save.`
   },
   {
   id: 'apr18',
@@ -579,7 +579,7 @@ const schedule = [
   date: 'June 27',
   opp: 'Seattle',
   score: 'L 7-6',
-  recap: `Nathan Eovaldi (4-3, 1.56) vs. Logan Gilbert (2-2, 3.12). In his first start since May 27, Eovaldi was on a strict pitch limit of 45 pitches. The Rangers’ pitchers allowed 16 hits and five walks, but the defense turned five double plays to help hold Seattle to just 4-for-23 with runners in scoring position. After the Mariners struck first in the opening inning, Seager responded with a solo home run in the bottom half to tie it. Seattle regained control with two runs in the third and added insurance in the fourth and sixth to build a 5–1 lead. Texas came alive in the bottom of the sixth, cutting the deficit to one on a Semien RBI double and a two-run single by García. They tied it in the seventh on a two-out double by Smith followed by a Haggerty RBI single. The teams traded runs in the tenth, with García delivering a sacrifice fly for his third RBI of the game. But Seattle pushed across the go-ahead run in the 12th, and the Rangers couldn't answer—García lined out to right and Jung struck out on a high pitch to end it. Texas went 3-for-20 with runners in scoring position and left 13 runners on base.`
+  recap: `Nathan Eovaldi (4-3, 1.56) vs. Logan Gilbert (2-2, 3.12). In his first start since May 27, Eovaldi was on a strict pitch limit of 45 pitches. The Rangers’ pitchers allowed 16 hits and five walks, but the defense turned five double plays to help hold Seattle to just 4-for-23 with runners in scoring position. After the Mariners scored in the first inning, Seager responded with a solo home run in the bottom half to tie it. Seattle regained control with two runs in the third and added insurance in the fourth and sixth to build a 5–1 lead. Texas came alive in the bottom of the sixth, cutting the deficit to one on a Semien RBI double and a two-run single by García. They tied it in the seventh on a two-out double by Smith followed by a Haggerty RBI single. The teams traded runs in the tenth, with García delivering a sacrifice fly for his third RBI of the game. But Seattle pushed across the go-ahead run in the 12th, and the Rangers couldn't answer—García lined out to right and Jung struck out on a high pitch to end it. Texas went 3-for-20 with runners in scoring position and left 13 runners on base.`
   },
   {
   id: 'jun28',
@@ -753,8 +753,8 @@ const schedule = [
   id: 'jul28',
   date: 'July 28',
   opp: 'at Los Angeles Angels',
-  score: '',
-  recap: `Jacob deGrom (10-2, 2.28) vs. Jack Kochanowicz (3-6, 6.03). `
+  score: 'L 6-4',
+  recap: `Jacob deGrom (10-2, 2.28) vs. Jack Kochanowicz (3-6, 6.03). deGrom lasted 5-1/3 innings and was charged with five earned runs for the first time this season. The first Rangers hit came with two outs in the fifth when Smith tripled and Seager was intentionally walked. They both scored when the rightfielder dropped a soft fly ball by Garcia. Jung hit a solo home run in the 6th, and Carter scored in the 8th when he doubled and Heim singled him in. The lineup went 1-for-8 with RISP, and Joc Pederson struck out twice with runners on second and third to end the 5th and the 7th. In his two games since returning from the IL, Pederson is 0-for-8 with 3 K's and has left nine runners on base batting in the five hole.`
   },
 ]
 
