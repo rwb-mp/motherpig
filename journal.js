@@ -760,8 +760,8 @@ const schedule = [
   id: 'jul29',
   date: 'July 29',
   opp: 'at Los Angeles Angels',
-  score: '',
-  recap: `Patrick Corbin (6-7, 3.78) vs. Yusei Kikuchi (4-7, 3.23). `
+  score: 'L 8-5',
+  recap: `Patrick Corbin (6-7, 3.78) vs. Yusei Kikuchi (4-7, 3.23). The Rangers had 14 hits but lost the game due to a lack of clutch hitting, a poor relief performance, and four fielding muscues. Texas was 2-for-7 with RISP. Higashioka had three hits-- including two solo home runs, Langford had 3 singles, and Semien and Smith had two hits each. Corbin pitched five innings allowing three runs--two of them earned, on three hits and three walks with six strikeouts. A throwing error by Garcia in the first inning gave the Angels an unearned run. In the fourth Garcia dropped a flyball in short rightfield, allowing another run. The Angels scored four in the 6th off John Gray when both Langford in center and Haggerty in left let sinking line drives bounce past them to the wall. John Gray was charged with four runs on three hits and three walks, retiring only two batters. Thanks to a Mariners loss, the Rangers remain one game out of the wild card hunt.`
   },
 ]
 
