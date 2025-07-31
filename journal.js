@@ -763,6 +763,13 @@ const schedule = [
   score: 'L 8-5',
   recap: `Patrick Corbin (6-7, 3.78) vs. Yusei Kikuchi (4-7, 3.23). The Rangers had 14 hits but lost the game due to a lack of timely hitting, a poor relief performance, and four fielding miscues. Texas went 2-for-7 with RISP. Higashioka had three hits-- including two solo home runs, Langford had 3 singles, and Semien and Smith had two hits each. Corbin pitched five innings allowing three runs--two of them earned, on three hits and three walks with six strikeouts. A throwing error by Garcia in the first inning gave the Angels an unearned run. In the fourth Garcia dropped a flyball in short rightfield, allowing another run. The Angels scored four in the 6th off John Gray when both Langford in center and Haggerty in left let sinking line drives bounce past them to the wall. Jon Gray was charged with four runs on three hits and three walks, retiring only two batters. Thanks to a Mariners loss, the Rangers remain one game out of the wild card hunt.`
   },
+  {
+  id: 'jul30',
+  date: 'July 30',
+  opp: 'at Los Angeles Angels',
+  score: 'W 6-3',
+  recap: `Nathan Eovaldi (8-3, 1.50) vs. Jose Soriano (7-7, 3.79). Eovaldi threw seven innings, allowing a run on six hits and two walks striking out four. The Rangers scored in the fourth with a double by Semien and a single by Langford. Semien had an RBI single in the 6th after Seager reached on an error. With two outs in the 8th, the next seven Ranger hitters reached base, resulting in four runs. The big hit was a two-run Garcia homer. Milner gave up two in the 8th when he surrendered his first home run of the year. Armstrong and Garcia shut things down the rest of the way. With the win, the Rangers are tied with Seattle for the final wild card spot.`
+  },
 ]
 
 let html = '';
