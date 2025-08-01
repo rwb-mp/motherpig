@@ -775,7 +775,7 @@ const schedule = [
   date: 'July 31',
   opp: 'at Seattle',
   score: 'L 6-0',
-  recap: `Kumar Rocker (4-4, 5.73) vs. George Kirby (5-5, 4.50). Rocker lasted only 4-2/3 innings allowing three runs on six hits and two walks, striking out three. Latz gave up the other three runs in his 1-1/3 innings of relief. The Rangers managed only four hits and walked twice, striking out nine times, and Texas was shutout for the 11th time.`
+  recap: `Kumar Rocker (4-4, 5.73) vs. George Kirby (5-5, 4.50). Rocker lasted only 4-2/3 innings allowing three runs on six hits and two walks, striking out three. Latz gave up the other three runs in his 1-1/3 innings of relief. The Rangers managed only four hits and walked twice, striking out nine times. Their best scoring opportunities were in the 3rd and the 6th. Pederson and Tellez reached in the 3rd, but Higashioka popped out and Smith and Seager struck out. With two outs in the 6th, Seager singled and Semien doubled, but Garcia flew out to centerfield to end the inning. The Rangers were shutout for the 11th time.`
   },
 ]
 
