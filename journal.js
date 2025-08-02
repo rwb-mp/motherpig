@@ -779,7 +779,7 @@ const schedule = [
   },
   {
   id: 'aug1',
-  date: 'August1',
+  date: 'August 1',
   opp: 'at Seattle',
   score: 'L 4-3',
   recap: `Jack Leiter (7-6, 4.09) vs. Logan Gilbert (3-4, 3.36). Leiter had moments of brilliance as he recorded 7 strikeouts and 19 swings and misses over 4-1/3 innings. Control issues in the second ran up his pitch count and shortened his outing. After a Pederson hit-by-pitch in the third, clutch hits by Tellez, Smith, and Semien gave Texas a 3-1 lead. One-out singles by Langford and Pederson in the fourth produced nothing as Tellez and Heim struck out. The Rangers next great chance was in the seventh when Haggerty led off with a double, but Duran grounded out, Heim struck out, and Smith grounded out, leaving him on third base. Newly acquired relievers Coulombe and Maton pitched a scoreless seventh and eighth. Leading 4-3 entering the bottom of the ninth, Robert Garcia gave up a hard single to the first batter he faced, and J.P. Crawford followed with a 370-foot home run to right to give Seattle a walk-off 4-3 win.`
