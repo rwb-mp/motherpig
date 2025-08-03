@@ -788,7 +788,14 @@ const schedule = [
   date: 'August 2',
   opp: 'at Seattle',
   score: 'W 6-4',
-  recap: `Merrill Kelly  (9-6, 3.22) vs. Luis Castillo (8-6, 3.19). Higashioka homered in the third inning after a Tellez single to give Texas an early 2-0 lead. Kelly was excellent in his first start as a Ranger, allowing one baserunner through five innings. Three Seattle base hits in the 6th along with some bad defense in right field, and Kelly left with the game tied 2-2. The Ranger offense went dormant after the third inning, but Armstrong, Coulombe, Maton, and Winn got the game to extra innings. The Rangers scored 2 in the 10th on a pair of bloopers and a slow roller to short. For the second straight game, Robert Garcia gave up a 2-run homer--this time to the first batter he faced--and the game went to the 11th inning tied 4-4. Singles by Pederson, Langford, and Duran plated 2 Texas runs in the 11th. Luis Curvelo, recently called up from Round Rock, pitched a perfect 11th and got his first big league win.`
+  recap: `Merrill Kelly  (9-6, 3.22) vs. Luis Castillo (8-6, 3.19). Higashioka homered in the third inning after a Tellez single to give Texas an early 2-0 lead. Kelly was excellent in his first start as a Ranger, allowing one baserunner through five innings. Kelly left in the 6th with the game tied 2-2 after three Seattle base hits and some bad defense in right field. The Ranger offense went dormant after the third inning, but Armstrong, Coulombe, Maton, and Winn got the game to extra innings. The Rangers scored 2 in the 10th on a pair of bloopers and a slow roller to short. For the second straight game, Robert Garcia gave up a 2-run homer--this time to the first batter he faced--and the game went to the 11th inning tied 4-4. Singles by Pederson, Langford, and Duran plated 2 Texas runs in the 11th. Luis Curvelo, recently called up from Round Rock, pitched a perfect 11th and got his first big league win.`
+  },
+  {
+  id: 'aug3',
+  date: 'August 3',
+  opp: 'at Seattle',
+  score: '',
+  recap: `Jacob deGrom  (10-3, 2.55) vs. Logan Evans (4-4, 4.22). `
   },
 ]
 
