@@ -794,7 +794,7 @@ const schedule = [
   id: 'aug3',
   date: 'August 3',
   opp: 'at Seattle',
-  score: 'L 4-3',
+  score: 'L 5-4',
   recap: `Jacob deGrom  (10-3, 2.55) vs. Logan Evans (4-4, 4.22). deGrom gave up 3 home runs in his 5 innings of work and left the game trailing 5-3. The Rangers scored their runs on a Seager 2-run homer in the 3rd, a pair of doubles by Garcia and Tellez in the 4th, and a Garcia solo home run in the sixth. Milner and Winn pitched 3 shutout innings in relief, but Texas went hitless in the final 3 innings.`
   },
 ]

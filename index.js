@@ -1819,7 +1819,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '3',
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: 'L 4-3',
+    score: 'L 5-4',
     recap: '<a href = "journal.html#aug3" target = "_blank">Recap</a>'
     },
     {
