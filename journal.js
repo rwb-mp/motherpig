@@ -788,14 +788,14 @@ const schedule = [
   date: 'August 2',
   opp: 'at Seattle',
   score: 'W 6-4',
-  recap: `Merrill Kelly  (9-6, 3.22) vs. Luis Castillo (8-6, 3.19). Higashioka homered in the third inning after a Tellez single to give Texas an early 2-0 lead. Kelly was excellent in his first start as a Ranger, allowing one baserunner through five innings. Kelly left in the 6th with the game tied 2-2 after three Seattle base hits and some bad defense in right field. The Ranger offense went dormant after the third inning, but Armstrong, Coulombe, Maton, and Winn got the game to extra innings. The Rangers scored 2 in the 10th on a pair of bloopers and a slow roller to short. For the second straight game, Robert Garcia gave up a 2-run homer--this time to the first batter he faced--and the game went to the 11th inning tied 4-4. Singles by Pederson, Langford, and Duran plated 2 Texas runs in the 11th. Luis Curvelo, recently called up from Round Rock, pitched a perfect 11th and got his first big league win.`
+  recap: `Merrill Kelly  (9-6, 3.22) vs. Luis Castillo (8-6, 3.19). Higashioka homered in the third inning after a Tellez single to give Texas an early 2-0 lead. Kelly was excellent in his first start as a Ranger, allowing one baserunner through five innings. Kelly left in the 6th with the game tied 2-2 after three Seattle base hits and some bad defense in right field. The Rangers offense went dormant after the third inning, but Armstrong, Coulombe, Maton, and Winn got the game to extra innings. The Rangers scored 2 in the 10th on a pair of bloopers and a slow roller to short. For the second straight game, Robert Garcia gave up a 2-run homer--this time to the first batter he faced--and the game went to the 11th inning tied 4-4. Singles by Pederson, Langford, and Duran plated 2 Texas runs in the 11th. Luis Curvelo, recently called up from Round Rock, pitched a perfect 11th and got his first big league win.`
   },
   {
   id: 'aug3',
   date: 'August 3',
   opp: 'at Seattle',
-  score: '',
-  recap: `Jacob deGrom  (10-3, 2.55) vs. Logan Evans (4-4, 4.22). `
+  score: 'L 4-3',
+  recap: `Jacob deGrom  (10-3, 2.55) vs. Logan Evans (4-4, 4.22). deGrom gave up 3 home runs in his 5 innings of work and left the game trailing 5-3. The Rangers scored their runs on a Seager 2-run homer in the 3rd, a pair of doubles by Garcia and Tellez in the 4th, and a Garcia solo home run in the sixth. Milner and Winn pitched 3 shutout innings in relief, but Texas went hitless in the final 3 innings.`
   },
 ]
 
