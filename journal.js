@@ -795,7 +795,14 @@ const schedule = [
   date: 'August 3',
   opp: 'at Seattle',
   score: 'L 5-4',
-  recap: `Jacob deGrom  (10-3, 2.55) vs. Logan Evans (4-4, 4.22). deGrom gave up 3 home runs in his 5 innings of work and left the game trailing 5-3. The Rangers scored their runs on a Seager 2-run homer in the 3rd, a pair of doubles by Garcia and Tellez in the 4th, and a Garcia solo home run in the sixth. Milner and Winn pitched 3 shutout innings in relief, but Texas went hitless in the final 3 innings.`
+  recap: `Jacob deGrom  (10-3, 2.55) vs. Logan Evans (4-4, 4.22). deGrom gave up 3 home runs in his 5 innings of work and left the game trailing 5-3. It was the first time since September 30, 2022 that deGrom had given up 3 home runs in a game. The Rangers scored their runs on a Seager 2-run homer in the 3rd, a pair of doubles by Garcia and Tellez in the 4th, and a Garcia solo home run in the sixth. Milner and Winn pitched 3 shutout innings in relief, but Texas went hitless in the final 3 frames.`
+  },
+  {
+  id: 'aug4',
+  date: 'August 4',
+  opp: 'New York Yankees',
+  score: 'W 8-5',
+  recap: `Patrick Corbin  (6-7, 3.78) vs. Max Fried (12-4, 2.62). After the Yankees took a 3-0 lead, the Rangers responded in the bottom of the 2nd by sending nine batters to the plate, scoring 4 runs. Corbin left the game with a 4-3 lead, lasting only 3 innings, throwing 72 pitches and allowing 3 runs on 6 hits and 2 walks. Jon Gray gave up the lead in the 4th on a Yankees' 2-run blast. Heim walked and Duran singled to start the Ranger half of the 4th, but Haggerty, Seager, and Semien could not capitalize. Gray settled down and pitched 4 shutout innings to take the game to the ninth with Texas trailing 5-4. With 1 out in the 9th, Pederson pinch hit for Duran and homered 408 feet to right to force extra innings. Danny Coulombe held the Yankees scoreless in the 10th. With 2 outs in the bottom of the inning, New York intentionally walked Langford to get to Jung. Jung responded with a 401-foot home run to left to give Texas the walkoff win.`
   },
 ]
 
