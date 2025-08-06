@@ -809,7 +809,14 @@ const schedule = [
   date: 'August 5',
   opp: 'New York Yankees',
   score: 'W 2-0',
-  recap: `Nathan Eovaldi (9-3, 1.49) vs. Will Warren (6-5, 4.64). Eovaldi pitched another gem, allowing 1 baserunner in 8 innings--a 62 mph bloop double into left center. The Rangers put runners in scoring position in 7 of the first 8 innings and went 0-for-13 until the 8th when Tellez hit a soft 71 mph single to center that scored 2. Phil Maton pitched a scoreless 9th to get the save and complete the Rangers' 11th shutout of the season. Pederson reached base in all 4 of his plate appearances with a single, a double, and 2 walks. With the win, Texas drew to within a half-game of the Yankees for the third wild card spot.`
+  recap: `Nathan Eovaldi (9-3, 1.49) vs. Will Warren (6-5, 4.64). Eovaldi pitched another gem, allowing 1 baserunner in 8 innings--a 62 mph bloop double into left center. The Rangers put runners in scoring position in 7 of the first 8 innings and went 0-for-13 until the 8th when Tellez hit a soft 71 mph single to center that scored two. Phil Maton pitched a scoreless 9th to get the save and complete the Rangers' 11th shutout of the season. Pederson reached base in all 4 of his plate appearances with a single, a double, and 2 walks. With the win, Texas drew to within a half-game of the Yankees for the third wild card spot.`
+  },
+  {
+  id: 'aug6',
+  date: 'August 6',
+  opp: 'New York Yankees',
+  score: 'L 3-2',
+  recap: `Jack Leiter (7-6, 4.10) vs. Carlos Rodon (11-7, 3.34). Texas opened the scoring in the third when Duram doubled off the wall in left, and Haggerty grounded one through the right side of the infield. New York took a 2-1 lead in the 4th when Leiter walked 3 batters and 2 of them came around to score. Milner relieved Leiter in the 4th and pitched 2-1/3 scoreless innings. The Rangers tied it in the 5th on a swinging bunt single by Duran, a Haggerty walk, a Seager bloop single, and a sacrifice fly by Semien. The Yankees retook the lead in the 7th when Robert Garcia surrendered a solo homer, the 3rd consecutive outing in which he surrendered a home run. Adolis Garcia, batting cleanup, went 0-for-5 and left 9 runners on base.`
   },
 ]
 
