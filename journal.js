@@ -346,7 +346,7 @@ const schedule = [
   date: 'May 20',
   opp: 'at New York Yankees',
   score: 'L 5-2',
-  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue, retroactive to May 19. Texas struck out 14 times, struggling to capitalize on multiple scoring chances. Heim doubled in the 5th but was left stranded after a Haggerty strikeout. The Rangers loaded the bases in the 6th, only for Semien and Pederson to strike out. In the 8th, Langford doubled and reached 3rd on a wild pitch, but Jung and Garcia struck out to end the threat. Pederson walked in the 9th and Heim followed with a 2-run homer to avoid the shutout. Starter Corbin gave up 3 runs on 5 hits and 2 walks over 5 innings.`
+  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue, retroactive to May 19. Texas struck out 14 times, struggling to capitalize on multiple scoring chances. Heim doubled in the 5th but was left stranded after a Haggerty strikeout. The Rangers loaded the bases in the 6th, only for Semien and Pederson to strike out. In the 8th, Langford doubled and reached 3rd on a wild pitch, but Jung and Garcia struck out to end the threat. Pederson walked in the 9th and Heim followed with a 2-run homer to avoid the shutout. Corbin gave up 3 runs on 5 hits and 2 walks over 5 innings.`
   },
   {
   id: 'may21',
@@ -803,6 +803,13 @@ const schedule = [
   opp: 'New York Yankees',
   score: 'W 8-5',
   recap: `Patrick Corbin  (6-7, 3.78) vs. Max Fried (12-4, 2.62). After the Yankees took a 3-0 lead, the Rangers responded in the bottom of the 2nd by sending nine batters to the plate, scoring 4 runs. Corbin left the game with a 4-3 lead, lasting only 3 innings, throwing 72 pitches and allowing 3 runs on 6 hits and 2 walks. Jon Gray gave up the lead in the 4th on a Yankees' 2-run blast. Heim walked and Duran singled to start the Ranger half of the 4th, but Haggerty, Seager, and Semien could not capitalize. Gray settled down and pitched 4 shutout innings to take the game to the ninth with Texas trailing 5-4. With 1 out in the 9th, Pederson pinch hit for Duran and homered 408 feet to right to force extra innings. Danny Coulombe held the Yankees scoreless in the 10th. With 2 outs in the bottom of the inning, New York intentionally walked Langford to get to Jung. Jung responded with a 401-foot home run to left to give Texas the walkoff win.`
+  },
+  {
+  id: 'aug5',
+  date: 'August 5',
+  opp: 'New York Yankees',
+  score: 'W 2-0',
+  recap: `Nathan Eovaldi (9-3, 1.49) vs. Will Warren (6-5, 4.64). Eovaldi pitched another gem, allowing 1 baserunner in 8 innings--a 62 mph bloop double into left center. The Rangers put runners in scoring position in 7 of the first 8 innings and went 0-for-13 until the 8th when Tellez hit a soft 71 mph single to center that scored 2. Phil Maton pitched a scoreless 9th to get the save and complete the Rangers' 11th shutout of the season. Pederson reached base in all 4 of his plate appearances with a single, a double, and 2 walks. With the win, Texas drew to within a half-game of the Yankees for the third wild card spot.`
   },
 ]
 
