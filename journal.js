@@ -816,7 +816,7 @@ const schedule = [
   date: 'August 6',
   opp: 'New York Yankees',
   score: 'L 3-2',
-  recap: `Jack Leiter (7-6, 4.10) vs. Carlos Rodon (11-7, 3.34). Texas opened the scoring in the third when Duram doubled off the wall in left, and Haggerty grounded one through the right side of the infield. New York took a 2-1 lead in the 4th when Leiter walked 3 batters and 2 of them came around to score. Milner relieved Leiter in the 4th and pitched 2-2/3 scoreless innings. The Rangers tied it in the 5th on a swinging bunt single by Duran, a Haggerty walk, a Seager bloop single, and a sacrifice fly by Semien. The Yankees retook the lead in the 7th when Robert Garcia surrendered a solo homer, the 3rd consecutive outing in which he surrendered a home run. Adolis Garcia, batting cleanup, went 0-for-5 and left 9 runners on base.`
+  recap: `Jack Leiter (7-6, 4.10) vs. Carlos Rodon (11-7, 3.34). Texas opened the scoring in the third when Duran doubled off the wall in left, and Haggerty grounded one through the right side of the infield. New York took a 2-1 lead in the 4th when Leiter walked 3 batters and 2 of them came around to score. Milner relieved Leiter in the 4th and pitched 2-2/3 scoreless innings. The Rangers tied it in the 5th on a swinging bunt single by Duran, a Haggerty walk, a Seager bloop single, and a sacrifice fly by Semien. The Yankees retook the lead in the 7th when Robert Garcia surrendered a solo homer, the 3rd consecutive outing in which he surrendered a home run. Adolis Garcia, batting cleanup, went 0-for-5 and left 9 runners on base.`
   },
 ]
 
