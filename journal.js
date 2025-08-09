@@ -823,7 +823,7 @@ const schedule = [
   date: 'August 8',
   opp: 'Philadelphia',
   score: 'L 9-1',
-  recap: `Merrill Kelly (9-6, 3.22) vs. Christopher Sanchez (10-3, 2.40). Bochy moved Garcia out of the cleanup spot and replaced him with Langford. Kelly had a bad outing, walking 5 and allowing 4 runs on 5 hits in 4-1/3 innings. The Rangers scored a run in the 1st on singles by Seager, Semien, and Jung, but then the bats went dormant. Texas went hitless in the next 11 at bats until they loaded the bases in the 5th, but Langford flew out to left to kill the rally. The Rangers had 3 hits and a walk in the final 4 frames, but never mounted a serious threat. Langford went 0-for-4 in the cleanup spot, striking out twice.`
+  recap: `Merrill Kelly (9-6, 3.22) vs. Christopher Sanchez (10-3, 2.40). Bochy moved Garcia out of the cleanup spot and replaced him with Langford. Kelly had a bad outing, walking 5 and allowing 4 runs on 5 hits in 4-1/3 innings. The Rangers scored a run in the 1st on singles by Seager, Semien, and Jung, but then the bats went dormant. Texas went hitless in the next 11 at bats until they loaded the bases in the 5th, but Langford flew out to left to kill the rally. The Rangers had 3 hits and a walk in the final 4 frames, but never mounted a serious threat. With 2 outs in the 9th, Luis Curvelo gave up a walk and 3 hits including a 3-run home run to put the game out of reach. Langford went 0-for-4 in the cleanup spot, striking out twice.`
   },
 ]
 
