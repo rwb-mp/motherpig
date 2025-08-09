@@ -515,14 +515,14 @@ const schedule = [
   date: 'June 17',
   opp: 'Kansas City',
   score: 'L 6-1',
-  recap: `Jack Leiter (4-3, 3.88) vs. Seth Lugo (3-5, 3.18). The Royals jumped on Leiter early, scoring three runs in the first inning on a double, a single, and a Salvador Perez home run. Bobby Witt Jr. added a solo shot in the fifth, and Perez struck again with his second homer of the game in the sixth, helping Kansas City cruise to a dominant win. Leiter allowed six runs on eight hits and two walks over 5-2/3 innings, striking out four. Boushley retired all 10 batters he faced in relief. Offensively, the Rangers managed just five hits, a walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
+  recap: `Jack Leiter (4-3, 3.88) vs. Seth Lugo (3-5, 3.18). The Royals scored three runs in the first inning on a double, a single, and a Salvador Perez home run. Bobby Witt Jr. added a solo shot in the fifth, and Perez hit his second homer of the game in the sixth. Leiter allowed six runs on eight hits and two walks over 5-2/3 innings, striking out four. Boushley retired all 10 batters he faced in relief. The Rangers managed just five hits, a walk, and two hit batters while striking out 14 times. They finished 1-for-7 with runners in scoring position.`
   },
   {
   id: 'jun18',
   date: 'June 18',
   opp: 'Kansas City',
   score: 'L 6-3',
-  recap: `Patrick Corbin (4-5, 3.66) vs. Kris Bubic (5-4, 1.92). The Rangers racked up 12 hits but couldn’t deliver in key moments. Texas jumped out to an early lead two-run in the first with a leadoff triple by Haggerty, an RBI double from Langford, and a two-out single by García. But the Royals responded with four runs in the third off Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings but failed to capitalize. Haggerty and Langford each had three hits for the Rangers. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
+  recap: `Patrick Corbin (4-5, 3.66) vs. Kris Bubic (5-4, 1.92). The Rangers had 12 base hits but couldn’t deliver in key moments. Texas jumped out to an early two-run lead in the first with a leadoff triple by Haggerty, an RBI double from Langford, and a two-out single by García. The Royals responded with four runs in the third off Corbin—marking the first time all season Corbin allowed more than three runs in a game. The Rangers had chances to score, including runners on second with no outs in both the fourth and seventh innings but failed to capitalize. Haggerty and Langford each had three hits for the Rangers. With the loss, Texas falls seven games behind the first-place Astros—their largest deficit of the season.`
   },
   {
   id: 'jun19',
@@ -817,6 +817,13 @@ const schedule = [
   opp: 'New York Yankees',
   score: 'L 3-2',
   recap: `Jack Leiter (7-6, 4.10) vs. Carlos Rodon (11-7, 3.34). Texas opened the scoring in the third when Duran doubled off the wall in left, and Haggerty grounded one through the right side of the infield. New York took a 2-1 lead in the 4th when Leiter walked 3 batters and 2 of them came around to score. Milner relieved Leiter in the 4th and pitched 2-2/3 scoreless innings. The Rangers tied it in the 5th on a swinging bunt single by Duran, a Haggerty walk, a Seager bloop single, and a sacrifice fly by Semien. The Yankees retook the lead in the 7th when Robert Garcia surrendered a solo homer, the 3rd consecutive outing in which he has surrendered a home run. Adolis Garcia, batting cleanup, went 0-for-5 and left 9 runners on base.`
+  },
+  {
+  id: 'aug8',
+  date: 'August 8',
+  opp: 'Philadelphia',
+  score: 'L 9-1',
+  recap: `Merrill Kelly (9-6, 3.22) vs. Christopher Sanchez (10-3, 2.40). Bochy moved Garcia out of the cleanup spot and replaced him with Langford. Kelly had a bad outing, walking 5 and allowing 4 runs on 5 hits in 4-1/3 innings. The Rangers scored a run in the 1st on singles by Seager, Semien, and Jung, but then the bats went dormant. Texas went hitless in the next 11 at bats until they loaded the bases in the 5th, but Langford flew out to left to kill the rally. The Rangers had 3 hits and a walk in the final 4 frames, but never mounted a serious threat. Langford went 0-for-4 in the cleanup spot, striking out twice.`
   },
 ]
 
