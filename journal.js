@@ -234,7 +234,7 @@ const schedule = [
   date: 'May 2',
   opp: 'Seattle',
   score: 'L 13-1',
-  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). The Mariners’ offense, highlighted by a solo homer and a grand slam from Cal Raleigh, proved more than enough to hand the Rangers a loss, dropping Texas below .500 for the first time since Opening Day. Woo was dominant on the mound, retiring the first 14 Rangers batters before Heim’s harmless single in the fifth. Seattle’s pitching staff retired the next 12 batters until Smith broke through with a two-out homer in the ninth — ending a 281 at-bat homerless streak for Texas. Rangers rookie Blaine Crimm made his MLB debut, going 0-for-3 with two strikeouts in the loss.`
+  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). Cal Raleigh led the Mariners' offense with a solo homer and a grand slam. Texas dropped below .500 for the first time since Opening Day. Woo was dominant on the mound, retiring the first 14 Rangers batters before Heim’s harmless single in the fifth. Seattle’s pitching staff retired the next 12 batters until Smith broke through with a two-out homer in the ninth — ending a 281 at-bat homerless streak for Texas. Rangers rookie Blaine Crimm made his MLB debut, going 0-for-3 with two strikeouts in the loss.`
   },
   {
   id: 'may3',
@@ -248,7 +248,7 @@ const schedule = [
   date: 'May 4',
   opp: 'Seattle',
   score: 'W 8-1',
-  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60). The Rangers broke out with a six-run third inning, highlighted by Seager’s two-run single and a flurry of clutch two-out hits from Semien, Garcia, and Jung, to take down the Mariners. Texas sent 11 batters to the plate in the third, collecting six singles and two walks. Smith led the offensive charge with a 4-hit night, capping it with an RBI triple in the eighth that scored Jung. deGrom turned in another solid outing, allowing one run on three hits and two walks over five innings, with three strikeouts. The bullpen was dominant, shutting out Seattle over the final four innings and allowing just two baserunners.`
+  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60). The Rangers broke out with a six-run third inning, highlighted by Seager’s two-run single and clutch two-out hits from Semien, Garcia, and Jung. Texas sent 11 batters to the plate in the inning, collecting six singles and two walks. Smith led the offensive charge with a 4-hit night, capping it with an RBI triple in the eighth that scored Jung. deGrom turned in another solid outing, allowing one run on three hits and two walks over five innings, with three strikeouts. The bullpen was dominant, shutting out Seattle over the final four innings and allowing just two baserunners.`
   },
   {
   id: 'may6',
@@ -297,14 +297,14 @@ const schedule = [
   date: 'May 12',
   opp: 'Colorado',
   score: 'W 2-1',
-  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). The Rangers were hitless through 5-2/3 innings before Langford broke through with a 412-foot solo homer to right, giving Texas a 1–0 lead in the 6th. Mahle was sharp again, allowing just one run over 6-1/3 innings on 4 hits and a walk while striking out five. Garcia and Martin followed with 1-2/3 innings of no-hit relief to carry the lead into the 9th. In the ninth inning Colorado led off with a single that deflected off closer Luke Jackson, forcing him to leave the game. Webb entered, loaded the bases with one out, but induced a game-ending double play to seal the 2–1 win and earn his first save of the season.`
+  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). The Rangers were hitless through 5-2/3 innings before Langford broke through in the 6th with a 412-foot solo homer to right, giving Texas a 1–0 lead. Mahle was sharp again, allowing just one run over 6-1/3 innings on 4 hits and a walk while striking out five. Garcia and Martin followed with 1-2/3 innings of no-hit relief to carry the lead into the 9th. In the ninth inning Colorado led off with a single that deflected off closer Luke Jackson, forcing him to leave the game. Webb entered, loaded the bases with one out, but induced a game-ending double play to seal the 2–1 win and earn his first save of the season.`
   },
   {
   id: 'may13',
   date: 'May 13',
   opp: 'Colorado',
   score: 'W 4-1',
-  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Jung powered the Rangers with two home runs and four RBIs, including a 396-foot blast in the 1st inning after back-to-back singles and a solo shot in the 8th to pad the lead. Leiter held Colorado to one run over 6 innings on 2 hits and 3 walks with 5 strikeouts. Milner and Martin worked into the 9th, where the Rockies put two on with no outs, but Armstrong struck out the next three to lock down his first save. Seager was placed on the 10-day IL retroactive to May 11 with a hamstring issue.`
+  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Jung powered the Rangers with two home runs and four RBIs, including a 396-foot blast in the 1st inning after back-to-back singles, and a solo shot in the 8th to pad the lead. Leiter held Colorado to one run over 6 innings on 2 hits and 3 walks with 5 strikeouts. Milner and Martin worked into the 9th, where the Rockies put two on with no outs, but Armstrong struck out the next three to lock down his first save. Seager was placed on the 10-day IL retroactive to May 11 with a hamstring issue.`
   },
   {
   id: 'may14',
@@ -354,7 +354,7 @@ const schedule = [
   opp: 'at New York Yankees',
   score: 'L 4-3',
   recap: `Jacob deGrom (4-1, 2.29) vs. Will Yarbrough (1-0, 3.70). The Rangers outhit the Yankees 10-5 and slugged three home runs but couldn't come through with the big hit when it mattered, stranding the bases loaded in both the 6th and 8th innings. 
-  Burger went deep twice—390 feet in the 5th and 367 feet in the 7th—and Haggerty added a 390-foot blast to RF later in the 7th. Despite the power display, the Rangers couldn't add on when needed. Barnhart left the bases loaded in the 6th, and Smith did the same in the 8th. deGrom was strong again, retiring 15 straight at one point and finishing with 7 innings of 2-run ball, allowing just 3 hits and a walk while striking out 9. The Yankees tied it in the 8th after Garcia walked two and Aaron Judge singled off Luke Jackson. Jackson then surrendered a 372-foot walk-off homer in the 9th to hand the Rangers a frustrating loss.`
+  Burger went deep twice—390 feet in the 5th and 367 feet in the 7th—and Haggerty added a 390-foot blast to right later in the 7th. Despite the power display, the Rangers couldn't add on when needed. Barnhart left the bases loaded in the 6th, and Smith did the same in the 8th. deGrom was strong again, retiring 15 straight at one point and finishing with 7 innings of 2-run ball, allowing just 3 hits and a walk while striking out 9. The Yankees tied it in the 8th after Garcia walked two and Aaron Judge singled off Luke Jackson. Jackson then surrendered a 372-foot walk-off homer in the 9th to hand the Rangers a frustrating loss.`
   },
   {
   id: 'may22',
@@ -824,6 +824,13 @@ const schedule = [
   opp: 'Philadelphia',
   score: 'L 9-1',
   recap: `Merrill Kelly (9-6, 3.22) vs. Christopher Sanchez (10-3, 2.40). Bochy moved Garcia out of the cleanup spot and replaced him with Langford. Kelly had a bad outing, walking 5 and allowing 4 runs on 5 hits in 4-1/3 innings. The Rangers scored a run in the 1st on singles by Seager, Semien, and Jung, but then the bats went dormant. Texas went hitless in the next 11 at bats until they loaded the bases in the 5th, but Langford flew out to left to kill the rally. The Rangers had 3 hits and a walk in the final 4 frames, but never mounted a serious threat. With 2 outs in the 9th, Luis Curvelo gave up a walk and 3 hits including a 3-run home run to put the game out of reach. Langford went 0-for-4 in the cleanup spot, striking out twice.`
+  },
+  {
+  id: 'aug9',
+  date: 'August 9',
+  opp: 'Philadelphia',
+  score: 'L 3-2',
+  recap: `Jacob deGrom (10-4, 2.80) vs. Jesus Luzardo (10-5, 4.32). deGrom was excellent through 6 innings, scattering 4 hits while walking none and striking out 8. The Phillies got to him in the 7th for a single, a walk, and a double. Coulombe gave up another single in relief, and the Phillies had 3 runs in the inning. The Rangers scored in the first on consecutive singles by Seager, Semien, and Langford. Haggerty led off the 3rd with a double but the Rangers couldn't advance him. Garcia doubled with one out in the 4th but was thrown out trying to steal 3rd. Seager homered 406 feet to left in the 8th to cut the lead to 3-2. Garcia, Pederson, and Smith went in order in the 9th.`
   },
 ]
 
