@@ -837,7 +837,7 @@ const schedule = [
   date: 'August 10',
   opp: 'Philadelphia',
   score: 'L 4-2',
-  recap: `Patrick Corbin (6-7, 3.91) vs. Zack Wheeler (9-5, 2.64). The Rangers scored two in the first on a Pederson 352-foot home run after a Seager walk. The offense then went dead and only advanced one runner to second in the last eight innings. Meanwhile the Phillies scored three off Corbin who pitched 4-1/3 before giving way to the bullpen. Maton gave up a run in the top of the 9th to make the score 4-2. Jung singled with one out in the bottom of the 9th to bring the tying run to the plate, but Higashioka lined out and Smith struck out to end the game.`
+  recap: `Patrick Corbin (6-7, 3.91) vs. Zack Wheeler (9-5, 2.64). The Rangers scored two in the first on a Pederson 352-foot home run down the right field line after a Seager walk. The offense then went dead and only advanced one runner to second in the last eight innings. Meanwhile the Phillies scored three off Corbin who pitched 4-1/3 before giving way to the bullpen. Maton gave up a run in the top of the 9th to make the score 4-2. Jung singled with one out in the bottom of the 9th to bring the tying run to the plate, but Higashioka lined out and Smith struck out to end the game.`
   },
 ]
 
