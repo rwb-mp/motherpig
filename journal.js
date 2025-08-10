@@ -832,6 +832,13 @@ const schedule = [
   score: 'L 3-2',
   recap: `Jacob deGrom (10-4, 2.80) vs. Jesus Luzardo (10-5, 4.32). deGrom was excellent through 6 innings, scattering 4 hits while walking none and striking out 8. The Phillies got to him in the 7th for a single, a walk, and a double. Coulombe gave up another single in relief, and the Phillies had 3 runs in the inning. The Rangers scored in the first on consecutive singles by Seager, Semien, and Langford. Haggerty led off the 3rd with a double but the Rangers couldn't advance him. Garcia doubled with one out in the 4th but was thrown out trying to steal 3rd. Seager homered 406 feet to left in the 8th to cut the lead to 3-2. Garcia, Pederson, and Smith went in order in the 9th.`
   },
+  {
+  id: 'aug10',
+  date: 'August 10',
+  opp: 'Philadelphia',
+  score: 'L 4-2',
+  recap: `Patrick Corbin (6-7, 3.91) vs. Zack Wheeler (9-5, 2.64). The Rangers scored two in the first on a Pederson 352-foot home run after a Seager walk. The offense then went dead and only advanced one runner to second in the last eight innings. Meanwhile the Phillies scored three off Corbin who pitched 4-1/3 before giving way to the bullpen. Maton gave up a run in the top of the 9th to make the score 4-2. Jung singled with one out in the bottom of the 9th to bring the tying run to the plate, but Higashioka lined out and Smith struck out to end the game.`
+  },
 ]
 
 let html = '';
