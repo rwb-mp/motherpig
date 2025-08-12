@@ -375,7 +375,7 @@ const schedule = [
   date: 'May 24',
   opp: 'at Chicago White Sox',
   score: 'L 10-5',
-  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). For the first time in a week, the Rangers scored more than three runs, but defensive miscues and wild pitching unraveled a promising night. Leiter battled through traffic for five innings, escaping multiple jams and leaving with a 4-2 lead. But the 6th inning spiraled out of control. Langford and Haggerty collided at the wall on what should’ve been the first out, leading to a triple. Jung misplayed a routine grounder, and Semien missed a tag before making a late throw to first—three defensive lapses, three missed outs. Reliever Jacob Webb poured fuel on the fire, giving up a single, two walks, and two doubles as part of a six-run inning. Rangers pitching issued eight walks and surrendered 14 hits on the night.`
+  recap: `Jack Leiter (3-2, 4.25) vs. Bryse Wilson (0-2, 6.00). The Rangers scored more than three runs for the first time in a week. Leiter battled through traffic for five innings, escaping multiple jams and leaving with a 4-2 lead. But the 6th inning spiraled out of control. Langford and Haggerty collided at the wall on what should’ve been the first out, leading to a triple. Jung misplayed a routine grounder, and Semien missed a tag before making a late throw to first—three defensive lapses, three missed outs. Reliever Jacob Webb poured fuel on the fire, giving up a single, two walks, and two doubles as part of a six-run inning. Rangers pitching issued eight walks and surrendered 14 hits on the night.`
   },
   {
   id: 'may25',
@@ -838,6 +838,13 @@ const schedule = [
   opp: 'Philadelphia',
   score: 'L 4-2',
   recap: `Patrick Corbin (6-7, 3.91) vs. Zack Wheeler (9-5, 2.64). The Rangers scored two in the first on a Pederson 352-foot home run down the right field line after a Seager walk. The offense then went dead and only advanced one runner to second in the last eight innings. Meanwhile the Phillies scored three off Corbin who pitched 4-1/3 before giving way to the bullpen. Maton gave up a run in the top of the 9th to make the score 4-2. Jung singled with one out in the bottom of the 9th to bring the tying run to the plate, but Higashioka lined out and Smith struck out to end the game.`
+  },
+  {
+  id: 'aug11',
+  date: 'August 11',
+  opp: 'Arizona',
+  score: 'W 7-6',
+  recap: `Nathan Eovaldi (10-3, 1.38) vs. Ryne Nelson (6-3, 3.20). Eovaldi gave up 3 home runs for the first time since September 10 of last year and left after 5 innings trailing 5-1. The Rangers' run came in the 2nd on doubles by Jung and Seager. Gray surrendered a solo homer in the 6th to make the sore 6-1. Smith, Seager, and Semien began the Rangers' 6th with consecutive base hits to score one run. Langford followed with a one-out 410-foot blast to left to draw Texas to within a run. Coulombe, Armstrong, and Milner pitched shutout innings in the 7th, 8th, and 9th, and Tellez homered 413 feet to right center in the bottom of the 9th  to tie the game at 6. Maton stranded the Dbacks free runner at second to keep the game tied entering the Rangers' 10th, and Burger delivered a one-out base hit to score the walkoff. The 5-run deficit marked the largest comeback of the season for the Rangers. `
   },
 ]
 
