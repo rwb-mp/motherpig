@@ -844,7 +844,14 @@ const schedule = [
   date: 'August 11',
   opp: 'Arizona',
   score: 'W 7-6',
-  recap: `Nathan Eovaldi (10-3, 1.38) vs. Ryne Nelson (6-3, 3.20). Eovaldi gave up 3 home runs for the first time since September 10 of last year and left after 5 innings trailing 5-1. The Rangers' run came in the 2nd on doubles by Jung and Seager. Gray surrendered a solo homer in the 6th to make the sore 6-1. Smith, Seager, and Semien began the Rangers' 6th with consecutive base hits to score a run. Langford followed with a one-out 410-foot blast to left to draw Texas to within one. Coulombe, Armstrong, and Milner pitched shutout innings in the 7th, 8th, and 9th, and Tellez homered 413 feet to right center in the bottom of the 9th  to tie the game at 6. Maton stranded the Dbacks free runner at second to keep the game tied entering the Rangers' 10th, and Burger delivered a one-out base hit to score the walkoff. The 5-run deficit marked the largest comeback of the season for the Rangers. `
+  recap: `Nathan Eovaldi (10-3, 1.38) vs. Ryne Nelson (6-3, 3.20). Eovaldi gave up 3 home runs for the first time since September 10 of last year and left after 5 innings trailing 5-1. The Rangers' run came in the 2nd on doubles by Jung and Seager. Gray surrendered a solo homer in the 6th to make the sore 6-1. Smith, Seager, and Semien began the Rangers' 6th with consecutive base hits to score a run. Langford followed with a one-out 410-foot blast to left to draw Texas to within one. Coulombe, Armstrong, and Milner pitched shutout innings in the 7th, 8th, and 9th, and Tellez homered 413 feet to right center in the bottom of the 9th  to tie the game at 6. Maton stranded the Dbacks free runner at second to keep the game tied entering the Rangers' 10th, and Burger delivered a one-out base hit to score the walkoff. The 5-run deficit marked the largest comeback of the season for the Rangers.`
+  },
+  {
+  id: 'aug12',
+  date: 'August 12',
+  opp: 'Arizona',
+  score: 'L 3-2',
+  recap: `Jack Leiter (7-6, 4.05) vs. Anthony DeSclafani (1-2, 4.20). Two runs on four hits for the Rangers. Leiter left with a 2-1 lead, pitching five innings allowing a run on 4 hits, 2 walks, and a HBP. Rangers had bases load with no outs in the third and could score only one run. Arizona tied the game in the 7th when Robert Garcia and Jung misplayed tappers in the infield, putting runners on first and third with no outs. The Rangers got a one-out double in the bottom of hte 7th, but Haggerty struck out and Seager grounded out to end the inning. Coulombe surrendered the game-winning home run in the 9th, and the Rangers went down one-two-three in the bottom of the inning. Seager, Semien, Tellez, Garcia, and Jung went a collective 0-for-19.`
   },
 ]
 
