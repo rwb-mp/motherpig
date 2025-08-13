@@ -851,7 +851,14 @@ const schedule = [
   date: 'August 12',
   opp: 'Arizona',
   score: 'L 3-2',
-  recap: `Jack Leiter (7-6, 4.05) vs. Anthony DeSclafani (1-2, 4.20). Two runs on four hits for the Rangers. Leiter left with a 2-1 lead, pitching five innings allowing a run on 4 hits, 2 walks, and a HBP. Rangers had bases load with no outs in the third and could score only one run. Arizona tied the game in the 7th when Robert Garcia and Jung misplayed tappers in the infield, putting runners on first and third with no outs. The Rangers got a one-out double in the bottom of hte 7th, but Haggerty struck out and Seager grounded out to end the inning. Coulombe surrendered the game-winning home run in the 9th, and the Rangers went down one-two-three in the bottom of the inning. Seager, Semien, Tellez, Garcia, and Jung went a collective 0-for-19.`
+  recap: `Jack Leiter (7-6, 4.05) vs. Anthony DeSclafani (1-2, 4.20). Two runs on four hits for the Rangers against the 25th best ERA in MLB. Leiter left with a 2-1 lead, pitching five innings allowing a run on 4 hits, 2 walks, and a HBP. Rangers had bases load with no outs in the third and could score only one run. Arizona tied the game in the 7th when Robert Garcia and Jung misplayed tappers in the infield, putting runners on first and third with no outs. The Rangers got a one-out double in the bottom of hte 7th, but Haggerty struck out and Seager grounded out to end the inning. Coulombe surrendered the game-winning home run in the 9th, and the Rangers went down one-two-three in the bottom of the inning. Seager, Semien, Tellez, Garcia, and Jung went a collective 0-for-19.`
+  },
+  {
+  id: 'aug13',
+  date: 'August 13',
+  opp: 'Arizona',
+  score: 'L 6-4',
+  recap: `Merrill Kelly (9-7, 3.38) vs. Zac Gallen (9-12, 5.31). Adolis Garcia was placed on the 10-day IL. Merrill Kelly had a quality start against his former team, allowing 2 runs on 7 hits and a walk with 5 strikeouts. In the 1st inning, Smith singled, Semien walked, and Carter singled to score the game's first run. In the 4th, Burger homered following a Carter double to score two more. Jung doubled in Burger in the 8th for the Rangers' 4th run. Curvelo, Milner, and Maton pitched two shutout innings to get the game to the 9th with Texas leading 4-2. Maton struck out the first two Arizona batters in the 9th, but then allowed a home run, a hit batter, a walk and another home run to blow the save. Haggerty, Seager, and Semien went down in order in the 9th.`
   },
 ]
 
