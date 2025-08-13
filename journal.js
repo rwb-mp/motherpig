@@ -858,7 +858,7 @@ const schedule = [
   date: 'August 13',
   opp: 'Arizona',
   score: 'L 6-4',
-  recap: `Merrill Kelly (9-7, 3.38) vs. Zac Gallen (9-12, 5.31). Adolis Garcia was placed on the 10-day IL. Merrill Kelly had a quality start against his former team, allowing 2 runs on 7 hits and a walk with 5 strikeouts. In the 1st inning, Smith singled, Semien walked, and Carter singled to score the game's first run. In the 4th, Burger homered following a Carter double to score two more. Jung doubled in Burger in the 8th for the Rangers' 4th run. Curvelo, Milner, and Maton pitched two shutout innings to get the game to the 9th with Texas leading 4-2. Maton struck out the first two Arizona batters in the 9th, but then allowed a home run, a hit batter, a walk and another home run to blow the save. Haggerty, Seager, and Semien went down in order in the 9th.`
+  recap: `Merrill Kelly (9-7, 3.38) vs. Zac Gallen (9-12, 5.31). Adolis Garcia was placed on the 10-day IL. Merrill Kelly had a quality start against his former team, allowing 2 runs on 7 hits and a walk with 5 strikeouts. In the 1st inning, Smith singled, Semien walked, and Carter singled to score the game's first run. In the 4th, Burger homered following a Carter double to score two more. Jung doubled in Burger in the 8th for the Rangers' 4th run. Curvelo, Milner, and Maton pitched two shutout innings to get the game to the 9th with Texas leading 4-2. Maton struck out the first two Arizona batters in the 9th, but then allowed a home run, a hit batter, a walk and another home run to blow the save and the game. Haggerty, Seager, and Semien went down in order in the 9th.`
   },
 ]
 
