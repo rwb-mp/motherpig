@@ -1952,7 +1952,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:07',
     score: '',
-    recap: 'CW33/Victory+'
+    recap: 'AppleTV+'
     },
     {
     id: '175',
