@@ -860,6 +860,13 @@ const schedule = [
   score: 'L 6-4',
   recap: `Merrill Kelly (9-7, 3.38) vs. Zac Gallen (9-12, 5.31). Adolis Garcia was placed on the 10-day IL. Merrill Kelly had a quality start against his former team, allowing 2 runs on 7 hits and a walk with 5 strikeouts. In the 1st inning, Smith singled, Semien walked, and Carter singled to score the game's first run. In the 4th, Burger homered following a Carter double to score two more. Jung doubled in Burger in the 8th for the Rangers' 4th run. Curvelo, Milner, and Maton pitched two shutout innings to get the game to the 9th with Texas leading 4-2. Maton struck out the first two Arizona batters in the 9th, but then allowed a home run, a hit batter, a walk and another home run to blow the save and the game. Haggerty, Seager, and Semien went down in order in the 9th.`
   },
+  {
+  id: 'aug15',
+  date: 'August 15',
+  opp: 'at Toronto',
+  score: 'L 6-5',
+  recap: `Jacob deGrom (10-5, 2.86) vs. Chris Bassitt (11-6, 4.17). deGrom threw 5 shutout innings but the bullpen imploded for the third straight game. The offense only managed 5 hits, but 2 of them were home runs. Higashioka hit a 3-run homer in the 2nd to give deGrom a 3-run lead. Robert Garcia surrendered a 2-run homer in the 7th which cut the lead to 3-2. Semien responded with a clutch 2-run, 2-out blast in the 8th after a Carter walk to make the score 5-2. In the bottom of the 8th, Coulombe faced 3 hitters and gave up 3 singles. Maton walked the first batter he faced to load the bases, struck out a batter, walked in a run, and then surrendered a 2-run single. The Rangers trailed 6-5 entering the 9th. Jung, Higashioka, and Smith struck out in order to end the game.`
+  },
 ]
 
 let html = '';
