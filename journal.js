@@ -867,6 +867,13 @@ const schedule = [
   score: 'L 6-5',
   recap: `Jacob deGrom (10-5, 2.86) vs. Chris Bassitt (11-6, 4.17). deGrom threw 5 shutout innings but the bullpen imploded for the third straight game. The offense only managed 5 hits, but 2 of them were home runs. Higashioka hit a 3-run homer in the 2nd to give deGrom a 3-run lead. Robert Garcia surrendered a 2-run homer in the 7th which cut the lead to 3-2. Semien responded with a clutch 2-run, 2-out blast in the 8th after a Carter walk to make the score 5-2. In the bottom of the 8th, Coulombe faced 3 hitters and gave up 3 singles. Maton walked the first batter he faced to load the bases, struck out a batter, walked in a run, and then surrendered a 2-run single. The Rangers trailed 6-5 entering the 9th. Jung, Higashioka, and Smith struck out in order to end the game.`
   },
+  {
+  id: 'aug16',
+  date: 'August 16',
+  opp: 'at Toronto',
+  score: 'L 14-2',
+  recap: `Patrick Corbin (6-8, 4.00) vs. Eric Lauer (7-2, 2.82). This one was over early as Corbin gave up 7 runs in 2-1/3 innings. The Rangers scattered 7 hits and 4 walks and were 2-for-10 with runners in scoring position. Toronto added 4 more runs off Jon Gray and the lead was 11-1 after 5 innings. Jake Burger had 3 singles and a walk in the cleanup spot.`
+  },
 ]
 
 let html = '';
