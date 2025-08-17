@@ -879,7 +879,7 @@ const schedule = [
   date: 'August 17',
   opp: 'at Toronto',
   score: 'W 10-4',
-  recap: `Nathan Eovaldi (10-3, 1.71) vs. Jose Berrios (9-4, 3.74). It was a rare great game for the Rangers' offense as they banged out 15 hits and 4 home runs, and were 3-for-5 with RISP. In the 2nd inning, Semien followed a Tellez single with a 371-foot homer down the line in left. With 2 outs in the 4th, Texas strung together 5 base hits and extended their lead to 5-1. A Seager solo home run in the 5th, and a 2-run shot by Langford in the 6th made the lead 8-1. Carter homered in the 9th following a Seager double to make the score 10-4. Semien and Heim led the hit barrage with 3 hits each. Eovaldi pitched 7 innings allowing 2 runs on 5 hits and 0 walks with 5K's.`
+  recap: `Nathan Eovaldi (10-3, 1.71) vs. Jose Berrios (9-4, 3.74). It was a rare great game for the Rangers' offense as they banged out 15 hits including 4 home runs, and were 3-for-5 with RISP. In the 2nd inning, Semien followed a Tellez single with a 371-foot homer down the line in left. With 2 outs in the 4th, Texas strung together 5 base hits and extended their lead to 5-1. A Seager solo home run in the 5th, and a 2-run shot by Langford in the 6th made the lead 8-1. Carter homered in the 9th following a Seager double to make the score 10-4. Semien and Heim led the hit barrage with 3 hits each. Eovaldi pitched 7 innings allowing 2 runs on 5 hits and 0 walks with 5K's.`
   },
 ]
 
