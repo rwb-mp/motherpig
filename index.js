@@ -1963,7 +1963,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
     score: 'L 14-2',
-    recap: '<a href = "journal.html#aug15" target = "_blank">Recap</a>'
+    recap: '<a href = "journal.html#aug16" target = "_blank">Recap</a>'
     },
     {
     id: '176',
@@ -1972,9 +1972,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '17',
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '12:37',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'W 8-2',
+    recap: '<a href = "journal.html#aug17" target = "_blank">Recap</a>'
     },
     {
     id: '177',
@@ -2805,7 +2805,7 @@ const Hours = document.getElementById('hours');
 const Minutes = document.getElementById('minutes');
 const Seconds = document.getElementById('seconds');
 
-const targetDate = new Date("August 17 2025 12:37:00").getTime();
+const targetDate = new Date("August 18 2025 18:40:00").getTime();
 
 function timer () {
     const currentDate = new Date().getTime();
