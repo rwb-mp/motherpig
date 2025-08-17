@@ -1973,7 +1973,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '17',
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: 'W 8-2',
+    score: 'W 10-4',
     recap: '<a href = "journal.html#aug17" target = "_blank">Recap</a>'
     },
     {
