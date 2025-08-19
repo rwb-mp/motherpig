@@ -886,7 +886,7 @@ const schedule = [
   date: 'August 18',
   opp: 'at Kansas City',
   score: 'L 4-3',
-  recap: `Jack Leiter (7-6, 3.94) vs. Michael Wacha (7-9, 3.35). The Rangers out-hit Kansas City 11 to 8, but the Royals out-homered Texas 3 to 0. All the Rangers' hits were singles until Seager's double in the 8th. Leiter only lasted 3-2/3 innings, giving up 3 runs on 6 hits and 3 walks. The bullpen pitched 4-1/3 innings allowing one run on 2 hits. Seager led Texas with 3 hits. Pederson was thrown out at home in the 2nd inning tagging from 3rd base on a medium deep flyball to right by Smith. The offense was 2-for-8 with RISP.`
+  recap: `Jack Leiter (7-6, 3.94) vs. Michael Wacha (7-9, 3.35). The Rangers out-hit Kansas City 11 to 8, but the Royals out-homered Texas 3 to 0. All the Rangers' hits were singles until Seager's double in the 8th. Leiter only lasted 3-2/3 innings, giving up 3 runs on 6 hits and 3 walks. The bullpen allowed one run on 2 hits in the remaining 4-1/3. Seager led Texas with 3 hits. Pederson was thrown out at home in the 2nd inning tagging from 3rd base on a medium deep flyball to right by Smith. The offense was 2-for-8 with RISP.`
   },
 ]
 
