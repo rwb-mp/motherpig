@@ -220,7 +220,7 @@ const schedule = [
   date: 'April 30',
   opp: 'Athletics',
   score: 'L 7-1',
-  recap: `Nathan Eovaldi (2-2, 2.21) vs. Luis Severino (1-3, 3.49). Eovaldi delivered another quality start, but the Rangers’ bats went cold. Eovaldi pitched six innings, allowing just one run on six hits, issuing no walks, and striking out eight. However, Texas repeatedly squandered scoring chances, going 1-for-11 with runners in scoring position. The first two hitters reached base in the third, sixth, and eighth innings but Texas ailed to push across runs. Burger, batting third, struck out four times and left five runners stranded. Langford, hitting leadoff, went 0-for-5 and stranded six runners. The game slipped away in the ninth when the A’s erupted for six runs, including two home runs, against the Rangers’ bullpen trio of Garcia, Jackson, and Armstrong. Rangers' pitchers have the sixth-best ERA in MLB at the end of April, but Texas ranks 27th in runs scored.`
+  recap: `Nathan Eovaldi (2-2, 2.21) vs. Luis Severino (1-3, 3.49). Eovaldi pitched six innings, allowing just one run on six hits, issuing no walks, and striking out eight. However, Texas went 1-for-11 with runners in scoring position. The first two hitters reached base in the third, sixth, and eighth innings but Texas failed to score them. Burger, batting third, struck out four times and left five runners stranded. Langford, hitting leadoff, went 0-for-5 and stranded six runners. The game slipped away in the ninth when the A’s erupted for six runs, including two home runs, against the Rangers’ bullpen trio of Garcia, Jackson, and Armstrong. Rangers' pitchers have the sixth-best ERA in MLB at the end of April, but Texas ranks 27th in runs scored.`
   },
   {
   id: 'may1',
@@ -234,28 +234,28 @@ const schedule = [
   date: 'May 2',
   opp: 'Seattle',
   score: 'L 13-1',
-  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). Cal Raleigh led the Mariners' offense with a solo homer and a grand slam. Texas dropped below .500 for the first time since Opening Day. Woo was dominant on the mound, retiring the first 14 Rangers batters before Heim’s harmless single in the fifth. Seattle’s pitching staff retired the next 12 batters until Smith broke through with a two-out homer in the ninth — ending a 281 at-bat homerless streak for Texas. Rangers rookie Blaine Crimm made his MLB debut, going 0-for-3 with two strikeouts in the loss.`
+  recap: `Jack Leiter (2-0, 2.03) vs. Bryan Woo (3-1, 3.09). Leiter gave up 6 runs on 8 hits and 2 walks in 4-1/3 innings. Latz surrendered 4 more in 1-2/3 innings. The Rangers' first hit came with 2 outs in the 5th inning. The next 12 Texas hitters were retired in order until Smith broke through with a two-out homer in the ninth — ending a 281 at-bat homerless streak for the team. The Rangers dropped below .500 for the first time since Opening Day. `
   },
   {
   id: 'may3',
   date: 'May 3',
   opp: 'Seattle',
   score: 'L 2-1',
-  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). Seager returned from the 10-day IL, but the Rangers' offensive struggles continued. It was their fourth straight loss and ninth in the last 11 games. The Mariners homered on Corbin’s first pitch of the game, but Corbin settled in, retiring 12 straight at one point. He exited after 5-2/3 innings, allowing one run on five hits, two walks, and two strikeouts. The Rangers tied it in the fourth when Seager led off with a single and scored on a two-out RBI single by Heim. However, the offense managed just five hits on the night and went quietly after that. Martin gave up the go-ahead run in the ninth, allowing a leadoff double and a single. The Rangers threatened in the bottom half, but Garcia struck out with the tying run on second to end the game.`
+  recap: `Patrick Corbin (2-1, 3.79) vs. Luis Castillo (3-2, 3.62). Seager returned from the 10-day IL, but the Rangers' offensive struggles continued. It was their fourth straight loss and ninth in the last 11 games. The Mariners homered on Corbin’s first pitch, but Corbin settled in, retiring 12 straight at one point. He exited after 5-2/3 innings, allowing one run on five hits, two walks, and two strikeouts. The Rangers tied it in the fourth when Seager led off with a single and scored on a two-out RBI single by Heim. However, the offense managed just one hit over the final 5 innings. Martin gave up the go-ahead run in the ninth, allowing a leadoff double and a single. The Rangers threatened in the bottom half, but Garcia struck out with the tying run on second to end the game.`
   },
   {
   id: 'may4',
   date: 'May 4',
   opp: 'Seattle',
   score: 'W 8-1',
-  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60). The Rangers broke out with a six-run third inning, highlighted by Seager’s two-run single and clutch two-out hits from Semien, Garcia, and Jung. Texas sent 11 batters to the plate in the inning, collecting six singles and two walks. Smith led the offensive charge with a 4-hit night, capping it with an RBI triple in the eighth that scored Jung. deGrom turned in another solid outing, allowing one run on three hits and two walks over five innings, with three strikeouts. The bullpen was dominant, shutting out Seattle over the final four innings and allowing just two baserunners.`
+  recap: `Jacob deGrom (1-1, 2.73) vs. Logan Evans (1-0, 3.60). The Rangers broke out with a six-run third inning, highlighted by Seager’s two-run single and clutch two-out hits from Semien, Garcia, and Jung. Texas sent 11 batters to the plate in the inning, collecting six singles and two walks. Smith led the offense with a 4-hit night, including an RBI triple in the eighth that scored Jung. deGrom had another solid outing, allowing one run on three hits and two walks over five innings, with three strikeouts. The bullpen shut out Seattle over the final four innings allowing just two baserunners.`
   },
   {
   id: 'may6',
   date: 'May 6',
   opp: 'at Boston',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50). Taveras was claimed off waivers by Seattle. A five-run fourth inning and another strong start from Eovaldi powered the Rangers to a win. Texas strung together seven hits in the fourth, including doubles by Seager and Pederson and singles by Semien, Carter, Heim, Smith, and Langford. The offense racked up 16 hits on the night, led by Smith (3 singles, walk) and Garcia (3 singles, walk, sac fly). Eovaldi was sharp again, going six innings and allowing just one run on five hits and a walk while striking out seven. The bullpen trio of Armstrong, Garcia, and Martin closed it out with three scoreless innings, allowing only one baserunner. Evan Carter, in his first start of 2025, went 2-for-5 with a hit off a left-hander.`
+  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50). Taveras was claimed off waivers by Seattle. Texas strung together seven hits in the fourth, including doubles by Seager and Pederson and singles by Semien, Carter, Heim, Smith, and Langford. The offense racked up 16 hits on the night, led by Smith (3 singles, walk) and Garcia (3 singles, walk, sac fly). Eovaldi was sharp again, going six innings and allowing just one run on five hits and a walk while striking out seven. The bullpen trio of Armstrong, Garcia, and Martin closed it out with three scoreless innings, allowing only one baserunner. Evan Carter, in his first start of 2025, went 2-for-5 with a hit off a left-hander.`
   },
   {
   id: 'may7',
@@ -880,6 +880,13 @@ const schedule = [
   opp: 'at Toronto',
   score: 'W 10-4',
   recap: `Nathan Eovaldi (10-3, 1.71) vs. Jose Berrios (9-4, 3.74). It was a rare great game for the Rangers' offense as they banged out 15 hits including 4 home runs, and were 3-for-5 with RISP. In the 2nd inning, Semien followed a Tellez single with a 371-foot homer down the line in left. With 2 outs in the 4th, Texas strung together 5 base hits and extended their lead to 5-1. A Seager solo home run in the 5th, and a 2-run shot by Langford in the 6th made the lead 8-1. Carter homered in the 9th following a Seager double to make the score 10-4. Semien and Heim led the hit barrage with 3 hits each. Eovaldi pitched 7 innings allowing 2 runs on 5 hits and 0 walks with 5K's.`
+  },
+  {
+  id: 'aug18',
+  date: 'August 18',
+  opp: 'at Kansas City',
+  score: 'L 4-3',
+  recap: `Jack Leiter (7-6, 3.94) vs. Michael Wacha (7-9, 3.35). The Rangers out-hit Kansas City 11 to 8, but the Royals out-homered Texas 3 to 0. All the Rangers' hits were singles until Seager's double in the 8th. Leiter only lasted 3-2/3 innings, giving up 3 runs on 6 hits and 3 walks. The bullpen pitched 4-1/3 innings allowing one run on 2 hits. Seager led Texas with 3 hits. Pederson was thrown out at home in the 2nd inning tagging from 3rd base on a medium deep flyball to right by Smith. The offense was 2-for-8 with RISP.`
   },
 ]
 
