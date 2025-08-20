@@ -888,6 +888,13 @@ const schedule = [
   score: 'L 4-3',
   recap: `Jack Leiter (7-6, 3.94) vs. Michael Wacha (7-9, 3.35). The Rangers out-hit Kansas City 11 to 8, but the Royals out-homered Texas 3 to 0. All the Rangers' hits were singles until Seager's double in the 8th. Leiter only lasted 3-2/3 innings, giving up 3 runs on 6 hits and 3 walks. The bullpen allowed one run on 2 hits in the remaining 4-1/3. Seager led Texas with 3 hits. Pederson was thrown out at home in the 2nd inning tagging from 3rd base on a medium deep flyball to right by Smith. The offense was 2-for-8 with RISP.`
   },
+  {
+  id: 'aug19',
+  date: 'August 19',
+  opp: 'at Kansas City',
+  score: '',
+  recap: `Merrill Kelly (9-7, 3.36) vs. Seth Lugo (8-6, 3.77). The Rangers faced a starter who had an 8.84 ERA in his last 4 starts, but could muster only 4 base hits in the game. The Rangers' runs came on solo homers by Seager and Pederson. Kelly allowed only 2 baserunners in his 6 innings, but they were both solo home runs. Tied 2-2 in the 7th, Milner faced 3 runners and gave up 3 hits to load the bases. Winn got out of the jam by allowing only one run. The Royals put the game away in the 8th when Winn surrendered a 2-run homer.`
+  },
 ]
 
 let html = '';

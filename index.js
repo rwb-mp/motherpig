@@ -1994,9 +1994,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Tue',
     date: '19',
     opp: 'at KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '6:40',
+    time: '',
     score: '',
-    recap: 'Victory+'
+    recap: 'a href = "journal.html#aug19" target = "_blank">Recap</a>'
     },
     {
     id: '179',
