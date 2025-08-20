@@ -1995,8 +1995,8 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '19',
     opp: 'at KC <img src="logos/royals.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
-    recap: 'a href = "journal.html#aug19" target = "_blank">Recap</a>'
+    score: 'L 5-2',
+    recap: '<a href = "journal.html#aug19" target = "_blank">Recap</a>'
     },
     {
     id: '179',
