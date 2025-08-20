@@ -892,8 +892,8 @@ const schedule = [
   id: 'aug19',
   date: 'August 19',
   opp: 'at Kansas City',
-  score: '',
-  recap: `Merrill Kelly (9-7, 3.36) vs. Seth Lugo (8-6, 3.77). The Rangers faced a starter who had an 8.84 ERA in his last 4 starts, but could muster only 4 base hits in the game. The Rangers' runs came on solo homers by Seager and Pederson. Kelly allowed only 2 baserunners in his 6 innings, but they were both solo home runs. Tied 2-2 in the 7th, Milner faced 3 runners and gave up 3 hits to load the bases. Winn got out of the jam by allowing only one run. The Royals put the game away in the 8th when Winn surrendered a 2-run homer.`
+  score: 'L 5-2',
+  recap: `Merrill Kelly (9-7, 3.36) vs. Seth Lugo (8-6, 3.77). Texas faced a starter who had an 8.84 ERA in his last 4 starts, but could muster only 4 base hits in the game. The Rangers' runs came on solo homers by Seager and Pederson. Kelly allowed only 2 baserunners in his 6 innings, but they were both solo home runs. Tied 2-2 in the 7th, Milner faced 3 runners and gave up 3 hits to load the bases. Winn got out of the jam by allowing only one run. The Royals put the game away in the 8th when Winn surrendered a 2-run homer.`
   },
 ]
 
