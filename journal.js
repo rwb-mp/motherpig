@@ -902,6 +902,13 @@ const schedule = [
   score: 'W 6-3',
   recap: `Caleb Boushley (0-0, 4.91) vs. Noah Cameron (7-5, 2.47). The first 3 batters that Boushley faced went single, single, home run. Boushley got out of bases-loaded trouble in the 2nd, and then pitched a clean 3rd. The bullpen took over in the 4th and pitched 6 innings of 3-hit shutout ball. Langford began the game with a 406-foot HR to left. Texas scored again in the 3rd on singles by Langford and Semien. Heim doubled in the 7th and scored on a Seager single to tie the score at 3-3. In the top of the ninth with 2 outs, Langford walked, Seager reached on an error, and Semien reached on a squibber in the infield to load the bases. Higashioka delivered with a double that scored all three runners. Langford reached base in all 5 of his plate appearances batting in the leadoff spot.`
   },
+  {
+  id: 'aug21',
+  date: 'August 21',
+  opp: 'at Kansas City',
+  score: 'L 6-4',
+  recap: `Patrick Corbin (6-9, 4.45) vs. Michael Lorenzen (5-8, 4.43). Corbin only lasted 3-2/3 innings allowing 4 runs on 7 hits and 2 walks. Trailing 4-1 entering the 5th, the Rangers tied the game on singles by Seager, Duran, Carter, and a 2-out, 2-RBI single by Smith. The Royals retook the lead in the bottom of the inning on a HR, and the Rangers only had 2 baserunners the rest of the game. Texas outhit KC 10 to 9, but the Royals out-homered Texas 2 to 0. Seager had 3 hits in a losing effort. `
+  },
 ]
 
 let html = '';
