@@ -895,6 +895,13 @@ const schedule = [
   score: 'L 5-2',
   recap: `Merrill Kelly (9-7, 3.36) vs. Seth Lugo (8-6, 3.77). Texas faced a starter who had an 8.84 ERA in his last 4 starts, but could muster only 4 base hits in the game. The Rangers' runs came on solo homers by Seager and Pederson. Kelly allowed only 2 baserunners in his 6 innings, but they were both solo home runs. Tied 2-2 in the 7th, Milner faced 3 batters and gave up 3 hits to load the bases. Winn replaced Milner and pitched out of the jam, allowing only one run, but the Royals put the game away in the 8th when Winn surrendered a 2-run home run.`
   },
+  {
+  id: 'aug20',
+  date: 'August 20',
+  opp: 'at Kansas City',
+  score: 'W 6-3',
+  recap: `Caleb Boushley (0-0, 4.91) vs. Noah Cameron (7-5, 2.47). The first 3 batters that Boushley faced went single, single, home run. Boushley got out of bases-loaded trouble in the 2nd, and then pitched a clean 3rd. The bullpen took over in the 4th and pitched 6 innings of 3-hit shutout ball. Langford began the game with 406-foot HR to left. Texas scored again in the 3rd on singles by Langford and Semien. Heim doubled in the 7th and scored on a Seager single to tie the score at 3-3. In the top of the ninth with 2 outs, Langford walked, Seager reached on an error, and Semien reached on a squibber in the infield to load the bases. Higashioka delivered with a double that scored all three runners. Langford reached base in all 5 of his plate appearances batting in the leadoff spot.`
+  },
 ]
 
 let html = '';
