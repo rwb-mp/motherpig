@@ -907,7 +907,7 @@ const schedule = [
   date: 'August 21',
   opp: 'at Kansas City',
   score: 'L 6-4',
-  recap: `Patrick Corbin (6-9, 4.45) vs. Michael Lorenzen (5-8, 4.43). Corbin only lasted 3-2/3 innings allowing 4 runs on 7 hits and 2 walks. Trailing 4-1 entering the 5th, the Rangers tied the game on singles by Seager, Duran, Carter, and a 2-out, 2-RBI single by Smith. The Royals retook the lead in the bottom of the inning on a HR, and the Rangers only had 2 baserunners the rest of the game. Texas outhit KC 10 to 9, but the Royals out-homered Texas 2 to 0. Seager had 3 hits in a losing effort. `
+  recap: `Patrick Corbin (6-9, 4.45) vs. Michael Lorenzen (5-8, 4.43). Corbin only lasted 3-2/3 innings allowing 4 runs on 7 hits and 2 walks. Trailing 4-1 entering the 5th, the Rangers tied the game on singles by Seager, Duran, Carter, and Smith. The Royals retook the lead in the bottom of the inning with a HR, and the Rangers only had 2 baserunners the rest of the game. Texas outhit KC 10 to 9, but the Royals drew 8 walks compared to 1 for the Rangers. Seager had 3 hits in a losing effort. `
   },
 ]
 
