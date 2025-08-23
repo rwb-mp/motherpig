@@ -913,7 +913,7 @@ const schedule = [
   id: 'aug22',
   date: 'August 22',
   opp: 'Cleveland',
-  score: '',
+  score: 'W 4-3',
   recap: `Nathan Eovaldi (11-3, 1.76) vs. Slade Cecconi (5-6, 4.50). It was another gem for Eovaldi who allowed 1 run on 4 hits and 0 walks in 7 innings, striking out 9. A 349-foot solo shot by Tellez in the 5th that just cleared the fence down the left field line, and a 398-foot blast to left in the 6th by Langford gave Texas a 2-1 lead entering the 8th. It took Milner only four pitches to load the bases on a hit batter, a single to left, and a squibber in front of the plate. Maton struck out the side, but not before giving up the lead on a 2-run double. Trailing 3-2 in the bottom of the 9th, Langford led off with a hustle-double to left center, Seager singled him home and took 2nd on the throw to the plate, and Pederson doubled Seager home for the walkoff win.`
   },
 ]
