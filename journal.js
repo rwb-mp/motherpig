@@ -346,7 +346,7 @@ const schedule = [
   date: 'May 20',
   opp: 'at New York Yankees',
   score: 'L 5-2',
-  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue, retroactive to May 19. Texas struck out 14 times, struggling to capitalize on multiple scoring chances. Heim doubled in the 5th but was left stranded after a Haggerty strikeout. The Rangers loaded the bases in the 6th, only for Semien and Pederson to strike out. In the 8th, Langford doubled and reached 3rd on a wild pitch, but Jung and Garcia struck out to end the threat. Pederson walked in the 9th and Heim followed with a 2-run homer to avoid the shutout. Corbin gave up 3 runs on 5 hits and 2 walks over 5 innings.`
+  recap: `Patrick Corbin (3-2, 3.35) vs. Will Warren (2-2, 4.61). Chris Martin was placed on the 15-day IL with right shoulder fatigue, retroactive to May 19. Texas struck out 14 times, struggling to capitalize on multiple scoring chances. Heim doubled in the 5th but was left stranded after a Haggerty strikeout. The Rangers loaded the bases in the 6th before Semien and Pederson struck out. In the 8th, Langford doubled and reached 3rd on a wild pitch, but Jung and Garcia struck out to end the threat. Pederson walked in the 9th and Heim followed with a 2-run homer to avoid the shutout. Corbin gave up 3 runs on 5 hits and 2 walks over 5 innings.`
   },
   {
   id: 'may21',
@@ -361,7 +361,7 @@ const schedule = [
   date: 'May 22',
   opp: 'at New York Yankees',
   score: 'L 1-0',
-  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers’ offensive struggles continued as they struck out 12 times and managed just 4 hits in a 1-0 loss to the Yankees—marking their sixth shutout of the season. Eovaldi delivered another strong outing, allowing just 1 run on 5 hits over 6 innings with 6 strikeouts. Milner and Armstrong combined for two hitless innings out of the bullpen. Texas had chances but couldn’t convert, going 1-for-7 with runners in scoring position. In the 6th, Langford reached second with one out, but Jung and Burger struck out. In the 7th, Semien led off with a single and advanced on a wild pitch, only to be stranded after Heim struck out, Garcia grounded out, and Smith went down swinging.`
+  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers’ offensive struggles continued as they struck out 12 times and managed just 4 hits in a 1-0 loss to the Yankees—marking their sixth shutout of the season. Eovaldi delivered another strong outing, allowing just 1 run on 5 hits over 6 innings with 6 strikeouts. Milner and Armstrong combined for two hitless innings out of the bullpen. Texas had chances but couldn’t convert, going 1-for-7 with runners in scoring position. In the 6th, Langford reached second with one out, but Jung and Burger struck out. In the 7th, Semien led off with a single and advanced to second on a wild pitch, but he was stranded there when Heim struck out, Garcia grounded out, and Smith went down swinging.`
   },
   {
   id: 'may23',
@@ -683,7 +683,7 @@ const schedule = [
   date: 'July 13',
   opp: 'at Houston',
   score: 'W 5-1',
-  recap: `Nathan Eovaldi (6-3, 1.62) vs. Hunter Brown (9-3, 2.21). Texas opened the scoring in the 2nd when Carter tripled scoring Langford who reached on a walk. Two outs later, Duran doubled scoring Carter. With two outs in the 3rd, Garcia homered 381 feet to left to make it 3-0. The Rangers added another run in the 4th when Carter doubled and scored two batters later on an Osuna sacrifice fly. Semien homered in the 8th to make the score 5-1. Eovaldi pitched 7-2/3 innings allowing a run on 5 hits and a walk with 8 strikeouts. Hunter Brown, the ace of the Astros staff, only lasted 5 innings and was charged with 4 runs.`
+  recap: `Nathan Eovaldi (6-3, 1.62) vs. Hunter Brown (9-3, 2.21). Texas opened the scoring in the 2nd when Carter tripled scoring Langford who reached on a walk. Two outs later, Duran doubled scoring Carter. With two outs in the 3rd, Garcia homered 381 feet to left to make it 3-0. The Rangers added another run in the 4th when Carter doubled and scored two batters later on an Osuna sacrifice fly. Semien homered in the 8th to make the score 5-1. Eovaldi pitched 7-2/3 innings allowing a run on 5 hits and a walk with 8 strikeouts. Hunter Brown, the ace of the Astros staff, lasted only 5 innings and was charged with 4 runs.`
   },
   {
   id: 'jul18',
@@ -837,7 +837,7 @@ const schedule = [
   date: 'August 10',
   opp: 'Philadelphia',
   score: 'L 4-2',
-  recap: `Patrick Corbin (6-7, 3.91) vs. Zack Wheeler (9-5, 2.64). The Rangers scored two in the first on a Pederson 352-foot home run down the right field line after a Seager walk. The offense then went dead and only advanced one runner to second in the last eight innings. Meanwhile the Phillies scored three off Corbin who pitched 4-1/3 before giving way to the bullpen. Maton gave up a run in the top of the 9th to make the score 4-2. Jung singled with one out in the bottom of the 9th to bring the tying run to the plate, but Higashioka lined out and Smith struck out to end the game.`
+  recap: `Patrick Corbin (6-7, 3.91) vs. Zack Wheeler (9-5, 2.64). The Rangers scored two in the first on a Pederson 352-foot home run down the right field line after a Seager walk. The offense then went dead and advanced only one runner to second in the last eight innings. Meanwhile the Phillies scored three off Corbin who pitched 4-1/3 before giving way to the bullpen. Maton gave up a run in the top of the 9th to make the score 4-2. Jung singled with one out in the bottom of the 9th to bring the tying run to the plate, but Higashioka lined out and Smith struck out to end the game.`
   },
   {
   id: 'aug11',
@@ -865,7 +865,7 @@ const schedule = [
   date: 'August 15',
   opp: 'at Toronto',
   score: 'L 6-5',
-  recap: `Jacob deGrom (10-5, 2.86) vs. Chris Bassitt (11-6, 4.17). deGrom threw 5 shutout innings but the bullpen imploded for the third straight game. The offense only managed 5 hits, but 2 of them were home runs. Higashioka hit a 3-run homer in the 2nd to give deGrom a 3-run lead. Robert Garcia surrendered a 2-run homer in the 7th which cut the lead to 3-2. Semien responded with a clutch 2-run, 2-out blast in the 8th after a Carter walk to make the score 5-2. In the bottom of the 8th, Coulombe faced 3 hitters and gave up 3 singles. Maton walked the first batter he faced to load the bases, struck out a batter, walked in a run, and then surrendered a 2-run single. The Rangers trailed 6-5 entering the 9th. Jung, Higashioka, and Smith struck out in order to end the game.`
+  recap: `Jacob deGrom (10-5, 2.86) vs. Chris Bassitt (11-6, 4.17). deGrom threw 5 shutout innings but the bullpen imploded for the third straight game. The offense managed only 5 hits, but 2 of them were home runs. Higashioka hit a 3-run homer in the 2nd to give deGrom a 3-run lead. Robert Garcia surrendered a 2-run homer in the 7th which cut the lead to 3-2. Semien responded with a clutch 2-run, 2-out blast in the 8th after a Carter walk to make the score 5-2. In the bottom of the 8th, Coulombe faced 3 hitters and gave up 3 singles. Maton walked the first batter he faced to load the bases, struck out a batter, walked in a run, and then surrendered a 2-run single. The Rangers trailed 6-5 entering the 9th. Jung, Higashioka, and Smith struck out in order to end the game.`
   },
   {
   id: 'aug16',
@@ -886,7 +886,7 @@ const schedule = [
   date: 'August 18',
   opp: 'at Kansas City',
   score: 'L 4-3',
-  recap: `Jack Leiter (7-6, 3.94) vs. Michael Wacha (7-9, 3.35). The Rangers out-hit Kansas City 11 to 8, but the Royals out-homered Texas 3 to 0. All the Rangers' hits were singles until Seager's double in the 8th. Leiter only lasted 3-2/3 innings, giving up 3 runs on 6 hits and 3 walks. The bullpen allowed one run on 2 hits in the remaining 4-1/3. Seager led Texas with 3 hits. Pederson was thrown out at home in the 2nd inning tagging from 3rd base on a medium deep flyball to right by Smith. The offense was 2-for-8 with RISP.`
+  recap: `Jack Leiter (7-6, 3.94) vs. Michael Wacha (7-9, 3.35). The Rangers out-hit Kansas City 11 to 8, but the Royals out-homered Texas 3 to 0. All the Rangers' hits were singles until Seager's double in the 8th. Leiter lasted only 3-2/3 innings, giving up 3 runs on 6 hits and 3 walks. The bullpen allowed one run on 2 hits in the remaining 4-1/3. Seager led Texas with 3 hits. Pederson was thrown out at home in the 2nd inning tagging from 3rd base on a medium deep flyball to right by Smith. The offense was 2-for-8 with RISP.`
   },
   {
   id: 'aug19',
@@ -907,7 +907,14 @@ const schedule = [
   date: 'August 21',
   opp: 'at Kansas City',
   score: 'L 6-4',
-  recap: `Patrick Corbin (6-9, 4.45) vs. Michael Lorenzen (5-8, 4.43). Corbin lasted only 3-2/3 innings allowing 4 runs on 7 hits and 2 walks. Pederson had an RBI-single in the 3rd. Trailing 4-1 entering the 5th, the Rangers tied the game on singles by Seager, Duran, Carter, and Smith. The Royals retook the lead in the bottom of the inning with a HR, and the Rangers had only 2 baserunners the rest of the game. Texas outhit KC 10 to 9, but the Royals drew 8 walks compared to 1 for the Rangers. Seager had 3 hits in a losing effort. `
+  recap: `Patrick Corbin (6-9, 4.45) vs. Michael Lorenzen (5-8, 4.43). Corbin lasted only 3-2/3 innings allowing 4 runs on 7 hits and 2 walks. Pederson had an RBI-single in the 3rd. Trailing 4-1 entering the 5th, the Rangers tied the game on singles by Seager, Duran, Carter, and Smith. The Royals homered in the bottom of the inning to retake the lead, and the Rangers had only 2 baserunners the rest of the game. Texas outhit KC 10 to 9, but the Royals drew 8 walks compared to 1 for the Rangers. Seager had 3 hits but Texas was 3-for-15 with RISP.`
+  },
+  {
+  id: 'aug22',
+  date: 'August 22',
+  opp: 'Cleveland',
+  score: '',
+  recap: `Nathan Eovaldi (11-3, 1.76) vs. Slade Cecconi (5-6, 4.50). It was another gem for Eovaldi who allowed 1 run on 4 hits and 0 walks in 7 innings, striking out 9. A 349-foot solo shot by Tellez in the 5th that just cleared the fence down the left field line, and a 398-foot blast to left in the 6th by Langford gave Texas a 2-1 lead entering the 8th. It took Milner only four pitches to load the bases on a hit batter, a single to left, and a squibber in front of the plate. Maton struck out the side, but not before giving up the lead on a 2-run double. Trailing 3-2 in the bottom of the 9th, Langford led off with a hustle-double to left center, Seager singled him home and took 2nd on the throw to the plate, and Pederson doubled Seager home for the walkoff win.`
   },
 ]
 
