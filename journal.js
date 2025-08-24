@@ -928,7 +928,7 @@ const schedule = [
   date: 'August 24',
   opp: 'Cleveland',
   score: 'W 5-0',
-  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center after a Garcia walk to give Texas a 2-0 lead. Jung and Garcia extended the inning with singles, and Langford drove them both in with a clutch 2-out base hit. Pederson homered 409 feet to right--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark.`
+  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center after a Garcia walk to give Texas a 2-0 lead. Jung and Duran extended the inning with singles, and Langford drove them both in with a clutch 2-out base hit. Pederson homered 409 feet to right--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark.`
   },
 ]
 
