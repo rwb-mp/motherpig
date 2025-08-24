@@ -923,6 +923,13 @@ const schedule = [
   score: 'W 10-0',
   recap: `Jack Leiter (7-7, 4.06) vs. Logan Allen (7-9, 3.87). The Rangers put on a hitting display and Leiter was sensational in a rout of the Guardians. Cody Freeman hit his first big league HR 385 feet to left in the 2nd. Jung homered 390 feet to left in the 3rd. Garcia homered 377 feet down the left field line in the 5th. Langford, Jung, and Freeman had 2 hits apiece and Duran had 3 RBI's. Leiter pitched 7 shutout innings on 2 hits and 0 walks, striking out 10.`
   },
+  {
+  id: 'aug24',
+  date: 'August 24',
+  opp: 'Cleveland',
+  score: 'W 5-0',
+  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center after a Garcia walk to give Texas a 2-0 lead. Jung and Garcia extended the inning with singles, and Langford drove them both in with a clutch 2-out base hit. Pederson homered 409 feet to right--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark.`
+  },
 ]
 
 let html = '';
