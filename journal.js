@@ -916,6 +916,13 @@ const schedule = [
   score: 'W 4-3',
   recap: `Nathan Eovaldi (11-3, 1.76) vs. Slade Cecconi (5-6, 4.50). It was another gem for Eovaldi who allowed 1 run on 4 hits and 0 walks in 7 innings, striking out 9. A 349-foot solo shot by Tellez in the 5th that just cleared the fence down the left field line, and a 398-foot blast to left in the 6th by Langford gave Texas a 2-1 lead entering the 8th. It took Milner only four pitches to load the bases on a hit batter, a single to left, and a squibber in front of the plate. Maton struck out the side, but not before giving up the lead on a 2-run double. Trailing 3-2 in the bottom of the 9th, Langford led off with a hustle-double to left center, Seager singled him home and took 2nd on the throw to the plate, and Pederson doubled Seager home for the walkoff win.`
   },
+  {
+  id: 'aug23',
+  date: 'August 23',
+  opp: 'Cleveland',
+  score: 'W 10-0',
+  recap: `Jack Leiter (7-7, 4.06) vs. Logan Allen (7-9, 3.87). The Rangers put on a hitting display and Leiter was sensational in a rout of the Guardians. Cody Freeman hit his first big league HR 385 feet to left in the 2nd. Jung homered 390 feet to left in the 3rd. Garcia homered 377 feet down the left field line in the 5th. Langford, Jung, and Freeman had 2 hits apiece and Duran had 3 RBI's. Leiter pitched 7 shutout innings on 2 hits and 0 walks, striking out 10.`
+  },
 ]
 
 let html = '';
