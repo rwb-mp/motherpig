@@ -2062,7 +2062,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'RSN/ictory+'
+    recap: 'Victory+'
     },
     {
     id: '185',
