@@ -410,21 +410,21 @@ const schedule = [
   date: 'May 30',
   opp: 'St. Louis',
   score: 'W 11-1',
-  recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). The Rangers' struggling offense finally broke out, scoring 11 runs on 15 hits in a rout of the Blue Jays. Semien, hitting just .173 entering the game, went 4-for-4 with a home run and 3 RBIs. Haggerty, batting leadoff, reached base five times and tripled during a 4-run 2nd inning that also featured a Langford homer. Texas added four more in the 6th on a string of singles and walks, then Semien capped the scoring with a 2-run homer in the 7th. Leiter delivered 5-2/3 shutout innings, allowing just three hits and two walks while striking out six. Boushley pitched the final three innings to earn the save.`
+  recap: `Jack Leiter (3-2, 4.17) vs. Matthew Liberatore (3-3, 2.73). The Rangers' struggling offense finally broke out, scoring 11 runs on 15 hits in a rout of the Cardinals. Semien, hitting just .173 entering the game, went 4-for-4 with a home run and 3 RBIs. Haggerty, batting leadoff, reached base five times and tripled during a 4-run 2nd inning that also featured a Langford homer. Texas added four more in the 6th on a string of singles and walks, then Semien capped the scoring with a 2-run homer in the 7th. Leiter delivered 5-2/3 shutout innings, allowing just three hits and two walks while striking out six. Boushley pitched the final three innings to earn the save.`
   },
   {
   id: 'may31',
   date: 'May 31',
   opp: 'St. Louis',
   score: 'L 2-0',
-  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and managed just four hits and two walks, with only one baserunner reaching second base. Texas was blanked for the eighth time this season and closed out May with a 12–15 record. Corbin allowed two runs on three hits and two walks over 5-1/3 innings, but the offense provided no support. St. Louis manufactured a run in the 2nd and added another on a pair of doubles in the 4th. The Rangers remain the only team in MLB yet to come back from a 2-run deficit this season.`
+  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and managed just four hits and two walks, with only one baserunner reaching second base. Texas was blanked for the eighth time this season and closed out May with a 12–15 record in the month. Corbin allowed two runs on three hits and two walks over 5-1/3 innings, but the offense provided no support. St. Louis manufactured a run in the 2nd and added another on a pair of doubles in the 4th. The Rangers remain the only team in MLB yet to come back from a 2-run deficit this season.`
   },
   {
   id: 'jun1',
   date: 'June 1',
   opp: 'St. Louis',
   score: 'W 8-1',
-  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. The Rangers secured a series win behind a strong outing from Jacob deGrom and a strong performance from Smith. Smith delivered a 2-out, 2-RBI double in the 2nd and capped the scoring with a 2-run homer in the 8th. He finished the game with 4 RBIs. Texas loaded the bases with no outs in the 7th and added a run on a Langford sac fly. They broke it open in the 8th with a 5-run inning that included a Jung single, a Burger double, a Heim sacrifice fly, a Semien walk, a Haggerty sacrifice bunt, and Smith’s blast. deGrom went 6 innings, allowing 1 run on 4 hits and 3 walks while striking out 4. Armstrong, Milner, and Jackson closed it out with three shutout innings. Semien reached base 10 times in 11 plate appearances in the series. Rangers’ starters have now allowed 3 or fewer runs in 54 of the team’s first 60 games.`
+  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. The Rangers got the series win behind a strong outing from deGrom and a strong performance from Smith. Smith delivered a 2-out, 2-RBI double in the 2nd and capped the scoring with a 2-run homer in the 8th. He finished the game with 4 RBIs. Texas loaded the bases with no outs in the 7th and added a run on a Langford sac fly. They broke it open in the 8th with a 5-run inning that included a Jung single, a Burger double, a Heim sacrifice fly, a Semien walk, a Haggerty sacrifice bunt, and Smith’s blast. deGrom went 6 innings, allowing 1 run on 4 hits and 3 walks while striking out 4. Armstrong, Milner, and Jackson closed it out with three shutout innings. Semien reached base 10 times in 11 plate appearances in the series. Rangers’ starters have now allowed 3 or fewer runs in 54 of the team’s first 60 games.`
   },
   {
   id: 'jun3',
