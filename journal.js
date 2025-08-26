@@ -935,7 +935,7 @@ const schedule = [
   date: 'August 25',
   opp: 'Los Angeles Angels',
   score: 'L 4-0',
-  recap: `Jacob deGrom (10-5, 2.76) vs. Jose Soriano (8-9, 4.00). deGrom's 1st pitch was hit 384 feet to left for a home run and that's all the Angels would need. The Rangers were shutout on 5 singles and reached 2nd base only once against 4 Angels pitchers. In the 6th inning with 2 outs Smith walked and Jung singled, but Seager struck out to end the Rangers' only scoring threat. deGrom allowed 2 runs on 3 hits and 2 walks in 5 innings, striking out 7. `
+  recap: `Jacob deGrom (10-5, 2.76) vs. Jose Soriano (8-9, 4.00). deGrom's 1st pitch was hit 384 feet to left for a home run and that's all the Angels would need. The Rangers were shutout on 5 singles and reached 2nd base only once against 5 Angels pitchers. In the 6th inning with 2 outs, Smith walked and Jung singled, but Seager struck out to end the Rangers' only scoring threat. deGrom allowed 2 runs on 3 hits and 2 walks in 5 innings, striking out 7.`
   },
 ]
 
