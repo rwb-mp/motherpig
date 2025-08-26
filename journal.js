@@ -930,6 +930,13 @@ const schedule = [
   score: 'W 5-0',
   recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center in the 4th after a Garcia walk to give Texas a 2-0 lead. Jung and Duran extended the inning with singles, and Langford scored them both with a clutch 2-out base hit. Pederson homered 409 feet to right in the 7th--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark with 30 games remaining.`
   },
+  {
+  id: 'aug25',
+  date: 'August 25',
+  opp: 'Los Angeles Angels',
+  score: 'L 4-0',
+  recap: `Jacob deGrom (10-5, 2.76) vs. Jose Soriano (8-9, 4.00). deGrom's 1st pitch was hit 384 feet to left for a home run and that's all the Angels would need. The Rangers were shutout on 5 singles and reached 2nd base only once against 4 Angels pitchers. deGrom allowed 2 runs on 3 hits and 2 walks, striking out 7. `
+  },
 ]
 
 let html = '';
