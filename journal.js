@@ -937,6 +937,13 @@ const schedule = [
   score: 'L 4-0',
   recap: `Jacob deGrom (10-5, 2.76) vs. Jose Soriano (8-9, 4.00). deGrom's 1st pitch was hit 384 feet to left field for a home run and that's all the Angels would need. The Rangers were shutout on 5 singles and reached 2nd base only once against 5 Angels pitchers. In the 6th inning with 2 outs, Smith walked and Jung singled, but Seager struck out to end the Rangers' only scoring threat. deGrom allowed 2 runs on 3 hits and 2 walks in 5 innings, striking out 7. It was the 12th time the Rangers have been shutout this season.`
   },
+  {
+  id: 'aug26',
+  date: 'August 26',
+  opp: 'Los Angeles Angels',
+  score: 'W 7-3',
+  recap: `Patrick Corbin (6-9, 4.61) vs. Yusei Kikuchi (6-8, 3.42). The Rangers scored early and then rode the arm of Patrick Corbin who had his best start of the season. Corbin threw 102 pitches over 8 shutout innings, allowing 3 hits and 1 walk, striking out 8. The Rangers scored 3 in the 1st on walks to Langford and Seager, a double by Garcia, a single by Jung, and a sacrifice fly by Cody Freeman. Helman homered 383 feet to left in the 2nd after a Heim walk to make the score 5-0. Higashioka blasted one 421 feet to left in the 4th, and Seager homered 376 feet to right in the 7th for a 7-0 Rangers lead. Coulombe gave up a single and a pair of home runs in the ninth, but Maton got the final two outs to secure the win.`
+  },
 ]
 
 let html = '';
