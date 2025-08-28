@@ -949,7 +949,7 @@ const schedule = [
   date: 'August 27',
   opp: 'Los Angeles Angels',
   score: '',
-  recap: `Jacob Latz (1-0, 3.05) vs. Jack Kochanowicz (3-10, 6.19). `
+  recap: `Jacob Latz (1-0, 3.05) vs. Jack Kochanowicz (3-10, 6.19). The Rangers had a 12-2 lead after 6 innings on the strength of 12 base hits, and added 8 runs on 8 hits against position players in their final 2 innings. All 12 Ranger hitters had at least one base hit, and Garcia led the way with 4. Jung had 3 hits. Langford, Seager, Duran, Pederson, and Higashioka had 2 apiece. Garcia, Pederson, and Higashioka had 5 RBI's each. Latz pitched 4-1/3 in a bullpen start, allowing 2 runs on 4 hits and a walk, striking out 5. Webb, Curvelo, Armstrong, and Boushley allowed a run on 3 hits to finish off the Angels.`
   },
 ]
 
