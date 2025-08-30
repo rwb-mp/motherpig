@@ -921,7 +921,7 @@ const schedule = [
   date: 'August 23',
   opp: 'Cleveland',
   score: 'W 10-0',
-  recap: `Jack Leiter (7-7, 4.06) vs. Logan Allen (7-9, 3.87). The Rangers put on a hitting display and Leiter was sensational in a rout of the Guardians. Cody Freeman hit his first big league HR 385 feet to left in the 2nd. Jung homered 390 feet to left in the 3rd. Garcia homered 377 feet down the left field line in the 5th. Langford, Jung, and Freeman had 2 hits apiece and Duran had 3 RBI's. Leiter pitched 7 shutout innings on 2 hits and 0 walks, striking out 10.`
+  recap: `Jack Leiter (7-7, 4.06) vs. Logan Allen (7-9, 3.87). Semien was placed on the IL and is out for the season with a foot injury. The Rangers put on a hitting display and Leiter was sensational in a rout of the Guardians. Cody Freeman hit his first big league HR 385 feet to left in the 2nd. Jung homered 390 feet to left in the 3rd. Garcia homered 377 feet down the left field line in the 5th. Langford, Jung, and Freeman had 2 hits apiece and Duran had 3 RBI's. Leiter pitched 7 shutout innings on 2 hits and 0 walks, striking out 10.`
   },
   {
   id: 'aug24',
@@ -949,7 +949,14 @@ const schedule = [
   date: 'August 27',
   opp: 'Los Angeles Angels',
   score: 'W 20-3',
-  recap: `Jacob Latz (1-0, 3.05) vs. Jack Kochanowicz (3-10, 6.19). The Rangers had a 12-2 lead after 6 innings on the strength of 12 base hits and added 8 runs on 8 hits against position players in their final 2 innings. All 12 Ranger hitters had at least one base hit, and Garcia led the way with 4. Jung had 3 hits. Langford, Seager, Duran, Pederson, and Higashioka had 2 apiece. Garcia, Pederson, and Higashioka had 5 RBI's each. Latz pitched 4-1/3 in a bullpen start, allowing 2 runs on 4 hits and a walk and striking out 5. Webb, Curvelo, Armstrong, and Boushley allowed a run on 3 hits to finish off the Angels.`
+  recap: `Jacob Latz (1-0, 3.05) vs. Jack Kochanowicz (3-10, 6.19). The Rangers had a 12-2 lead after 6 innings on the strength of 12 base hits and added 8 runs on 8 hits against position players in their final 2 innings. All 12 Ranger hitters had at least one base hit, and Garcia led the way with 4. Jung had 3 hits. Langford, Seager, Duran, Pederson, and Higashioka had 2 apiece. Garcia, Pederson, and Higashioka had 5 RBI's each. Latz pitched 4-1/3 innings in a bullpen start, allowing 2 runs on 4 hits and a walk and striking out 5. Webb, Curvelo, Armstrong, and Boushley allowed a run on 3 hits to finish off the Angels.`
+  },
+  {
+  id: 'aug29',
+  date: 'August 29',
+  opp: 'at Athletics',
+  score: 'W 5-2',
+  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore, and a sacrifice fly by Heim. The Athletics responded with two runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389-foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief.`
   },
 ]
 
