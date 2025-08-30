@@ -956,7 +956,7 @@ const schedule = [
   date: 'August 29',
   opp: 'at Athletics',
   score: 'W 5-2',
-  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore, and a sacrifice fly by Heim. The Athletics responded with two runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389-foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief.`
+  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore, and a sacrifice fly by Heim. The Athletics responded with two runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389 foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief.`
   },
 ]
 
