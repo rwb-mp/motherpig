@@ -176,7 +176,7 @@ const schedule = [
   date: 'April 24',
   opp: 'at Athletics',
   score: 'L 4-3',
-  recap: `Jacob deGrom (0-1, 3.32) vs. J.T. Ginn (1-1, 3.69). The Rangers let a late lead slip away in the ninth. Texas carried a 3–2 lead into the final frame, but the Athletics leadoff hitter walked and then scored the tying run from first when Taveras misplayed a single in center field. After a flyout, the next Athletics batter delivered the game-winning hit. Jackson was charged with the blown save and the loss. The Rangers’ only offense came in the fourth, when Jung, Heim, and Taveras all homered to erase a 2–0 deficit. They loaded the bases later in the inning, but Garcia grounded out to end the threat. After that, Texas managed just one baserunner over the final five innings. Defensive miscues cost the Rangers early — Langford lost a routine fly ball in the lights in the third, leading to two unearned runs on a Tyler Soderstrom double. Rocker was placed on the 15-day IL with a mild shoulder impingement.
+  recap: `Jacob deGrom (0-1, 3.32) vs. J.T. Ginn (1-1, 3.69). The Rangers let a late lead slip away in the ninth. Texas carried a 3–2 lead into the final frame, but the Athletics leadoff hitter walked and then scored the tying run from first when Taveras misplayed a single in center field. After a flyout, the next Athletics batter delivered the game-winning hit. Jackson was charged with the blown save and the loss. The Rangers’ only offense came in the fourth, when Jung, Heim, and Taveras all homered to erase a 2–0 deficit. Texas loaded the bases later in the inning, but Garcia grounded out to end the threat. The Rangers managed just one baserunner over the final five innings. Defensive miscues cost Texas early — Langford lost a routine fly ball in the lights in the third, leading to two unearned runs. Rocker was placed on the 15-day IL with a mild shoulder impingement.
 
 `
   },
@@ -227,7 +227,7 @@ const schedule = [
   date: 'May 1',
   opp: 'Athletics',
   score: 'L 3-0',
-  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). Mahle delivered another solid outing, but the Rangers’ offense couldn’t capitalize. Mahle pitched six innings, allowing just one run on five hits and a walk while striking out six. Meanwhile, rookie pitcher Springs, who struggled in his previous start against the White Sox, held the Rangers to only two singles over six innings. Opponents had been hitting .432 against Springs’ fastball, but Texas couldn’t break through. The Rangers went 0-for-4 with runners in scoring position and have now dropped five of their last seven games against Oakland. Following the game, Burger was optioned to Round Rock, and Blaine Crimm (.313/.365/.565) was called up to the big league roster.`
+  recap: `Tyler Mahle (3-0, 1.23) vs. Jeffrey Springs (3-3, 5.18). Mahle delivered another solid outing, but the Rangers’ offense couldn’t capitalize. Mahle pitched six innings, allowing just one run on five hits and a walk while striking out six. Meanwhile, rookie pitcher Springs, who struggled in his previous start against the White Sox, held the Rangers to only two singles over six innings. Opponents had been hitting .432 against Springs’ fastball, but Texas couldn’t break through. The Rangers went 0-for-4 with runners in scoring position and have dropped five of their last seven games against Oakland. Following the game, Burger was optioned to Round Rock, and Blaine Crimm (.313/.365/.565) was called up.`
   },
   {
   id: 'may2',
@@ -956,7 +956,14 @@ const schedule = [
   date: 'August 29',
   opp: 'at Athletics',
   score: 'W 5-2',
-  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore, and a sacrifice fly by Heim. The Athletics responded with two runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389 foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief.`
+  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore--recently acquired from the Mariners-- and a sacrifice fly by Heim. The Athletics responded with two runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389 foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief.`
+  },
+  {
+  id: 'aug30',
+  date: 'August 30',
+  opp: 'at Athletics',
+  score: 'W 9-3',
+  recap: `Merrill Kelly (10-7, 3.20) vs. Mason Barnett (0-0, -.--). It was another big day for the Rangers' bats as they banged out 17 base hits. Langford homered 364 feet to left in the 5th inning, and Dylan Moore hit a 2-run shot 403 feet to centerfield in the 9th. Jung and Garcia had 3 hits apiece, and Langford, Higashioka, and Helman each had a pair of base hits. Kelly pitched a quality start into the 7th inning allowing 3 runs on 6 hits and no walks. Webb, Maton, and Garcia pitched 2-2/3 shutout innings in relief.`
   },
 ]
 
