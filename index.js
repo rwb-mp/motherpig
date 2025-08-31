@@ -18,11 +18,11 @@ document.getElementById("findButton").addEventListener("click", () => {
     document.getElementById("search").innerHTML = newText;
     document.getElementById("inputBoxValue").value = '';
   }
-
+/*  I HID THE JAVASCRIPT FOR THE COMMENT BUTTON HERE
   document.getElementById("leave-a-comment").addEventListener("click", () => {
     window.open("commentbox.html",'_blank').focus();
   })
-
+*/
 /*
   document.getElementById("locked-on-rangers").addEventListener("click", () => {
     window.open("https://lockedonpodcasts.com/podcasts/locked-on-texas-rangers/",'_blank').focus();
@@ -2126,9 +2126,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '31',
     opp: 'at Ath <img src="logos/athletics.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '3:05',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'W 9-6',
+    recap: '<a href = "journal.html#aug31" target = "_blank">Recap</a>'
     },
     {
     id: '191',
@@ -2805,7 +2805,7 @@ const Hours = document.getElementById('hours');
 const Minutes = document.getElementById('minutes');
 const Seconds = document.getElementById('seconds');
 
-const targetDate = new Date("August 31 2025 15:05:00").getTime();
+const targetDate = new Date("September 1 2025 19:10:00").getTime();
 
 function timer () {
     const currentDate = new Date().getTime();
