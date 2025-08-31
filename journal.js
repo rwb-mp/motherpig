@@ -970,7 +970,7 @@ const schedule = [
   date: 'August 31',
   opp: 'at Athletics',
   score: 'W 9-6',
-  recap: `Jacob deGrom (10-6, 2.79) vs. J.T. Ginn (2-5, 4.96). Smith, Pederson, Garcia, and Jung each had 2 hits in the game. Smith reached base 5 times in the leadoff spot with 3 walks in addition to a single and a double. Pederson had 3 RBI's on a 2-run home run in the 1st and a double in the 5th. Jung hit a solo homer in the 2nd and an RBI double in the 9th. Langford extended his on-base streak to 20 games with a bases loaded walk in the 7th. deGrom threw 79 pitches over 5 shutout innings allowing 2 hits and a walk with 6 strikeouts. After Curvelo pitched 2 perfect innings, Boushley and Armstrong gave up 5 runs on 6 hits in the 8th. Maton gave up a run on a walk and a double in the 9th, but held on to complete the sweep.`
+  recap: `Jacob deGrom (10-6, 2.79) vs. J.T. Ginn (2-5, 4.96). Smith, Pederson, Garcia, and Jung each had 2 hits in the game. Smith reached base 5 times in the leadoff spot with 3 walks in addition to a single and a double. Pederson had 3 RBI's on a 2-run home run in the 1st and a double in the 5th. Jung hit a solo homer in the 2nd and an RBI double in the 9th. Langford extended his on-base streak to 20 games with a bases loaded walk in the 7th. deGrom threw 79 pitches over 5 shutout innings allowing 2 hits and a walk with 6 strikeouts. After Curvelo pitched 2 perfect innings, Boushley and Armstrong gave up 5 runs on 6 hits in the 8th. Maton gave up a run on a walk and a double in the 9th, but held on to complete the Rangers' first road sweep of the season.`
   },
 ]
 
