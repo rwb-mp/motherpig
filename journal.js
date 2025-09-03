@@ -984,7 +984,14 @@ const schedule = [
   date: 'September 2',
   opp: 'at Arizona',
   score: 'L 5-3',
-  recap: `Jacob Latz (1-0, 3.13) vs. Ryne Nelson (2-0, 1.84). Helman tripled in the 3rd inning and scored on a Langford sacrifice fly. Texas scored again in the 4th on a pair of singles by Freeman and Osuna to lead 2-0. Latz scattered 5 hits over 5 shutout innings, but walked two batters in the 6th and was replaced by Curvelo. The Mariners scored a run on a single and a second run on a sacrifice fly to tie the game 2-2. Milner gave up 2 singles and a home run to the first 3 batters he faced in the 7th. Pederson and Tellez hit one-out singles in the 8th, but Jung struck out and Freeman grounded out. A leadoff double by Duran in the 9th, a wild pitch, and a ground out by Heim produced the 3rd Rangers run. Texas missed an opportunity to move to within a half-game of the Mariners who lost to Tampa Bay.`
+  recap: `Jacob Latz (1-0, 3.13) vs. Ryne Nelson (2-0, 1.84). Helman tripled in the 3rd inning and scored on a Langford sacrifice fly. Texas scored again in the 4th on a pair of singles by Freeman and Osuna to lead 2-0. Latz scattered 5 hits over 5 shutout innings, but walked two batters in the 6th and was replaced by Curvelo. The Mariners scored a run on a single and a second run on a sacrifice fly to tie the game 2-2. Milner gave up 2 singles and a home run to the first 3 batters he faced in the 7th. Pederson and Tellez hit one-out singles in the 8th, but Jung struck out and Freeman grounded out. A leadoff double by Duran in the 9th, a wild pitch, and a ground out by Heim produced the 3rd Rangers run. The Rangers hit into three double plays and were 0-for-9 with RISP. Texas missed an opportunity to move to within a half-game of the Mariners who lost to Tampa Bay.`
+  },
+  {
+  id: 'sep3',
+  date: 'September 3',
+  opp: 'at Arizona',
+  score: 'L 2-0',
+  recap: `Jack Leiter (9-7, 3.77) vs. Zack Gallen (10-13, 4.94). Leiter threw 99 pitches over 6 innings allowing 2 runs on 3 hits and 3 walks and striking out 8. Robert Garcia and Chris Martin retired all 6 batters they faced. The lineup could manage only 5 hits and went 0-for-5 with runners in scoring position. It was the 13th time the Rangers were shutout, and the 20th loss in which the pitchers gave up 3 runs or fewer.`
   },
 ]
 
