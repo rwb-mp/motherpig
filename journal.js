@@ -991,7 +991,7 @@ const schedule = [
   date: 'September 3',
   opp: 'at Arizona',
   score: 'L 2-0',
-  recap: `Jack Leiter (9-7, 3.77) vs. Zack Gallen (10-13, 4.94). Leiter threw 99 pitches over 6 innings allowing 2 runs on 3 hits and 3 walks and striking out 8. Robert Garcia and Chris Martin retired all 6 batters they faced in relief. The lineup could manage only 5 hits and went 0-for-5 with runners in scoring position. It was the 13th time the Rangers were shutout, and the 20th loss in which the pitchers gave up 3 runs or fewer.`
+  recap: `Jack Leiter (9-7, 3.77) vs. Zack Gallen (10-13, 4.94). Leiter threw 99 pitches over 6 innings allowing 2 runs on 3 hits and 3 walks and striking out 8. Robert Garcia and Chris Martin retired all 6 batters they faced in relief. The lineup could manage only 5 hits and went 0-for-5 with runners in scoring position. It was the 13th time the Rangers were shutout and the 20th loss in which the pitchers gave up 3 runs or fewer.`
   },
 ]
 
