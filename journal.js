@@ -318,7 +318,7 @@ const schedule = [
   date: 'May 15',
   opp: 'Houston',
   score: 'W 1-0',
-  recap: `Jacob deGrom (3-1, 2.72) vs. Hunter Brown (6-1, 1.48). deGrom tossed eight scoreless innings, allowing five hits and a walk while striking out seven, backed by stellar outfield defense from Garcia and Carter that erased multiple Astros threats. The Rangers managed just three hits off Hunter Brown, but Burger’s 394-foot solo homer to right in the 6th proved the difference. Garcia also doubled to lead off the 5th, but was stranded at second. Armstrong worked the 9th, issuing a two-out walk before retiring Dezenzo on a popup to seal the 1-0 win and secure the save.`
+  recap: `Jacob deGrom (3-1, 2.72) vs. Hunter Brown (6-1, 1.48). deGrom tossed eight scoreless innings, allowing five hits and a walk while striking out seven. He was backed by stellar outfield defense from Garcia and Carter erasing multiple scoring threats. The Rangers managed just three hits off Hunter Brown, but Burger’s 394-foot solo homer to right in the 6th proved the difference. Garcia doubled to lead off the 5th, but was stranded at second. Armstrong worked the 9th, issuing a two-out walk before retiring Dezenzo on a popup to seal the 1-0 win and secure the save.`
   },
   {
   id: 'may16',
