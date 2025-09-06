@@ -389,7 +389,7 @@ const schedule = [
   date: 'May 26',
   opp: 'Toronto',
   score: 'L 2-1',
-  recap: `Jacob deGrom (4-1, 2.33) vs. Kevin Gausman (4-4, 4.03). The Rangers managed just one run on five hits in a 2-1 loss. Their lone run came in the 4th on a line-drive solo homer to left by Langford. Texas had a chance in the 5th when Heim and Osuna led off with singles, but three straight outs—two by strikeout—ended the threat. In the 9th, the Rangers needed a run to extend the game, but Langford, Jung, and Burger went down in order. deGrom allowed two runs on five hits and two walks over 5-1/3 innings. It marked the first start of his career without recording a strikeout. Osuna had two hits in his second major league game.`
+  recap: `Jacob deGrom (4-1, 2.33) vs. Kevin Gausman (4-4, 4.03). The Rangers managed just five hits. Their lone run came in the 4th on a line-drive solo homer to left by Langford. Texas had a chance in the 5th when Heim and Osuna led off with singles, but three straight outs—two by strikeout—ended the threat. In the 9th, the Rangers needed a run to extend the game, but Langford, Jung, and Burger went down in order. deGrom allowed two runs on five hits and two walks over 5-1/3 innings. It marked the first start of his career without recording a strikeout. Osuna had two hits in his second major league game.`
   },
   {
   id: 'may27',
@@ -417,7 +417,7 @@ const schedule = [
   date: 'May 31',
   opp: 'St. Louis',
   score: 'L 2-0',
-  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and managed just four hits and two walks, with only one baserunner reaching second base. Texas was blanked for the eighth time this season and closed out May with a 12–15 record in the month. Corbin allowed two runs on three hits and two walks over 5-1/3 innings, but the offense provided no support. St. Louis manufactured a run in the 2nd and added another on a pair of doubles in the 4th. The Rangers remain the only team in MLB yet to come back from a 2-run deficit this season.`
+  recap: `Patrick Corbin (3-3, 3.75) vs. Sonny Gray (5-1, 4.06). The Rangers struck out 10 times and managed just four hits and two walks, with only one baserunner reaching second base. Texas was shutout for the eighth time this season and closed out May with a 12–15 record in the month. Corbin allowed two runs on three hits and two walks over 5-1/3 innings, but the offense provided no support. St. Louis manufactured a run in the 2nd and added another on a pair of doubles in the 4th. The Rangers remain the only team in MLB yet to come back from a 2-run deficit this season.`
   },
   {
   id: 'jun1',
@@ -992,6 +992,13 @@ const schedule = [
   opp: 'at Arizona',
   score: 'L 2-0',
   recap: `Jack Leiter (9-7, 3.77) vs. Zack Gallen (10-13, 4.94). Leiter threw 99 pitches over 6 innings allowing 2 runs on 3 hits and 3 walks and striking out 8. Robert Garcia and Chris Martin retired all 6 batters they faced in relief. The lineup could manage only 5 hits and went 0-for-5 with runners in scoring position. It was the 13th time the Rangers were shutout and the 20th loss in which the pitchers gave up 3 runs or less. Thanks to a Mariners loss, the Rangers remain 1-1/2 games out in the race for the 3rd wild card spot.`
+  },
+  {
+  id: 'sep5',
+  date: 'September 5',
+  opp: 'Houston',
+  score: 'W 4-3',
+  recap: `Merrill Kelly (11-7, 3.24) vs. Colton Gordon (4-4, 5.64). Kelly was spectacular in limiting the Astros to 1 run on 5 hits and a walk over 7 innings while striking out 7. The Rangers tied the game in the 2nd when Jung and Duran singled and Dylan Moore scored Jung on a sacrifice fly. Texas took the lead in the 3rd when Langford walked and Burger homered 439 feet to left. Chris Martin blew the save in the 8th when he gave up a 2-out double and a home run off the rightfield foul pole. The Rangers had opportunities in the 6th, 8th and 9th, but strikeouts by Smith, Heim, and Burger ended those threats. Maton, Armstrong, and Garcia were excellent in 4 innings of relief as they repeatedly stranded the free runner at second base. Texas was 0-for-13 with RISP until Dustin Harris doubled in the 12th for the walkoff win. The Rangers pulled to within a half game of Seattle who lost in Atlanta.`
   },
 ]
 
