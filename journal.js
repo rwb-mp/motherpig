@@ -1012,7 +1012,7 @@ const schedule = [
   date: 'September 7',
   opp: 'Houston',
   score: 'W 4-2',
-  recap: `Patrick Corbin (7-9, 4.48) vs. Framber Valdez (12-8, 3.40). Corbin was excellent over his 5-2/3 innings allowing a run on 3 hits and a walk while striking out 5. Texas scored in the 2nd when Dylan Moore singled, stole second, and scored on a Heim strikeout that got past the catcher. After Houston tied the game in the 6th, Freeman singled with 2 outs and scored from first on a Jung double. Burger followed with a 364-foot homer to right to make the score 4 to 1. Houston scored in the 7th, but Armstrong retired the last 4 batters of the game to close it out.`
+  recap: `Patrick Corbin (7-9, 4.48) vs. Framber Valdez (12-8, 3.40). Corbin was excellent over his 5-2/3 innings allowing a run on 3 hits and a walk while striking out 5. Texas scored in the 2nd when Dylan Moore singled, stole second, and scored on a Heim strikeout that got past the catcher, who then hit the baserunner with his throw to first. After Houston tied the game in the 6th, Freeman singled with 2 outs and scored from first on a Jung double. Burger followed with a 364-foot homer to right to make the score 4 to 1. Houston scored in the 7th, but Armstrong retired the last 4 batters of the game to close it out.`
   },
 ]
 
