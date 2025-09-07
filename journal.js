@@ -1007,6 +1007,13 @@ const schedule = [
   score: 'L 11-0',
   recap: `Jacob deGrom (11-6, 2.69) vs. Hunter Brown (10-7, 2.34). The Astros outhit the Rangers 15 to 4 on national TV. Texas had runners in scoring position in each of the first 5 innings--including bases loaded with 1 out in the 2nd--but went 0-for-9 in those situations. deGrom was charged with 3 runs in 5-1/3 innings on 5 hits--including a pair of solo home runs--and 2 walks with 8 strikeouts. The bullpen allowed 8 runs in the final 2 innings as Milner, Curvelo, and Boushley gave up 9 hits, a walk, and a hit-batter in 1-2/3 innings. The Rangers' offense was shutout for the 14th time.`
   },
+  {
+  id: 'sep7',
+  date: 'September 7',
+  opp: 'Houston',
+  score: 'W 4-2',
+  recap: `Patrick Corbin (7-9, 4.48) vs. Framber Valdez (12-8, 3.40). Corbin was excellent over his 5-2/3 innings allowing a run on 3 hits and a walk while striking out 5. Texas scored in the 2nd when Dylan Moore singled, stole second, and scored on a Heim strikeout that got past the catcher. After Houston tied the game in the 6th, Freeman singled with 2 outs and scored from first on a Jung double. Burger followed with a 364-foot homer to right to make the score 4 to 1. Houston scored in the 7th, but Armstrong retired the last 4 batters of the game to close it out.`
+  },
 ]
 
 let html = '';
