@@ -11,7 +11,7 @@ const schedule = [
   date: 'March 28',
   opp: 'vs Boston',
   score: 'W 4-1',
-  recap: `Jaxk Leiter (0-0, 0.00) vs. Tanner Houck (0-0, 0.00). Heim powered the Rangers with a pair of solo home runs, while  Leiter earned his first career win with a solid outing—scattering five hits and a walk over five innings. Langford made a key run-saving catch in left field in the second, and Leiter worked out of jams in the third and fourth to keep Boston off the board. The Red Sox threatened in the seventh after Marc Church put two on, but Milner escaped a bases-loaded, one-out situation to preserve the lead. Five Rangers relievers combined for four shutout innings, capped by a perfect ninth from Jackson to lock down the save.`
+  recap: `Jaxk Leiter (0-0, 0.00) vs. Tanner Houck (0-0, 0.00). Heim powered the Rangers with a pair of solo home runs, while  Leiter earned his first career win with a solid outing—scattering five hits and a walk over five innings. Langford made a key run-saving catch in left field in the second, and Leiter worked out of jams in the third and fourth to keep Boston off the board. The Red Sox threatened in the seventh after Marc Church put two on, but Milner escaped a bases-loaded, one-out jam to preserve the lead. Five Rangers relievers combined for four shutout innings, capped by a perfect ninth from Jackson to lock down the save.`
   },
   {
   id: 'mar29',
@@ -999,6 +999,13 @@ const schedule = [
   opp: 'Houston',
   score: 'W 4-3',
   recap: `Merrill Kelly (11-7, 3.24) vs. Colton Gordon (4-4, 5.64). Kelly was spectacular in limiting the Astros to 1 run on 5 hits and a walk over 7 innings while striking out 7. The Rangers tied the game in the 2nd when Jung and Duran singled and Dylan Moore scored Jung on a sacrifice fly. Texas took the lead in the 3rd when Langford walked and Burger homered 439 feet to left. Chris Martin blew the save in the 8th when he gave up a 2-out double and a home run off the rightfield foul pole. The Rangers had opportunities in the 6th, 8th and 9th, but strikeouts by Smith, Heim, and Burger ended those threats. Maton, Armstrong, and Garcia were excellent in 4 innings of relief as they repeatedly stranded the free runner at second base. Texas was 0-for-13 with RISP until Dustin Harris doubled in the 12th for the walkoff win. The Rangers pulled to within a half game of Seattle who lost in Atlanta.`
+  },
+  {
+  id: 'sep6',
+  date: 'September 6',
+  opp: 'Houston',
+  score: 'L 11-0',
+  recap: `Jacob deGrom (11-6, 2.69) vs. Hunter Brown (10-7, 2.34). The Astros outhit the Rangers 15 to 4 on national TV. Texas had runners in scoring position in each of the first 5 innings--including bases loaded with 1 out in the 2nd--but went 0-for-9 in those situations. deGrom was charged with 3 runs in 5-1/3 innings on 5 hits--including a pair of solo home runs--and 2 walks with 8 strikeouts. The bullpen allowed 8 runs in the final 2 innings, and the Rangers' offense was shutout for the 14th time.`
   },
 ]
 
