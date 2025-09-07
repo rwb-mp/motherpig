@@ -1005,7 +1005,7 @@ const schedule = [
   date: 'September 6',
   opp: 'Houston',
   score: 'L 11-0',
-  recap: `Jacob deGrom (11-6, 2.69) vs. Hunter Brown (10-7, 2.34). The Astros outhit the Rangers 15 to 4 on national TV. Texas had runners in scoring position in each of the first 5 innings--including bases loaded with 1 out in the 2nd--but went 0-for-9 in those situations. deGrom was charged with 3 runs in 5-1/3 innings on 5 hits--including a pair of solo home runs--and 2 walks with 8 strikeouts. The bullpen allowed 8 runs in the final 2 innings, and the Rangers' offense was shutout for the 14th time.`
+  recap: `Jacob deGrom (11-6, 2.69) vs. Hunter Brown (10-7, 2.34). The Astros outhit the Rangers 15 to 4 on national TV. Texas had runners in scoring position in each of the first 5 innings--including bases loaded with 1 out in the 2nd--but went 0-for-9 in those situations. deGrom was charged with 3 runs in 5-1/3 innings on 5 hits--including a pair of solo home runs--and 2 walks with 8 strikeouts. The bullpen allowed 8 runs in the final 2 innings as Milner, Curvelo, and Boushley gave up 9 hits, a walk, and a hit-batter in 1-2/3 innings. The Rangers' offense was shutout for the 14th time.`
   },
 ]
 
