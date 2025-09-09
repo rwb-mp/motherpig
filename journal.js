@@ -928,7 +928,7 @@ const schedule = [
   date: 'August 24',
   opp: 'Cleveland',
   score: 'W 5-0',
-  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center in the 4th after a Garcia walk to give Texas a 2-0 lead. Jung and Duran extended the inning with singles, and Langford scored them both with a clutch 2-out base hit. Pederson homered 409 feet to right in the 7th--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark with 30 games remaining. The win was the 13th shutout by Ranger pitching this season.`
+  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center in the 4th after a Garcia walk to give Texas a 2-0 lead. Jung and Duran extended the inning with singles, and Langford scored them both with a clutch 2-out base hit. Pederson homered 409 feet to right in the 7th--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark with 30 games remaining and was the 13th shutout by Ranger pitching this season.`
   },
   {
   id: 'aug25',
@@ -1013,6 +1013,13 @@ const schedule = [
   opp: 'Houston',
   score: 'W 4-2',
   recap: `Patrick Corbin (7-9, 4.48) vs. Framber Valdez (12-8, 3.40). Corbin was excellent over his 5-2/3 innings allowing a run on 3 hits and a walk while striking out 5. Texas scored in the 2nd when Dylan Moore singled, stole second, and scored on a Heim strikeout that got past the catcher, who then hit Heim with his throw to first. After Houston tied the game in the 6th, Freeman singled with 2 outs and scored from first on a Jung double. Burger followed with a 364-foot homer to right to make the score 4 to 1. Houston scored in the 7th, but Armstrong retired the last 4 batters of the game to close it out.`
+  },
+  {
+  id: 'sep8',
+  date: 'September 8',
+  opp: 'Milwaukee',
+  score: 'W 5-0',
+  recap: `Jacob Latz (1-0, 3.15) vs. Jose Quintana (11-5, 3.72). Ranger pitching was spectacular again as Latz threw 84 pitches over 5-2/3 innings allowing 3 hits and a walk while striking out 4. Winn, Webb, and Martin completed the shutout allowing 3 hits and a walk over the final 3-2/3. Michael Helman drove in all 5 runs for Texas. The Rangers had their first baserunner in the 5th. A Burger popup in foul territory was dropped and he reached first on a walk. Higashioka doubled and Heim walked to load the bases. Helman homered 381 feet to left for the team's first grand slam. With 2 outs in the 7th, Heim singled and Helman followed with a double to score the Rangers' 5th run. The shutout was the 14th by Rangers' pitching this season.`
   },
 ]
 
