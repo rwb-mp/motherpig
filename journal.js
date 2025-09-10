@@ -1028,6 +1028,13 @@ const schedule = [
   score: 'W 5-4',
   recap: `Jack Leiter (9-8, 3.74) vs. Chad Patrick (3-8, 3.60). The Rangers opened the scoring in the 2nd when Jung walked and Osuna and Freeman followed with singles. Leiter held the Brewers in check until the 5th when Milwaukee put runners on 2nd and 3rd with 2 outs. Yelich hit a shot back at Leiter who knocked it down and then fumbled it, allowing a run to score. The next hitter singled, scoring 2 more and the Rangers trailed 3-1. In the bottom of the 5th, Heim walked and Helman homered for the second straight game, tying the score. Smith followed with a single, Langford had an RBI triple, and Higashioka an RBI double to give Texas a 5-3 lead. Milner. Curvelo, Garcia, and Maton pitched 3-1/3 innings of shutout relief. Armstrong allowed a solo homer in the 9th, as well as a 2-out single, but got Yelich on a hard line drive to center to close it out. The game was highlighted by great defense by the Rangers including exceptional plays by Helman in centerfield, Smith at shortstop, and Heim behind the plate.`
   },
+  {
+  id: 'sep10',
+  date: 'September 10',
+  opp: 'Milwaukee',
+  score: 'W 6-3',
+  recap: `Merrill Kelly (11-7, 3.16) vs. Freddie Peralta (16-5, 2.50). The 1st 2 batters of the game homered off Kelly. The Rangers responded against Brewers ace Freddie Peralta as Burger homered twice to centerfield--a 432-foot shot in the 2nd and a 420-foot 2-run blast in the 5th. The Rangers also scored twice in the 3rd on a single, a pair of walks, a groundout, and a balk. The Brewers scored a run in the 6th on 3 singles to make the score 5-3. The 6th Ranger run came in the 8th on a pair of walks and a couple of groundouts. Kelly allowed 3 runs on 10 hits and 0 walks over 5-2/3 innings. Milner, Garcia, Armstrong, and Maton threw 3-1/3 shutout innings in relief. For the 1st time this season, the Rangers are 7 games over .500.`
+  },
 ]
 
 let html = '';
