@@ -1019,7 +1019,14 @@ const schedule = [
   date: 'September 8',
   opp: 'Milwaukee',
   score: 'W 5-0',
-  recap: `Jacob Latz (1-0, 3.15) vs. Jose Quintana (11-5, 3.72). Ranger pitching was spectacular again as Latz threw 84 pitches over 5-2/3 innings allowing 3 hits and a walk while striking out 4. Winn, Webb, and Martin completed the shutout allowing 3 hits and a walk over the final 3-2/3. Michael Helman drove in all 5 runs for Texas. The Rangers had their first baserunner in the 5th. A Burger popup in foul territory was dropped and he reached first on a walk. Higashioka doubled and Heim walked to load the bases. Helman homered 381 feet to left for the team's first grand slam. With 2 outs in the 7th, Heim singled and Helman followed with a double to score the Rangers' 5th run. The shutout was the 14th by Rangers' pitching this season.`
+  recap: `Jacob Latz (1-0, 3.15) vs. Jose Quintana (11-5, 3.72). Rangers' pitching was spectacular against the team with the 2nd highest batting average and the 2nd highest OBP in MLB. Latz threw 84 pitches over 5-2/3 innings allowing 3 hits and a walk while striking out 4. Winn, Webb, and Martin completed the shutout allowing 3 hits and a walk over the final 3-2/3. Michael Helman drove in all 5 runs for Texas. The Rangers had their first baserunner in the 5th when a Burger popup in foul territory was dropped, allowing him to eventually reach first base on a walk. Higashioka doubled and Heim walked to load the bases. Helman homered 381 feet to left for the team's first grand slam. With 2 outs in the 7th, Heim singled and Helman followed with a double to score the Rangers' 5th run. The shutout was the 14th by Rangers' pitching this season.`
+  },
+  {
+  id: 'sep9',
+  date: 'September 9',
+  opp: 'Milwaukee',
+  score: 'W 5-4',
+  recap: `Jack Leiter (9-8, 3.74) vs. Chad Patrick (3-8, 3.60). The Rangers opened the scoring in the 2nd when Jung walked and Osuna and Freeman followed with singles. Leiter held the Brewers in check until the 5th when Milwaukee put runners on 2nd and 3rd with 2 outs. Yelich hit a shot back at Leiter who knocked it down and then fumbled it, allowing a run to score. The next hitter singled, scoring 2 more and the Rangers trailed 3-1. In the bottom of the 5th, Heim walked and Helman homered for the second straight game, tying the score. Smith followed with a single, Langford had an RBI triple, and Higashioka an RBI double to give Texas a 5-3 lead. Milner. Curvelo, Garcia, and Maton pitched 3-1/3 innings of shutout relief. Armstrong allowed a solo homer in the 9th, as well as a 2-out single, but got Yelich on a hard line drive to center to close it out. The game was highlighted by great defense by Texas including a Helman catch that robbed Milwaukee of a home run when he reached over the wall on a 384-foot blast to center in the 5th.`
   },
 ]
 
