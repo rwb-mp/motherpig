@@ -1040,7 +1040,7 @@ const schedule = [
   date: 'September 12',
   opp: 'at New York Mets',
   score: 'W 8-3',
-  recap: `Jacob deGrom (11-7, 2.78) vs. Jonah Tong (1-1, 4.09). The Mets starting pitcher had control issues early and the Rangers capitalized. 3 walks, 3 singles, and a double produced 6 Ranger runs in the 1st inning. New York scored 3 in the 3rd, but deGrom retired the last 15 batters he faced. Dylan Moore homered 388 feet to left after a Langford walk in the 7th to make the score 8-3. deGrom's line was 88 pitches over 7 innings, allowing 3 runs on 4 hits and 0 walks, striking out 2. Garcia and Maton pitched shutout innings in the 8th and 9th. Smith, Burger, Jung, and Helman each had two hits on the night.`
+  recap: `Jacob deGrom (11-7, 2.78) vs. Jonah Tong (1-1, 4.09). The Mets starting pitcher had control issues early and the Rangers capitalized. Walks by Smith, Pederson, and Heim, singles by Jung, Osuna, and Freeman, and a double by Helman produced 6 Ranger runs in the 1st inning. New York scored 3 in the 3rd including the 23rd home run surrendered by deGrom, but the Rangers' ace retired the last 15 batters he faced. Dylan Moore homered 388 feet to left after a Langford walk in the 7th to make the score 8-3. deGrom's line was 88 pitches over 7 innings, allowing 3 runs on 4 hits and 0 walks, striking out 2. Garcia and Maton pitched shutout innings in the 8th and 9th. Smith, Burger, Jung, and Helman each had two hits on the night. Despite 5 consecutive wins, the Rangers remain 2 games behind Houston and Seattle who are tied for the division lead and tied for the 3rd wild card.`
   },
 ]
 
