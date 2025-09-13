@@ -2335,9 +2335,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '12',
     opp: 'at NYM <img src="logos/mets.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '6:10',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'W 8-3',
+    recap: '<a href = "journal.html#sep12" target = "_blank">Recap</a>'
     },
     {
     id: '210',

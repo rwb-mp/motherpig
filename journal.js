@@ -1035,6 +1035,13 @@ const schedule = [
   score: 'W 6-3',
   recap: `Merrill Kelly (11-7, 3.16) vs. Freddie Peralta (16-5, 2.50). The 1st 2 batters of the game homered off Kelly. The Rangers responded against Brewers ace Freddie Peralta who had not allowed a run over his previous 5 starts. Burger homered twice to centerfield--a 432-foot solo shot in the 2nd and a 420-foot 2-run blast in the 5th. The Rangers also scored twice in the 3rd on a single, a pair of walks, a groundout, and a balk. The Brewers scored a run in the 6th on 3 singles to make the score 5-3. The 6th Ranger run came in the 8th on a pair of walks and a couple of groundouts. Kelly allowed 3 runs on 10 hits and 0 walks over 5-2/3 innings. Milner, Garcia, Armstrong, and Maton threw 3-1/3 shutout innings to complete the sweep of the team with the best record in MLB. For the 1st time this season, the Rangers are 7 games over .500.`
   },
+  {
+  id: 'sep12',
+  date: 'September 12',
+  opp: 'at New York Mets',
+  score: 'W 8-3',
+  recap: `Jacob deGrom (11-7, 2.78) vs. Jonah Tong (1-1, 4.09). The Mets starting pitcher had control issues early and the Rangers capitalized. 3 walks, 3 singles, and a double produced 6 Ranger runs in the 1st inning. New York scored 3 in the 3rd, but deGrom retired the last 15 batters he faced. Dylan Moore homered 388 feet to left after a Langford walk in the 7th to make the score 8-3. deGrom's line was 88 pitches over 7 innings, allowing 3 runs on 4 hits and 0 walks, striking out 2. Garcia and Maton pitched shutout innings in the 8th and 9th. Smith, Burger, Jung, and Helman each had two hits on the night.`
+  },
 ]
 
 let html = '';
