@@ -1042,6 +1042,13 @@ const schedule = [
   score: 'W 8-3',
   recap: `Jacob deGrom (11-7, 2.78) vs. Jonah Tong (1-1, 4.09). The Mets starting pitcher had control issues early and the Rangers capitalized. Walks by Smith, Pederson, and Heim, singles by Jung, Osuna, and Freeman, and a double by Helman produced 6 Ranger runs in the 1st inning. New York scored 3 in the 3rd including the 23rd home run surrendered by deGrom, but the Rangers' ace retired the last 15 batters he faced. Dylan Moore homered 388 feet to left after a Langford walk in the 7th to make the score 8-3. deGrom's line was 88 pitches over 7 innings, allowing 3 runs on 4 hits and 0 walks, striking out 2. Garcia and Maton pitched shutout innings in the 8th and 9th. Smith, Burger, Jung, and Helman each had two hits on the night. Despite 5 consecutive wins, the Rangers remain 2 games behind Houston and Seattle who are tied for the division lead and tied for the 3rd wild card.`
   },
+  {
+  id: 'sep13',
+  date: 'September 13',
+  opp: 'at New York Mets',
+  score: 'W 3-2',
+  recap: `Patrick Corbin (7-9, 4.36) vs. Brandon Sproat (0-1, 4.50). Corbin allowed baserunners in each of the first 5 innings, but pitched out of trouble until the 5th when the Mets scored an unearned run after an error by Freeman. Corbin's line was 1 unearned run in 4-1/3 innings on 6 hits and 2 walks while striking out 5. New York added a 2nd run in the 7th on a solo homer against Milner who was then replaced by Martin. The Rangers were scoreless until the 8th when Smith reached on catcher's interference. Langford doubled and Pederson scored Smith on a sacrifice fly. After a Burger strikeout and a Jung walk, Telez doubled to tie the game 2-2. With runners on 2nd and 3rd, Heim grounded out to 1st to end the threat. Martin and Maton held the Mets scoreless in the 7th and 8th. Freeman led off the Ranger 9th with a single and Helman sacrifice bunted him to 2nd. Smith struck out but Langford singled to give the Rangers a 3-2 lead. In the bottom of the 9th, Maton gave up a one-out soft single and was replaced by Armstrong. After a 2-out single to put the tying run at 3rd, Armstrong got a strikeout to close out the game and give Texas a 6-game winning streak.`
+  },
 ]
 
 let html = '';
