@@ -1050,6 +1050,13 @@ const schedule = [
   score: 'L 5-2',
   recap: `Jacob Latz (2-0, 2.91) vs. Nolan McLean (4-1, 1.42). Latz ran his pitch count up early by walking 2 batters in the 1st and 2 more in the 2nd, but worked out of jams in both innings. The Mets scored in the 5th when they led off with a double and moved the runner around with a pair of ground outs. A home run off Cole Winn in the 6th made the score 2-0. After the Rangers wasted scoring chances in the 5th and 6th, Helman led off the 7th with a single. Two outs later, Smith was hit by the pitch and Langford walked loading the bases. Pederson hit a clutch 2-RBI single to tie the score 2-2. The Rangers had a runner on 3rd with 1 out in the 9th and the 10th and failed to score both times. In the 9th, Smith hit a weak line drive to short and Duran--running on contact--was doubled off to kill the scoring chance. Webb, Milner, Garcia, and Armstrong pitched 3-2/3 shutout innings to send the game to extras. In the 10th, Garcia struck out and Tellez popped out to end another scoring opportunity. The Mets homered off Curvelo in the bottom of the 10th for the walkoff win. Thanks to an Astros loss, the Rangers remain 2 games back for the 3rd wild card. Record: 79-71.`
   },
+  {
+  id: 'sep15',
+  date: 'September 15',
+  opp: 'Houston',
+  score: 'L 6-3',
+  recap: `Jack Leiter (9-8, 3.81) vs. Jason Alexander (4-1, 4.19). Two Ranger errors resulted in 3 unearned runs for the Astros. After the 1st two hitters reached in the Astros' half of the 1st, Leiter slipped while fielding a squibber in front of the plate and threw wild to first base. Both runners scored on the play. The Rangers responded in the 5th when Garcia reached on an error and Jung followed with a 352-foot 2-run homer to left. The inning continued as Dylan Moore singled, stole second, and scored on Smith's RBI-single giving Texas a 3-2 lead. The leadoff batter in the Houston half of the 5th reached on a throwing error by Smith and scored 3 batters later on a home run to right. Houston added 2 more in the 7th. Leiter's line was 6 runs--3 of them earned--on 5 hits and a walk with 4 strikeouts over 6-2/3 innings. Despite 10 hits for the Rangers, Pederson, Burger, and Garcia went 0-for-11 in the middle of the lineup. The loss dropped Texas to 3 games behind Houston for the 3rd wild card. Record: 79-72.`
+  },
 ]
 
 let html = '';
