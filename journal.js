@@ -39,42 +39,42 @@ const schedule = [
   date: 'April 1',
   opp: 'at Cincinnati',
   score: 'W 1-0',
-  recap: `Nathan Eovaldi (0-0, 3.00) vs. Carson Spiers (0-0, 0.00). Eovaldi was masterful, tossing a complete game four-hit shutout with eight strikeouts and no walks. The Rangers needed every bit of his dominance, as the offense managed just a single run on four hits against Spiers and three Reds relievers. The lone run came in the first inning on Langford’s 361-foot homer to left—his second of the season. Eovaldi sealed the win by retiring Elly De La Cruz on a soft grounder to first with the tying run on second. Record 4-2.`
+  recap: `Nathan Eovaldi (0-0, 3.00) vs. Carson Spiers (0-0, 0.00). Eovaldi was masterful, tossing a complete game four-hit shutout with eight strikeouts and no walks. The Rangers offense managed just a single run on four hits against four Reds pitchers. The lone run came in the first inning on Langford’s 361-foot homer to left—his second of the season. Eovaldi sealed the win by getting the final out on a soft grounder to first with the tying run on second. Record 4-2.`
   },
   {
   id: 'apr2',
   date: 'April 2',
   opp: 'at Cincinnati',
   score: 'W 1-0',
-  recap: `Jack Leiter (1-0, 1.80) vs. Hunter Greene (0-0, 3.60). The Rangers scratched across the game's only run in the fourth inning, when Pederson singled and Smith followed with a two-out RBI double. That was all Texas would need. Leiter was outstanding, allowing just one hit and no walks with six strikeouts over five shutout innings before exiting with a blister on his middle finger. Greene was equally impressive for Cincinnati, going seven strong innings and limiting the Rangers to one run on three hits while striking out eight. The Rangers' bullpen was flawless once again, as Webb, Garcia, Martin, and Jackson combined for four scoreless innings to preserve the 1-0 win. For the first time in franchise history, the Rangers have won back-to-back games by a 1-0 score. Record: 5-2.`
+  recap: `Jack Leiter (1-0, 1.80) vs. Hunter Greene (0-0, 3.60). The Rangers scored the game's only run in the fourth inning, when Pederson singled and Smith followed with a two-out RBI double. The Rangers managed only one other hit--a Semien single in the 3rd. Leiter was outstanding, allowing just one hit and no walks with six strikeouts over five shutout innings before exiting with a blister on his middle finger. The Rangers' bullpen was flawless once again, as Webb, Garcia, Martin, and Jackson combined for four scoreless innings on 4 hits to preserve the win. For the first time in franchise history, the Rangers have won back-to-back games by a 1-0 score. Record: 5-2.`
   },
   {
   id: 'apr4',
   date: 'April 4',
   opp: 'Tampa Bay',
   score: 'W 5-2',
-  recap: `Tyler Mahle (0-0, 5.40) vs. Zack Littell (0-1, 1.50). The Rangers took a four-run lead in the third inning, stringing together five consecutive hits from Smith, Higashioka, Taveras, Semien, and Seager. Mahle rebounded from his rocky season debut with five shutout innings, keeping a strong Rays lineup in check and not allowing a runner past first base. Tampa Bay chipped away with two runs in the seventh, but Smith answered with a solo homer in the bottom half to push the lead to 5-2. Jackson closed out the win with a perfect ninth for his fourth save. Record: 6-2.`
+  recap: `Tyler Mahle (0-0, 5.40) vs. Zack Littell (0-1, 1.50). The Rangers took a four-run lead in the third inning, stringing together five consecutive hits from Smith, Higashioka, Taveras, Semien, and Seager. Mahle rebounded from his first start with five shutout innings, not allowing a runner past first base. Tampa Bay chipped away with two runs in the seventh, but Smith answered with a solo homer in the bottom half to push the lead to 5-2. Jackson closed out the win with a perfect ninth for his fourth save. Record: 6-2.`
   },
   {
   id: 'apr5',
   date: 'April 5',
   opp: 'Tampa Bay',
   score: 'W 6-4',
-  recap: `Jacob deGrom (0-0, 0.00) vs. Taj Bradley (1-0, 3.00). The Rangers jumped out early with a four-run first inning. Semien led off with a solo homer to left, and Burger followed with a three-run shot after Langford and García drew back-to-back walks. The Rays chipped away with a solo homer off deGrom in the third and a two-run shot off the right-field foul pole in the sixth to cut the lead to one. deGrom exited after giving up a two-out double. Webb allowed a game-tying double to the first batter he faced, evening the score at 4. Texas didn’t record a hit after the first inning until Pillar, pinch-hitting for Taveras, singled to left in the seventh. Langford followed with a clutch two-out line-drive homer just over the left-field wall to put the Rangers back on top. The bullpen shut the door, with García, Martin, and Jackson combining for 2-1/3 scoreless innings. Jackson earned his fifth save of the season. Despite being outhit 10–4, the Rangers drew six walks and out-homered the Rays 3–2 to claim the win. Record: 7-2.`
+  recap: `Jacob deGrom (0-0, 0.00) vs. Taj Bradley (1-0, 3.00). The Rangers scored early with a four-run first inning. Semien led off with a solo homer to left, and Burger followed with a three-run shot after Langford and García drew back-to-back walks. The Rays scored on a solo homer in the third and a two-run shot off the right-field foul pole in the sixth to cut the lead to one. deGrom exited in the 6th after giving up a two-out double. Webb allowed a game-tying double to the first batter he faced, evening the score at 4. Texas didn’t record a hit after the first inning until Pillar, pinch-hitting for Taveras, singled to left in the seventh. Langford followed with a clutch two-out line-drive homer just over the left-field wall to put the Rangers back on top. The bullpen shut the door, with García, Martin, and Jackson combining for 2-1/3 scoreless innings. Jackson earned his fifth save of the season. Despite being outhit 10–4, the Rangers drew six walks and out-homered the Rays 3–2. Record: 7-2.`
   },
   {
   id: 'apr6',
   date: 'April 6',
   opp: 'Tampa Bay',
   score: 'W 4-3',
-  recap: `Kumar Rocker (0-1, 13.50) vs. Drew Rasmussen (1-0, 0.00). Rocker bounced back from a rough debut, allowing just one run on six hits with no walks over five solid innings. Seager gave the Rangers a 2–1 lead in the sixth with a solo homer to right against the Rays bullpen. Texas added another in the seventh when Heim reached on an error, stole second, and scored on a Taveras single to center. Fort Worth Paschal alum Hoby Milner retired all six batters he faced. However, the lead slipped away in the eighth as Marc Church surrendered a leadoff walk followed by a double, with both runners eventually coming around to score. Webb kept it tied with a scoreless ninth. In the bottom of the ninth, with two outs, Smith doubled down the left-field line and scored the game-winner on Heim’s single to center, sealing a sweep of the Rays. Record: 8-2.`
+  recap: `Kumar Rocker (0-1, 13.50) vs. Drew Rasmussen (1-0, 0.00). Rocker bounced back from a rough debut, allowing just one run on six hits with no walks over five innings. Smith scored the game's 1st run in the 3rd when he singled and scored 4 batters later on a Semien fielder's choice. Seager gave the Rangers a 2–1 lead in the sixth with a solo homer to right. Texas added another in the seventh when Heim reached on an error, stole second, and scored on a Taveras single to center. Fort Worth Paschal alum Hoby Milner retired all six batters he faced. However, the lead slipped away in the eighth as Marc Church surrendered a leadoff walk followed by a double, with both runners eventually coming around to score. Webb kept it tied with a scoreless ninth. In the bottom of the ninth, with two outs, Smith doubled down the left-field line and scored the game-winner on Heim’s single to center, completing the sweep of the Rays. Record: 8-2.`
   },
   {
   id: 'apr7',
   date: 'April 7',
   opp: 'at Chicago Cubs',
   score: 'L 7-0',
-  recap: `Nathan Eovaldi (1-0, 1.20) vs. Justin Steele (2-1, 6.89). The Rangers entered the game with the best record in the AL but the lowest batting average in MLB at just .192. With a game-time temperature of 34 degrees, it was the coldest game in franchise history. Cubs starter Justin Steele struggled recently, allowing five home runs and 12 earned runs over his previous three starts, but he kept the Rangers' offense mostly in check, allowing only one runner to reach second base over seven innings. Eovaldi pitched 4-2/3 innings, surrendering three runs, while Gerson Garabito gave up four runs in 3-1/3 innings of relief. Meanwhile, Seager has managed just one RBI through the first 11 games of the season. Record: 8-3.`
+  recap: `Nathan Eovaldi (1-0, 1.20) vs. Justin Steele (2-1, 6.89). The Rangers entered the game with the best record in the AL but the lowest batting average in MLB at just .192. With a game-time temperature of 34 degrees, it was the coldest game in franchise history. The Rangers only had one runner reach second base over the first seven innings. Eovaldi pitched 4-2/3 innings, surrendering three runs, while Gerson Garabito gave up four runs in 3-1/3 innings of relief. Meanwhile, Seager has managed just one RBI through the first 11 games of the season. Record: 8-3.`
   },
   {
   id: 'apr8',
@@ -1053,9 +1053,16 @@ const schedule = [
   {
   id: 'sep15',
   date: 'September 15',
-  opp: 'Houston',
+  opp: 'at Houston',
   score: 'L 6-3',
   recap: `Jack Leiter (9-8, 3.81) vs. Jason Alexander (4-1, 4.19). Two Ranger errors resulted in 3 unearned runs for the Astros. After the 1st two hitters reached in the Astros' half of the 1st, Leiter slipped while fielding a squibber in front of the plate and threw wild to first base. Both runners scored on the play. The Rangers responded in the 5th when Garcia reached on an error and Jung followed with a 352-foot 2-run homer to left. The inning continued as Dylan Moore singled, stole second, and scored on Smith's RBI-single giving Texas a 3-2 lead. The leadoff batter in the Houston half of the 5th reached on a throwing error by Smith and scored 3 batters later on a home run to right. Houston added 2 more in the 7th. Leiter's line was 6 runs--3 of them earned--on 5 hits and a walk with 4 strikeouts over 6-2/3 innings. Despite 10 hits for the Rangers, Pederson, Burger, and Garcia went 0-for-11 in the middle of the lineup. The loss dropped Texas to 3 games behind Houston for the 3rd wild card. Record: 79-72.`
+  },
+  {
+  id: 'sep16',
+  date: 'September 16',
+  opp: 'at Houston',
+  score: 'L 6-5',
+  recap: `Merrill Kelly (12-7, 3.21) vs. A.J. Blubaugh (3-1, 2.45). Kelly got rocked in his worst outing as a Ranger allowing 6 runs on 9 hits and a walk in 3+ innings. The big inning for Houston was the 4th when the first 5 hitters reached base and 4 of them scored to take a 6-0 lead. Freeman hit a solo home run in the 5th to cut the lead to 6-1. The Rangers staged a comeback in the 8th when Tellez walked with 2 outs and Heim homered to make the score 6-3. Higashioka followed with a single and Jung doubled him home. After an Osuna walk, Garcia singled home Jung to make the score 6-5. With a runner on 3rd, Freeman popped out to end the inning. Smith singled to start the 9th. Two outs later, Heim singled to move Smith to 2nd, but Higashioka struck out to end the game. With the loss Texas fell to 3-1/2 games behind Boston for the 3rd wild card. Record: 79-73.`
   },
 ]
 
