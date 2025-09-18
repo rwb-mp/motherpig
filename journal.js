@@ -1064,6 +1064,13 @@ const schedule = [
   score: 'L 6-5',
   recap: `Merrill Kelly (12-7, 3.21) vs. A.J. Blubaugh (3-1, 2.45). Kelly got rocked in his worst outing as a Ranger allowing 6 runs on 9 hits and a walk in 3+ innings. The big inning for Houston was the 4th when the first 5 hitters reached base and 4 of them scored to take a 6-0 lead. Freeman hit a solo home run in the 5th to cut the lead to 6-1. The Rangers staged a comeback in the 8th when 6 consecutive Rangers reached base. With 2 outs Tellez walked and Heim homered to make the score 6-3. Higashioka followed with a single and Jung doubled him home. After an Osuna walk, Garcia singled home Jung to make the score 6-5. With a runner on 3rd, Freeman popped out to end the inning. Smith singled to start the 9th. Two outs later, Heim singled to move Smith to 2nd, but Higashioka struck out to end the game. With the loss Texas fell to 3-1/2 games behind Boston for the 3rd wild card. Record: 79-73.`
   },
+  {
+  id: 'sep17',
+  date: 'September 17',
+  opp: 'at Houston',
+  score: 'L 5-2',
+  recap: `Jacob deGrom (12-7, 2.82) vs. Cristian Javier (1-3, 4.78). Houston got to deGrom for 5 runs in 5 innings on 6 hits and a walk with 6 strikeouts. Garcia, Armstrong, and Maton pitched 3 perfect innings in relief. The Rangers scored their runs in the 2nd inning when Osuna singled with 1 out and Jung doubled him home. Two batters later, Freeman singled to score Jung. Texas only managed one baserunner over the next 5 innings. Freeman walked and Duran singled to start the 8th--bringing the tying run to the plate--but Langford hit into a double play. Higashioka walked to bring the tying run to the plate again, but Dylan Moore flew out to shallow right to end the inning. Garcia, Helman, and Jung went quietly in the 9th and Houston had the sweep. The loss put Texas 4-1/2 games back of the Mariners for the third wild card. Record: 79-74.`
+  },
 ]
 
 let html = '';
