@@ -1071,6 +1071,13 @@ const schedule = [
   score: 'L 5-2',
   recap: `Jacob deGrom (12-7, 2.82) vs. Cristian Javier (1-3, 4.78). Houston got to deGrom for 5 runs in 5 innings on 6 hits and a walk with 6 strikeouts. Garcia, Armstrong, and Maton pitched 3 perfect innings in relief. The Rangers scored their runs in the 2nd inning when Osuna singled with 1 out and Jung doubled him home. Two batters later, Freeman singled to score Jung. Texas only managed one baserunner over the next 5 innings. Freeman walked and Duran singled to start the 8th--bringing the tying run to the plate--but Langford hit into a double play. Higashioka walked to bring the tying run to the plate again, but Dylan Moore flew out to shallow right to end the inning. Garcia, Helman, and Jung went quietly in the 9th and Houston had the sweep. The loss put Texas 4-1/2 games back of the Mariners for the third wild card. Record: 79-74.`
   },
+  {
+  id: 'sep19',
+  date: 'September 19',
+  opp: 'Miami',
+  score: 'L 6-4',
+  recap: `Tyler Mahle (6-3, 2.34) vs. Janson Junk (6-3, 4.48). Mahle's first start since June 10 was a good one--68 pitches over 4-2/3 shutout innings allowing 4 hits and a walk with 6 strikeouts. The Rangers took a 1-0 lead in the 2nd when Pederson led off with a double and Jung scored him with a 2-out swinging bunt down the 3rd base line. Latz got Mahle out of trouble in the 5th, and Martin pitched Latz out of trouble in the 6th. Miami tied the game in the 7th when Robert Garcia gave up a leadoff home run. Texas had just 4 baserunners through 9 innings and the game went into extras 1-1. The Marlins scored 2 in the 10th, but Tellez connected with a 425-foot blast to center to tie the score 3-3. In the bottom of the 11th, Jung--the free runner at second--was thrown out at 3rd when the leadoff batter Freeman hit a grounder to short. Miami blew the game open in the 12th off Corbin who gave up 3 runs on a single and a pair of doubles. Record: 79-75.`
+  },
 ]
 
 let html = '';
