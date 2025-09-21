@@ -1085,6 +1085,13 @@ const schedule = [
   score: 'L 4-3',
   recap: `Jack Leiter (9-9, 3.82) vs. Adam Mazur (0-4, 4.85). After Miami scored a run in the 2nd, Texas answered with two runs in the 3rd on a walk to Pederson and singles by Duran, Osuna, and Tellez. The Rangers has a chance for more in the inning with runners on 2nd and 3rd and 2 outs, but Higashioka struck out. The Mariners scored again in the top of the 4th to tie the game at 2-2. Leiter kept the game tied until the 6th with 2 outs when the Marlins homered twice to lead 4-2. The Rangers failed to threaten until the 9th when Higashioka homered 414 feet to left to start the inning. Jung singled with 1 out, and two batters later Helman walked. A wild pitch put the tying runs into scoring position with 2 outs, but Pederson popped out to shallow left to end the game. Record: 79-76.`
   },
+  {
+  id: 'sep21',
+  date: 'September 21',
+  opp: 'Miami',
+  score: 'L 4-2',
+  recap: `Merrill Kelly (12-8, 3.46) vs. Eury Perez (7-5, 4.40). The Rangers wasted a golden scoring opportunity in the 1st when Langford walked and Osuna doubled to put runners at 2nd and 3rd with 1 out. But Tellez struck out and Jung grounded to 3rd to end the inning. In the 4th, Jung and Freeman singled with 2 outs, but Heim struck out to strand them. Kelly pitched 4-1/3 innings allowing 3 runs on 7 hits and no walks. The Rangers broke through in the 6th on a Langford 412-foot home run to left. Jung singled three batters later, reached 2nd on a wild pitch, and scored on a Freeman single to cut the Miami lead to 3-2. The Marlins scored a run off Cole Winn in the 7th to make the score 4-2. Texas went hitless in the final 3 innings and Miami completed the sweep. Record: 79-77.`
+  },
 ]
 
 let html = '';
