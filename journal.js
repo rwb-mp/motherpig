@@ -1078,6 +1078,13 @@ const schedule = [
   score: 'L 6-4',
   recap: `Tyler Mahle (6-3, 2.34) vs. Janson Junk (6-3, 4.48). Mahle's first start since June 10 was a good one--68 pitches over 4-2/3 shutout innings allowing 4 hits and a walk with 6 strikeouts. The Rangers took a 1-0 lead in the 2nd when Pederson led off with a double and Jung scored him with a 2-out swinging bunt down the 3rd base line. Latz got Mahle out of trouble in the 5th, and Martin pitched Latz out of trouble in the 6th. Miami tied the game in the 7th when Robert Garcia gave up a leadoff home run. Texas had just 4 baserunners through 9 innings and the game went into extras 1-1. The Marlins scored 2 in the 10th, but Tellez connected with a 425-foot blast to center to tie the score 3-3. In the bottom of the 11th, Jung--the free runner at second--was thrown out at 3rd when the leadoff batter Freeman hit a grounder to short. Miami blew the game open in the 12th off Corbin who gave up 3 runs on a single and a pair of doubles. Record: 79-75.`
   },
+  {
+  id: 'sep20',
+  date: 'September 20',
+  opp: 'Miami',
+  score: 'L 4-3',
+  recap: `Jack Leiter (9-9, 3.82) vs. Adam Mazur (0-4, 4.85). After Miami scored a run in the 2nd, Texas answered with two runs in the 3rd on a walk to Pederson and singles by Duran, Osuna, and Tellez. The Rangers has a chance for more in the inning with runners on 2nd and 3rd and 2 outs, but Higashioka struck out. The Mariners scored again in the top of the 4th to tie the game at 2-2. Leiter kept the game tied until the 6th with 2 outs when the Marlins homered twice to lead 4-2. The Rangers failed to threaten until the 9th when Higashioka homered 414 feet to left to start the inning. Jung singled with 1 out, and two batters later Helman walked. A wild pitch put the tying runs into scoring position with 2 outs, but Pederson popped out to shallow left to end the game. Record: 79-76.`
+  },
 ]
 
 let html = '';
