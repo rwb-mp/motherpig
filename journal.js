@@ -1092,6 +1092,13 @@ const schedule = [
   score: 'L 4-2',
   recap: `Merrill Kelly (12-8, 3.46) vs. Eury Perez (7-5, 4.40). The Rangers wasted a golden scoring opportunity in the 1st when Langford walked and Osuna doubled to put runners at 2nd and 3rd with 1 out. But Tellez struck out and Jung grounded to 3rd to end the inning. In the 4th, Jung and Freeman singled with 2 outs, but Heim struck out to strand them. Kelly pitched 4-1/3 innings allowing 3 runs on 7 hits and no walks. The Rangers broke through in the 6th on a Langford 412-foot home run to left. Jung singled three batters later, reached 2nd on a wild pitch, and scored on a Freeman single to cut the Miami lead to 3-2. The Marlins scored a run off Cole Winn in the 7th to make the score 4-2. Texas went hitless in the final 3 innings and Miami completed the sweep. Record: 79-77.`
   },
+  {
+  id: 'sep23',
+  date: 'September 23',
+  opp: 'Minnesota',
+  score: 'L 4-1',
+  recap: `Patrick Corbin (7-10, 4.33) vs. Zebby Matthews (4-6, 5.97). A 411-foot leadoff home run by Pederson gave Texas the early lead. Corbin pitched 3-2/3 innings allowing 2 runs on 4 hits and 2 walks. After Webb pitched 1-2/3 shutout innings in relief, Milner allowed all 3 hitters he faced to reach and 2 of them eventually scored giving the Twins a 4-1 lead. After Pederson's leadoff homer, the Rangers only had 3 baserunners the rest of the way. The loss was the 8th straight and mathematically eliminated Texas from the postseason. Record: 79-78.`
+  },
 ]
 
 let html = '';
