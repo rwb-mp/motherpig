@@ -1104,7 +1104,7 @@ const schedule = [
   date: 'September 24',
   opp: 'Minnesota',
   score: 'W 4-2',
-  recap: `Jacob deGrom (12-8, 3.01) vs. Taj Bradley (6-8, 5.20). The Rangers had only 5 base hits, but 3 of them came in the 7th inning. deGrom allowed 2 hits in his 5 innings, but one of them was a home run to the 1st batter he faced. It was the 26th homer surrendered by deGrom this season. Smith tied the game with a 361-foot home run to right in the 4th. Texas scored 3 in the 7th on 3 singles, 2 walks, and a pair of wild pitches. After Robert Garcia pitched 2 scoreless innings in relief, Armstrong gave up a run in the 8th to make the score 4-2. Maton pitched a 1-2-3 9th to secure the win. Record: 80-78.`
+  recap: `Jacob deGrom (12-8, 3.01) vs. Taj Bradley (6-8, 5.20). deGrom allowed 2 hits in his 5 innings, but one of them was a home run to the 1st batter he faced. It was the 26th homer surrendered by deGrom this season. Smith tied the game with a 361-foot home run to right in the 4th. The Rangers had only 5 hits in the game, but 3 of them came in the 7th on 3 singles, 2 walks, and a pair of wild pitches. After Robert Garcia pitched 2 scoreless innings in relief, Armstrong gave up a run in the 8th to make the score 4-2. Maton pitched a 1-2-3 9th to secure the win. Record: 80-78.`
   },
 ]
 
