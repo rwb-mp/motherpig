@@ -1106,6 +1106,13 @@ const schedule = [
   score: 'W 4-2',
   recap: `Jacob deGrom (12-8, 3.01) vs. Taj Bradley (6-8, 5.20). deGrom allowed 2 hits in his 5 innings, but one of them was a home run to the 1st batter he faced. It was the 26th homer surrendered by deGrom this season. Smith tied the game with a 361-foot home run to right in the 4th. The Rangers had only 5 hits in the game, but 3 of them came in the 7th when they scored 3 times on 3 singles, 2 walks, and a pair of wild pitches. After Robert Garcia pitched 2 scoreless innings in relief, Armstrong gave up a run in the 8th to make the score 4-2. Maton pitched a 1-2-3 9th to secure the win. Record: 80-78.`
   },
+  {
+  id: 'sep25',
+  date: 'September 25',
+  opp: 'Minnesota',
+  score: '',
+  recap: `Tyler Mahle (6-3, 2.20) vs. Bailey Ober (5-9, 5.32). Three hits and a walk were all the Rangers' lineup could muster. Mahle had a great start allowing a run--a leadoff homer--on 5 hits and a walk over 5 innings. After Webb pitched 2 perfect innings in relief, Chris Martin got rocked for 3 runs on 5 hits in 2/3 of an inning to give Minnesota a 4-0 lead. Billy McKinney doubled with 2 outs in the 8th, but Duran left him stranded. The Rangers went quietly in the 9th and were shutout for the 15th time. Record: 80-79.`
+  },
 ]
 
 let html = '';
