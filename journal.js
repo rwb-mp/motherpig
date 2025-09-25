@@ -1110,7 +1110,7 @@ const schedule = [
   id: 'sep25',
   date: 'September 25',
   opp: 'Minnesota',
-  score: '',
+  score: 'L 4-0',
   recap: `Tyler Mahle (6-3, 2.20) vs. Bailey Ober (5-9, 5.32). Three hits and a walk were all the Rangers' lineup could muster. Mahle had a great start allowing a run--a leadoff homer--on 5 hits and a walk over 5 innings. After Webb pitched 2 perfect innings in relief, Chris Martin got rocked for 3 runs on 5 hits in 2/3 of an inning to give Minnesota a 4-0 lead. Billy McKinney doubled with 2 outs in the 8th, but Duran left him stranded. The Rangers went quietly in the 9th and were shutout for the 15th time. Record: 80-79.`
   },
 ]

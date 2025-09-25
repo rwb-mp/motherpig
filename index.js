@@ -2479,7 +2479,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '25',
     opp: 'Min <img src="logos/twins.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'L 4-0',
     recap: '<a href = "journal.html#sep25" target = "_blank">Recap</a>'
     },
     {
