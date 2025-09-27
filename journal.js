@@ -418,7 +418,7 @@ const schedule = [
   date: 'June 1',
   opp: 'St. Louis',
   score: 'W 8-1',
-  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. The Rangers got the series win behind a strong outing from deGrom and a strong performance from Smith. Smith delivered a 2-out, 2-RBI double in the 2nd and capped the scoring with a 2-run homer in the 8th. He finished the game with 4 RBIs. Texas loaded the bases with no outs in the 7th and added a run on a Langford sac fly. They broke it open in the 8th with a 5-run inning that included a Jung single, a Burger double, a Heim sacrifice fly, a Semien walk, a Haggerty sacrifice bunt, and Smith’s blast. deGrom went 6 innings, allowing 1 run on 4 hits and 3 walks while striking out 4. Armstrong, Milner, and Jackson closed it out with three shutout innings. Semien reached base 10 times in 11 plate appearances in the series. Rangers’ starters have now allowed 3 or fewer runs in 54 of the team’s first 60 games. Record: 29-31.`
+  recap: `Jacob deGrom (4-2, 2.42) vs. Erick Fedde (3-4, 3.90). Eovaldi was placed on the 15-day IL retroactive to May 29. The Rangers got the series win behind 6 strong innings from deGrom and 4 RBI's from Smith. Smith delivered a 2-out, 2-RBI double in the 2nd and capped the scoring with a 2-run homer in the 8th. Texas loaded the bases with no outs in the 7th and added a run on a Langford sac fly. They broke it open in the 8th with 5 runs on a Jung single, a Burger double, a Heim sacrifice fly, a Semien walk, a Haggerty sacrifice bunt, and Smith’s blast. In deGrom's 6 innings, he allowed 1 run on 4 hits and 3 walks while striking out 4. Armstrong, Milner, and Jackson closed it out with three shutout innings. Semien reached base 10 times in 11 plate appearances in the series. Rangers’ starters have now allowed 3 or fewer runs in 54 of the team’s first 60 games. Record: 29-31.`
   },
   {
   id: 'jun3',
@@ -523,14 +523,14 @@ const schedule = [
   date: 'June 19',
   opp: 'Kansas City',
   score: 'L 4-1',
-  recap: `Shawn Armstrong (2-1, 2.90) vs. Michael Wacha (3-6, 3.38). With both Eovaldi and Mahle on the IL, the Rangers turned to another bullpen game—their third in the last ten contests. The Royals tagged opener Armstrong for a two-run homer in the first. Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. The Royals capped the scoring with their third home run of the day in the ninth. Offensively, the Rangers managed just three hits and a single run, continuing their struggles at the plate. They had a great chance in the fifth when Garcia and Osuna walked, but Burger, Jung, and Heim left them stranded. The loss sealed a three-game sweep at the hands of the Royals. Record: 36-39.`
+  recap: `Shawn Armstrong (2-1, 2.90) vs. Michael Wacha (3-6, 3.38). With both Eovaldi and Mahle on the IL, the Rangers went to another bullpen game—their third in the last ten contests. The Royals homered against opener Armstrong for two runs in the first. Latz gave up a solo shot to lead off the second but then settled in, delivering 5-1/3 strong innings while allowing just one more hit to keep Texas within reach. The Royals capped the scoring with their third home run of the day in the ninth. The Rangers managed just three hits. Texas had a great chance in the fifth when Garcia and Osuna walked, but Burger, Jung, and Heim left them stranded. Record: 36-39.`
   },
   {
   id: 'jun20',
   date: 'June 20',
   opp: 'at Pittsburgh',
   score: 'W 6-2',
-  recap: `Jacob deGrom (6-2, 2.19) vs. Mike Burrows (1-1, 4.24). The Rangers are 27-4 in games in which they score at least four runs. Bochy has asked for four runs per game from the offense. Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12 men on base. They jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. García launched a solo homer in the fourth, and Seager added another in the fifth. In the seventh, Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Duran. deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Garcia each tossed a scoreless frame to close out the win. W Record: 37-39.`
+  recap: `Jacob deGrom (6-2, 2.19) vs. Mike Burrows (1-1, 4.24). Bochy asked for four runs per game from the offense, as the Rangers are 27-4 in games in which they score at least four runs. Texas totaled 13 hits and 5 walks but went just 1-for-11 with runners in scoring position, stranding 12. The Rangers jumped out early with two runs in the first inning without an RBI, capitalizing on four singles, an error, and a wild pitch. García launched a solo homer in the fourth, and Seager added another in the fifth. In the seventh, Semien tripled and scored on a García double. The Rangers added an insurance run in the ninth after a double by Duran. deGrom delivered a strong outing, allowing 2 runs on 5 hits and a walk over six innings. The bullpen trio of Milner, Martin, and Garcia each tossed a scoreless frame to close out the win. W Record: 37-39.`
   },
   {
   id: 'jun21',
@@ -551,7 +551,7 @@ const schedule = [
   date: 'June 23',
   opp: 'at Baltimore',
   score: 'L 6-0',
-  recap: `Patrick Corbin (4-6, 3.91) vs. Trevor Rogers (0-0, 3.12). Trevor Rogers, who had pitched just 8-2/3 innings across two starts this season, dominated the Rangers with eight shutout innings, allowing only three singles. Texas advanced just one runner to second base, and was shut out for the 10th time. Corbin took the loss, surrendering five runs on nine hits over five innings. Dane Dunning allowed one additional run in relief. Record: 38-41.`
+  recap: `Patrick Corbin (4-6, 3.91) vs. Trevor Rogers (0-0, 3.12). The Rangers' had three baserunners--all singles. Only one reached 2nd base and Texas was shut out for the 10th time. Corbin surrendered five runs on nine hits over five innings. Dane Dunning allowed one additional run in relief. Record: 38-41.`
   },
   {
   id: 'jun24',
@@ -1112,6 +1112,13 @@ const schedule = [
   opp: 'Minnesota',
   score: 'L 4-0',
   recap: `Tyler Mahle (6-3, 2.20) vs. Bailey Ober (5-9, 5.32). Three hits and a walk were all the Rangers' lineup could muster. Mahle had a great start allowing a run--a leadoff homer--on 5 hits and a walk over 5 innings. After Webb pitched 2 perfect innings in relief, Chris Martin got rocked for 3 runs on 5 hits in 2/3 of an inning to give Minnesota a 4-0 lead. Billy McKinney doubled with 2 outs in the 8th, but Duran left him stranded. The Rangers went quietly in the 9th and were shutout for the 15th time. Record: 80-79.`
+  },
+  {
+  id: 'sep26',
+  date: 'September 26',
+  opp: 'at Cleveland',
+  score: 'W 7-3',
+  recap: `Jack Leiter (9-10, 3.92) vs. Slade Cecconi (7-6, 4.15). Leiter had all his pitches working over his 7 innings as he held Cleveland to 2 runs on 4 hits and a walk while striking out 10. The Rangers scored 4 in the first, highlighted by an Osuna 3-run homer after a walk by Pederson, a single by Freeman, and a double by Tellez. The Guardians answered with 2 in the bottom of the first. Texas managed only 2 baserunners over the next 5 innings, but scored 3 times in the 7th on 5 singles to make the score 7-2. Maton gave up a 9th inning run but closed out the game for Texas. Freeman had 3 hits and 2 RBI's, Pederson had 2 hits, and Osuna had 3 RBI's for Texas. Record: 81-79.`
   },
 ]
 
