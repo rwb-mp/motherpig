@@ -1127,6 +1127,13 @@ const schedule = [
   score: 'L 3-2',
   recap: `Jacob Latz (2-0, 2.80) vs. Joey Cantillo (5-3, 3.21). Doubles by Helman and Jung in the top of the first gave the Rangers an early lead, but a 2-run homer by Cleveland in their half gave the Guardians a 2-1 advantage. Nine straight Rangers were retired until Adolis Garcia hit a solo 433-foot blast to left in the 4th to tie the game at 2-2. Latz pitched a strong 5-1/3 innings allowing 2 runs on 5 hits and no walks with 6 strikeouts. Webb, Armstrong, and Robert Garcia pitched a hitless 3-1/3 innings in relief until Garcia issued a 2-out walk in the 9th. Cleveland followed with a bloop single to left and the next hitter was intentionally walked. With the bases loaded, Garcia hit the next batter with an inside pitch to force in the winning run. Record: 81-80.`
   },
+  {
+  id: 'sep28',
+  date: 'September 28',
+  opp: 'at Cleveland',
+  score: 'L 9-8',
+  recap: `Patrick Corbin (7-11, 4.34) vs. Logan Allen (8-11, 4.14). After the Rangers scored 3 in the top of the 10th on a Tellez home run, the Guardians answered with 4 in the bottom of the 10th against rookie Jose Corniell who was making his major league debut, ending the Rangers' season with a loss. Corbin pitched 4 innings leaving with a 4-3 lead. After Cleveland scored 2 in the 1st, Texas scored 2 in the second on a double by Duran, a Dylan Moore hit-by-pitch, and a 2-run double by Osuna. The Rangers added 2 more in the 3rd when Freeman singled, Jung doubled him to 3rd, and Burger scored them both with a 2-run flair to right. The Guardians added a run in the 3rd off Corbin to make the score 4-3. Texas added 1 more in the 6th after Billy McKinney reached on a 2-base throwing error by the shortstop. McKinney moved to 3rd on a ground out and scored on a Helman bunt-for-a-hit to give Texas a 2-run lead. Milner gave up a solo homer in the 7th, and Curvelo gave up a pair of doubles and a sacrifice fly to tie the game 5-5 and set up the decisive 10th inning. Texas finished the season with only 51 errors--fewest in MLB history, the best ERA in MLB at 3.47, and the 25th best batting average at .234. Record: 81-81.`
+  },
 ]
 
 let html = '';
