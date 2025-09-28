@@ -1120,6 +1120,13 @@ const schedule = [
   score: 'W 7-3',
   recap: `Jack Leiter (9-10, 3.92) vs. Slade Cecconi (7-6, 4.15). Leiter had all his pitches working over his 7 innings as he held Cleveland to 2 runs on 4 hits and a walk while striking out 10. The Rangers scored 4 in the first, highlighted by an Osuna 3-run homer after a walk by Pederson, a single by Freeman, and a double by Tellez. The Guardians answered with 2 in the bottom of the first. Texas managed only 2 baserunners over the next 5 innings, but scored 3 times in the 7th on 5 singles to make the score 7-2. Maton gave up a 9th inning run but closed out the game for Texas. Freeman had 3 hits and 2 RBI's, Pederson had 2 hits, and Osuna had 3 RBI's for Texas. Record: 81-79.`
   },
+  {
+  id: 'sep27',
+  date: 'September 27',
+  opp: 'at Cleveland',
+  score: 'L 3-2',
+  recap: `Jacob Latz (2-0, 2.80) vs. Joey Cantillo (5-3, 3.21). Doubles by Helman and Jung in the top of the first gave the Rangers an early lead, but a 2-run homer by Cleveland in their half gave the Guardians a 2-1 advantage. Nine straight Rangers were retired until Adolis Garcia hit a solo 433-foot blast to left in the 4th to tie the game at 2-2. Latz pitched a strong 5-1/3 innings allowing 2 runs on 5 hits and no walks with 6 strikeouts. Webb, Armstrong, and Robert Garcia pitched a hitless 3-1/3 innings in relief until Garcia issued a 2-out walk in the 9th. Cleveland followed with a bloop single to left and the next hitter was intentionaly walked. With the bases loaded Garcia hit the next batter with an inside pitch to force in the winning run. Record: 81-80.`
+  },
 ]
 
 let html = '';
