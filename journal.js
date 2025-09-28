@@ -1125,7 +1125,7 @@ const schedule = [
   date: 'September 27',
   opp: 'at Cleveland',
   score: 'L 3-2',
-  recap: `Jacob Latz (2-0, 2.80) vs. Joey Cantillo (5-3, 3.21). Doubles by Helman and Jung in the top of the first gave the Rangers an early lead, but a 2-run homer by Cleveland in their half gave the Guardians a 2-1 advantage. Nine straight Rangers were retired until Adolis Garcia hit a solo 433-foot blast to left in the 4th to tie the game at 2-2. Latz pitched a strong 5-1/3 innings allowing 2 runs on 5 hits and no walks with 6 strikeouts. Webb, Armstrong, and Robert Garcia pitched a hitless 3-1/3 innings in relief until Garcia issued a 2-out walk in the 9th. Cleveland followed with a bloop single to left and the next hitter was intentionaly walked. With the bases loaded Garcia hit the next batter with an inside pitch to force in the winning run. Record: 81-80.`
+  recap: `Jacob Latz (2-0, 2.80) vs. Joey Cantillo (5-3, 3.21). Doubles by Helman and Jung in the top of the first gave the Rangers an early lead, but a 2-run homer by Cleveland in their half gave the Guardians a 2-1 advantage. Nine straight Rangers were retired until Adolis Garcia hit a solo 433-foot blast to left in the 4th to tie the game at 2-2. Latz pitched a strong 5-1/3 innings allowing 2 runs on 5 hits and no walks with 6 strikeouts. Webb, Armstrong, and Robert Garcia pitched a hitless 3-1/3 innings in relief until Garcia issued a 2-out walk in the 9th. Cleveland followed with a bloop single to left and the next hitter was intentionally walked. With the bases loaded Garcia hit the next batter with an inside pitch to force in the winning run. Record: 81-80.`
   },
 ]
 
