@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width">
+  <meta name="keywords" content = "Texas Rangers baseball">
+  <meta name="description" content = "Texas Rangers Game Journal">
+  <link rel="stylesheet" href="index - 2025.css">
+  <title>Rangers Game Journal</title>
+
+</head>
+
+<!------------------------------------------ Google tag (gtag.js) -------------------------------------->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5HJ03WSVKP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5HJ03WSVKP');
+</script>
+<!------------------------------------------ Google tag (gtag.js) -------------------------------------->
+
+<body>     <!--body is parent of aside and section-->
+
+  <!---------------------------------------------Aside Element----------------------------------------->
+  <aside>
+
+    <div class="hero">
+      <p class="timer-caption">Next game in:</p>
+      <div class="timebox">
+        <div class="time">
+          <h2 id="days">00</h2>
+          <p>Days</p>
+        </div>
+        <div class="time">
+          <h2 id="hours">00</h2>
+          <p>Hrs</p>
+        </div>
+        <div class="time">
+          <h2 id="minutes">00</h2>
+          <p>Mins</p>
+        </div>
+        <div class="time">
+          <h2 id="seconds">00</h2>
+          <p>Secs</p>
+        </div>
+      </div>
+    </div>
+
+    <form class="weatherForm">
+      <input type="text" class="cityInput" placeholder="Enter city...">
+      <button type="submit" class="weatherButton">Check the Weather</button>
+    </form>
+
+    <div class="weatherCard">
+    </div>
+  <!--  I HID THE COMMENT BUTTON HERE
+    <button id="leave-a-comment" class="leave-a-comment"><em>Leave a comment....</em></button>
+  -->
+    <div class="bubble bubble-bottom-left">Rocky says click on Recap to view the journal...
+    </div>
+
+    <img class="rocky" src = "images/rocky.png" width="200px" height="265px">
+    
+    <form class="form">
+      <label for="inputBoxValue"><strong>Search by team:</strong></label>
+      <input type="text" list="teams" class="input-box" placeholder="Choose a team" id="inputBoxValue">
+      <datalist id="teams">
+        <option value='Ari'><option value='Ath'><option value='Atl'><option value='Bal'><option value='Bos'>
+        <option value='CHC'><option value='CHW'><option value='Cin'><option value='Cle'><option value='Col'>
+        <option value='Det'><option value='Hou'><option value='KC'><option value='LAA'><option value='LAD'>
+        <option value='Mia'><option value='Mil'><option value='Min'><option value='NYM'><option value='NYY'>
+        <option value='Phi'><option value='Pit'><option value='SD'><option value='Sea'><option value='SF'>
+        <option value='SL'><option value='TB'><option value='Tor'><option value='Was'>    
+      </datalist>
+      <input type="button" value="Highlight" id="findButton" class="findButton">
+      <input type="button" value="Clear" id="clearButton" class="clearButton" onclick ="unsearchForTeam(inputBoxValue.value)">
+    </form>
+
+    <div class="paragraph-in-sidebar">
+      <p style="text-align:center">AL West Final:</p>
+    </div>
+
+    <table class="standings">
+      <tr>
+        <th>Team</th>
+        <th>W-L</th>
+        <th>GB</th>
+      </tr>
+      <tr>
+        <td>Mariners</td>
+        <td style="text-align:center">90-72</td>
+        <td style="text-align:center"><!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Astros</td>
+        <td style="text-align:center">87-75</td>
+        <td style="text-align:center">3<!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Rangers</td>
+        <td style="text-align:center">81-81</td>
+        <td style="text-align:center">9<!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Athletics</td>
+        <td style="text-align:center">76-86</td>
+        <td style="text-align:center">14<!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Angels</td>
+        <td style="text-align:center">72-90</td>
+        <td style="text-align:center">18<!--&#189--></td>
+      </tr>
+    </table>
+    
+    <div class="paragraph-in-sidebar">
+      <p style="text-align:center">Wild Card Final:</p>
+    </div>
+
+    <table class="standings">
+      <tr>
+        <th>Team</th>
+        <th>W-L</th>
+        <th>GB</th>
+      </tr>
+      <tr>
+        <td>Yankees</td>
+        <td style="text-align:center">94-68</td>
+        <td style="text-align:center">+7<!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Red Sox</td>
+        <td style="text-align:center">89-73</td>
+        <td style="text-align:center">+2<!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Tigers</td>
+        <td style="text-align:center">87-75</td>
+      </tr>
+      <tr>
+        <td>Astros</td>
+        <td style="text-align:center">87-75</td>
+      </tr>      
+      <tr>
+        <td>Royals</td>
+        <td style="text-align:center">82-80</td>
+        <td style="text-align:center">5<!--&#189--></td>
+      </tr>
+      <tr>
+        <td>Rangers</td>
+        <td style="text-align:center">81-81</td>
+        <td style="text-align:center">6<!--&#189--></td>
+      </tr>
+    </table>
+  
+    <img class="ws-ring-in-sidebar" src = "images/ws-ring.png" width = "125px" height = "70px">
+
+  </aside>
+  <!---^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^Aside Element^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
+
+  <!----------------------------------------------Section Element----------------------------------------->
+  <section>     <!--section is parent of nav and main-->
+
+    <!-----------------------------------------------Nav Element-- --------------------------------------->
+
+    <nav>
+      <input type="checkbox" id="sidebar-active">
+
+      <label for="sidebar-active" class="open-sidebar-button"> <!--The label tag with the for attribute causes clicking the menu button to check the checkbox-->
+        <img src="images/menu-icon-black.png" height="60px" width="60px"> <!--It's best to include image dimensions in the html tag-->
+      </label> 
+
+      <label id="overlay" for="sidebar-active">
+      </label> <!--The label tag with the for attribute makes the entire page clickable to remove to check from the checkbox-->
+
+      <div class="links-container">  <!--This div is the mobile sidebar-->
+      
+        <label for="sidebar-active" class="close-sidebar-button"> <!--The label tag causes clicking the X to uncheck the checkbox-->
+          <img src="images/close-icon-black.png" height="60px" width="60px">
+        </label>
+
+        <img class="brice-image" src = "images/brice.jpg" width="40px" height="40px">
+
+        <button id="locked-on-rangers" class="locked-on-rangers-button">Locked on Rangers</button>
+
+        <img class="dlls-podcast-image" src = "images/dlls-podcast-image.png" width="55px" height="55px">
+
+        <button id="dlls" class="dlls-button">DLLS Rangers Podcast</button>
+
+        <img class="mother-pig-in-nav" src = "images/motherpig.png" width="50px" height="50px">
+
+        <img class="rangers-logo" src = "images/logo.gif" width = "85px" height = "85px">
+
+      </div>
+    
+    </nav>
+     <!--^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^Nav Element^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
+    
+     <!----------------------------------------------Main Element------------------------------------------->
+    <main id="search"> <!--id added for search box-->
+
+      <!--<h1 class="title">Texas Rangers Game Journal 2025</h1>-->
+      <h1>
+        <div class="animate seven" animation-name:leftRight>
+          <span>T</span><span>e</span><span>x</span><span>a</span><span>s<span>&nbsp;<span>R</span><span>a</span><span>n</span><span>g</span><span>e</span><span>r</span><span>s</span>&nbsp;<span>G</span><span>a</span><span>m</span><span>e</span>&nbsp;<span>J</span><span>o</span><span>u</span><span>r</span><span>n</span><span>a</span><span>l</span>&nbsp;<span>2</span><span>0</span><span>2</span><span>5</span><span></span><span></span><span></span><span></span><span><span><span></span>
+        </div>
+      </h1>
+
+
+      <p class = "name-of-month">March</p>
+
+      <div class = "two-week-month"></div>
+  
+      <p class = "name-of-month">April</p>
+      
+      <div class = "apr"></div>
+      
+      <p class = "name-of-month">May</p>
+        
+      <div class = "may"></div>
+        
+      <p class = "name-of-month">June</p>
+        
+      <div class = "jun"></div>
+  
+      <p class = "name-of-month">July</p>
+        
+      <div class = "jul"></div>
+  
+      <p class = "name-of-month">August</p>
+        
+      <div class = "six-week-month"></div>
+  
+      <p class = "name-of-month">September</p>
+        
+      <div class = "sep"></div>
+    </main>
+    
+  </section>
+
+<script src = "index - 2025.js">
+     
+</script>
+
+</body>
+</html>
