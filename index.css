@@ -283,8 +283,8 @@ h1 {
   text-shadow:3px 4px 6px rgba(000,000,000,0.4);
   height: 64px;
   padding-top: 50px;
-  /*color: white;*/
-  color: black;
+  color: white;
+  /*color: black;*/
 }
 
 .animate {
@@ -442,7 +442,7 @@ td {
   margin-bottom: 30px;
   border-bottom: 2px solid #ccc;
   /*color: white;*/
-  color: black;
+  color: white;
 }
 
 .two-week-month, .six-week-month-may, .six-week-month-aug, .mar, .apr, .may, .jun, .jul, .aug, .sep {
