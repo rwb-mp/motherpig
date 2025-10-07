@@ -11,7 +11,7 @@ const schedule = [
   date: 'March 28',
   opp: 'vs Boston',
   score: 'W 4-1',
-  recap: `Jaxk Leiter (0-0, 0.00) vs. Tanner Houck (0-0, 0.00). Heim powered the Rangers with a pair of solo home runs, while  Leiter earned his first career win with a solid outing—scattering five hits and a walk over five innings. Langford made a key run-saving catch in left field in the second, and Leiter worked out of jams in the third and fourth to keep Boston off the board. The Red Sox threatened in the seventh after Marc Church put two on, but Milner escaped a bases-loaded, one-out jam to preserve the lead. Five Rangers relievers combined for four shutout innings, capped by a perfect ninth from Jackson to lock down the save. Record: 1-1.`
+  recap: `Jack Leiter (0-0, 0.00) vs. Tanner Houck (0-0, 0.00). Heim powered the Rangers with a pair of solo home runs, while  Leiter earned his first career win with a solid outing—scattering five hits and a walk over five innings. Langford made a key run-saving catch in left field in the second, and Leiter worked out of jams in the third and fourth to keep Boston off the board. The Red Sox threatened in the seventh after Marc Church put two on, but Milner escaped a bases-loaded, one-out jam to preserve the lead. Five Rangers relievers combined for four shutout innings, capped by a perfect ninth from Jackson to lock down the save. Record: 1-1.`
   },
   {
   id: 'mar29',
