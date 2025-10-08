@@ -93,7 +93,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Phi <img src="logos/phillies.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'Victory+'
+    recap: '<a href = "journal.html#mar26" target = "_blank">Recap</a>'
     },
     {
     id: '6',
