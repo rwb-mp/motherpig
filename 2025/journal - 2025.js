@@ -277,7 +277,7 @@ const schedule = [
   date: 'May 10',
   opp: 'at Detroit',
   score: 'W 10-3',
-  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79). The Rangers launched five no-doubt homers to right field. Smith (389 ft) and Seager (403 ft) went back-to-back in the first, Carter added a 390-footer in the second, Pederson homered 401 feet in the fourth, and Seager struck again with a 393-foot shot in the seventh. deGrom struck out 10 over 5 innings, allowing 2 runs on 5 hits and a walk. Milner, Armstrong, and Jackson combined to finish the game, giving up a run in four innings of relief. Rangers pitchers totaled 13 strikeouts on the night. Record: 19-21.`
+  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79). The Rangers launched five no-doubt homers to right field. Smith (389 ft) and Seager (403 ft) went back-to-back in the first, Carter added a 390-footer in the second, Pederson homered 401 feet in the fourth, and Seager struck again with a 393-foot shot in the seventh. deGrom struck out 10 over 5 innings, allowing 2 runs on 5 hits and a walk. Milner, Armstrong, and Jackson combined to finish the game, giving up a run in four innings of relief. Rangers pitchers totaled 13 strikeouts. Record: 19-21.`
   },
   {
   id: 'may11',
