@@ -451,7 +451,7 @@ const schedule = [
   id: 'jun7',
   date: 'June 7',
   opp: 'Cleveland',
-  score: '1:05',
+  score: '1:35',
   recap: ``
   },
   {
