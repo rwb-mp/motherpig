@@ -87,21 +87,21 @@ const schedule = [
   id: 'apr10',
   date: 'April 10',
   opp: 'at Los Angeles Dodgers',
-  score: '',
+  score: '9:10',
   recap: ``
   },
   {
   id: 'apr11',
   date: 'April 11',
   opp: 'at Los Angeles Dodgers',
-  score: '',
+  score: '8:10',
   recap: ``
   },
   {
   id: 'apr12',
   date: 'April 12',
   opp: 'at Los Angeles Dodgers',
-  score: '',
+  score: '3:10',
   recap: ``
   },   
   {
@@ -129,7 +129,7 @@ const schedule = [
   id: 'apr16',
   date: 'April 16',
   opp: 'at Athletics',
-  score: '2"05',
+  score: '2:05',
   recap: ``
   },
   {
@@ -479,21 +479,21 @@ const schedule = [
   id: 'jun12',
   date: 'June 12',
   opp: 'at Boston',
-  score: '',
+  score: '6:10',
   recap: ``
   },
   {
   id: 'jun13',
   date: 'June 13',
   opp: 'at Boston',
-  score: '',
+  score: '3:10',
   recap: ``
   },
   {
   id: 'jun14',
   date: 'June 14',
   opp: 'at Boston',
-  score: '',
+  score: '12:35',
   recap: ``
   },
   {
@@ -563,28 +563,28 @@ const schedule = [
   id: 'jun25',
   date: 'June 25',
   opp: 'at Toronto',
-  score: '',
+  score: '6:07',
   recap: ``
   },
   {
   id: 'jun26',
   date: 'June 26',
   opp: 'at Toronto',
-  score: '',
+  score: '6:07',
   recap: ``
   },
   {
   id: 'jun27',
   date: 'June 27',
   opp: 'at Toronto',
-  score: '',
+  score: '2:07',
   recap: ``
   },
   {
   id: 'jun28',
   date: 'June 28',
   opp: 'at Toronto',
-  score: '',
+  score: '12:37',
   recap: ``
   },
   {

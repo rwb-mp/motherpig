@@ -333,7 +333,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '10',
     opp: 'at LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '9:10',
     score: '',
     recap: 'Victory+'
     },
@@ -344,7 +344,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '11',
     opp: 'at LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '8:05',
     score: '',
     recap: 'Victory+'
     },
@@ -355,7 +355,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '12',
     opp: 'at LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '3:10',
     score: '',
     recap: 'Victory+'
     },
@@ -1180,7 +1180,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '12',
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '6:10',
     score: '',
     recap: 'Victory+'
     },
@@ -1191,7 +1191,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '13',
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '3:10',
     score: '',
     recap: 'Victory+'
     },
@@ -1202,7 +1202,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '14',
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '12:35',
     score: '',
     recap: 'Victory+'
     },
@@ -1323,7 +1323,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Thu',
     date: '25',
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '6:07',
     score: '',
     recap: 'Victory+'
     },
@@ -1334,7 +1334,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '26',
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '6:07',
     score: '',
     recap: 'Victory+'
     },
@@ -1345,7 +1345,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '27',
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '2:07',
     score: '',
     recap: 'Victory+'
     },
@@ -1356,7 +1356,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '28',
     opp: 'at Tor <img src="logos/blue-jays.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '12:37',
     score: '',
     recap: 'Victory+'
     },
