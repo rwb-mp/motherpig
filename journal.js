@@ -591,7 +591,7 @@ const schedule = [
   id: 'jun29',
   date: 'June 29',
   opp: 'at Cleveland',
-  score: '',
+  score: '6:10',
   recap: ``
   },
   {
@@ -766,21 +766,21 @@ const schedule = [
   id: 'jul31',
   date: 'July 31',
   opp: 'at Houston',
-  score: '',
+  score: '7:10',
   recap: ``
   },
   {
   id: 'aug1',
   date: 'August 1',
   opp: 'at Houston',
-  score: '',
+  score: '6:10',
   recap: ``
   },
   {
   id: 'aug2',
   date: 'August 2',
   opp: 'at Houston',
-  score: '',
+  score: '1:10',
   recap: ``
   },
   {

@@ -1367,7 +1367,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Mon',
     date: '29',
     opp: 'at Cle <img src="logos/guardians.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '6:10',
     score: '',
     recap: 'Victory+'
     },
@@ -1796,7 +1796,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '31',
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '7:10',
     score: '',
     recap: 'Victory+'
     },
@@ -1884,7 +1884,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '1',
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '6:10',
     score: '',
     recap: 'Victory+'
     },
@@ -1895,7 +1895,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '2',
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '1:10',
     score: '',
     recap: 'Victory+'
     },
