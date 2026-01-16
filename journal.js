@@ -304,21 +304,21 @@ const schedule = [
   id: 'may15',
   date: 'May 15',
   opp: 'at Houston',
-  score: '',
+  score: '7:10',
   recap: ``
   },
   {
   id: 'may16',
   date: 'May 16',
   opp: 'at Houston',
-  score: '',
+  score: '6:10',
   recap: ``
   },
   {
   id: 'may17',
   date: 'May 17',
   opp: 'at Houston',
-  score: '',
+  score: '1:10',
   recap: ``
   },
   {
