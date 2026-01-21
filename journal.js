@@ -598,14 +598,14 @@ const schedule = [
   id: 'jun30',
   date: 'June 30',
   opp: 'at Cleveland',
-  score: '',
+  score: '5:40',
   recap: ``
   },
   {
   id: 'jul1',
   date: 'July 1',
   opp: 'at Cleveland',
-  score: '',
+  score: '12:10',
   recap: ``
   },
   {

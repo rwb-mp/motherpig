@@ -1378,7 +1378,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Tue',
     date: '30',
     opp: 'at Cle <img src="logos/guardians.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '5:40',
     score: '',
     recap: 'Victory+'
     },
@@ -1466,7 +1466,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Wed',
     date: '1',
     opp: 'at Cle <img src="logos/guardians.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '12:10',
     score: '',
     recap: 'Victory+'
     },
