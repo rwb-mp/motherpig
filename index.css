@@ -35,7 +35,7 @@ a:active {
 body {
   display: flex;
   flex-direction: row;
-  background-image: url('images/tr4.jpg');
+  background-image: url('images/tr.jpg');
   background-repeat:no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -283,7 +283,7 @@ h1 {
   text-shadow:3px 4px 6px rgba(000,000,000,0.4);
   height: 64px;
   padding-top: 50px;
-  color: gold;
+  color: orangered;
   /*color: black;*/
 }
 
@@ -442,7 +442,7 @@ td {
   margin-bottom: 30px;
   border-bottom: 2px solid #ccc;
   /*color: white;*/
-  color: gold;
+  color: orangered;
 }
 
 .two-week-month, .six-week-month-may, .six-week-month-aug, .mar, .apr, .may, .jun, .jul, .aug, .sep {
