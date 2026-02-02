@@ -355,7 +355,7 @@ const schedule = [
   date: 'May 22',
   opp: 'at New York Yankees',
   score: 'L 1-0',
-  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The Rangers’ offensive struggles continued as they struck out 12 times and managed just 4 hits in a 1-0 loss to the Yankees—marking their sixth shutout of the season. Eovaldi delivered another strong outing, allowing just 1 run on 5 hits over 6 innings with 6 strikeouts. Milner and Armstrong combined for two hitless innings out of the bullpen. Texas had chances but couldn’t convert, going 1-for-7 with runners in scoring position. In the 6th, Langford reached second with one out, but Jung and Burger struck out. In the 7th, Semien led off with a single and advanced to second on a wild pitch, but he was stranded there when Heim struck out, Garcia grounded out, and Smith went down swinging. Record: 25-26.`
+  recap: `Nathan Eovaldi (4-2, 1.61) vs. Carlos Rodon (5-3, 3.17). The team's offensive struggles continued as the Rangers struck out 12 times and managed just 4 hits, marking their sixth shutout of the season. Eovaldi delivered another strong outing, allowing 1 run on 5 hits over 6 innings with 6 strikeouts. Milner and Armstrong combined for two hitless innings out of the bullpen. Texas had chances but went 1-for-7 with runners in scoring position. In the 6th, Langford reached second with one out, but Jung and Burger struck out. In the 7th, Semien led off with a single and advanced to second on a wild pitch, but he was stranded there when Heim struck out, Garcia grounded out, and Smith went down swinging. Record: 25-26.`
   },
   {
   id: 'may23',
