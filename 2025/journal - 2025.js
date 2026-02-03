@@ -453,7 +453,7 @@ const schedule = [
   date: 'June 7',
   opp: 'at Washington',
   score: 'W 5-0',
-  recap: `Jacob deGrom (5-2, 2.34) vs. Mitchell Parker (4-5, 4.71). The Rangers jumped out early with two runs in the first inning on singles by Haggerty, Jung, and Semien, aided by a centerfield error. After that, the offense went quiet—14 straight batters were retired until the 6th when Haggerty singled. Three walks loaded the bases for Texas in the 7th, but Josh Smith’s shallow flyout ended the threat. Texas broke through in the 8th. Haggerty and Langford singled before Semien laced a 2-run double. Garcia added insurance with a 2-out bloop single to plate Semien. Jacob deGrom was brilliant, tossing 7 shutout innings with just 2 hits, no walks, a hit batter, and 8 strikeouts. Record: 30-35.`
+  recap: `Jacob deGrom (5-2, 2.34) vs. Mitchell Parker (4-5, 4.71). The Rangers jumped out early with two runs in the first inning on singles by Haggerty, Jung, and Semien, and a centerfield error. After that, the offense went quiet—14 straight batters were retired until the 6th when Haggerty singled. Three walks loaded the bases for Texas in the 7th, but Josh Smith’s shallow flyout ended the threat. Texas broke through in the 8th. Haggerty and Langford singled before Semien laced a 2-run double. Garcia added insurance with a 2-out bloop single to plate Semien. Jacob deGrom was brilliant, tossing 7 shutout innings with just 2 hits, no walks, a hit batter, and 8 strikeouts. Record: 30-35.`
   },
   {
   id: 'jun8',
