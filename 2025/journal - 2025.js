@@ -425,7 +425,7 @@ const schedule = [
   date: 'June 3',
   opp: 'at Tampa Bay',
   score: 'L 5-1',
-  recap: `Tyler Mahle (5-2, 1.64) vs. Drew Rasmussen (4-4, 2.33). The Rangers managed just one run on four hits while striking out 12 times—seven of them looking. Tampa Bay took the lead in the 2nd inning on a 328-foot home run down the left field line—the shortest homer in MLB this season. Mahle ran into trouble in the 6th, loading the bases with one out on a single and two walks. He was relieved by Jacob Latz, who allowed all three inherited runners to score. Texas scored its lone run in the 7th, stringing together a Garcia single, a walk to Semien, and a run-scoring single from Burger. Mahle’s final line: 5.1 IP, 5 H, 4 ER, 2 BB, 5 K. Record: 29-32.`
+  recap: `Tyler Mahle (5-2, 1.64) vs. Drew Rasmussen (4-4, 2.33). The Rangers managed just one run on four hits while striking out 12 times—seven of them looking. Tampa Bay took the lead in the 2nd inning on a 328-foot home run down the left field line—the shortest homer in MLB to date. Mahle ran into trouble in the 6th, loading the bases with one out on a single and two walks. He was relieved by Jacob Latz, who allowed all three inherited runners to score. Texas scored its lone run in the 7th, stringing together a Garcia single, a walk to Semien, and a run-scoring single from Burger. Mahle’s line: 5.1 IP, 5 H, 4 ER, 2 BB, 5 K. Record: 29-32.`
   },
   {
   id: 'jun4',
