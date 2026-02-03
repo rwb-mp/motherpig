@@ -474,7 +474,7 @@ const schedule = [
   date: 'June 11',
   opp: 'at Minnesota',
   score: 'L 6-2',
-  recap: `Jack Leiter (4-2, 3.48) vs. David Festa (0-1, 5.40). Semien opened the scoring with a leadoff homer in the second, and the Rangers added another run in the third on back-to-back doubles by Heim and Smith. But the offense stalled again, going just 1-for-9 with runners in scoring position. Byron Buxton's 3-run, 479-foot blast in the bottom of the third turned the game around. Leiter struggled with command, allowing four runs on five hits and four walks over four innings. Latz was tagged for two more runs in the fifth. Despite chances late, the Rangers stranded runners in scoring position in the 7th, 8th, and 9th innings, sealing the loss. Record: 32-36.`
+  recap: `Jack Leiter (4-2, 3.48) vs. David Festa (0-1, 5.40). Semien opened the scoring with a leadoff homer in the second, and the Rangers added another run in the third on back-to-back doubles by Heim and Smith. But the offense stalled again, going just 1-for-9 with runners in scoring position. A Twins' 3-run, 479-foot blast in the bottom of the third turned the game around. Leiter struggled with command, allowing four runs on five hits and four walks over four innings. Latz was tagged for two more runs in the fifth. Despite chances late, the Rangers stranded runners in scoring position in the 7th, 8th, and 9th innings, sealing the loss. Record: 32-36.`
   },
   {
   id: 'jun12',
