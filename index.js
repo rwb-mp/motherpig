@@ -412,7 +412,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:40',
     score: '',
-    recap: 'Victory+'
+    recap: 'Fox'
     },
     {
     id: '35',
@@ -654,7 +654,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:15',
     score: '',
-    recap: 'Victory+'
+    recap: 'Fox'
     },
     {
     id: '57',
@@ -665,7 +665,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '12:40',
     score: '',
-    recap: 'Victory+'
+    recap: 'Peacock'
     },
     {
     id: '58',
@@ -896,7 +896,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '3:07',
     score: '',
-    recap: 'Victory+'
+    recap: 'Peacock'
     },
     {
     id: '79',
@@ -1105,7 +1105,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Cle <img src="logos/guardians.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'Victory+'
+    recap: 'Apple TV+'
     },
     {
     id: '98',
@@ -1116,7 +1116,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Cle <img src="logos/guardians.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:35',
     score: '',
-    recap: 'Victory+'
+    recap: 'Fox'
     },
     {
     id: '99',
@@ -1369,7 +1369,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Cle <img src="logos/guardians.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:10',
     score: '',
-    recap: 'Victory+'
+    recap: 'ESPN'
     },
     {
     id: '122',
@@ -1512,7 +1512,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '1:35',
     score: '',
-    recap: 'Victory+'
+    recap: 'Peacock'
     },
     {
     id: '135',
@@ -1732,7 +1732,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:15',
     score: '',
-    recap: 'Victory+'
+    recap: 'Fox'
     },
     {
     id: '155',
@@ -1908,7 +1908,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'SF <img src="logos/giants.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '7:05',
     score: '',
-    recap: 'Victory+'
+    recap: 'ESPN'
     },
     {
     id: '171',
@@ -2007,7 +2007,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '8:38',
     score: '',
-    recap: 'Victory+'
+    recap: 'ESPN'
     },
     {
     id: '180',
@@ -2194,7 +2194,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'at Mil <img src="logos/brewers.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '6:15',
     score: '',
-    recap: 'Victory+'
+    recap: 'Fox'
     },
     {
     id: '197',
