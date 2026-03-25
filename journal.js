@@ -3,8 +3,8 @@ const schedule = [
   id: 'mar26',
   date: 'March 26',
   opp: 'at Philadelphia',
-  score: '2:05',
-  recap: ``
+  score: '3:15',
+  recap: `Nathan Eovaldi (0-0, 0.00) vs. Christopher Sanchez (0-0, 0.00). Record: 0-0.`
   },
   {
   id: 'mar28',
