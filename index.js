@@ -91,8 +91,8 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Thu',
     date: '26',
     opp: 'at Phi <img src="logos/phillies.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '3:15',
-    score: '',
+    time: '',
+    score: 'L 5-2',
     recap: '<a href = "journal.html#mar26" target = "_blank">Recap</a>'
     },
     {
