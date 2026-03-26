@@ -4,7 +4,7 @@ const schedule = [
   date: 'March 26',
   opp: 'at Philadelphia',
   score: 'L 5-3',
-  recap: `Nathan Eovaldi (0-0, 0.00) vs. Christopher Sanchez (0-0, 0.00). The Rangers were shutout on 4 hits through the first 8 innings. The NL Cy Young runner-up in 2025 threw 6 innings, allowing 3 hits and no walks, striking out 10. Eovaldi gave up a pair of HR's in his 4-2/3 innings--a 383-footer to left in the 1st that scored 2, and a 354-footer down the rightfield line in the 5th that scored 3. Seager began the ninth with an infield single and Burger blasted one 438-feet to left to cut the deficit to 5-2. Higashioka followed with a single, and after outs by Jung and Duran, Jansen singled to score Higashioka and bring the tying run to the plate. Carter grounded out hard to first to end the game. Record: 0-1.`
+  recap: `Nathan Eovaldi (0-0, 0.00) vs. Christopher Sanchez (0-0, 0.00). The Rangers were shutout on 4 hits through the first 8 innings. The NL Cy Young runner-up in 2025 threw 6 innings, allowing 3 hits and no walks, striking out 10. Eovaldi gave up a pair of HR's in his 4-2/3 innings--a 383-footer to left in the 1st that scored 2, and a 354-footer down the rightfield line in the 5th that scored 3. Seager began the ninth with an infield single and Burger blasted one 438-feet to left to cut the deficit to 5-2. Higashioka followed with a single, and after outs by Jung and Duran, Jansen singled to score Higashioka and bring the tying run to the plate. But Carter grounded out hard to first to end the game. Record: 0-1.`
   },
   {
   id: 'mar28',
