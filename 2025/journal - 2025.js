@@ -4,7 +4,7 @@ const schedule = [
   date: 'March 27',
   opp: 'vs Boston',
   score: 'L 5-2',
-  recap: `Nathan Eovaldi (0-0, 0.00) vs. Garrett Crochet (0-0, 0.00). Eovaldi outdueled Crochet, exiting with the game tied 2-2 after six strong innings. Eovaldi was sharp, throwing 87 pitches while allowing just three hits, no walks, and striking out nine. Pillar and Higashioka delivered the RBIs off Crochet. The game unraveled in the ninth, when Rangers reliever Jackson issued a one-out walk, followed by a single and a go-ahead three-run homer from Wilyer Abreu—his second blast of the night. Boston’s bullpen stifled the Rangers over the final four innings, surrendering just two singles. Record: 0-1.`
+  recap: `Nathan Eovaldi (0-0, 0.00) vs. Garrett Crochet (0-0, 0.00). Eovaldi outdueled Crochet but was lifted after 6 with the game tied 2-2. He allowed 3 hits, no walks, and struck out 9 on 87 pitches. Pillar and Higashioka delivered the RBIs off Crochet. The game unraveled in the 9th, when Rangers' reliever Jackson issued a 1-out walk, followed by a single and a go-ahead 3-run HR from Wilyer Abreu—his second HR of the game. Boston’s bullpen shut down the Rangers over the final four innings, surrendering just two singles. Record: 0-1.`
   },
   {
   id: 'mar28',
