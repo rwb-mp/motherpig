@@ -4,14 +4,14 @@ const schedule = [
   date: 'March 27',
   opp: 'vs Boston',
   score: 'L 5-2',
-  recap: `Nathan Eovaldi (0-0, 0.00) vs. Garrett Crochet (0-0, 0.00). Eovaldi outdueled Crochet but was lifted after 6 with the game tied 2-2. He allowed 3 hits, no walks, and struck out 9 on 87 pitches. Pillar and Higashioka delivered the RBIs off Crochet. The game unraveled in the 9th, when Rangers' reliever Jackson issued a 1-out walk, followed by a single and a go-ahead 3-run HR from Wilyer Abreu—his second HR of the game. Boston’s bullpen shut down the Rangers over the final four innings, surrendering just two singles. Record: 0-1.`
+  recap: `Nathan Eovaldi (0-0, 0.00) vs. Garrett Crochet (0-0, 0.00). Eovaldi outdueled Crochet but was lifted after 6 with the game tied 2-2. He allowed 3 hits, no walks, and struck out 9 on 87 pitches. Pillar and Higashioka delivered the RBIs off Crochet. The game unraveled in the 9th, when Rangers' reliever Jackson issued a 1-out walk, followed by a single and a go-ahead 3-run HR from Wilyer Abreu—his 2nd HR of the game. Boston’s bullpen shut down the Rangers over the final 4 innings, surrendering just 2 singles. Record: 0-1.`
   },
   {
   id: 'mar28',
   date: 'March 28',
   opp: 'vs Boston',
   score: 'W 4-1',
-  recap: `Jack Leiter (0-0, 0.00) vs. Tanner Houck (0-0, 0.00). Heim powered the Rangers with a pair of solo home runs, while  Leiter earned his first career win with a solid outing—scattering five hits and a walk over five innings. Langford made a key run-saving catch in left field in the second, and Leiter worked out of jams in the third and fourth to keep Boston off the board. The Red Sox threatened in the seventh after Marc Church put two on, but Milner escaped a bases-loaded, one-out jam to preserve the lead. Five Rangers relievers combined for four shutout innings, capped by a perfect ninth from Jackson to lock down the save. Record: 1-1.`
+  recap: `Jack Leiter (0-0, 0.00) vs. Tanner Houck (0-0, 0.00). Heim powered the Rangers with a pair of solo home runs, while  Leiter earned his 1st career win with a solid outing, scattering 5 hits and a walk over 5 innings. Langford made a key run-saving catch in left field in the 2nd, and Leiter worked out of jams in the 3rd and 4th to keep Boston off the board. The Red Sox threatened in the 7th after Marc Church put two on, but Milner escaped a bases-loaded, 1-out jam to preserve the lead. 5 Rangers relievers combined for 4 shutout innings, capped by a perfect 9th from Jackson to lock down the save. Record: 1-1.`
   },
   {
   id: 'mar29',
