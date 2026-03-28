@@ -11,7 +11,7 @@ const schedule = [
   date: 'March 28',
   opp: 'at Philadelphia',
   score: '3:05',
-  recap: `Jacob deGrom (0-0, 0.00) vs. Aaron Nola (0-0, 0.00).`
+  recap: `Jacob Latz (0-0, 0.00) vs. Aaron Nola (0-0, 0.00).`
   },
   {
   id: 'mar29',
