@@ -10,8 +10,8 @@ const schedule = [
   id: 'mar28',
   date: 'March 28',
   opp: 'at Philadelphia',
-  score: '3:05',
-  recap: `Jacob Latz (0-0, 0.00) vs. Aaron Nola (0-0, 0.00).`
+  score: 'W 5-4',
+  recap: `Jacob Latz (0-0, 0.00) vs. Aaron Nola (0-0, 0.00). Latz--an emergency starter for deGrom (stiff neck)--pitched into the 5th, throwing 68 pitches and allowing no hits and a walk. A solo HR to right by Seager in the 1st, and a Burger 2-run bomb to left in the 3rd staked Texas to a 3-0 lead. The bullpen was sensational for 4-2/3 innings, allowing only 2 singles and a walk. Robert Garcia entered in the 9th and was 1 out away from his first save when Burger misjudged a wind-blown popup in foul ground that would have ended the game. The Phillies capitalized with a single and a walk off Garcia, and a double and single off Chris Martin to tie the game at 3-3. In the Ranger 10th, Langford singled and the free runner Nimmo scored on a wild pitch. After Seager and Burger struck out, McCutcheon hit a sharp single to score an insurance run at 5-3. Tyler Alexander came in to pitch the 10th. With 2 outs in the bottom of the 10th, Bryce Harper hit a broken-bat single that found the hole between 1st and 2nd to make the score 5-4. Alexander got the final out on a soft popup to short. Record: 1-0.`
   },
   {
   id: 'mar29',
