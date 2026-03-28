@@ -11,28 +11,28 @@ const schedule = [
   date: 'March 28',
   opp: 'at Philadelphia',
   score: '3:05',
-  recap: `Jacob deGrom (0-0, 0.00) vs. Aaron Nola (0-0, 0.00)`
+  recap: `Jacob deGrom (0-0, 0.00) vs. Aaron Nola (0-0, 0.00).`
   },
   {
   id: 'mar29',
   date: 'March 29',
   opp: 'at Philadelphia',
   score: '12:35',
-  recap: `MacKenzie Gore (0-0, 0.00) vs. Jesus Luzardo (0-0, 0.00)`
+  recap: `MacKenzie Gore (0-0, 0.00) vs. Jesus Luzardo (0-0, 0.00).`
   },
   {
   id: 'mar30',
   date: 'March 30',
   opp: 'at Baltimore',
   score: '5:35',
-  recap: `Jack Leiter (0-0, 0.00) vs. Chris Bassitt (0-0, 0.00)`
+  recap: `Jack Leiter (0-0, 0.00) vs. Chris Bassitt (0-0, 0.00).`
   },
   {
   id: 'mar31',
   date: 'March 31',
   opp: 'at Baltimore',
   score: '5:35',
-  recap: `TBD vs Zach Eflin (0-0, 0.00)`
+  recap: `TBD vs Zach Eflin (0-0, 0.00).`
   },
   {
   id: 'apr1',
