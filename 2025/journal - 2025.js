@@ -18,7 +18,7 @@ const schedule = [
   date: 'March 29',
   opp: 'vs Boston',
   score: 'W 4-3',
-  recap: `Tyler Mahle (0-0, 0.00) vs. Walker Buehler (0-0, 0.00). Mahle struggled in his season debut, throwing 31 balls in 61 pitches and failing to make it out of the second inning. Despite the early control issues, the Rangers held a 2-1 lead when Mahle departed, thanks in part to a close play in left field—Kristian Campbell appeared to make a diving catch on a García liner, but the ball popped loose when he hit the ground. The bullpen was outstanding, with five relievers keeping Texas in the game. García carried the offense, driving in three runs with two doubles and a home run. The Rangers entered the ninth with a 4-3 lead, and Arlington High School alum Chris Martin sealed the win with a perfect inning for his first save of the season. Record: 2-1.`
+  recap: `Tyler Mahle (0-0, 0.00) vs. Walker Buehler (0-0, 0.00). Mahle struggled in his season debut, throwing 31 balls in 61 pitches and failing to make it out of the 2nd inning. Despite his early control issues, the Rangers held a 2-1 lead when Mahle departed, thanks to a play in which leftfielder Kristian Campbell appeared to make a diving catch on a García line drive, only to have the ball pop loose when he hit the ground. The bullpen was outstanding, with 5 relievers keeping Texas in the game. Adolis García carried the offense, driving in 3 runs with 2 doubles and a home run. The Rangers entered the 9th with a 4-3 lead, and Arlington High School alum Chris Martin sealed the win with a perfect inning for his 1st save of the season. Record: 2-1.`
   },
   {
   id: 'mar30',
