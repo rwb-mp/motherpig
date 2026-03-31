@@ -25,7 +25,7 @@ const schedule = [
   date: 'March 30',
   opp: 'at Baltimore',
   score: 'W 5-2',
-  recap: `Jack Leiter (0-0, 0.00) vs. Chris Bassitt (0-0, 0.00). Leiter had 21 swings and misses in his season debut--92 pitches over 6 innings, allowing a pair of runs on 5 hits and a walk while striking out 8. The lineup went 4-for-16 with RISP and left 12 on base, but scored in the 1st on a pair of well-placed grounders and an error by the Orioles' pitcher. The Rangers added 3 more in the second on 3 hits, 2 walks, and a sac fly. Consecutive hits by Burger and McCutcheon followed by a bloop single by Smith added another run in the 9th. Jacob Junis, Jalen Beeks, and Tyler Alexander pitched 3 shutout innings in relief. Record: 3-1.`
+  recap: `Jack Leiter (0-0, 0.00) vs. Chris Bassitt (0-0, 0.00). Leiter had 21 swings and misses in his season debut--92 pitches over 6 innings, allowing a pair of runs on 5 hits and a walk while striking out 8. The lineup went 4-for-16 with RISP and left 12 on base, but scored in the 1st on a pair of well-placed grounders and an error by the Orioles' pitcher. The Rangers added 3 more in the second on 3 hits, 2 walks, and a sac fly. Consecutive hits by Burger and McCutcheon followed by a bloop single by Smith added another run in the 9th. Jacob Junis, Jalen Beeks, and Tyler Alexander pitched 3 shutout innings in relief. Rangers' pitchers struck out 11 and only walked 1. Record: 3-1.`
   },
   {
   id: 'mar31',
