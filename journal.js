@@ -18,14 +18,14 @@ const schedule = [
   date: 'March 29',
   opp: 'at Philadelphia',
   score: 'W 8-3',
-  recap: `MacKenzie Gore (0-0, 0.00) vs. Jesus Luzardo (0-0, 0.00). For the 2nd consecutive game, McCutcheon had the big hit. Today it was a 3-run line drive HR to left in the 4th to turn a 2-run Ranger lead into a 5-0 advantage. He added a double in the 6th and then scored on a Higashika flyball to right that Adolis Garcia lost in the sun. Nimmo hit a 410-foot, 2-run blast to centerfield in the 2nd to open the scoring. Duran had an RBI double in the 7th after a Carter walk, and scored on a Seager sac fly. MacKenzie Gore was impressive over 5-1/3 innings, throwing 90 pitches of 2-hit ball, walking 3 and striking out 7. Overall, the Rangers' staff allowed 3 hits while walking 8 and striking out 10. Record: 2-1.`
+  recap: `MacKenzie Gore (0-0, 0.00) vs. Jesus Luzardo (0-0, 0.00). For the 2nd consecutive game, McCutcheon had the big hit. Today it was a 3-run line drive HR into the leftfied corner in the 4th to turn a 2-run Ranger lead into a 5-0 advantage. He added a double in the 6th and then scored on a Higashika flyball to right that Adolis Garcia lost in the sun. Nimmo hit a 410-foot, 2-run blast to centerfield in the 2nd to open the scoring. Duran had an RBI double in the 7th after a Carter walk and scored on a Seager sac fly. Gore was impressive over 5-1/3 innings, throwing 90 pitches of 2-hit ball, walking 3 and striking out 7. Overall, the Rangers' staff allowed 3 hits while walking 8 and striking out 10. Record: 2-1.`
   },
   {
   id: 'mar30',
   date: 'March 30',
   opp: 'at Baltimore',
-  score: '5:35',
-  recap: `Jack Leiter (0-0, 0.00) vs. Chris Bassitt (0-0, 0.00).`
+  score: 'W 5-2',
+  recap: `Jack Leiter (0-0, 0.00) vs. Chris Bassitt (0-0, 0.00). Leiter had 21 swings and misses in his season debut--92 pitches over 6 innings, allowing a pair of runs on 5 hits and a walk while striking out 8. The lineup went 4-for-16 with RISP and left 12 on base, but scored in the 1st on a pair of well-placed grounders and an error by the Orioles' pitcher. The Rangers added 3 more in the second on 3 hits, 2 walks, and a sac fly. Consecutive hits by Burger and McCutcheon followed by a bloop single by Smith added another run in the 9th. Jacob Junis, Jalen Beeks, and Tyler Alexander pitched 3 shutout innings in relief. Record: 3-1.`
   },
   {
   id: 'mar31',
