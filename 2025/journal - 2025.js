@@ -32,7 +32,7 @@ const schedule = [
   date: 'March 31',
   opp: 'at Cincinnati',
   score: 'L 14-3',
-  recap: `Kumar Rocker (0-0, 0.00) vs. Brady Singer (0-0, 0.00). The Reds jumped on Rocker early with a single, home run, single, and double to open the game, setting the tone for a lopsided night. Rocker allowed six runs on seven hits and two walks over just three innings, and the bullpen couldn’t stop the bleeding. Gerson Garabito gave up eight more runs—four earned—on seven hits and two hit batters in 2-2/3 innings. Singer cruised through seven innings of one-hit ball with eight strikeouts. Texas avoided a shutout with a pair of runs in the ninth on Burger’s first homer of the season. García continues to carry the offense, hitting .357, while the rest of the lineup has combined for a .195 average. Record: 3-2.`
+  recap: `Kumar Rocker (0-0, 0.00) vs. Brady Singer (0-0, 0.00). The Reds jumped on Rocker early with a single, HR, single, and double to open the game, setting the tone for a lopsided Rangers loss. Rocker allowed 6 runs on 7 hits and 2 walks over just 3 innings and the bullpen couldn’t stop the bleeding. Gerson Garabito gave up 8 more runs—4 earned—on 7 hits and 2 hit batters in 2-2/3 innings. Singer cruised through 7 innings of 1-hit ball with 8 strikeouts. Texas avoided a shutout with a pair of runs in the 9th on Burger’s 1st homer of the season. García continues to carry the offense, hitting .357, while the rest of the lineup has combined for a .195 average. Record: 3-2.`
   },
   {
   id: 'apr1',
