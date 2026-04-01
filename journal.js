@@ -38,8 +38,8 @@ const schedule = [
   id: 'apr1',
   date: 'April 1',
   opp: 'at Baltimore',
-  score: '11:35',
-  recap: `TBD vs. Trevor Rogers (1-0, 0.00)`
+  score: 'L 8-3',
+  recap: `Nathan Eovaldi (0-1, 9.64 vs. Trevor Rogers (1-0, 0.00). Eovaldi got rocked again in his 2nd start of the season, allowing 6 runs on 8 hits and 3 walks. Latz threw a perfect 8th inning, but Alexander and Baumler were ineffective in their 3 innings of relief. Former Ranger Leody Taveras had 2 hits and 2 walks, driving in 2 runs and scoring 1. The Rangers' lineup had 8 base hits including a Seager solo HR in the 8th. 2-out scoring chances in the 3rd, 4th, and 7th were snuffed out by Orioles' pitching. Record: 4-2.`
   },
   {
   id: 'apr3',
