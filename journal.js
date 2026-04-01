@@ -31,8 +31,8 @@ const schedule = [
   id: 'mar31',
   date: 'March 31',
   opp: 'at Baltimore',
-  score: '5:35',
-  recap: `Jacob deGrom (0-0, 0.00) vs Zach Eflin (0-0, 0.00).`
+  score: 'W 8-5',
+  recap: `Jacob deGrom (0-0, 0.00) vs Zach Eflin (0-0, 0.00). The Rangers had 13 base hits led by Danny Jansen's 3 hits--a single, a double, and a 3-run HR that broke the game open in the 7th innning. Everyone in the lineup had at least one hit except Pederson who has started the season 0-for-8. Duran at 3B--making his 1st start of the season--solo homered in the 3rd and Seager solo homered in the 9th. deGrom threw 79 pitches over 4-2/3 innings and was knocked out of the game in the 5th when he surrendered the game tying runs at 3-3. Winn, Junis, and Garcia were excellent in relief, but Chris Martin got roughed up for 2 runs in the 9th. Record: 4-1.`
   },
   {
   id: 'apr1',
