@@ -39,28 +39,28 @@ const schedule = [
   date: 'April 1',
   opp: 'at Cincinnati',
   score: 'W 1-0',
-  recap: `Nathan Eovaldi (0-0, 3.00) vs. Carson Spiers (0-0, 0.00). Eovaldi was masterful, tossing a complete game four-hit shutout with eight strikeouts and no walks. The Rangers offense managed just a single run on four hits against four Reds pitchers. The lone run came in the first inning on Langford’s 361-foot homer to left—his second of the season. Eovaldi sealed the win by getting the final out on a soft grounder to first with the tying run on second. Record 4-2.`
+  recap: `Nathan Eovaldi (0-0, 3.00) vs. Carson Spiers (0-0, 0.00). Eovaldi was masterful, tossing a complete game 4-hit shutout with 8 strikeouts and no walks. The Rangers offense managed just a single run on 4 hits against 4 Reds pitchers. The lone run came in the 1st inning on Langford’s 361-foot homer to left—his 2nd of the season. Eovaldi sealed the win by getting the final out on a soft grounder to 1st with the tying run on 2nd. Record 4-2.`
   },
   {
   id: 'apr2',
   date: 'April 2',
   opp: 'at Cincinnati',
   score: 'W 1-0',
-  recap: `Jack Leiter (1-0, 1.80) vs. Hunter Greene (0-0, 3.60). The Rangers scored the game's only run in the fourth inning, when Pederson singled and Smith followed with a two-out RBI double. The Rangers managed only one other hit--a Semien single in the 3rd. Leiter was outstanding, allowing just one hit and no walks with six strikeouts over five shutout innings before exiting with a blister on his middle finger. The Rangers' bullpen was flawless once again, as Webb, Garcia, Martin, and Jackson combined for four scoreless innings on 4 hits to preserve the win. For the first time in franchise history, the Rangers have won back-to-back games by a 1-0 score. Record: 5-2.`
+  recap: `Jack Leiter (1-0, 1.80) vs. Hunter Greene (0-0, 3.60). The Rangers scored the game's only run in the fourth inning, when Pederson singled and Smith followed with a 2-out RBI double. The Rangers managed only 1 other hit--a Semien single in the 3rd. Leiter was outstanding, allowing just 1 hit and no walks with 6 strikeouts over 5 shutout innings before exiting with a blister on his middle finger. The Rangers' bullpen was flawless once again, as Webb, Garcia, Martin, and Jackson combined for 4 scoreless innings on 4 hits to preserve the win. For the first time in franchise history, the Rangers won back-to-back games by a 1-0 score. Record: 5-2.`
   },
   {
   id: 'apr4',
   date: 'April 4',
   opp: 'Tampa Bay',
   score: 'W 5-2',
-  recap: `Tyler Mahle (0-0, 5.40) vs. Zack Littell (0-1, 1.50). The Rangers took a four-run lead in the third inning, stringing together five consecutive hits from Smith, Higashioka, Taveras, Semien, and Seager. Mahle rebounded from his first start with five shutout innings, not allowing a runner past first base. Tampa Bay chipped away with two runs in the seventh, but Smith answered with a solo homer in the bottom half to push the lead to 5-2. Jackson closed out the win with a perfect ninth for his fourth save. Record: 6-2.`
+  recap: `Tyler Mahle (0-0, 5.40) vs. Zack Littell (0-1, 1.50). The Rangers took a 4-run lead in the 3rd inning, stringing together 5 consecutive hits from Smith, Higashioka, Taveras, Semien, and Seager. Mahle rebounded from his 1st start with 5 shutout innings, not allowing a runner past 1st base. Tampa Bay chipped away with 2 runs in the seventh, but Smith answered with a solo homer in the bottom half to push the lead to 5-2. Jackson closed out the win with a perfect 9th for his 4th save. Record: 6-2.`
   },
   {
   id: 'apr5',
   date: 'April 5',
   opp: 'Tampa Bay',
   score: 'W 6-4',
-  recap: `Jacob deGrom (0-0, 0.00) vs. Taj Bradley (1-0, 3.00). The Rangers scored early with a four-run first inning. Semien led off with a solo homer to left, and Burger followed with a three-run shot after Langford and García drew back-to-back walks. The Rays scored on a solo homer in the third and a two-run shot off the right-field foul pole in the sixth to cut the lead to one. deGrom exited in the 6th after giving up a two-out double. Webb allowed a game-tying double to the first batter he faced, evening the score at 4. Texas didn’t record a hit after the first inning until Pillar, pinch-hitting for Taveras, singled to left in the seventh. Langford followed with a clutch two-out line-drive homer just over the left-field wall to put the Rangers back on top. The bullpen shut the door, with García, Martin, and Jackson combining for 2-1/3 scoreless innings. Jackson earned his fifth save of the season. Despite being outhit 10–4, the Rangers drew six walks and out-homered the Rays 3–2. Record: 7-2.`
+  recap: `Jacob deGrom (0-0, 0.00) vs. Taj Bradley (1-0, 3.00). The Rangers scored early with a 4-run 1st inning. Semien led off with a solo homer to left, and Burger followed with a 3-run shot after Langford and García drew back-to-back walks. The Rays scored on a solo homer in the 3rd and a 2-run shot off the right-field foul pole in the 6th to cut the lead to 1. deGrom exited in the 6th after giving up a 2-out double. Webb allowed a game-tying double to the first batter he faced, evening the score at 4. Texas didn’t record a hit after the 1st inning until Pillar, pinch-hitting for Taveras, singled to left in the 7th. Langford followed with a clutch 2-out line-drive homer just over the left-field wall to put the Rangers back on top. The bullpen shut the door, with García, Martin, and Jackson combining for 2-1/3 scoreless innings. Jackson earned his 5th save of the season. Despite being outhit 10–4, the Rangers drew six walks and out-homered the Rays 3–2. Record: 7-2.`
   },
   {
   id: 'apr6',
