@@ -46,7 +46,7 @@ const schedule = [
   date: 'April 3',
   opp: 'Cincinnati',
   score: 'L 5-3',
-  recap: `MacKenzie Gore (1-0, 3.38) vs. Brady Singer (0-0, 6.75). Chris Martin, who has been bad in his first 3 appearances, was bad again today. Called on to pitch the 9th, Martin allowed a leadoff double and then a HR to put the game out of reach for the Ranger bats. Gore had a quality start, pitching 6 innings and allowing 3 runs on 6 hits--2 of them HR's, no walks, and 9 K's. The Ranger bats had 4 consecutive 2-out hits in the 2nd to score 2 runs, and Nimmo and Langford had back-to-back extra base hits in the 7th to tally another run. Texas had only 4 baserunners in the other 7 innings. Seager went 0-for-4 and struck out 3 times. Record: 4-3.`
+  recap: `MacKenzie Gore (1-0, 3.38) vs. Brady Singer (0-0, 6.75). Chris Martin, who was bad in his first 3 appearances, was bad again today. Called on to pitch the 9th, Martin allowed a leadoff double and then a HR to put the game out of reach for the Ranger bats. Gore had a quality start, pitching 6 innings and allowing 3 runs on 6 hits--2 of them HR's, no walks, and 9 K's. The Ranger bats had 4 consecutive 2-out hits in the 2nd to score 2 runs, and Nimmo and Langford had back-to-back extra base hits in the 7th to tally another run. Texas had only 4 baserunners in the other 7 innings. Seager went 0-for-4 and struck out 3 times. Record: 4-3.`
   },
   {
   id: 'apr4',
