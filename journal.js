@@ -53,7 +53,7 @@ const schedule = [
   date: 'April 4',
   opp: 'Cincinnati',
   score: '6:05',
-  recap: `Jumar Rocker (0-0, 0.00) vs. Rhett Lowder (0-0, 3.60)`
+  recap: `Kumar Rocker (0-0, 0.00) vs. Rhett Lowder (0-0, 3.60)`
   },
   {
   id: 'apr5',
