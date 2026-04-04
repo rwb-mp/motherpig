@@ -60,7 +60,7 @@ const schedule = [
   date: 'April 5',
   opp: 'Cincinnati',
   score: '1:35',
-  recap: `TBD vs. Chase Burns (1-0, 0.00)`
+  recap: `Jack Leiter (1-0, 3.00) vs. Chase Burns (1-0, 0.00)`
   },
   {
   id: 'apr6',
