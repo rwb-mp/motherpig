@@ -52,8 +52,8 @@ const schedule = [
   id: 'apr4',
   date: 'April 4',
   opp: 'Cincinnati',
-  score: '6:05',
-  recap: `Kumar Rocker (0-0, 0.00) vs. Rhett Lowder (0-0, 3.60)`
+  score: 'L 2-0',
+  recap: `Kumar Rocker (0-0, 0.00) vs. Rhett Lowder (0-0, 3.60). Rangers pitchers did their job, but the hitters were ineffective against 4 Reds pitchers. In his 1st start of the season, Rocker allowed a pair of 1st inning runs on 3 consecutive singles--only 1 of which was hit hard--and then blanked the Reds over the next 4 innings. Beeks, Latz, Baumler, and Alexander each pitched a shutout inning in relief. The hitters only advanced one runner to 2nd base in the 1st 8 innings. In the 9th with 2 outs, Smith walked and Jung singled him to 3rd, but Carter struck out to end the game. Pederson, who started 2025 0-for-41, is 0-for-14 in 2026. Record: 4-4.`
   },
   {
   id: 'apr5',
