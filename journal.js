@@ -67,21 +67,21 @@ const schedule = [
   date: 'April 6',
   opp: 'Seattle',
   score: '7:05',
-  recap: ``
+  recap: `Jacob deGrom(0-0, 5.79) vs. Logan Gilbert (0-1, 6.75). `
   },
   {
   id: 'apr7',
   date: 'April 7',
   opp: 'Seattle',
   score: '7:05',
-  recap: ``
+  recap: `Nathan Eovaldi (0-2, 11.42) vs. George Kirby (1-1, 3.75). `
   },
   {
   id: 'apr8',
   date: 'April 8',
   opp: 'Seattle',
   score: '7:05',
-  recap: ``
+  recap: `MacKenzie Gore (1-0, 3.97) vs. Bryan Woo (0-0, 1.38). `
   },  
   {
   id: 'apr10',
