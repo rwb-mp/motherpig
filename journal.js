@@ -60,7 +60,7 @@ const schedule = [
   date: 'April 5',
   opp: 'Cincinnati',
   score: 'L 2-1',
-  recap: `Jack Leiter (1-0, 3.00) vs. Chase Burns (1-0, 0.00). The bats faltered again and wasted a good start by Jack Leiter who threw 85 pitches over 5 innings, allowing a run on 4 hits and a walk with 9 K's. Texas reached 2nd base just twice prior to the 7th inning when Pederson homered to tie the game at 1-1. It was Pederson's first base hit of the season in 17 AB's. Carter singled, Higashioka flew out 407 feet to CF, and Smith walked, but McCutcheon and Nimmo stuck out to strand them. Robert Garcia came on to pitch the 8th and surrendered the lead when he faced 4 batters allowing 2 walks and a single. With 2 outs in the 8th, Burger doubled and Pederson walked. Carter flew out 405feet to CF for the third out. Higashioka, Haggerty, and Jung struck out in order in the 9th. Record: 4-5.`
+  recap: `Jack Leiter (1-0, 3.00) vs. Chase Burns (1-0, 0.00). The bats faltered again and wasted a good start by Jack Leiter who threw 85 pitches over 5 innings, allowing a run on 4 hits and a walk with 9 K's. Texas reached 2nd base just twice prior to the 7th inning when Pederson homered to tie the game at 1-1. It was Pederson's first base hit of the season in 17 AB's. Carter singled, Higashioka flew out 407 feet to CF, and Smith walked, but McCutcheon and Nimmo stuck out to strand them. Robert Garcia came on to pitch the 8th and surrendered the lead when he faced 4 batters allowing 2 walks and a single. With 2 outs in the 8th, Burger doubled and Pederson walked. Carter flew out 405 feet to CF for the third out. Higashioka, Haggerty, and Jung struck out in order in the 9th. Record: 4-5.`
   },
   {
   id: 'apr6',
