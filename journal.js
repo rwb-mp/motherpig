@@ -66,8 +66,8 @@ const schedule = [
   id: 'apr6',
   date: 'April 6',
   opp: 'Seattle',
-  score: '7:05',
-  recap: `Jacob deGrom(0-0, 5.79) vs. Logan Gilbert (0-1, 6.75). `
+  score: 'W 2-1',
+  recap: `Jacob deGrom(0-0, 5.79) vs. Logan Gilbert (0-1, 6.75). With 1 out in the 1st, Cal Raleigh culminated a 12-pitch at-bat against deGrom by hitting one 412 feet to right. That was the only hit deGrom would allow in his 5 innings. Langford doubled in the bottom half and Seager singled him in to tie the game at 1-1. Beeks, Alexander, Winn, Garcia, and Junis combined for 4 shutout innings of relief allowing a single, a walk, and a hit batter. In the Ranger 6th, Seager singled, took 2nd on a wild pitch, and scored the game winner on a Burger double. The Texas bullpen has the lowest ERA in the A.L. Record: 5-5.`
   },
   {
   id: 'apr7',
