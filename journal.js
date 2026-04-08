@@ -73,14 +73,14 @@ const schedule = [
   id: 'apr7',
   date: 'April 7',
   opp: 'Seattle',
-  score: '7:05',
-  recap: `Nathan Eovaldi (0-2, 11.42) vs. George Kirby (1-1, 3.75). `
+  score: 'W 3-2',
+  recap: `Nathan Eovaldi (0-2, 11.42) vs. George Kirby (1-1, 3.75). The Rangers entered the game having lost their last ten George Kirby starts. The Mariners homered on the first pitch to take an early 1-0 lead and added another run in the 5th on a single, a walk, and a single all with 2 outs. The Rangers turned the game around in the bottom of the 5th when Pederson led off with an infield single and was awarded 2nd on a throwing error. Carter singled him home and Higashioka homered 388 feet to left to take a 3-2 lead. Eovaldi had his 1st strong outing pitching 6 innings, allowing 2 runs on 6 hits and 2 walks, striking out 7. Eovaldi had 22 swings and misses. Latz pitched a perfect 7th and 8th and Junis was called on to pitch a scoreless 9th for the 2nd straight night. The 1st 2 hitters reached on soft singles, but Junis got the next 2 to fly out. Brendan Donovan, who homered in the 1st, hit a squibber in front of the plate. Higashioka pounced on it and threw wide to 1st, but Burger stretched and face planted to record the final out. Record 6-5.`
   },
   {
   id: 'apr8',
   date: 'April 8',
   opp: 'Seattle',
-  score: '7:05',
+  score: '1:35',
   recap: `MacKenzie Gore (1-0, 3.97) vs. Bryan Woo (0-0, 1.38). `
   },  
   {
