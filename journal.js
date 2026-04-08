@@ -80,29 +80,29 @@ const schedule = [
   id: 'apr8',
   date: 'April 8',
   opp: 'Seattle',
-  score: '1:35',
-  recap: `MacKenzie Gore (1-0, 3.97) vs. Bryan Woo (0-0, 1.38). `
+  score: 'W 3-0',
+  recap: `MacKenzie Gore (1-0, 3.97) vs. Bryan Woo (0-0, 1.38). The hitters continued to struggle but the pitching was superb as Texas completed the sweep of Seattle. Gore threw 82 pitches over 5 innings, allowing a hit and 2 walks, striking out 9. Martin and Curvelo retired all 9 batters they faced in relief, and Winn pitched a shutout 9th. The Ranger runs came in the 5th on consecutive singles by Jansen, Smith, and Duran to load the bases. Nimmo hit a tapper to 1st and 2 scored on an errant throw to the plate. Seager plated another on a sac fly to center. In the series Rangers' pitching held the Mariners' bats to 3 runs on 12 hits. Record: 7-5.`
   },  
   {
   id: 'apr10',
   date: 'April 10',
   opp: 'at Los Angeles Dodgers',
   score: '9:10',
-  recap: ``
+  recap: `Kumar Rocker (0-1, 3.60) vs. Tyler Glasnow (1-0, 3.00). `
   },
   {
   id: 'apr11',
   date: 'April 11',
   opp: 'at Los Angeles Dodgers',
   score: '8:10',
-  recap: ``
+  recap: `Jack Leiter (1-0, 2.45) vs. Emmet Sheehan (1-0, 8.00). `
   },
   {
   id: 'apr12',
   date: 'April 12',
   opp: 'at Los Angeles Dodgers',
   score: '3:10',
-  recap: ``
+  recap: `Jacob deGrom (0-0, 3.72) vs. Roki Sasaki (0-1, 7.00). `
   },   
   {
   id: 'apr13',
