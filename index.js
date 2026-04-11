@@ -2882,7 +2882,7 @@ const Hours = document.getElementById('hours');
 const Minutes = document.getElementById('minutes');
 const Seconds = document.getElementById('seconds');
 
-const targetDate = new Date("April 10 2026 21:10:00").getTime();
+const targetDate = new Date("April 11 2026 20:10:00").getTime();
 
 function timer () {
     const currentDate = new Date().getTime();
