@@ -333,9 +333,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '10',
     opp: 'at LAD <img src="logos/dodgers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '9:10',
-    score: '',
-    recap: 'CW33'
+    time: '',
+    score: 'L 8-7',
+    recap: '<a href = "journal.html#apr10" target = "_blank">Recap</a>'
     },
     {
     id: '28',
