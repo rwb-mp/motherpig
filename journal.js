@@ -94,8 +94,8 @@ const schedule = [
   id: 'apr11',
   date: 'April 11',
   opp: 'at Los Angeles Dodgers',
-  score: '8:10',
-  recap: `Jack Leiter (1-0, 2.45) vs. Emmet Sheehan (1-0, 8.00). `
+  score: 'L 6-3',
+  recap: `Jack Leiter (1-0, 2.45) vs. Emmet Sheehan (1-0, 8.00). Nimmo had a double and 2 HR's, but the rest of the lineup went 1-for-27. Nimmo's first HR came on the 2nd pitch of the game. The early lead didn't last as both Ohtani and Hernandez homered in the bottom of the inning to give LA a 4-1 lead. The Dodgers added runs in the 3rd and the 8th. Down 6-3 in the 9th, Texas brought the tying run to the plate, but both McCutcheon and Jansen struck out. Leiter threw 93 pitches over 3-2/3 innings, allowing 5 runs on 5 hits and 4 walks with 4 K's. Alexander and Garcia were good in relief, but Martin got tagged for the Dodgers' 6th run. Record: 7-7.`
   },
   {
   id: 'apr12',
