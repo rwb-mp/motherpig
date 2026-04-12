@@ -101,8 +101,8 @@ const schedule = [
   id: 'apr12',
   date: 'April 12',
   opp: 'at Los Angeles Dodgers',
-  score: '3:10',
-  recap: `Jacob deGrom (0-0, 3.72) vs. Roki Sasaki (0-1, 7.00). `
+  score: 'W 5-2',
+  recap: `Jacob deGrom (0-0, 3.72) vs. Roki Sasaki (0-1, 7.00). Despite 10 walks and the leadoff hitter reaching in 6 innings, it was only a 1-run Ranger lead through 7 at 3-2. Carter hit a solo HR in the 3rd and Smith scored Pederson with an RBI single later in the inning. Jung reached on a leadoff walk in the 6th and scored on an infield groundout. The Rangers added 2 more in the 8th on 2 singles, 2 walks, and a wild pitch. deGrom gave up a HR to Ohtani on his 1st pitch and then shutout the Dodgers during the rest of his outing. deGrom's line was 6 innings, 1 run, 4 hits, 2 walks, and 9 K's. Burger struck out 4 times in his 5 at bats. Record: 8-7.`
   },   
   {
   id: 'apr13',
