@@ -109,28 +109,28 @@ const schedule = [
   date: 'April 13',
   opp: 'at Athletics',
   score: '8:40',
-  recap: ``
+  recap: `Nathan Eovaldi (1-2, 7.98) vs. Luis Severino (0-1, 5.40).`
   },
   {
   id: 'apr14',
   date: 'April 14',
   opp: 'at Athletics',
   score: '8:40',
-  recap: ``
+  recap: `MacKenzie Gore (2-0, 2.76) vs. Jeffrey Springs (2-0, 1.47).`
   },
   {
   id: 'apr15',
   date: 'April 15',
   opp: 'at Athletics',
   score: '8:40',
-  recap: ``
+  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27).`
   },
   {
   id: 'apr16',
   date: 'April 16',
   opp: 'at Athletics',
   score: '2:05',
-  recap: ``
+  recap: `Jack Leiter (1-1, 4.91) vs. Jacob Lopez (1-1, 7.43).`
   },
   {
   id: 'apr17',
