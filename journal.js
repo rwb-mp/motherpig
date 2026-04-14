@@ -108,8 +108,8 @@ const schedule = [
   id: 'apr13',
   date: 'April 13',
   opp: 'at Athletics',
-  score: '8:40',
-  recap: `Nathan Eovaldi (1-2, 7.98) vs. Luis Severino (0-1, 5.40).`
+  score: 'W 8-1',
+  recap: `Nathan Eovaldi (1-2, 7.98) vs. Luis Severino (0-1, 5.40). The Athletics entered the game having won their last 5 in a row--2 road wins against the Yankees and a road sweep of the Mets. Burger homered twice in the first 3 innings staking Texas to a 4-0 lead. The Rangers batted around in the 8th and scored 4 more on 2 doubles, 3 singles, and a walk. Nimmo and Carter went 0-for-9 at the top of the lineup, but every other Ranger hitter had at least 1 hit. Pederson had his first 3-hit game, but benefited from a bloop to left that fell in and a grounder up the middle that hit the umpire. Eovaldi threw 84 pitches over 7 innings allowing just 3 hits and 2 walks with 7 K's. Curvelo pitched the last 2 innings and allowed a solo HR in the 8th. Record: 9-7.`
   },
   {
   id: 'apr14',
