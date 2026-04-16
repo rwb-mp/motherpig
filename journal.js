@@ -122,8 +122,8 @@ const schedule = [
   id: 'apr15',
   date: 'April 15',
   opp: 'at Athletics',
-  score: '8:40',
-  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27).`
+  score: 'L 6-5',
+  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27). In the 1st inning, Rocker gave up a 2-out walk followed by a double that gave the Athletics the early lead. In the 2nd inning, it was a 1-out hit batter who came around to score. Seager tied the game 2-2 in the 3rd with a 410-foot HR to right. Rocker was lifted with 2 outs and 2 on in the 5th. After a walk to load the bases, Beeks got a bases loaded strikeout to keep the score tied. Winn allowed a 2-run HR in the 6th and another in the 7th to give the Athletics a 6-2 lead. The Rangers didn't threaten again until the 8th when Burger homered 408 feet to left after a Seager walk and a Langford single. Trailing 6-5 in the 9th, Smith, Jansen, and McCutcheon went quietly to end the game. Record: 9-9.`
   },
   {
   id: 'apr16',
@@ -137,21 +137,21 @@ const schedule = [
   date: 'April 17',
   opp: 'at Seattle',
   score: '8:40',
-  recap: ``
+  recap: `Jacob deGrom (1-0, 2.87) vs. TBD. `
   },
   {
   id: 'apr18',
   date: 'April 18',
   opp: 'at Seattle',
   score: '6:15',
-  recap: ``
+  recap: `Nathan Eovaldi (2-2, 5.40) vs. TBD. `
   },
   {
   id: 'apr19',
   date: 'April 19',
   opp: 'at Seattle',
   score: '3:10',
-  recap: ``
+  recap: `MacKenzie Gore (2-1, 3.00) vs. TBD. `
   },
   {
   id: 'apr21',
