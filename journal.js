@@ -123,7 +123,7 @@ const schedule = [
   date: 'April 15',
   opp: 'at Athletics',
   score: 'L 6-5',
-  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27). In the 1st inning, Rocker gave up a 2-out walk followed by a double that gave the Athletics the early lead. In the 2nd inning, it was a 1-out hit batter who came around to score. Seager tied the game 2-2 in the 3rd with a 410-foot HR to right. Rocker was lifted with 2 outs and 2 on in the 5th. After a walk to load the bases, Beeks got a bases loaded strikeout to keep the score tied. Winn allowed a 2-run HR in the 6th and another in the 7th to give the Athletics a 6-2 lead. The Rangers didn't threaten again until the 8th when Burger homered 408 feet to left after a Seager walk and a Langford single. Trailing 6-5 in the 9th, Smith, Jansen, and McCutcheon went quietly to end the game. Record: 9-9.`
+  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27). Rocker gave up a 2-out walk followed by a double to give the Athletics a 1st inning lead. In the 2nd inning it was a 1-out hit batter who came around to score. Seager tied the game 2-2 in the 3rd with a 410-foot HR to right. Rocker was lifted with 2 outs and 2 on in the 5th. His line was 4-2/3 innings, 2 runs, 4 hits, a hit batter, and 6 K's. After a walk to load the bases, Beeks got a bases loaded strikeout to keep the score tied. Winn allowed a 2-run HR in the 6th and another in the 7th to give the Athletics a 6-2 lead. The Rangers didn't threaten again until the 8th when Burger homered 408 feet to left after a Seager walk and a Langford single. Trailing 6-5 in the 9th, Smith, Jansen, and McCutcheon went quietly to end the game. Record: 9-9.`
   },
   {
   id: 'apr16',
