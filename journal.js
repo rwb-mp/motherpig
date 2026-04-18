@@ -130,28 +130,28 @@ const schedule = [
   date: 'April 16',
   opp: 'at Athletics',
   score: 'W 9-6',
-  recap: `Jack Leiter (1-1, 4.91) vs. Jacob Lopez (1-1, 7.43). The Rangers took a 5-3 lead in the 7th thanks to a wind-aided flyball by Jung that just cleared the 5-foot wall in rightfield for a 2-run HR. In the 8th, the A's loaded the bases with 2 outs against Alexander and Junis. Latz was brought in to get the 3rd out, but the A's cleared the bases and took a 6-5 lead when a short windblown flyball to the outfield fell out of the reach of Langford in leftfield. Texas responded with 4 runs in the 9th on singles by Burger, Jung, Pederson, and Duran, an intentional walk, a sacrifice bunt by Carter, and a throwing error by the pitcher. Leiter pitched 5-2/3 innings, allowing 3 runs on 7 hits, 3 walks, and 3 K's. Jung had a 3-hit game, scoring twice with 2 RBI's. Duran went 2-for 4, also scoring twice with 2 RBI's. Cal Quantrill made his 1st appearance as a Ranger and pitched a shutout 9th. Record: 10-9.`
+  recap: `Jack Leiter (1-1, 4.91) vs. Jacob Lopez (1-1, 7.43). The Rangers took a 5-3 lead in the 7th thanks to a wind-assisted flyball by Jung that just cleared the 5-foot wall in rightfield for a 2-run HR. In the 8th, the A's loaded the bases with 2 outs against Alexander and Junis. Latz was brought in to get the 3rd out, but the A's cleared the bases and took a 6-5 lead when a short windblown flyball to the outfield fell out of the reach of Langford in leftfield. Texas responded with 4 runs in the 9th on singles by Burger, Jung, Pederson, and Duran, an intentional walk, a sacrifice bunt by Carter, and a throwing error by the pitcher. Leiter pitched 5-2/3 innings, allowing 3 runs on 7 hits, 3 walks, and 3 K's. Jung had a 3-hit game, scoring twice with 2 RBI's. Duran went 2-for 4, also scoring twice with 2 RBI's. Cal Quantrill made his 1st appearance as a Ranger and pitched a shutout 9th. Record: 10-9.`
   },
   {
   id: 'apr17',
   date: 'April 17',
   opp: 'at Seattle',
-  score: '8:40',
-  recap: `Jacob deGrom (1-0, 2.87) vs. TBD. `
+  score: 'W 5-0',
+  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had 15 base hits but the score remained close until the 9th due to 13 runners left on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. It was Collyer's 2nd relief appearance and his fastball was clocked at 100 mph. Record: 11-9.`
   },
   {
   id: 'apr18',
   date: 'April 18',
   opp: 'at Seattle',
   score: '6:15',
-  recap: `Nathan Eovaldi (2-2, 5.40) vs. TBD. `
+  recap: `Nathan Eovaldi (2-2, 5.40) vs. George Kirby (2-2, 3.25). `
   },
   {
   id: 'apr19',
   date: 'April 19',
   opp: 'at Seattle',
   score: '3:10',
-  recap: `MacKenzie Gore (2-1, 3.00) vs. TBD. `
+  recap: `MacKenzie Gore (2-1, 3.00) vs. Bryan Woo (0-2, 2.16). `
   },
   {
   id: 'apr21',
