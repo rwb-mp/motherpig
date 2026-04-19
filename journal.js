@@ -137,14 +137,14 @@ const schedule = [
   date: 'April 17',
   opp: 'at Seattle',
   score: 'W 5-0',
-  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had 15 base hits but the score remained close until the 9th due to 13 runners left on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. It was Collyer's 2nd relief appearance and his fastball was clocked at 99.7 mph. Record: 11-9.`
+  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had a season high 15 base hits but the score remained close until the 9th due to 13 runners left on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. It was Collyer's 2nd relief appearance and his fastball was clocked at 99.7 mph. Record: 11-9.`
   },
   {
   id: 'apr18',
   date: 'April 18',
   opp: 'at Seattle',
-  score: '6:15',
-  recap: `Nathan Eovaldi (2-2, 5.40) vs. George Kirby (2-2, 3.25). `
+  score: 'L 7-3',
+  recap: `Nathan Eovaldi (2-2, 5.40) vs. George Kirby (2-2, 3.25). The Rangers had 11 base hits and drew 8 walks but were 1-for-8 with RISP and left 16 runners on base, including bases loaded in the 4th, 7th, and 9th. Seattle scored a run in the 1st, but the game turned in the 4th when Duran made an errant throw on an attempted force play at 2nd, leading to 2 unearned runs. Eovaldi pitched 5 innings allowing 2 earned runs, 4 hits, a walk, and striking out 3. Quantrill gave the overworked bullpen a much needed day off by throwing 65 pitches in 3 relief innings. After pitching a strong 6th and 7th, the Mariners got to him for 3 runs in the 8th. Langford and Duran each had 3 hits, and Jung had 2 hits including a solo HR in the 6th. Record: 11-10.`
   },
   {
   id: 'apr19',
