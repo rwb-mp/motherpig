@@ -144,7 +144,7 @@ const schedule = [
   date: 'April 18',
   opp: 'at Seattle',
   score: 'L 7-3',
-  recap: `Nathan Eovaldi (2-2, 5.40) vs. George Kirby (2-2, 3.25). The Rangers had 11 base hits and drew 8 walks but were 1-for-8 with RISP and left 16 runners on base, including bases loaded in the 4th, 7th, and 9th. Seattle scored a run in the 1st, but the game turned in the 4th when Duran made an errant throw on an attempted force play at 2nd, leading to 2 unearned runs. Eovaldi pitched 5 innings allowing 2 earned runs, 4 hits, a walk, and striking out 3. Quantrill gave the overworked bullpen a much needed day off by throwing 65 pitches in 3 relief innings. After pitching a strong 6th and 7th, the Mariners got to him for 3 runs in the 8th. Langford and Duran each had 3 hits, and Jung had 2 hits including a solo HR in the 6th. Record: 11-10.`
+  recap: `Nathan Eovaldi (2-2, 5.40) vs. George Kirby (2-2, 3.25). The Rangers had 11 base hits and drew 8 walks but were 1-for-8 with RISP and left 16 runners on base, including bases loaded in the 4th, 7th, and 9th. Seattle scored a run in the 1st, but the game turned in the 4th when Duran made an errant throw on an attempted force play at 2nd, leading to 2 unearned runs. Eovaldi pitched 5 innings allowing 2 earned runs, 4 hits, a walk, and striking out 3. Quantrill gave the overworked bullpen a much needed day off by throwing 65 pitches in 3 relief innings. After pitching a strong 6th and 7th, the Mariners got to him for 3 runs in the 8th. Langford and Duran each had 3 hits, and Jung had 2 hits including a 412-foot solo HR in the 6th. Record: 11-10.`
   },
   {
   id: 'apr19',
