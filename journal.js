@@ -137,7 +137,7 @@ const schedule = [
   date: 'April 17',
   opp: 'at Seattle',
   score: 'W 5-0',
-  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had a season high 15 base hits but left 13 runners on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. Collyer made his 2nd relief appearance, and his fastball was clocked at 99.7 mph. Record: 11-9.`
+  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had a season high 15 base hits, but left 13 runners on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. Collyer made his 2nd relief appearance, and his fastball was clocked at 99.7 mph. Record: 11-9.`
   },
   {
   id: 'apr18',
