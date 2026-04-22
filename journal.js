@@ -157,15 +157,15 @@ const schedule = [
   id: 'apr21',
   date: 'April 21',
   opp: 'Pittsburgh',
-  score: '7:05',
-  recap: ``
+  score: 'W 5-1',
+  recap: `Kumar Rocker (0-1, 4.30) vs Carmen Mlodzinski (1-0, 1.77). A solid start by Rocker, a defensive gem by Carter, some clutch hitting, and a lockdown bullpen were on display. Rocker got his 1st win of the season by throwing 88 pitches over 6 innings, allowing a run on 4 hits and a walk with 5 K's. After a 1st inning run by Pittsburgh, the Rangers began the 2nd with consecutive hits by Pederson, Jung, and Carter to tie the game. A sac fly by Smith later in the inning gave Texas a 2-1 lead. Pittsburgh had runners on 2nd and 3rd with 2 outs in the 5th when Carter perfectly timed his jump to reach over the wall and turn a 399-foot HR into the third out. In the Ranger half of the 5th, doubles by Smith and Duran and singles by Seager and Burger gave Texas a 5-1 lead. Winn, Latz, and Junis pitched 3 shutout innings to secure the win. Record: 12-11.`
   },
   {
   id: 'apr22',
   date: 'April 22',
   opp: 'Pittsburgh',
   score: '7:05',
-  recap: ``
+  recap: `Jack Leiter (1-1, 4.87) vs. Braxton Ashcraft (1-1, 2.38)`
   },
   {
   id: 'apr23',
