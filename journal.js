@@ -164,36 +164,36 @@ const schedule = [
   id: 'apr22',
   date: 'April 22',
   opp: 'Pittsburgh',
-  score: '7:05',
-  recap: `Jack Leiter (1-1, 4.87) vs. Braxton Ashcraft (1-1, 2.38)`
+  score: 'L 8-4',
+  recap: `Jack Leiter (1-1, 4.87) vs. Braxton Ashcraft (1-1, 2.38). Leiter cruised into the 5th inning with a 2-1 lead courtesy of Jung's 344-foot HR into the rightfield corner in the 2nd. After giving up a leadoff single in the 5th followed by a strikeout, Leiter walked the 9-hitter. The Pirates followed with two 2-out singles and a throwing error by Nimmo to take a 4-2 lead. Leiter was charged with 3 earned runs on 5 hits, 2 walks, and 5 K's in his 5 innings pitched. Higashioka doubled to start the Ranger 5th, but Smith, Duran, and Nimmo couldn't move him. The Rangers had another opportunity in the 8th when McCutcheon led off with a single, and Nimmo doubled him to 3rd after a Duran strikeout. Seager struck out for the 2nd out, but Burger delivered a clutch single to tie the game. Winn gave up a pair of singles to start the 9th, and Pittsburgh took the lead on a squibber in front of the plate that Jung couldn't make a clean play on. The Pirates put the game out of reach on a 3-run, 437-foot HR by Oneil Cruz that bounded off the top of the rightfield foul pole. Jung, Carter, and Higashioka went quietly in the Ranger 9th. Texas was 1-for-7 with RISP. Record: 12-12.`
   },
   {
   id: 'apr23',
   date: 'April 23',
   opp: 'Pittsburgh',
   score: '7:05',
-  recap: ``
+  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15).`
   },
   {
   id: 'apr24',
   date: 'April 24',
   opp: 'Athletics',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Luis Severino (0-2, 6.20). `
   },
   {
   id: 'apr25',
   date: 'April 25',
   opp: 'Athletics',
   score: '6:05',
-  recap: ``
+  recap: `TBD vs. Jeffrey Springs (3-1, 3.34). `
   },
   {
   id: 'apr26',
   date: 'April 26',
   opp: 'Athletics',
   score: '1:35',
-  recap: ``
+  recap: `TBD vs. J.T. Ginn (0-0, 3.74). `
   },
   {
   id: 'apr27',
