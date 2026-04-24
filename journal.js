@@ -171,8 +171,8 @@ const schedule = [
   id: 'apr23',
   date: 'April 23',
   opp: 'Pittsburgh',
-  score: '7:05',
-  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15).`
+  score: 'W 6-1',
+  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15). The Rangers had a chance for some 1st inning runs when they loaded the bases with 2 outs, but Carter watched strike 3 on the outside corner to end the inning. Texas did break through in the 3rd when Jung singled and Carter hit an inside-the-park-HR that traveled 385-feet to right-center and bounded off the wall away from Oneil in CF. The Rangers added 4 more in the 4th when Smith and Osuna walked to start the inning. With 1-out, Pederson singled to score Smith, and Seager followed with a 382-foot blast to right to score 3 more. `
   },
   {
   id: 'apr24',
