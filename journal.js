@@ -172,28 +172,28 @@ const schedule = [
   date: 'April 23',
   opp: 'Pittsburgh',
   score: 'W 6-1',
-  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15). The Rangers had a chance for some 1st inning runs when they loaded the bases with 2 outs, but Carter watched strike 3 on the outside corner to end the inning. Texas did break through in the 3rd when Jung singled and Carter hit an inside-the-park-HR that traveled 385-feet to right-center and bounded off the wall away from Oneil in CF. The Rangers added 4 more in the 4th when Smith and Osuna walked to start the inning. With 1-out, Pederson singled to score Smith, and Seager followed with a 382-foot blast to right to score 3 more. `
+  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15). The Rangers had a chance for some 1st inning runs when they loaded the bases with 2 outs, but Carter watched strike 3 on the outside corner to end the inning. Texas did break through in the 3rd when Jung singled and Carter hit an inside-the-park-HR when his smash to right-center and bounced off the wall and away from the centerfielder. The Rangers more runs in the 4th when Smith and Osuna walked to start the inning. One-out later, Pederson singled to score Smith, and Seager followed with a 382-foot blast to right to score 3 more. With two out in the 6th, deGrom issued a walk and his night was finished--5-2/3 innings, 1 run on 5 hits, no walks, and 10 K's. Collyer hit the 1st batter he faced and then walked a batter to load the bases. Jung dove toward the line to field a smash and one-hopped his throw to Burger who made a clean pick to end the inning. Beeks, Junis, and Payton Gray--making his MLB debit--pitched a perfect 3 innings in relief. Record: 13-12.`
   },
   {
   id: 'apr24',
   date: 'April 24',
   opp: 'Athletics',
   score: '7:05',
-  recap: `TBD vs. Luis Severino (0-2, 6.20). `
+  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). `
   },
   {
   id: 'apr25',
   date: 'April 25',
   opp: 'Athletics',
   score: '6:05',
-  recap: `TBD vs. Jeffrey Springs (3-1, 3.34). `
+  recap: `MacKenzie Gore (2-2, 4.15) vs. Jeffrey Springs (3-1, 3.34). `
   },
   {
   id: 'apr26',
   date: 'April 26',
   opp: 'Athletics',
   score: '1:35',
-  recap: `TBD vs. J.T. Ginn (0-0, 3.74). `
+  recap: `Kumar Rocker (1-1, 3.48) vs. J.T. Ginn (0-0, 3.74). `
   },
   {
   id: 'apr27',
