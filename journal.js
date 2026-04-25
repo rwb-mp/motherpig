@@ -172,14 +172,14 @@ const schedule = [
   date: 'April 23',
   opp: 'Pittsburgh',
   score: 'W 6-1',
-  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15). The Rangers missed an opportunity in the 1st when they loaded the bases with 2 outs, but Carter took strike 3 on the outside corner to end the inning. Texas did break through in the 3rd when Jung singled and Carter hit an inside-the-park-HR when his smash to right-center bounced off the wall and away from the centerfielder. The Rangers added runs in the 4th when Smith and Osuna walked and Pederson singled to score Smith. Seager followed with a 382-foot blast to right to score 3 more. With two out in the 6th, deGrom issued a walk and his night was finished--5-2/3 innings, 1 run on 5 hits, no walks, and 10 K's. Collyer hit the 1st batter he faced and walked a batter to load the bases. Jung then made a diving stop of a smash toward the line and one-hopped a throw to Burger who made a clean pick and the inning was over. Beeks, Junis, and Payton Gray--making his MLB debut--pitched a perfect 3 innings in relief. Record: 13-12.`
+  recap: `Jacob deGrom (1-0, 2.29) vs. Bubba Chandler (1-1, 3.15). The Rangers missed an opportunity in the 1st when they loaded the bases with 2 outs, but Carter took strike 3 on the outside corner to end the inning. Texas did break through in the 3rd when Jung singled and Carter hit an inside-the-park HR when his smash to right-center bounced off the wall and away from the centerfielder. The Rangers added runs in the 4th when Smith and Osuna walked and Pederson singled to score Smith. Seager followed with a 382-foot blast to right to score 3 more. With two out in the 6th, deGrom issued a walk and his night was finished--5-2/3 innings, 1 run on 5 hits, no walks, and 10 K's. Collyer hit the 1st batter he faced and walked a batter to load the bases. Jung then made a diving stop of a smash toward the line and one-hopped a throw to Burger who made a clean pick and the inning was over. Beeks, Junis, and Payton Gray--making his MLB debut--pitched a perfect 3 innings in relief. Record: 13-12.`
   },
   {
   id: 'apr24',
   date: 'April 24',
   opp: 'Athletics',
-  score: '7:05',
-  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). `
+  score: 'L 8-1',
+  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). The Rangers debuted their new city connect 'Tejas' uniforms. Five home runs allowed--including 3 in Eovaldi's 1st 7 pitches--accounted for 8 Athletics' runs. Eovaldi was charged with 6 runs on 6 hits and a walk in 6 innings. Quantrill pitched the final 3 innngs and gave up one of the 5 HR's. Seager and Jung hit doubles in the 4th to produce the Rangers' only run. The Rangers reached 2nd base only twice the rest of the game. Record 13-13.`
   },
   {
   id: 'apr25',
