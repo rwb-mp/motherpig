@@ -179,7 +179,7 @@ const schedule = [
   date: 'April 24',
   opp: 'Athletics',
   score: 'L 8-1',
-  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). The Rangers debuted their new city connect 'Tejas' uniforms. Five home runs allowed--including 3 in Eovaldi's 1st 7 pitches--accounted for 8 Athletics' runs. Eovaldi was charged with 6 runs on 6 hits and a walk in 6 innings. Quantrill pitched the final 3 innngs and gave up one of the 5 HR's. Seager and Jung hit doubles in the 4th to produce the Rangers' only run. The Rangers reached 2nd base only twice the rest of the game. Record 13-13.`
+  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). The Rangers debuted their new city connect 'Tejas' uniforms. Five home runs allowed--including 3 in Eovaldi's 1st 7 pitches--accounted for 8 Athletics' runs. Eovaldi was charged with 6 runs on 6 hits and a walk in 6 innings. Quantrill pitched the final 3 innngs and gave up one of the 5 HR's. Seager and Jung hit doubles in the 4th to produce the Rangers' only run. The Rangers reached 2nd base only twice the rest of the game and were 1-for-6 with RISP.. Record 13-13.`
   },
   {
   id: 'apr25',
