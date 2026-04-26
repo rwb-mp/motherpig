@@ -74,7 +74,7 @@ const schedule = [
   date: 'April 7',
   opp: 'Seattle',
   score: 'W 3-2',
-  recap: `Nathan Eovaldi (0-2, 11.42) vs. George Kirby (1-1, 3.75). The Rangers entered the game having lost their last ten George Kirby starts. The Mariners homered on the first pitch to take an early 1-0 lead and added another run in the 5th on a single, a walk, and a single, all with 2 outs. The Rangers turned the game around in the bottom of the 5th when Pederson led off with an infield single and was awarded 2nd on a throwing error. Carter singled him home and Higashioka homered 388 feet to left to take a 3-2 lead. Eovaldi had 22 swings and misses in his 1st strong outing, pitching 6 innings, allowing 2 runs on 6 hits and 2 walks, striking out 7. Latz pitched a perfect 7th and 8th and Junis was called on to pitch a scoreless 9th for the 2nd straight night. The 1st 2 hitters reached on soft singles, but Junis got the next 2 to fly out. Brendan Donovan, who homered in the 1st, hit a squibber in front of the plate. Higashioka pounced on it and threw wide to 1st, but Burger made a game saving catch as he stretched and face planted to record the final out. Record 6-5.`
+  recap: `Nathan Eovaldi (0-2, 11.42) vs. George Kirby (1-1, 3.75). The Rangers entered the game having lost their last ten George Kirby starts. The Mariners homered on the first pitch to take an early 1-0 lead and added another run in the 5th on a single, a walk, and a single, all with 2 outs. The Rangers turned the game around in the bottom of the 5th when Pederson led off with an infield single and was awarded 2nd on a throwing error. Carter singled him home and Higashioka homered 388 feet to left to take a 3-2 lead. Eovaldi had 22 swings and misses in his 1st strong outing, pitching 6 innings, allowing 2 runs on 6 hits and 2 walks, striking out 7. Latz pitched a perfect 7th and 8th and Junis was called on to pitch a scoreless 9th for the 2nd straight night. The 1st 2 hitters reached on soft singles, but Junis got the next 2 to fly out. Brendan Donovan, who homered in the 1st, hit a squibber in front of the plate. Higashioka pounced on it and threw wide to 1st, but Burger made a game saving catch as he stretched and face planted to record the final out. Record: 6-5.`
   },
   {
   id: 'apr8',
@@ -179,7 +179,7 @@ const schedule = [
   date: 'April 24',
   opp: 'Athletics',
   score: 'L 8-1',
-  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). The Rangers debuted their new city connect 'Tejas' uniforms. Five home runs--including 3 in Eovaldi's 1st 7 pitches--accounted for all the Athletics' runs. Eovaldi was charged with 6 runs on 6 hits and a walk in 6 innings. Quantrill pitched the final 3 innngs and gave up the last of the 5 HR's. Seager and Jung hit doubles in the 4th to produce the Rangers' only score. The Rangers reached 2nd base twice the rest of the game and were 1-for-6 with RISP. Record 13-13.`
+  recap: `Nathan Eovaldi (2-3, 5.06) vs. Luis Severino (0-2, 6.20). The Rangers debuted their new city connect 'Tejas' uniforms. Five home runs--including 3 in Eovaldi's 1st 7 pitches--accounted for all the Athletics' runs. Eovaldi was charged with 6 runs on 6 hits and a walk in 6 innings. Quantrill pitched the final 3 innngs and gave up the last of the 5 HR's. Seager and Jung hit doubles in the 4th to produce the Rangers' only score. The Rangers reached 2nd base twice the rest of the game and were 1-for-6 with RISP. Record: 13-13.`
   },
   {
   id: 'apr25',
@@ -192,8 +192,8 @@ const schedule = [
   id: 'apr26',
   date: 'April 26',
   opp: 'Athletics',
-  score: '1:35',
-  recap: `Kumar Rocker (1-1, 3.48) vs. J.T. Ginn (0-0, 3.74). `
+  score: 'L 2-1',
+  recap: `Kumar Rocker (1-1, 3.48) vs. J.T. Ginn (0-0, 3.74). The Rangers had baserunners in every inning except the 9th, and the leadoff hitter reached 6 times. The run came in the 6th when Jung led off with a double and scored on a throwing error on Carter's sacrifice bunt. Burger walked and Smith bunted for a hit to load the bases with no outs. Jansen and Haggerty struck out and Nimmo lined out to centerfield. Texas was 1-for-20 with runners on base. Rocker issued a pair of 2-out walks followed by a triple that scored them both, but then followed the 1st inning with 5 scoreless innings. Alexander, Collyer, and Gray pitched 3 shutout innings in relief. Jung went 2-for-4 with 2 more doubles. Record: 14-14.`
   },
   {
   id: 'apr27',
