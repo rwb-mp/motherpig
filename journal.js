@@ -185,8 +185,8 @@ const schedule = [
   id: 'apr25',
   date: 'April 25',
   opp: 'Athletics',
-  score: '6:05',
-  recap: `MacKenzie Gore (2-2, 4.15) vs. Jeffrey Springs (3-1, 3.34). `
+  score: 'W 4-3',
+  recap: `MacKenzie Gore (2-2, 4.15) vs. Jeffrey Springs (3-1, 3.34). Jung homered 381 feet to right after a Seager single in the 6th to give the Rangers a 4-3 lead. The relief corps of Winn, Beeks, Junis, and Latz allowed 1 baserunner over the final 4 innings to preserve the win. Texas made the most of their 5 hits. Jansen was hit by a pitch to open the 3rd. Carter walked and Haggerty bunted for a hit to load the bases with no outs. Nimmo drove in a run with a sac fly and Seager singled home the Rangers 2nd run. Gore struggled through 5 innings, throwing 106 pitches and allowing 3 runs on 6 hits and 3 walks. After going 0-for-17 in March, Jung is hitting .371 in April with 4 HR's, 9 doubles, and 14 RBI's. Record: 14-13.`
   },
   {
   id: 'apr26',
