@@ -200,7 +200,7 @@ const schedule = [
   date: 'April 27',
   opp: 'New York Yankees',
   score: 'L 4-2',
-  recap: `Jack Leiter (1-1, 4.97) vs. Max Fried (3-1, 2.40). Leiter was stellar 1st time through the lineup. Second time through, the Yankees hit 3 HR's for a 4-0 lead. Leiter threw 93 pitches over 6 innings, allowing 4 runs on 8 hits and a walk. Payton Gray pitched 2 shutout innings, and Collyer pitched a shutout 9th. Pederson homered in the 7th to put Texas on the board. Burger singled to start the 9th, Smith reached on a 2-out error, and Osuna singled home Burger. Duran came to the plate as the winning run, but he grounded out hard to short to end the game. Seager went 0-for-4 with 3 K's. Record: 14-15.`
+  recap: `Jack Leiter (1-1, 4.97) vs. Max Fried (3-1, 2.40). Leiter was stellar 1st time through the lineup. Second time through, the Yankees hit 3 HR's for a 4-0 lead. Leiter threw 93 pitches over 6 innings, allowing 4 runs on 8 hits and a walk. Payton Gray pitched 2 shutout innings, and Collyer pitched a shutout 9th. Pederson homered in the 7th to put Texas on the board. Burger singled to start the 9th, Smith reached on a 2-out error, and Osuna singled home Burger. Duran came to the plate as the winning run, but he grounded out hard to short to end the game. Seager went 0-for-4 with 3 K's. Rangers' relievers have the best ERA in MLB at 2.78. Record: 14-15.`
   },
   {
   id: 'apr28',
