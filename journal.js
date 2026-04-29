@@ -213,8 +213,8 @@ const schedule = [
   id: 'apr29',
   date: 'April 29',
   opp: 'New York Yankees',
-  score: '1:35',
-  recap: `Nathan Eovaldi (2-4, 5.79) vs. Will Warren (3-0, 2.59). `
+  score: 'W 3-0',
+  recap: `Nathan Eovaldi (2-4, 5.79) vs. Elmer Rodriguez (0-0, 0.00). Eovaldi pitched a gem and the offense was just good enough. Eovaldi's line was 7 innings, 4 hits, a walk, and 7 K's. Latz pitched a solid 8th and 9th. In the 5th, Osuna was hit by the pitch and Duran walked. Nimmo singled to load the bases, and Jung knocked in 2 with a single to left. Texas added an insurance run in the 7th when Duran doubled and Haggerty singled him home. Jung batted .381 in April, with 11 doubles, 4 HR's, 10 walks, and 17 RBI's. Record: 15-16.`
   },
   {
   id: 'may1',
