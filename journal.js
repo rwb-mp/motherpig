@@ -207,7 +207,7 @@ const schedule = [
   date: 'April 28',
   opp: 'New York Yankees',
   score: 'L 3-2',
-  recap: `Jacob deGrom (2-0, 2.13) vs. Cam Schlittler (3-1, 1.77). It was another waste of a quality start by deGrom as the offense went 1-for-10 with RISP. deGrom allowed one run on 3 hits with no walks and 5K's. Beeks and Winn surrendered solo homers in relief. The first 2 Texas hitters reached in both the 6th and 8th, but the lineup could not advance them. Trailing 3-0 in the bottom of the 9th, after Smith flew out to shallow left, McCutcheon reached on an error and Jansen tripled to score him. After Nimmo was hit by the pitch, Jung singled to score Jansen. With the tying and winning runs on base and 1 out, Seager grounded into a double play to end the game. Record: 14-16. `
+  recap: `Jacob deGrom (2-0, 2.13) vs. Cam Schlittler (3-1, 1.77). It was another wasted quality start by deGrom as the offense went 1-for-10 with RISP. deGrom allowed one run on 3 hits with no walks and 5K's. Beeks and Winn surrendered solo homers in relief. The first 2 Texas hitters reached in both the 6th and 8th, but the lineup could not advance them. Trailing 3-0 in the bottom of the 9th, after Smith flew out to shallow left, McCutcheon reached on an error and Jansen tripled to score him. After Nimmo was hit by the pitch, Jung singled to score Jansen. With the tying and winning runs on base and 1 out, Seager grounded into a double play to end the game. Record: 14-16. `
   },
   {
   id: 'apr29',
