@@ -652,9 +652,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '2',
     opp: 'at Det <img src="logos/tigers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '6:15',
-    score: '',
-    recap: 'Fox'
+    time: '',
+    score: 'L 5-1',
+    recap: '<a href = "journal.html#may2" target = "_blank">Recap</a>'
     },
     {
     id: '57',
