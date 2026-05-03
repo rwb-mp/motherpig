@@ -228,14 +228,14 @@ const schedule = [
   date: 'May 2',
   opp: 'at Detroit',
   score: 'L 5-1',
-  recap: `Kumar Rocker (1-2, 3.38) vs. Keider Montero (1-2, 4.00). A 1st-inning squibber in front of the plate that Jung couldn't handle followed by a groundball error by Jung set the stage for a 3-run HR to give Detroit the early lead. A pair of runs on 3 singles in the 2nd extended the lead to 5-0. Rocker was done after 2 innings, charged with 5 earned runs on 6 hits. The 1st Texas hit came with 2 outs in the 4th when Burger homered 373 feet to left. Quantrill, Gray, and Collyer pitched 6 innings of shutout relief. The Rangers opened the 5th with 2 singles, but Jansen hit into a double play and Carter flew out to center. With 1 out in the 8th, Seager singled and Jung doubled, but Pederson gronded out and Burger struck out. The Rangers didn't threaten in the 9th. Seager's went 1-for-4, but the exit velocities in his 4 plate appearances were 108, 103, 108, and 105. Record: 16-17.`
+  recap: `Kumar Rocker (1-2, 3.38) vs. Keider Montero (1-2, 4.00). A 1st-inning squibber in front of the plate that Jung couldn't handle, followed by a groundball error by Jung, set the stage for a 3-run HR to give Detroit the early lead. A pair of runs on 3 singles in the 2nd extended the lead to 5-0. Rocker was done after 2 innings, charged with 5 earned runs on 6 hits. The 1st Texas hit came with 2 outs in the 4th when Burger homered 373 feet to left. Quantrill, Gray, and Collyer pitched 6 innings of shutout relief. The Rangers opened the 5th with 2 singles, but Jansen hit into a double play and Carter flew out to center. With 1 out in the 8th, Seager singled and Jung doubled, but Pederson grounded out and Burger struck out. Seager only had 1 hit, but the exit velocities in his 4 plate appearances were 108, 103, 108, and 105. Record: 16-17.`
   },
   {
   id: 'may3',
   date: 'May 3',
   opp: 'at Detroit',
   score: '12:40',
-  recap: `Jack Leiter (1-2, 5.17) vs. TBD. `
+  recap: `Jack Leiter (1-2, 5.17) vs. Tyler Holton (0-1, 5.54). `
   },
   {
   id: 'may5',
