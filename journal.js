@@ -228,35 +228,35 @@ const schedule = [
   date: 'May 2',
   opp: 'at Detroit',
   score: 'L 5-1',
-  recap: `Kumar Rocker (1-2, 3.38) vs. Keider Montero (1-2, 4.00). A 1st-inning squibber in front of the plate that Jung couldn't handle, followed by a groundball error by Jung, set the stage for a 3-run HR to give Detroit the early lead. A pair of runs on 3 singles in the 2nd extended the lead to 5-0. Rocker was done after 2 innings, charged with 5 earned runs on 6 hits. The 1st Texas hit came with 2 outs in the 4th when Burger homered 373 feet to left. Quantrill, Gray, and Collyer pitched 6 innings of shutout relief. The Rangers opened the 5th with 2 singles, but Jansen hit into a double play and Carter flew out to center. With 1 out in the 8th, Seager singled and Jung doubled, but Pederson grounded out and Burger struck out. Seager only had 1 hit, but the exit velocities in his 4 plate appearances were 108, 103, 108, and 105. Record: 16-17.`
+  recap: `Kumar Rocker (1-2, 3.38) vs. Keider Montero (1-2, 4.00). A 1st-inning squibber in front of the plate that Jung couldn't handle, followed by a groundball error by Jung, set the stage for a 3-run HR to give Detroit the early lead. A pair of runs on 3 singles in the 2nd extended the lead to 5-0. Rocker was done after 2 innings, charged with 5 earned runs on 6 hits. The 1st Texas hit came with 2 outs in the 4th when Burger homered 373 feet to left. Quantrill, Gray, and Collyer pitched 6 innings of shutout relief. The Rangers opened the 5th with 2 singles, but Jansen hit into a double play and Carter flew out to center. With 1 out in the 8th, Seager singled and Jung doubled, but Pederson grounded out and Burger struck out. Texas was 0-for-6 with RISP. Seager only had 1 hit, but the exit velocities in his 4 plate appearances were 108, 103, 108, and 105. Record: 16-17.`
   },
   {
   id: 'may3',
   date: 'May 3',
   opp: 'at Detroit',
-  score: '12:40',
-  recap: `Jack Leiter (1-2, 5.17) vs. Tyler Holton (0-1, 5.54). `
+  score: 'L 7-1',
+  recap: `Jack Leiter (1-2, 5.17) vs. Tyler Holton (0-1, 5.54). Leiter retired the 1st 12 batters he faced, at one time striking out 5 in a row. The leadoff man walked on 4 pitches in the 5th, and a hanging slider was deposited in the leftfield seats to give the Tigers a 2-0 lead. A diving catch attempt by Carter on a sinking line drive to centerfield in the 6th resulted in a leadoff triple, and a soft single by the next hitter extended Detroit's lead to 3-0. Leiter left with 2 on and 2 out in the 7th. The Rangers' bullpen--good at stranding inherited runners--failed to do so as the 1st 3 hitters faced by Alexander reached on base hits. Leiter's line was 7-2/3 innings, 5 runs, 5 hits, a walk, and 10K's. The only Texas run in a bullpen game for the Tigers came in the 7th when Duran doubled, took 3rd on a wild pitch, and scored on a groundout by Higashioka. The Rangers were 0-for-5 with RISP. Record: 16-18.`
   },
   {
   id: 'may5',
   date: 'May 5',
   opp: 'at New York Yankees',
   score: '6:05',
-  recap: ``
+  recap: `Jacob deGrom (2-1, 2.01) vs. TBD`
   },
   {
   id: 'may6',
   date: 'May 6',
   opp: 'at New York Yankees',
   score: '6:05',
-  recap: ``
+  recap: `Nathan Eovaldi (3-4, 4.76) vs. TBD`
   },
   {
   id: 'may7',
   date: 'May 7',
   opp: 'at New York Yankees',
   score: '11:35',
-  recap: ``
+  recap: `MacKenzie Gore (2-2, 4.67) vs. TBD`
   },
   {
   id: 'may8',
