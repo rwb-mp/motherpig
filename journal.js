@@ -242,21 +242,21 @@ const schedule = [
   date: 'May 5',
   opp: 'at New York Yankees',
   score: '6:05',
-  recap: `Jacob deGrom (2-1, 2.01) vs. TBD`
+  recap: `Jacob deGrom (2-1, 2.01) vs. Elmer Rodriguez (0-1, 4.50). `
   },
   {
   id: 'may6',
   date: 'May 6',
   opp: 'at New York Yankees',
   score: '6:05',
-  recap: `Nathan Eovaldi (3-4, 4.76) vs. TBD`
+  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). `
   },
   {
   id: 'may7',
   date: 'May 7',
   opp: 'at New York Yankees',
   score: '11:35',
-  recap: `MacKenzie Gore (2-2, 4.67) vs. TBD`
+  recap: `MacKenzie Gore (2-2, 4.67) vs. Ryan Weathers (2-2, 3.03)`
   },
   {
   id: 'may8',
