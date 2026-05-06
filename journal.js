@@ -242,7 +242,7 @@ const schedule = [
   date: 'May 5',
   opp: 'at New York Yankees',
   score: 'L 7-4',
-  recap: `Jacob deGrom (2-1, 2.01) vs. Elmer Rodriguez (0-1, 4.50). The Rangers staked deGrom to a 3-run, 1st inning lead, but that wasn't enough against the highest scoring team in the A.L. Texas sent 8 batters to the plate and benefited from a pair of leadoff walks, 2 singles, a sac fly, a hit batter, and a wild pitch. deGrom pitched 6-1/3 innings and was charged with 6 runs, including two runners inherited by Beeks. Alexander surrendered a solo HR in the 8th to cap the Yankee scoring. The Rangers had plenty of basertunners. Jansen stranded runners on 2nd and 3rd in the 1st, Haggerty struck out with bases loaded in the 5th, and Seager and Jung stranded bases loaded in the 8th. The 4th Ranger run scored on a Duran triple and a Burger groundout. Record: 16-19.`
+  recap: `Jacob deGrom (2-1, 2.01) vs. Elmer Rodriguez (0-1, 4.50). The Rangers staked deGrom to a 3-run, 1st inning lead, but that wasn't enough against the highest scoring team in the A.L. Texas sent 8 batters to the plate and benefited from a pair of leadoff walks, 2 singles, a sac fly, a hit batter, and a wild pitch. deGrom pitched 6-1/3 innings and was charged with 6 runs, including two runners inherited by Beeks. Alexander surrendered a solo HR in the 8th to cap the Yankee scoring. The Rangers had plenty of baserunners. Jansen stranded runners on 2nd and 3rd in the 1st, Haggerty struck out with bases loaded in the 5th, and Seager and Jung stranded bases loaded in the 8th. The 4th Ranger run scored in the 9th on a Duran triple and a Burger groundout. Record: 16-19.`
   },
   {
   id: 'may6',
