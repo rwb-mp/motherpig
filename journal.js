@@ -256,7 +256,7 @@ const schedule = [
   date: 'May 7',
   opp: 'at New York Yankees',
   score: 'L 9-2',
-  recap: `MacKenzie Gore (2-2, 4.67) vs. Paul Blackburn (1-1, 3.21). The Rangers benefited from 7 walks, but could only manage 4 hits in a bullpen game for the Yankees. Gore allowed just 1 run in his 1st 5 innings, but things got out of hand in the 6th when he allowed 2 hits and 2 walks. Gore's line was 5-1/3 innings, 5 runs on 6 hits and 3 walks. The bullpen--Beeks, Winn, Alexander, Gray, and Collyer-- was ineffective, allowing 4 runs on 8 hits and 2 walks. Duran reached base 3 times including a solo HR in the 3rd. Record: 17-20.`
+  recap: `MacKenzie Gore (2-2, 4.67) vs. Paul Blackburn (1-1, 3.21). Pederson started in rightfield for the injured Nimmo. The 1st Yankee batter hit a ball to the wall that Pederson misplayed, turning a double into a triple. Two batters later, a sinking line drive got past Pederson and went to the wall for the 2nd Yankee triple of the inning and an early Yankee 1-0 lead. Duran homered in the 3rd to tie the game, and had an RBI groundout in the 5th to give Texas a 2-1 lead. New York sent 11 batters to the plate in the 6th against 3 Rangers' pitchers and took a commanding 7-2 lead. Osuna appeared to get late starts on 2 balls hit to leftfield that both dropped in for hits. Gore's line was 5-1/3 innings, 5 runs on 6 hits and 3 walks, with 3 K's. The bullpen--Beeks, Winn, Alexander, Gray, and Collyer-- was ineffective, allowing 4 runs on 8 hits and 2 walks. The Rangers benefited from 7 walks, but could only manage 4 hits in a bullpen game for the Yankees. Duran reached base 3 times including a solo HR in the 3rd. Record: 17-20.`
   },
   {
   id: 'may8',
