@@ -249,7 +249,7 @@ const schedule = [
   date: 'May 6',
   opp: 'at New York Yankees',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). Eovaldi was masterful over his 8 innings, allowing a run on 3 hits and a walk, striking out 9. Six of the Rangers' 8 hits were bunched in the 1st 3 innings and included HR's by Seager and Carter and a double by Duran. Jung's hitting streak ended at 13 games after an 0-for-5 with 3 K's. Record: 17-19`
+  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). Eovaldi was masterful over his 8 innings, allowing a run on 3 hits and a walk, striking out 9. All 6 of the Rangers' runs came in the 1st 4 innings when they had 7 of their 8 hits along with 3 walks, including HR's by Seager and Carter and a double by Duran. Jung's hitting streak ended at 13 games after an 0-for-5 with 3 K's. Record: 17-19`
   },
   {
   id: 'may7',
