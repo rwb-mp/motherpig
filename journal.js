@@ -248,15 +248,15 @@ const schedule = [
   id: 'may6',
   date: 'May 6',
   opp: 'at New York Yankees',
-  score: '6:05',
-  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). `
+  score: 'W 6-1',
+  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). Eovaldi was masterful over his 8 innings, allowing a run on 3 hits and a walk, striking out 9. Six of the Rangers' 8 hits were bunched in the 1st 3 innings and included HR's by Seager and Carter and a double by Duran. Jung's hitting streak ended at 13 games after an 0-for-5 with 3 K's. Record: 17-19`
   },
   {
   id: 'may7',
   date: 'May 7',
   opp: 'at New York Yankees',
-  score: '11:35',
-  recap: `MacKenzie Gore (2-2, 4.67) vs. Ryan Weathers (2-2, 3.03)`
+  score: 'L 9-2',
+  recap: `MacKenzie Gore (2-2, 4.67) vs. Paul Blackburn (1-1, 3.21). The Rangers benefited from 7 walks, but could only manage 4 hits in a bullpen game for the Yankees. Gore allowed just 1 run in his 1st 5 innings, but things got out of hand in the 6th when he allowed 2 hits and 2 walks. Gore's line was 5-1/3 innings, 5 runs on 6 hits and 3 walks. The bullpen--Beeks, Winn, Alexander, Gray, and Collyer-- was ineffective and was charged with 4 runs on 8 hits and 2 walks. Duran reached base 3 times including a solo HR in the 3rd. Record: 17-29.`
   },
   {
   id: 'may8',
