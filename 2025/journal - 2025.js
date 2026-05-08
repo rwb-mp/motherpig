@@ -263,7 +263,7 @@ const schedule = [
   date: 'May 8',
   opp: 'at Boston',
   score: 'L 5-0',
-  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers collected 5 hits and drew 6 walks--5 of them came in the 1st 4-2/3 innings--but went 0-for-7 with RISP. Langford and Semien each stranded 5 runners. Leiter took the loss, allowing 4 runs over 5-1/3 innings on 3 hits, 4 walks, and a hit batter, striking out 3. Tucker Barnhart had 3 of the team’s 5 hits. Record: 18-20.`
+  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers collected 5 hits and drew 6 walks--5 of the walks came in the 1st 4-2/3 innings--but went 0-for-7 with RISP. Langford and Semien each stranded 5 runners. Leiter took the loss, allowing 4 runs over 5-1/3 innings on 3 hits, 4 walks, and a hit batter, striking out 3. Tucker Barnhart had 3 of the team’s 5 hits. Record: 18-20.`
   },
   {
   id: 'may9',
