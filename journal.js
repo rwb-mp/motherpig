@@ -256,28 +256,28 @@ const schedule = [
   date: 'May 7',
   opp: 'at New York Yankees',
   score: 'L 9-2',
-  recap: `MacKenzie Gore (2-2, 4.67) vs. Paul Blackburn (1-1, 3.21). It was a bullpen game for the Yankees. Pederson started in rightfield for the injured Nimmo. The 1st Yankee batter hit a ball to the wall that Pederson misplayed, turning a double into a triple. Two batters later, a sinking line drive got past Pederson and went to the wall for the second Yankee triple of the inning and an early 1-0 lead. Duran homered in the 3rd to tie the game, and had an RBI groundout in the 5th to give Texas a 2-1 lead. New York sent 11 batters to the plate in the 6th against 3 Rangers' pitchers and took a commanding 7-2 lead. Osuna appeared to get late starts on 2 balls hit to leftfield that went for hits. Gore's line was 5-1/3 innings, 5 runs on 6 hits and 3 walks with 3 K's. The bullpen--Beeks, Winn, Alexander, Gray, and Collyer--was ineffective, allowing 4 runs on 8 hits and 2 walks. The Rangers benefited from 7 walks, but could only manage 6 hits, and went 1-for-5 with RISP. Record: 17-20.`
+  recap: `MacKenzie Gore (2-2, 4.67) vs. Paul Blackburn (1-1, 3.21). It was a bullpen game for the Yankees. Pederson started in rightfield for the injured Nimmo. The 1st Yankee batter hit a ball to the wall that Pederson misplayed, turning a double into a triple. Two batters later, a sinking line drive got past Pederson and went to the wall for the second Yankee triple of the inning and an early 1-0 lead. Duran homered in the 3rd to tie the game, and had an RBI groundout in the 5th to give Texas a 2-1 lead. New York sent 11 batters to the plate in the 6th against 3 Rangers' pitchers and took a commanding 7-2 lead. In the inning, Osuna appeared to get late starts on 2 balls hit to leftfield that went for hits. Gore's line was 5-1/3 innings, 5 runs on 6 hits and 3 walks with 3 K's. The bullpen--Beeks, Winn, Alexander, Gray, and Collyer--was ineffective, allowing 4 runs on 8 hits and 2 walks. The Rangers benefited from 7 walks, but could only manage 6 hits, and went 1-for-5 with RISP. Record: 17-20.`
   },
   {
   id: 'may8',
   date: 'May 8',
   opp: 'Chicago Cubs',
   score: '7:05',
-  recap: ``
+  recap: `Kumar Rocker (1-3, 4.71) vs. Ben Brown (1-1, 2.10). `
   },
   {
   id: 'may9',
   date: 'May 9',
   opp: 'Chicago Cubs',
   score: '6:05',
-  recap: ``
+  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). `
   },
   {
   id: 'may10',
   date: 'May 10',
   opp: 'Chicago Cubs',
   score: '1:35',
-  recap: ``
+  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). `
   },
   {
   id: 'may11',
