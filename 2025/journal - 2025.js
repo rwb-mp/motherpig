@@ -249,7 +249,7 @@ const schedule = [
   date: 'May 6',
   opp: 'at Boston',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50). Taveras was claimed off waivers by Seattle. Texas strung together 7 hits in the 4th, including doubles by Seager and Pederson and singles by Semien, Carter, Heim, Smith, and Langford. The offense racked up 16 hits, led by Smith (3 singles, walk) and Garcia (3 singles, walk, sac fly). Eovaldi was sharp again, going 6 innings and allowing 1 run on 5 hits and a walk while striking out 7. The bullpen trio of Armstrong, Garcia, and Martin closed it out with 3 scoreless innings, allowing only 1 baserunner. Evan Carter, in his 1st start of 2025, went 2-for-5 with a hit off a left-hander. Record: 18-18.`
+  recap: `Nathan Eovaldi (2-2, 2.11) vs. Lucas Giolito (0-0, 4.50). Taveras was claimed off waivers by Seattle. Texas strung together 7 hits in the 4th, including doubles by Seager and Pederson and singles by Semien, Carter, Heim, Smith, and Langford. The offense racked up 16 hits, led by Smith (3 singles, walk) and Garcia (3 singles, walk, sac fly). Eovaldi was sharp again, going 6 innings and allowing 1 run on 5 hits and a walk while striking out 7. The bullpen trio of Armstrong, Garcia, and Martin closed it out with 3 scoreless innings, allowing 1 baserunner. Evan Carter, in his 1st start of 2025, went 2-for-5 with a hit off a left-hander. Record: 18-18.`
   },
   {
   id: 'may7',
@@ -263,7 +263,7 @@ const schedule = [
   date: 'May 8',
   opp: 'at Boston',
   score: 'L 5-0',
-  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers collected 5 hits, had a hit batter, and drew 6 walks--with 5 of them coming in the 1st 4-2/3 innings--but went 0-for-7 for the game with RISP. Langford and Semien each stranded 5 runners. Leiter took the loss, allowing 4 runs over 5-1/3 innings on 3 hits, 4 walks, and a hit batter, striking out 3. Tucker Barnhart had 3 of the team’s 5 hits. Record: 18-20.`
+  recap: `Jack Leiter (2-1, 2.58) vs. Brayan Bello (2-0, 2.50). The Rangers collected 5 hits and drew 6 walks--5 of them came in the 1st 4-2/3 innings--but went 0-for-7 with RISP. Langford and Semien each stranded 5 runners. Leiter took the loss, allowing 4 runs over 5-1/3 innings on 3 hits, 4 walks, and a hit batter, striking out 3. Tucker Barnhart had 3 of the team’s 5 hits. Record: 18-20.`
   },
   {
   id: 'may9',
@@ -277,28 +277,28 @@ const schedule = [
   date: 'May 10',
   opp: 'at Detroit',
   score: 'W 10-3',
-  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79). The Rangers launched 5 no-doubt homers to right field. Smith (389 ft) and Seager (403 ft) went back-to-back in the 1st, Carter added a 390-footer in the 2nd, Pederson homered 401 feet in the 4th, and Seager hit a 393-foot bomb in the 7th. deGrom struck out 10 over 5 innings, allowing 2 runs on 5 hits and a walk. Milner, Armstrong, and Jackson combined to finish the game, giving up a run in 4 innings of relief. Rangers pitchers totaled 13 strikeouts. Record: 19-21.`
+  recap: `Jacob deGrom (2-1, 2.61) vs. Jack Flaherty (1-4, 3.79). The Rangers launched 5 no-doubt homers to right field. Smith (389 ft) and Seager (403 ft) went back-to-back in the 1st, Carter added a 390-footer in the 2nd, Pederson homered 401 feet in the 4th, and Seager hit a 393-foot bomb in the 7th. deGrom struck out 10 over 5 innings, allowing 2 runs on 5 hits and a walk. Milner, Armstrong, and Jackson combined to finish the game, giving up a run in 4 innings of relief. Rangers' pitchers struck out 13. Record: 19-21.`
   },
   {
   id: 'may11',
   date: 'May 11',
   opp: 'at Detroit',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (3-2, 2.03) vs. Reese Olson (4-2, 3.03). The Rangers wrapped up the series holding Detroit’s high-powered offense to just six runs over three games. Eovaldi was dominant again, tossing seven scoreless innings with seven strikeouts while allowing only two hits and a walk. The Rangers’ offense stayed hot with the long ball. Semien and Jung each hit 2-run homers, and Heim added a solo shot in the 8th. Carter chipped in with an RBI single in the 3rd, and Langford just missed a bases-clearing hit in the 2nd with a 107-mph liner that was caught. Over the final two games of the series, seven different Rangers went deep. In the 9th, Latz loaded the bases with one out, but Garcia came on to secure the win getting the final two outs. Record: 20-21.`
+  recap: `Nathan Eovaldi (3-2, 2.03) vs. Reese Olson (4-2, 3.03). In the 3-game series, the Rangers held Detroit’s high-powered offense to 6 runs. Eovaldi tossed 7 scoreless innings with 7 strikeouts while allowing only 2 hits and a walk. The Rangers’ offense stayed hot with the long ball. Semien and Jung each hit 2-run homers, and Heim added a solo shot in the 8th. Carter chipped in with an RBI single in the 3rd, and Langford just missed a bases-clearing hit in the 2nd with a 107-mph liner that was caught. Over the final 2 games of the series, 7 different Rangers went deep. In the 9th, Latz loaded the bases with 1 out, but Garcia came on to secure the win getting the final 2 outs. Record: 20-21.`
   },
   {
   id: 'may12',
   date: 'May 12',
   opp: 'Colorado',
   score: 'W 2-1',
-  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). The Rangers were hitless through 5-2/3 innings before Langford broke through in the 6th with a 412-foot solo homer to right, giving Texas a 1–0 lead. Mahle was sharp again, allowing just one run over 6-1/3 innings on 4 hits and a walk while striking out five. Garcia and Martin followed with 1-2/3 innings of no-hit relief to carry the lead into the 9th. In the ninth inning Colorado led off with a single that deflected off closer Luke Jackson, forcing him to leave the game. Webb entered, loaded the bases with one out, but induced a game-ending double play to seal the 2–1 win and earn his first save of the season. Record: 21-21.`
+  recap: `Tyler Mahle (3-1, 1.48) vs. Chase Dollander (2-3, 7.71). The Rangers were hitless through 5-2/3 innings before Langford broke through in the 6th with a 412-foot, 2-run homer to right. Mahle was sharp again, allowing 1 run over 6-1/3 innings on 4 hits and a walk while striking out 5. Garcia and Martin followed with 1-2/3 innings of no-hit relief to carry the lead into the 9th. Colorado began the 9th with a single that deflected off closer Luke Jackson, forcing him to leave the game. Webb entered, loaded the bases with 1 out, but induced a game-ending double play to seal the 2–1 win and earn his 1st save of the season. Record: 21-21.`
   },
   {
   id: 'may13',
   date: 'May 13',
   opp: 'Colorado',
   score: 'W 4-1',
-  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Jung powered the Rangers with two home runs and four RBIs, including a 396-foot blast in the 1st inning after back-to-back singles, and a solo shot in the 8th to pad the lead. Leiter held Colorado to one run over 6 innings on 2 hits and 3 walks with 5 strikeouts. Milner and Martin worked into the 9th, where the Rockies put two on with no outs, but Armstrong struck out the next three to lock down his first save. Seager was placed on the 10-day IL retroactive to May 11 with a hamstring issue. Record: 22-21.`
+  recap: `Jack Leiter (2-2, 5.09) vs. Kyle Freeland (0-5, 6.41). Jung powered the Rangers with 2 home runs and 4 RBIs, including a 396-foot blast in the 1st inning after back-to-back singles, and a solo shot in the 8th to pad the lead. Leiter held Colorado to 1 run over 6 innings on 2 hits and 3 walks with 5 strikeouts. Milner and Martin worked into the 9th, where the Rockies put 2 on with no outs, but Armstrong struck out the next 3 to lock down his 1st save. Seager was placed on the 10-day IL retroactive to May 11 with a hamstring issue. Record: 22-21.`
   },
   {
   id: 'may14',
