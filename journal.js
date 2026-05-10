@@ -270,14 +270,14 @@ const schedule = [
   date: 'May 9',
   opp: 'Chicago Cubs',
   score: 'W 6-0',
-  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). Leiter fell behind numerous hitters and ran his pitch count up, walking 5. He worked out of trouble in each of the first 4 innings and left with 2 outs in the 5th and a 4-0 lead. The Rangers displayed some offense against a good pitcher. Jung solo homered in the 2nd, and Carter scored a 2nd run in the inning on an Osuna single. Texas added 2 more in the 4th on hits by Jung, Pederson, and Osuna. Foscue hit his 1st major league HR into the leftfield corner in the 5th to make the score 5-0. Jung singled and scored the 6th run on a base hit by Higashioka. Beeks, Winn, and Collyer pitched 4-1/3 innings of 1-hit relief. The Rangers were 4-for-9 with RISP. Jung, Pederson, and Osuna had multi-hit games. Record: 18-21.`
+  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). Leiter fell behind numerous hitters and elevated his pitch count, walking 5. He worked out of trouble in each of the first 4 innings and left with 2 outs in the 5th and a 4-0 lead. The Rangers displayed some offense against a good pitcher. Jung solo homered in the 2nd, and Carter scored a 2nd run in the inning on an Osuna single. Texas added 2 more in the 4th on hits by Jung, Pederson, and Osuna. Foscue hit his 1st major league HR into the leftfield corner in the 5th to make the score 5-0. Jung singled and scored the 6th run on a base hit by Higashioka. Beeks, Winn, and Collyer pitched 4-1/3 innings of 1-hit relief. The Rangers were 4-for-9 with RISP. Jung, Pederson, and Osuna had multi-hit games. The win ended a 10-game winning streak for the Cubs. Record: 18-21.`
   },
   {
   id: 'may10',
   date: 'May 10',
   opp: 'Chicago Cubs',
-  score: '1:35',
-  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). `
+  score: 'W 3-0',
+  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). deGrom was sensational, allowing 3 hits and no walks and striking out 10 over 7 innings. The lineup could manage only 7 hits and Jung had 3 of them. Jung led off the 4th with a single and Pederson doubled him to 3rd. Osuna grounded one to firstbase and Jung barely beat the throw home to give Texas a 1-0 lead. deGrom made the lead hold up through 7, and Latz pitched a perfect 8th. Carter homered down the firstbase line in the bottom of the inning after a Jung single to make the lead 3-0. Latz pitched a perfect 9th and completed the 2nd straight shutout of the Cubs. Record: 19-21.`
   },
   {
   id: 'may11',
