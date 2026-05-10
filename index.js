@@ -730,7 +730,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '9',
     opp: 'CHC <img src="logos/cubs.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'W 6-0',
     recap: '<a href = "journal.html#may9" target = "_blank">Recap</a>'
     },
     {
