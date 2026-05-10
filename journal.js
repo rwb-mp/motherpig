@@ -269,8 +269,8 @@ const schedule = [
   id: 'may9',
   date: 'May 9',
   opp: 'Chicago Cubs',
-  score: '6:05',
-  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). `
+  score: '',
+  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). Leiter fell behind numerous hitters and ran his pitch count up, walking 5. He worked out of trouble in each of the first 4 innings and left with 2 outs in the 5th and a 4-0 lead. The Rangers displayed some offense against a good pitcher. Jung solo homered in the 2nd, and Carter scored a 2nd run in the inning on an Osuna single. Texas added 2 more in the 4th on hits by Jung, Pederson, and Osuna. Foscue hit his 1st major league HR into the leftfield corner in the 5th to make the score 5-0. Jung singled and scored the 6th run on a base hit by Higashioka. The Rangers were 4-for-9 with RISP. Jung, Pederson, and Osuna had multihit games. Record: 18-21.`
   },
   {
   id: 'may10',
