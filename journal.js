@@ -277,7 +277,7 @@ const schedule = [
   date: 'May 10',
   opp: 'Chicago Cubs',
   score: 'W 3-0',
-  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). deGrom was sensational, allowing 3 hits and no walks,  striking out 10 over 7 innings. The lineup could manage only 7 hits and Jung had 3 of them. Jung led off the 4th with a single and Pederson doubled him to 3rd. Osuna grounded one to firstbase and Jung barely beat the throw home to give Texas a 1-0 lead. deGrom made the lead hold up through 7, and Latz pitched a perfect 8th. Carter homered down the firstbase line in the bottom of the inning after a Jung single to make the lead 3-0. Latz pitched a perfect 9th and completed the 2nd straight shutout of the Cubs. Record: 19-21.`
+  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). deGrom was sensational, allowing 3 hits and no walks,  striking out 10 over 7 innings. The lineup managed only 7 hits and Jung had 3 of them. Jung led off the 4th with a single and Pederson doubled him to 3rd. Osuna grounded one to firstbase and Jung barely beat the throw home to give Texas a 1-0 lead. deGrom made the lead hold up through 7, and Latz pitched a perfect 8th. Carter homered down the firstbase line in the bottom of the inning after a Jung single to make the lead 3-0. Latz pitched a perfect 9th and completed the 2nd straight shutout of the Cubs. Record: 19-21.`
   },
   {
   id: 'may11',
