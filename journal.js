@@ -283,22 +283,22 @@ const schedule = [
   id: 'may11',
   date: 'May 11',
   opp: 'Arizona',
-  score: '7:05',
-  recap: ``
+  score: 'L 1-0',
+  recap: `Jakob Junis (0-0, 1.65) vs. Michael Soroka (4-2, 4.14). It was a bullpen game for the Rangers, as Eovaldi was scratched from his expected start due to left side tightness. The pitchers--Junis, Beeks, Gray, Winn, and Alexander--did their job, allowing only a single 1st inning run on a pair of doubles. Texas had their best opportunity in the bottom of the inning when Nimmo and Duran hit leadoff singles, but Seager, Jung, and Carter wasted the chance. The Rangers managed only 4 baserunners in the final 8 innings. Seager went 0-for-3 and saw his average drop to .189. Burger returned from the IL and went hitless, dropping his average to .204. Texas is last in the A.L. in ruuns scored. Record 19-22.`
   },
   {
   id: 'may12',
   date: 'May 12',
   opp: 'Arizona',
   score: '7:05',
-  recap: ``
+  recap: `MacKenzie Gore (2-3, 5.18) vs. Zac Gallen (1-3, 4.70). `
   },
   {
   id: 'may13',
   date: 'May 13',
   opp: 'Arizona',
   score: '7:05',
-  recap: ``
+  recap: `Kumar Rocker (1-4, 5.01) vs. Ryne Nelson (1-3, 5.68). `
   },
   {
   id: 'may15',
