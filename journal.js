@@ -221,7 +221,7 @@ const schedule = [
   date: 'May1',
   opp: 'at Detroit',
   score: 'W 5-4',
-  recap: `MacKenzie Gore (2-2, 4.35) vs. Jack Flaherty (0-2, 5.33). The offense staked Gore to an early 4-0 lead. A Nimmo single in the 1st followed by a Jung RBI single 2 outs later put Texas on the board. A solo HR by Jansen to start the 3rd added a second run. In the same inning, consecutive walks to Nimmo, Carter, and Seager loaded the bases with no outs. Jung singled in the 3rd Ranger run, and Pederson added the 4th with a sac fly. After the Tigers began the 4th with a leadoff double, a 1-out popup that barely reached the outfield grass bounced off Jung's glove for an RBI single. After Gore struck out the next hitter for what could have been the 3rd out, Detroit made it a 1-run game with a walk, a soft flair to left, and a blooper to right. The Tigers tied the game against Winn in the 5th on a 1-out walk, a wild pitch, a throwing error by the catcher, and a soft single to left. The Rangers scored the eventual game winner in the 8th on consecutive doubles by Burger and Osuna. Beeks, Alexander, Junis, and Latz pitched 4-2/3 shutout innings to secure the win. Duran made a sensational 1-out catch in rightfield to prevent extra bases in the 7th. Record 16-16.`
+  recap: `MacKenzie Gore (2-2, 4.35) vs. Jack Flaherty (0-2, 5.33). The offense staked Gore to an early 4-0 lead. A Nimmo single in the 1st followed by a Jung RBI single 2 outs later put Texas on the board. A solo HR by Jansen to start the 3rd added a second run. In the same inning, consecutive walks to Nimmo, Carter, and Seager loaded the bases with no outs. Jung singled in the 3rd Ranger run, and Pederson added the 4th with a sac fly. After the Tigers began the 4th with a leadoff double, a 1-out popup that barely reached the outfield grass bounced off Jung's glove for an RBI single. After Gore struck out the next hitter for what could have been the 3rd out, Detroit made it a 1-run game with a walk, a soft flair to left, and a blooper to right. The Tigers tied the game against Winn in the 5th on a 1-out walk, a wild pitch, a throwing error by the catcher, and a soft single to left. The Rangers scored the eventual game winner in the 8th on consecutive doubles by Burger and Osuna. Beeks, Alexander, Junis, and Latz pitched 4-2/3 shutout innings to secure the win. Duran made a sensational 1-out catch in rightfield to prevent extra bases in the 7th. Record: 16-16.`
   },
   {
   id: 'may2',
@@ -284,7 +284,7 @@ const schedule = [
   date: 'May 11',
   opp: 'Arizona',
   score: 'L 1-0',
-  recap: `Jakob Junis (0-0, 1.65) vs. Michael Soroka (4-2, 4.14). It was a bullpen game for the Rangers, as Eovaldi was scratched from his expected start due to left side tightness. The pitchers--Junis, Beeks, Gray, Winn, and Alexander--did their job, allowing only a single 1st inning run on a pair of doubles. Texas had their best opportunity in the bottom of the inning when Nimmo and Duran hit leadoff singles, but Seager, Jung, and Carter wasted the chance. The Rangers managed only 4 baserunners in the final 8 innings. Seager is 0-for-his-last-19 and has seen his average drop to .189. Burger returned from the IL and went hitless, dropping his average to .204. Texas is last in the A.L. in runs scored. Record 19-22.`
+  recap: `Jakob Junis (0-0, 1.65) vs. Michael Soroka (4-2, 4.14). It was a bullpen game for the Rangers, as Eovaldi was scratched from his expected start due to left side tightness. The pitchers--Junis, Beeks, Gray, Winn, and Alexander--did their job, allowing only a single 1st inning run on a pair of doubles. Texas had their best opportunity in the bottom of the inning when Nimmo and Duran hit leadoff singles, but Seager, Jung, and Carter wasted the chance. The Rangers managed only 4 baserunners in the final 8 innings. Seager is 0-for-his-last-19 and has seen his average drop to .189. Burger returned from the IL and went hitless, dropping his average to .204. Texas is last in the A.L. in runs scored.bles in the 6th. Record: 19-22.`
   },
   {
   id: 'may12',
@@ -297,8 +297,8 @@ const schedule = [
   id: 'may13',
   date: 'May 13',
   opp: 'Arizona',
-  score: '7:05',
-  recap: `Kumar Rocker (1-4, 5.01) vs. Ryne Nelson (1-3, 5.68). `
+  score: 'W 6-5',
+  recap: `Kumar Rocker (1-4, 5.01) vs. Ryne Nelson (1-3, 5.68). Rocker fell behind hitters consistently and ended up walking 4 to go with 3 base hits. He pitched out of trouble in the 1st, the 3rd, and the 4th, and left after 5 innings with a 3-0 lead thanks to a 370-foot HR to right by Burger in the 5th. The usually reliable bullpen faltered. Winn gave up a run on a pair of doubles in the 6th. Beeks loaded the bases with 1 out in the 7th on a single and 2 walks. Gray retired the next 2 hitters, 1 of them on a sac fly to cut the lead to 3-2. Latz came in for the 9th and gave up 3 runs to the 4 hitters he faced, retiring none of them. Quantrill got 3 outs to keep the deficit at 5-3. Arizona turned to its closer who was 9-for-9 in save opportunities. Seager began the 9th by striking out, Jung singled, and Carter flew out to left. Duran doubled home a run to make it 5-4. Osuna walked, Burger singled home the tying run, and Jansen singled home the winning run. It was the 1st walkoff win for the Rangers this season. Jung, Carter, and Burger had 2 hits apiece, and Burger had 4 RBI's. Record: 21-22.`
   },
   {
   id: 'may15',
