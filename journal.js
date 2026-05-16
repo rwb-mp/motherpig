@@ -304,22 +304,22 @@ const schedule = [
   id: 'may15',
   date: 'May 15',
   opp: 'at Houston',
-  score: '7:10',
-  recap: ``
+  score: 'L 2-0',
+  recap: `Jack Leiter (1-3, 4.85) vs. Spencer Arrighetti (4-1, 1.88). Leiter was outstanding in his 7 innings of work, allowing only 3 hits, but 1 of them was a 355-foot HR to left in the 3rd. The Rangers were no-hit until Foscue singled with 1 out following an Osuna walk. Foscue was then picked off first base to end the inning. Winn allowed a 2nd Astros run in the 8th. Seager was given the day off after going 0-for-27 and 6-for-61. Record: 21-23.`
   },
   {
   id: 'may16',
   date: 'May 16',
   opp: 'at Houston',
   score: '6:10',
-  recap: ``
+  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). `
   },
   {
   id: 'may17',
   date: 'May 17',
   opp: 'at Houston',
   score: '1:10',
-  recap: ``
+  recap: `TBD vs. Peter Lambert (2-3, 2.76). `
   },
   {
   id: 'may18',
