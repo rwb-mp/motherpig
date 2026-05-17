@@ -305,21 +305,21 @@ const schedule = [
   date: 'May 15',
   opp: 'at Houston',
   score: 'L 2-0',
-  recap: `Jack Leiter (1-3, 4.85) vs. Spencer Arrighetti (4-1, 1.88). Leiter was outstanding in his 7 innings of work, allowing only 3 hits, but 1 of them was a 355-foot HR to left in the 3rd. The Rangers were no-hit until the 8th when Foscue singled with 1 out following an Osuna walk. Foscue was then picked off first base to end the inning. Winn allowed a 2nd Astros run in the 8th. Seager was given the day off after going 0-for-27 and 6-for-61. Record: 21-23.`
+  recap: `Jack Leiter (1-3, 4.85) vs. Spencer Arrighetti (4-1, 1.88). Leiter was outstanding in his 7 innings of work, allowing only 3 hits, but 1 of them was a 355-foot HR to left in the 3rd. The Rangers were baffled by the curve ball, and were no-hit until the 8th when Foscue singled with 1 out following an Osuna walk. Foscue was then picked off first base to end the threat. Winn allowed a 2nd Astros run in the 8th. Seager was given the day off after going 0-for-27 and 6-for-61. Record: 21-23.`
   },
   {
   id: 'may16',
   date: 'May 16',
   opp: 'at Houston',
-  score: '6:10',
-  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). `
+  score: 'L 4-1',
+  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). deGrom surrendered 4 solo HR's which were way more than Houston would need against the Rangers' anemic offense. deGrom's line was 6 innings, 5 hits, no walks, and 4 K's. For the 2nd consecutive game, the lineup flailed against the curve ball. The Rangers drew 8 walks to go with their 6 huts, but stranded bases loaded in the 2nd and 7th, and left a runner on 2nd base in 4 other innings. For the game, Texas was 1-for-10 with RISP. Seager didn't play for the 2nd straight day. Record: 21-24.`
   },
   {
   id: 'may17',
   date: 'May 17',
   opp: 'at Houston',
   score: '1:10',
-  recap: `TBD vs. Peter Lambert (2-3, 2.76). `
+  recap: `Nathan Eovaldi (4-4, 4.15) vs. Peter Lambert (2-3, 2.76). `
   },
   {
   id: 'may18',
