@@ -817,7 +817,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '17',
     opp: 'at Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: '1:10',
     score: '',
     recap: 'Victory+'
     },
