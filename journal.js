@@ -312,7 +312,7 @@ const schedule = [
   date: 'May 16',
   opp: 'at Houston',
   score: 'L 4-1',
-  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). deGrom surrendered 4 solo HR's which were way more than Houston would need against the Rangers' anemic offense. deGrom's line was 6 innings, 5 hits, no walks, and 4 K's. For the 2nd consecutive game, the lineup flailed against the curve ball. The Rangers drew 8 walks to go with their 6 huts, but stranded bases loaded in the 2nd and 7th, and left a runner on 2nd base in 4 other innings. For the game, Texas was 1-for-10 with RISP. Seager didn't play for the 2nd straight day. Record: 21-24.`
+  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). deGrom surrendered 4 solo HR's which were way more than Houston would need against the Rangers' anemic offense. deGrom's line was 6 innings, 4 runs, 5 hits, no walks, and 4 K's. For the 2nd consecutive game, the lineup flailed against the curve ball. The Rangers drew 8 walks to go with their 6 hits, but stranded bases loaded in the 2nd and 7th, and left a runner on 2nd base in 4 other innings. For the game, Texas was 1-for-10 with RISP. Seager didn't play for the 2nd straight day. Record: 21-24.`
   },
   {
   id: 'may17',
