@@ -312,21 +312,21 @@ const schedule = [
   date: 'May 16',
   opp: 'at Houston',
   score: 'L 4-1',
-  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). deGrom surrendered 4 solo HR's which were way more than Houston would need against the Rangers' offense. deGrom's line was 6 innings, 4 runs, 5 hits, no walks, and 4 K's. For the 2nd consecutive game, the lineup flailed against the curve ball. The Rangers drew 8 walks and had a hit batter to go with their 6 hits, but stranded bases loaded in the 2nd and 7th, and left a runner on 2nd base in 4 other innings. For the game, Texas was 1-for-10 with RISP. Seager didn't play for the 2nd straight day. Record: 21-24.`
+  recap: `Jacob deGrom (3-2, 2.62) vs. Kai-Wei Teng (1-3, 3.12). deGrom surrendered 4 solo HR's which were way more than Houston would need against the Rangers' offense. deGrom's line was 6 innings, 4 runs, 5 hits, no walks, and 4 K's. For the 2nd consecutive game, the lineup flailed against the curve ball. The Rangers drew 8 walks and had a hit batter to go with their 6 hits, but stranded bases loaded in the 2nd and 7th, and left a runner on 2nd base in 4 other innings. For the game, Texas was 1-for-10 with RISP. Seager didn't play for the 2nd straight game. Record: 21-24.`
   },
   {
   id: 'may17',
   date: 'May 17',
   opp: 'at Houston',
   score: 'W 8-0',
-  recap: `Nathan Eovaldi (4-4, 4.15) vs. Peter Lambert (2-3, 2.76). The Rangers' lineup finally broke through against the Astros. It took until the 5th inning for Texas to get its 1st hit when Osuna beat out an infield tapper. Burger followed with a 356-foot HR down the rightfield line and Texas had its 1st lead of the series. Texas batted around in the 7th. A walk by Pederson, a double by Duran, and an Osuna hit-by-pitch loaded the bases with no outs. Burger slammed a double to left to score 2. After a Foscue strikeout, Higashioka hit a soft flair over the drawn-in infield to plate 2 more. Carter grounded out and Nimmo doubled home Higashioka to make the score 7-0. Higashioka completed the scoring for Texas with a 393-foot blast to left in the 9th. Eovaldi was masterful, throwing 7 shutout innings on 5 hits and a pair of walks, striking out 8. Collyer retired all 6 hitters he faced in relief. Seager sat out his 3rd straight game. Record: 22-24.`
+  recap: `Nathan Eovaldi (4-4, 4.15) vs. Peter Lambert (2-3, 2.76). The Rangers' lineup finally broke through against the Astros. It took until the 5th inning for Texas to get its 1st hit when Osuna beat out an infield tapper. Burger followed with a 356-foot HR down the rightfield line and Texas had its 1st lead of the series. Texas batted around in the 7th. A walk by Pederson, a double by Duran, and an Osuna hit-by-pitch loaded the bases with no outs. Burger slammed a double to left to score 2. After a Foscue strikeout, Higashioka hit a soft flair over the drawn-in infield to plate 2 more. Carter grounded out and Nimmo doubled home Higashioka to make the score 7-0. Higashioka completed the scoring with a 393-foot blast to left in the 9th. Eovaldi was masterful, throwing 7 shutout innings on 5 hits and a pair of walks while striking out 8. Collyer retired all 6 hitters he faced in relief. Seager sat out his 3rd straight game. Record: 22-24.`
   },
   {
   id: 'may18',
   date: 'May 18',
   opp: 'at Colorado',
-  score: '7:40',
-  recap: `MacKenzie Gore (3-3, 4.59) vs. Jose Quintana (1-2, 3.97). `
+  score: 'L 7-6',
+  recap: `MacKenzie Gore (3-3, 4.59) vs. Jose Quintana (1-2, 3.97). Seager was placed on the 10-day IL with lower back inflammation. Gore threw 28 pitches in the 1st ining--only 13 for strikes--and gave up 2 runs on 3 hits and 2 walks. He didn't come out for the 2nd due to left lat tightness, and it was another bullpen game for the Rangers. Gray, Beeks, and Collyer allowed 5 runs, 2 of them unearned thanks to a Jung error in the 3rd. Winn and Junis retired all 6 batters they faced in the 7th and 8th. Foscue had 2 doubles, a HR, a walk, and 3 RBI's. Duran had 3 singles and 2 RBI's. Jung left bases loaded in the 5th. Texas loaded the bases again in the 8th on a Jung double and walks by Burger and Jansen. Duran scored 2 with a single and Foscue walked to load the bases again with no outs. Osuna knocked in the 6th Ranger run with a fielder's choice grounder, and Carter grounded out and Higashioka popped out to strand the baserunners. Burger singled in the 9th after Nimmo struck out and Jung grounded out, and Jansen popped out to 2nd to end the game. Record: 22-25. `
   },
   {
   id: 'may19',
