@@ -333,13 +333,13 @@ const schedule = [
   date: 'May 19',
   opp: 'at Colorado',
   score: 'W 10-0',
-  recap: `Tyler Alexander (1-0, 2.14) vs. Sammy Peralta (0-0, 0.00). Alexander pitched a shutout 1st inning as the opener for Rocker. The Rangers scored in double digits for the 1st time since August of last year, and the runs came on 16 hits which is a season high. Pederson led the team with a double and 3 singles. Duran had 2 doubles, a single, and 4 RBI's. Nimmo had a 2-run HR and a pair of singles, 3 RBI's, and 3 runs scored. Burger had a double and a singles, and Foscue and Jansen also hit doubles. Rocker had the best outing of his career, pitching 7-2/3 shutout innings, allowing 3 hits and 3 walks, with 7 K's. Record: 23-25.`
+  recap: `Tyler Alexander (1-0, 2.14) vs. Sammy Peralta (0-0, 0.00). Alexander pitched a shutout 1st inning as the opener for Rocker. The Rangers scored in double digits for the 1st time since August of last year and the runs came on a season high 16 hits. Pederson led the team with a double and 3 singles. Duran had 2 doubles, a single, and 4 RBI's. Nimmo had a 2-run HR and a pair of singles, 3 RBIs, and 3 runs scored. Burger had a double and a single, and Foscue and Jansen also hit doubles. Rocker had the best outing of his career, pitching 7-2/3 shutout innings, allowing 3 hits and 3 walks, with 7 K's. Record: 23-25.`
   },
   {
   id: 'may20',
   date: 'May 20',
   opp: 'at Colorado',
-  score: '2:10',
+  score: '',
   recap: `Jack Leiter (1-4, 4.35) vs. Kyle Freeland (1-5, 7.22). `
   },
   {
