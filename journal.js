@@ -326,14 +326,14 @@ const schedule = [
   date: 'May 18',
   opp: 'at Colorado',
   score: 'L 7-6',
-  recap: `MacKenzie Gore (3-3, 4.59) vs. Jose Quintana (1-2, 3.97). Seager was placed on the 10-day IL with lower back inflammation. Gore threw 28 pitches in the 1st ining--only 13 for strikes--and gave up 2 runs on 3 hits and 2 walks. He did not return to the mound in the 2nd due to left lat tightness and it was another bullpen game for the Rangers. Gray, Beeks, and Collyer allowed 5 runs, 2 of them unearned thanks to a Jung error in the 3rd. Winn and Junis retired all 6 batters they faced in the 7th and 8th. Foscue had 2 doubles, a HR, a walk, and 3 RBI's, and Duran had 3 singles and 2 RBI's. Jung left bases loaded in the 5th, and the Rangers loaded them again in the 8th on a Jung double and walks by Burger and Jansen. Duran scored 2 with a single and Foscue walked to re-load the bases before Osuna knocked in the 6th Ranger run with a fielder's choice grounder. Carter grounded out and Higashioka popped out to end the inning and strand 2 baserunners. Burger singled in the 9th after Nimmo struck out and Jung grounded out, but Jansen popped out to 2nd to end the game. Record: 22-25. `
+  recap: `MacKenzie Gore (3-3, 4.59) vs. Jose Quintana (1-2, 3.97). Seager was placed on the 10-day IL with lower back inflammation. Gore threw 28 pitches in the 1st ining--only 13 for strikes--and gave up 2 runs on 3 hits and 2 walks. He did not return to the mound in the 2nd due to left lat tightness and it was another bullpen game for the Rangers. Gray, Beeks, and Collyer allowed 5 runs, 2 of them unearned thanks to a Jung error in the 3rd. Winn and Junis retired all 6 batters they faced in the 7th and 8th. Foscue had 2 doubles, a 425-foot HR, a walk, and 3 RBI's, and Duran had 3 singles and 2 RBI's. Jung left bases loaded in the 5th, and the Rangers loaded them again in the 8th on a Jung double and walks by Burger and Jansen. Duran scored 2 with a single and Foscue walked to re-load the bases before Osuna knocked in the 6th Ranger run with a fielder's choice grounder. Carter grounded out and Higashioka popped out to end the inning and strand 2 baserunners. Burger singled in the 9th after Nimmo struck out and Jung grounded out, but Jansen popped out to 2nd to end the game. Record: 22-25. `
   },
   {
   id: 'may19',
   date: 'May 19',
   opp: 'at Colorado',
-  score: '7:40',
-  recap: `Kumar Rocker (1-4, 4.34) vs TBD. `
+  score: 'W 10-0',
+  recap: `Tyler Alexander (1-0, 2.14) vs Sammy Peralta (0-0, 0.00). Alexander pitched a shutout 1st inning as the opener for Rocker. The Rangers scored in dounle digits for the 1st time since August of last year, and the runs came on 16 hits which was also a season high. Pederson led the team with 4 hits including a double. Duran had 2 doubles, a single, and 4 RBI's. Nimmo had a 2-run HR and a pair of singles, 3 RBI's, and 3 runs scored. Burger had a pair of hits including a double. Foscue and Jansen also hit doubles. Rocker had the best outing of his career, pitching 7-2/3 shutout innings, allowing 3 hits and 3 walks, with 7 K's. Record: 23-25.`
   },
   {
   id: 'may20',
