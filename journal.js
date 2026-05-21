@@ -340,7 +340,7 @@ const schedule = [
   date: 'May 20',
   opp: 'at Colorado',
   score: 'W 5-4',
-  recap: `Jack Leiter (1-4, 4.35) vs. Kyle Freeland (1-5, 7.22). A come from behind 9th-inning rally gave Texas a series win against Colorado. After Leiter allowed a run in the 1st on a pair of singles, the Rangers countered in the 4th with 3 runs on back-to-back homers by Duran and Burger. Leiter couldn't hold the lead as the Rockies scored 1 in the 4th and 2 in the 5th to take a 4-3 lead. Leiter's line was 5 innings, 4 runs, 7 hits, 2 walks, and 5 K's. Junis, Alexander, and Latz shut Colorado down on one single the final 4 innings. With 1 out in the 9th, Pederson reached on catcher's interference, and Foscue and Osuna singled to load the bases. Pederson scored on a passed ball, and Jung scored Foscue with an RBI single to give Texas a 5-4 lead. Latz pitched a perfect 9th to get the win. Record: 24-25.`
+  recap: `Jack Leiter (1-4, 4.35) vs. Kyle Freeland (1-5, 7.22). A 9th-inning rally gave Texas a series win against Colorado. After Leiter allowed a run in the 1st on a pair of singles, the Rangers countered in the 4th with 3 runs on back-to-back homers by Duran and Burger. Leiter couldn't hold the lead as the Rockies scored 1 in the 4th and 2 in the 5th to take a 4-3 lead. Leiter's line was 5 innings, 4 runs, 7 hits, 2 walks, and 5 K's. Junis, Alexander, and Latz shut Colorado down on one single the final 4 innings. With 1 out in the 9th, Pederson reached on catcher's interference, and Foscue and Osuna singled to load the bases. Pederson scored on a passed ball, and Jung scored Foscue with an RBI single to give Texas a 5-4 lead. Latz pitched a perfect 9th to get the win. Record: 24-25.`
   },
   {
   id: 'may22',
