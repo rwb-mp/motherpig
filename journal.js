@@ -346,15 +346,15 @@ const schedule = [
   id: 'may22',
   date: 'May 22',
   opp: 'at Los Angeles Angels',
-  score: '8:38',
-  recap: ``
+  score: 'L 9-6',
+  recap: `Jacob deGrom (3-3, 3.02) vs. Grayson Rodriguuez (0-1, 17.18). deGrom had his worst start as a Ranger, allowing a pair of 1st inning HR's for the second consecutive start. He put the Rangers in a 6-0 hole and was lifted after 3 innings. Quantrill pitched 3 shutout innings, which allowed the Rangers to chip away at the Angels' lead. Nimmo started the 4th with a 436-foot bomb to center, and a Carter triple plated 2 more after Burger walked and Foscue singled. Texas scored again in the 6th when Burger doubled and Foscue singled. After McCutcheon walked with 2 outs in the 7th, and Jung singled, Nimmo doubled scoring McCutcheon, and Jung--representing the tying run--was thrown out at the plate. The Angels scored an insurance run off Beeks in the 8th on a deep HR to left. Martin making his first appearance since coming off the IL gave up 2 runs on 3 hits in the 8th to put the game out of reach. Jansen led off the 9th with a HR, but McCutcheon, Jung, and Nimmo went quietly. Record: 24-26.`
   },
   {
   id: 'may23',
   date: 'May 23',
   opp: 'at Los Angeles Angels',
   score: '9:05',
-  recap: ``
+  recap: `Nathan Eovaldi (5-4, 3.62) vs. TBD. `
   },
   {
   id: 'may24',
