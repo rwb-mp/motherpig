@@ -360,7 +360,7 @@ const schedule = [
   id: 'may24',
   date: 'May 24',
   opp: 'at Los Angeles Angels',
-  score: '3:07',
+  score: '6:20',
   recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). `
   },
   {
