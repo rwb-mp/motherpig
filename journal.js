@@ -353,22 +353,22 @@ const schedule = [
   id: 'may23',
   date: 'May 23',
   opp: 'at Los Angeles Angels',
-  score: '9:05',
-  recap: `Nathan Eovaldi (5-4, 3.62) vs. Walbert Urena (1-4, 2.70). `
+  score: 'L 5-2',
+  recap: `Nathan Eovaldi (5-4, 3.62) vs. Walbert Urena (1-4, 2.70). The Rangers went 3 up and 3 down to open the game, and the Angels hit a 2-run HR off Eovaldi in the bottom of the 1st. Texas has been outscored 41-17 in the 1st inning. The Rangers went 0-for-4 with bases loaded--Burger struck out in the 3rd, Burger struck out in the 5th, and in the 8th with 1 out, Higashioka struck out and Jansen flew out to left. Texas was 2-for-11 with RISP. Eovaldi's line was 7 innings, 3 runs on 5 hits and 2 walks, with 6 K's. Winn and Alexander gave up 2 more runs in relief. Osuna had 3 of the Rangers' 8 hits. Record: 24-27.`
   },
   {
   id: 'may24',
   date: 'May 24',
   opp: 'at Los Angeles Angels',
   score: '3:07',
-  recap: `TBD vs. Reid Detmers (1-5, 5.07). `
+  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). `
   },
   {
   id: 'may25',
   date: 'May 25',
   opp: 'Houston',
   score: '6:05',
-  recap: ``
+  recap: `TBD vs. Tatsuya Imai (1-2, 8.31). `
   },
   {
   id: 'may26',
