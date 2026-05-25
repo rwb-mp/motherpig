@@ -81,7 +81,7 @@ const schedule = [
   date: 'April 8',
   opp: 'Seattle',
   score: 'W 3-0',
-  recap: `MacKenzie Gore (1-0, 3.97) vs. Bryan Woo (0-0, 1.38). The hitters continued to struggle but the pitching was superb as Texas completed the sweep of Seattle. Gore threw 82 pitches over 5 innings, allowing a hit and 2 walks, striking out 9. Martin and Curvelo retired all 9 batters they faced in relief, and Winn pitched a shutout 9th. The Ranger runs came in the 5th on consecutive singles by Jansen, Smith, and Duran to load the bases. Nimmo hit a tapper to 1st and 2 scored on an errant throw to the plate. Seager plated another on a sac fly to center. In the series Rangers' pitching held the Mariners' bats to 3 runs on 12 hits. Record: 7-5.`
+  recap: `MacKenzie Gore (1-0, 3.97) vs. Bryan Woo (0-0, 1.38). The hitters continued to struggle but the pitching was superb as Texas completed the sweep of Seattle. Gore threw 82 pitches over 5 innings, allowing a hit and 2 walks, striking out 9. Martin and Curvelo retired all 9 batters they faced in relief, and Winn pitched a shutout 9th. The Ranger runs came in the 5th on consecutive singles by Jansen, Smith, and Duran to load the bases. Nimmo hit a tapper to 1st and 2 scored on an errant throw to the plate. Seager plated another on a sac fly to center. In the series, Rangers' pitchers held the Mariners' bats to 3 runs on 12 hits. Record: 7-5.`
   },  
   {
   id: 'apr10',
@@ -360,8 +360,8 @@ const schedule = [
   id: 'may24',
   date: 'May 24',
   opp: 'at Los Angeles Angels',
-  score: '6:20',
-  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). `
+  score: 'L 2-1',
+  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). Ranger hitters struck out 16 times and had 1 baserunner through the first 8 innings--a Burger solo HR in the 2nd. Gore only allowed 1 hit in his 6 innings--a broken-bat flair single in the 3rd that tied the game after a pair of walks. Junis pitched a shutout 7th and 8th. With 2 outs in the 9th, Osuna and Foscue singled and Nimmo walked to load the bases. Burger struck out with the bases loaded for the 3rd time in 2 games. Against Collyer in the bottom of the 9th, the Angels hit a 1-out single. The next hitter was hit by the pitch to move the winning run to 2nd. Foscue fielded an easy double-play ball near 2nd base, stepped on 2nd, and threw low to Burger who blocked the throw but couldn't locate the ball. The winning run scored on the play and the Angels had the walkoff. Record: 24-28.`
   },
   {
   id: 'may25',
