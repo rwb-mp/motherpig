@@ -361,14 +361,14 @@ const schedule = [
   date: 'May 24',
   opp: 'at Los Angeles Angels',
   score: 'L 2-1',
-  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). Ranger hitters struck out 16 times and had 1 baserunner through the first 8 innings--a Burger solo HR in the 2nd. Gore only allowed 1 hit in his 6 innings--a broken-bat flair single in the 3rd that tied the game after a pair of walks. Junis pitched a shutout 7th and 8th. With 2 outs in the 9th, Osuna and Foscue singled and Nimmo walked to load the bases. Burger struck out with the bases loaded for the 3rd time in 2 games. Against Collyer in the bottom of the 9th, the Angels hit a 1-out single. The next hitter was hit by the pitch to move the winning run to 2nd. Foscue fielded an easy double-play ball near 2nd base, stepped on 2nd, and threw low to Burger who blocked the throw but couldn't locate the ball. The winning run scored on the play and the Angels had the walkoff. Record: 24-28.`
+  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). Ranger hitters struck out 16 times and had 1 baserunner through the first 8 innings--a Burger solo HR in the 2nd. Gore only allowed 1 hit in his 6 innings--a broken-bat flair single in the 3rd that tied the game after a pair of walks. Junis pitched a shutout 7th and 8th. With 2 outs in the 9th, Osuna and Foscue singled and Nimmo walked to load the bases. Burger struck out with the bases loaded for the 3rd time in 2 games. Against Collyer in the bottom of the 9th, the Angels hit a 1-out single, which was followed by a hit batter. Foscue fielded an easy double-play ball near 2nd base, stepped on 2nd, and threw low to Burger who blocked the throw but couldn't locate the ball. The winning run scored on the play and the Angels had the walkoff. Record: 24-28.`
   },
   {
   id: 'may25',
   date: 'May 25',
   opp: 'Houston',
-  score: '6:05',
-  recap: `TBD vs. Tatsuya Imai (1-2, 8.31). `
+  score: 'L 9-0',
+  recap: `Kumar Rocker (2-4, 3.60) vs. Tatsuya Imai (1-2, 8.31). Three Astros pitchers combined to no-hit the Rangers. Texas drew 3 walks in the 1st inning but failed to score due largely to a Nimmo double play. The Astros starter faced the minimum 15 batters over the next 5 innings. The Rangers drew their 5th walk in the 7th, but failed to advance him beyond 1st base. Rocker allowed 4 runs in his 5 innings, and Gray allowed 5 in 2 innings of relief, only 3 of them earned. Record: 24-29.`
   },
   {
   id: 'may26',
