@@ -368,28 +368,28 @@ const schedule = [
   date: 'May 25',
   opp: 'Houston',
   score: 'L 9-0',
-  recap: `Kumar Rocker (2-4, 3.60) vs. Tatsuya Imai (1-2, 8.31). Three Astros pitchers combined to no-hit the Rangers. Texas drew 3 walks in the 1st inning but failed to score due largely to a Nimmo double play. The Astros starter faced the minimum 15 batters over the next 5 innings. The Rangers drew their 5th walk in the 7th, but failed to advance him beyond 1st base. Rocker allowed 4 runs in his 5 innings, and Gray allowed 5 in 2 innings of relief, only 3 of them earned. Record: 24-29.`
+  recap: `Kumar Rocker (2-4, 3.60) vs. Tatsuya Imai (1-2, 8.31). Three Astros pitchers combined to no-hit the Rangers. Texas drew 3 walks in the 1st inning but failed to score due largely to a Nimmo double play. The Astros starter faced the minimum 15 batters over the next 5 innings. The Rangers drew their 5th walk in the 7th, but failed to advance him beyond 1st base. Rocker allowed 4 runs in his 5 innings, and Gray allowed 5 in 2 innings of relief, only 3 of them earned. Helman committed errors at shortstop on consecutive batters. Record: 24-29.`
   },
   {
   id: 'may26',
   date: 'May 26',
   opp: 'Houston',
-  score: '7:05',
-  recap: ``
+  score: 'W 10-7',
+  recap: `Jack Leiter (1-4, 4.61) vs. Jason Alexander (1-0, 7.30). The Rangers sent 11 batters to the plate in the 1st inning and staked Leiter to an 8-0 lead. The rally included a 2-run Burger bases-loaded single, a Carter triple, and a Duran double. Pederson added 3 more runs with a 399-foot HR to right. Carter homered to right in the 3rd, and Texas scored their 10th run in the 8th on singles by Jung, Carter, and Duran. The Astros scored 4 against Leiter on 4 hits, 3 walks, and 2 hit-batters in 6 innings. After Junis pitched a perfect 7th, Beeks gave up a pair of HR's in the 8th, and Latz allowed the 4th Astros HR in the 9th to draw Houston to within 3 runs at 10-7. Carter was a double shy of a cycle. Record: 25-29.`
   },
   {
   id: 'may27',
   date: 'May 27',
   opp: 'Houston',
   score: '7:05',
-  recap: ``
+  recap: `Jacob deGrom (3-4, 3.86) vs. Mike Burrows (2-6, 5.75). `
   },
   {
   id: 'may28',
   date: 'May 28',
   opp: 'Houston',
   score: '7:05',
-  recap: ``
+  recap: `Nathan Eovaldi (5-5, 3.65) vs. Spencer Arrighetti (6-1, 1.32). `
   },
   {
   id: 'may29',
