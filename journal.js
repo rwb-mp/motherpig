@@ -375,7 +375,7 @@ const schedule = [
   date: 'May 26',
   opp: 'Houston',
   score: 'W 10-7',
-  recap: `Jack Leiter (1-4, 4.61) vs. Jason Alexander (1-0, 7.30). The Rangers sent 11 batters to the plate in the 1st inning and staked Leiter to an 8-0 lead. The rally included a 2-run Burger bases-loaded single, a Carter triple, and a Duran double. Pederson added 3 more runs with a 399-foot HR to right. Carter homered to right in the 3rd, and Texas scored their 10th run in the 8th on singles by Jung, Carter, and Duran. The Astros scored 4 against Leiter on 4 hits, 3 walks, and 2 hit-batters in 6 innings. After Junis pitched a perfect 7th, Beeks gave up a pair of HR's in the 8th, and Latz allowed the 4th Astros HR in the 9th to draw Houston to within 3 runs. Carter was a double shy of the cycle. Record: 25-29.`
+  recap: `Jack Leiter (1-4, 4.61) vs. Jason Alexander (1-0, 7.30). The Rangers sent 11 batters to the plate in the 1st inning and staked Leiter to an 8-0 lead. The rally included a Burger 2-run bases-loaded single, a Carter triple, a Duran double, and a Pederson 3-run, 399-foot HR to right. Carter homered to right in the 3rd, and Texas scored their 10th run in the 8th on singles by Jung, Carter, and Duran. The Astros scored 4 against Leiter on 4 hits, 3 walks, and 2 hit-batters in 6 innings. After Junis pitched a perfect 7th, Beeks gave up a pair of solo HR's in the 8th, and Latz allowed the 4th Astros HR in the 9th which ended the scoring. Carter was a double shy of the cycle. Record: 25-29.`
   },
   {
   id: 'may27',
