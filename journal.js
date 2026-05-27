@@ -361,7 +361,7 @@ const schedule = [
   date: 'May 24',
   opp: 'at Los Angeles Angels',
   score: 'L 2-1',
-  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). Ranger hitters struck out 16 times and had 1 baserunner through the first 8 innings--a Burger solo HR in the 2nd. Gore only allowed 1 hit in his 6 innings--a broken-bat flair single in the 3rd that tied the game after a pair of walks. Junis pitched a shutout 7th and 8th. With 2 outs in the 9th, Osuna and Foscue singled and Nimmo walked to load the bases. Burger struck out with the bases loaded for the 3rd time in 2 games. Against Collyer in the bottom of the 9th, the Angels hit a 1-out single, which was followed by a hit batter. Foscue fielded an easy double-play ball near 2nd base, stepped on 2nd, and threw low to Burger who blocked the throw but couldn't locate the ball. The winning run scored on the play and the Angels had the walkoff. Record: 24-28.`
+  recap: `MacKenzie Gore (3-4, 4.78) vs. Reid Detmers (1-5, 5.07). Ranger hitters struck out 16 times and had 1 baserunner through the first 8 innings--a Burger solo HR in the 2nd. Gore allowed 1 hit in his 6 innings--a broken-bat flair single in the 3rd that tied the game after a pair of walks. Junis pitched a shutout 7th and 8th. With 2 outs in the 9th, Osuna and Foscue singled and Nimmo walked to load the bases. Burger struck out with the bases loaded for the 3rd time in 2 games. The Angels hit a 1-out single against Collyer in the 9th followed by a hit-by-pitch. Foscue fielded an easy double-play ball, stepped on 2nd base, and threw low to Burger. Burger blocked the throw but couldn't locate the ball and the walkoff run scored on the error. Record: 24-28.`
   },
   {
   id: 'may25',
@@ -375,7 +375,7 @@ const schedule = [
   date: 'May 26',
   opp: 'Houston',
   score: 'W 10-7',
-  recap: `Jack Leiter (1-4, 4.61) vs. Jason Alexander (1-0, 7.30). The Rangers sent 11 batters to the plate in the 1st inning and staked Leiter to an 8-0 lead. The rally included a 2-run Burger bases-loaded single, a Carter triple, and a Duran double. Pederson added 3 more runs with a 399-foot HR to right. Carter homered to right in the 3rd, and Texas scored their 10th run in the 8th on singles by Jung, Carter, and Duran. The Astros scored 4 against Leiter on 4 hits, 3 walks, and 2 hit-batters in 6 innings. After Junis pitched a perfect 7th, Beeks gave up a pair of HR's in the 8th, and Latz allowed the 4th Astros HR in the 9th to draw Houston to within 3 runs at 10-7. Carter was a double shy of a cycle. Record: 25-29.`
+  recap: `Jack Leiter (1-4, 4.61) vs. Jason Alexander (1-0, 7.30). The Rangers sent 11 batters to the plate in the 1st inning and staked Leiter to an 8-0 lead. The rally included a 2-run Burger bases-loaded single, a Carter triple, and a Duran double. Pederson added 3 more runs with a 399-foot HR to right. Carter homered to right in the 3rd, and Texas scored their 10th run in the 8th on singles by Jung, Carter, and Duran. The Astros scored 4 against Leiter on 4 hits, 3 walks, and 2 hit-batters in 6 innings. After Junis pitched a perfect 7th, Beeks gave up a pair of HR's in the 8th, and Latz allowed the 4th Astros HR in the 9th to draw Houston to within 3 runs. Carter was a double shy of the cycle. Record: 25-29.`
   },
   {
   id: 'may27',
