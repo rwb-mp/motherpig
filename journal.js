@@ -381,8 +381,8 @@ const schedule = [
   id: 'may27',
   date: 'May 27',
   opp: 'Houston',
-  score: '7:05',
-  recap: `Jacob deGrom (3-4, 3.86) vs. Mike Burrows (2-6, 5.75). `
+  score: 'L 4-3',
+  recap: `Jacob deGrom (3-4, 3.86) vs. Mike Burrows (2-6, 5.75). Pederson had 3 hits including 2 solo HRs and deGrom rebounded from 2 consecutive bad starts, but it wasn't enough. Singles by Pederson, Nimmo, and Jung produced a 1st inning run. Pederson added homers in the 3rd and the 8th, but the rest of the lineup could manage only a single and a couple of walks after the 1st inning. deGrom gave up 2 runs on 4 hits and a walk and struck out 6 in his 6 innings. The eventual winning run scored in the 8th on an error by the pitcher Alexander when he threw wild to first on a sacrifice bunt attempt. Record: 25-30.`
   },
   {
   id: 'may28',
