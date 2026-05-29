@@ -388,8 +388,8 @@ const schedule = [
   id: 'may28',
   date: 'May 28',
   opp: 'Houston',
-  score: '7:05',
-  recap: `Nathan Eovaldi (5-5, 3.65) vs. Spencer Arrighetti (6-1, 1.32). `
+  score: 'L 5-1',
+  recap: `Nathan Eovaldi (5-5, 3.65) vs. Spencer Arrighetti (6-1, 1.32). The Astros began the game with HR, walk, HR, and the Rangers were never in this one. Eovaldi allowed 5 runs on 4 hits and 2 walks and struck out 6 in 7 innings. Texas had only 4 hits and the sole run came on a Jung HR in the 2nd. The team was 0-for-6 with RISP and fell to 6 games under .500 for the 1st time this season. Record: 25-31.`
   },
   {
   id: 'may29',
