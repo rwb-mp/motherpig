@@ -396,7 +396,7 @@ const schedule = [
   date: 'May 29',
   opp: 'Kansas City',
   score: 'W 9-1',
-  recap: `MacKenzie Gore (3-4, 4.42) vs. Stephen Kolek (3-0, 2.77). The Rangers scored 4 1st inning runs on a Burger double, a Duran single, a Carter double, and 2 Kansas City errors, all with 2 outs. Home runs by Nimmo--his 1st at Globe Life Field, Nicky Lopez--his 1st as a Ranger, and Pederson--a 339-foot line drive into the rightfield corner, accounted for the rest of the Rangers' scoring. Gore threw 6-1/3 innings of shutout ball, scattering 4 hits and a walk. The Rangers scored 7 of their 9 runs with 2 outs. Record: 26-31.`
+  recap: `MacKenzie Gore (3-4, 4.42) vs. Stephen Kolek (3-0, 2.77). The Rangers scored 4 1st inning runs on a Burger double, a Duran single, a Carter double, and 2 Kansas City errors, all with 2 outs. Home runs by Nimmo--his 1st at Globe Life Field, Nicky Lopez--his 1st as a Ranger, and Pederson--a 339-foot line drive into the rightfield corner, accounted for the rest of the Rangers' scoring. Gore threw 6-1/3 innings of shutout ball, scattering 4 hits and a walk. Alexander and Beeks were strong in relief, but Collyer gave up a 9th inning run on 2 walks and a single. The Rangers scored 7 of their 9 runs with 2 outs. Record: 26-31.`
   },
   {
   id: 'may30',
