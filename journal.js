@@ -389,35 +389,35 @@ const schedule = [
   date: 'May 28',
   opp: 'Houston',
   score: 'L 5-1',
-  recap: `Nathan Eovaldi (5-5, 3.65) vs. Spencer Arrighetti (6-1, 1.32). The Astros began the game with HR, walk, HR, and the Rangers were never in this one. Eovaldi allowed 5 runs on 4 hits and 2 walks and struck out 6 in 7 innings. Texas had only 4 hits and the sole run came on a Jung HR in the 2nd. The team was 0-for-6 with RISP and fell to 6 games under .500 for the 1st time this season. Record: 25-31.`
+  recap: `Nathan Eovaldi (5-5, 3.65) vs. Spencer Arrighetti (6-1, 1.32). The Astros began the game with HR, walk, HR, and the Rangers were never in this one. Eovaldi allowed 5 runs on 4 hits and 2 walks and struck out 6 in 7 innings. Texas had only 4 hits and the sole run came on a Jung HR in the 2nd. The team was 0-for-6 with RISP and fell to 6 games under .500 for the 1st time this season. The Rangers have given up 19 1st inning HRs. The 2nd most HRs allowed in MLB is 12. Record: 25-31.`
   },
   {
   id: 'may29',
   date: 'May 29',
   opp: 'Kansas City',
-  score: '7:05',
-  recap: ``
+  score: 'W 9-1',
+  recap: `MacKenzie Gore (3-4, 4.42) vs. Stephen Kolek (3-0, 2.77). The Rangers scored 4 1st inning runs on a Burger double, a Duran single, a Carter double, and 2 Kansas City errors, all with 2 outs. Home runs by Nimmo--his 1st at Globe Life Field, Nicky Lopez--his 1st as a Ranger, and Pederson--a 339-foot line drive into the rightfield corner, accounted for the rest of the Rangers' scoring. Gore threw 6-1/3 innings of shutout ball, scattering 4 hits and a walk. The Rangers scored 7 of their 9 runs with 2 outs. Record: 26-31.`
   },
   {
   id: 'may30',
   date: 'May 30',
   opp: 'Kansas City',
   score: '3:05',
-  recap: ``
+  recap: `Kumar Rocker (2-5, 3.96) vs. Seth Lugo (2-4, 3.74). `
   },
   {
   id: 'may31',
   date: 'May 31',
   opp: 'Kansas City',
   score: '1:35',
-  recap: ``
+  recap: `Jack Leiter (2-4 4.75) vs. Michael Wacha (402, 2.69). `
   },
   {
   id: 'jun1',
   date: 'June 1',
   opp: 'at St. Louis',
   score: '6:45',
-  recap: ``
+  recap: `TBD vs Michael McGreevy (3-4, 2.98). `
   },
   {
   id: 'jun2',
