@@ -32,7 +32,7 @@ const schedule = [
   date: 'March 31',
   opp: 'at Baltimore',
   score: 'W 8-5',
-  recap: `Jacob deGrom (0-0, 0.00) vs Zach Eflin (0-0, 0.00). The Rangers had 13 base hits led by Danny Jansen's 3 hits--a single, a double, and a 3-run HR that broke the game open in the 7th innning. Everyone in the lineup had at least one hit except Pederson who has started the season 0-for-8. Duran at 3B--making his 1st start of the season--solo homered in the 3rd and Seager solo homered in the 9th. deGrom threw 79 pitches over 4-2/3 innings and was knocked out of the game in the 5th when he surrendered the game tying runs at 3-3. Winn, Junis, and Garcia were excellent in relief, but Chris Martin got roughed up for 2 runs in the 9th. Record: 4-1.`
+  recap: `Jacob deGrom (0-0, 0.00) vs Zach Eflin (0-0, 0.00). The Rangers had 13 base hits led by Danny Jansen's 3 hits--a single, a double, and a 3-run HR that broke the game open in the 7th innning. Everyone in the lineup had at least one hit except Pederson who has started the season 0-for-8. Duran at 3B--making his 1st start of the season--solo-homered in the 3rd and Seager solo-homered in the 9th. deGrom threw 79 pitches over 4-2/3 innings and was knocked out of the game in the 5th when he surrendered the game tying runs at 3-3. Winn, Junis, and Garcia were excellent in relief, but Chris Martin got roughed up for 2 runs in the 9th. Record: 4-1.`
   },
   {
   id: 'apr1',
@@ -249,7 +249,7 @@ const schedule = [
   date: 'May 6',
   opp: 'at New York Yankees',
   score: 'W 6-1',
-  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). Eovaldi was masterful over his 8 innings, allowing a run on 3 hits and a walk, striking out 9. All 6 of the Rangers' runs came in the 1st 4 innings when they had 7 of their 8 hits and 3 of their 5 walks. Seager solo homered in the 1st. Duran doubled home Nimmo after Nimmo walked to begin the 3rd, and Carter homered to score them both, giving Texas a 4-0 lead. The Rangers loaded the bases with 1 out in the 4th. Duran hit a sac fly for the 2nd out, and Seager singled home the 6th Ranger run. Jung's hitting streak ended at 13 games after an 0-for-5 with 3 K's. Record: 17-19`
+  recap: `Nathan Eovaldi (3-4, 4.76) vs. Will Warren (4-0, 2.39). Eovaldi was masterful over his 8 innings, allowing a run on 3 hits and a walk, striking out 9. All 6 of the Rangers' runs came in the 1st 4 innings when they had 7 of their 8 hits and 3 of their 5 walks. Seager solo-homered in the 1st. Duran doubled home Nimmo after Nimmo walked to begin the 3rd, and Carter homered to score them both, giving Texas a 4-0 lead. The Rangers loaded the bases with 1 out in the 4th. Duran hit a sac fly for the 2nd out, and Seager singled home the 6th Ranger run. Jung's hitting streak ended at 13 games after an 0-for-5 with 3 K's. Record: 17-19`
   },
   {
   id: 'may7',
@@ -270,7 +270,7 @@ const schedule = [
   date: 'May 9',
   opp: 'Chicago Cubs',
   score: 'W 6-0',
-  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). Leiter fell behind numerous hitters and elevated his pitch count, walking 5. He worked out of trouble in each of the first 4 innings and left with 2 outs in the 5th and a 4-0 lead. The Rangers displayed some offense against a good pitcher. Jung solo homered in the 2nd, and Carter scored a 2nd run in the inning on an Osuna single. Texas added 2 more in the 4th on hits by Jung, Pederson, and Osuna. Foscue hit his 1st major league HR into the leftfield corner in the 5th to make the score 5-0. Jung singled and scored the 6th run on a base hit by Higashioka. Beeks, Winn, and Collyer pitched 4-1/3 innings of 1-hit relief. The Rangers were 4-for-9 with RISP. Jung, Pederson, and Osuna had multi-hit games. The win ended a 10-game winning streak for the Cubs. Record: 18-21.`
+  recap: `Jack Leiter (1-3, 5.45) vs. Edward Cabrera (3-0, 3.27). Leiter fell behind numerous hitters and elevated his pitch count, walking 5. He worked out of trouble in each of the first 4 innings and left with 2 outs in the 5th and a 4-0 lead. The Rangers displayed some offense against a good pitcher. Jung solo-homered in the 2nd, and Carter scored a 2nd run in the inning on an Osuna single. Texas added 2 more in the 4th on hits by Jung, Pederson, and Osuna. Foscue hit his 1st major league HR into the leftfield corner in the 5th to make the score 5-0. Jung singled and scored the 6th run on a base hit by Higashioka. Beeks, Winn, and Collyer pitched 4-1/3 innings of 1-hit relief. The Rangers were 4-for-9 with RISP. Jung, Pederson, and Osuna had multi-hit games. The win ended a 10-game winning streak for the Cubs. Record: 18-21.`
   },
   {
   id: 'may10',
@@ -291,7 +291,7 @@ const schedule = [
   date: 'May 12',
   opp: 'Arizona',
   score: 'W 7-4',
-  recap: `MacKenzie Gore (2-3, 5.18) vs. Zac Gallen (1-3, 4.70). Schumacher batted Pederson leadoff and it paid off immediately as Pederson started the game with a 380-foot HR for the early lead. Burger hit a flair single to rightfield in the 2nd inning to score the 2nd Ranger run after Duran walked and Osuna was hit by the pitch. Duran solo homered 338 feet into the rightfield corner for the 3rd Ranger run. The Rangers broke the game open in the 5th when they batted around and scored 4 runs on 4 singles and a triple by Nimmo. Gore pitched his best game as a Ranger, throwing 8 innings and allowing just 1 run and only 4 baserunners. Collyer, who had not allowed a run in his 1st 11 appearances, came on in the 9th, loaded the bases on 3 walks, and then allowed a single. Latz retired the next 3 hitters to secure the win. Nimmo and Burger had 3 hits each. Record: 20-22.`
+  recap: `MacKenzie Gore (2-3, 5.18) vs. Zac Gallen (1-3, 4.70). Schumacher batted Pederson leadoff and it paid off immediately as Pederson started the game with a 380-foot HR for the early lead. Burger hit a flair single to rightfield in the 2nd inning to score the 2nd Ranger run after Duran walked and Osuna was hit by the pitch. Duran solo-homered 338 feet into the rightfield corner for the 3rd Ranger run. The Rangers broke the game open in the 5th when they batted around and scored 4 runs on 4 singles and a triple by Nimmo. Gore pitched his best game as a Ranger, throwing 8 innings and allowing just 1 run and only 4 baserunners. Collyer, who had not allowed a run in his 1st 11 appearances, came on in the 9th, loaded the bases on 3 walks, and then allowed a single. Latz retired the next 3 hitters to secure the win. Nimmo and Burger had 3 hits each. Record: 20-22.`
   },
   {
   id: 'may13',
@@ -402,8 +402,8 @@ const schedule = [
   id: 'may30',
   date: 'May 30',
   opp: 'Kansas City',
-  score: '3:05',
-  recap: `Kumar Rocker (2-5, 3.96) vs. Seth Lugo (2-4, 3.74). `
+  score: 'W 7-6',
+  recap: `Kumar Rocker (2-5, 3.96) vs. Seth Lugo (2-4, 3.74). The Rangers rallied for 3 in the bottom of the 9th to win in walkoff fashion. The bullpen ruined a stellar outing by Rocker who left with a 3-0 lead after pitching 6 shutout innings, scattering 3 hits and 3 walks. Jung solo-homered in the 1st to give Texas the early 1-0 lead. Singles in the 4th by Burger, Lopez, and Helman--combined with 2 Kansas City errors--produced 2 unearned runs to push the lead to 3-0. The bullpen collapsed in the 7th and 8th as Alexander, Junis, and Martin allowed 6 runs on 7 hits and a walk to give the Royals' a 6-3 lead. Texas rallied in the 8th on a double by Burger, a walk to Duran, and an RBI double by Jansen that put the game-tying runs in scoring position, but Foscue popped to 2nd and Helman popped out to the catcher on a bunt attempt to kill the rally. After Gray pitched a shutout top of the 9th, a Pederson HR to begin the bottom of the 9th followed by singles by Jung, Nimmo, Burger, and Duran gave Texas the win. Rercord: 27-31.`
   },
   {
   id: 'may31',
