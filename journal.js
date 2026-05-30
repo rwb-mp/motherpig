@@ -410,7 +410,7 @@ const schedule = [
   date: 'May 31',
   opp: 'Kansas City',
   score: '1:35',
-  recap: `Jack Leiter (2-4 4.75) vs. Michael Wacha (4-2, 2.69). `
+  recap: `Jack Leiter (2-4, 4.75) vs. Michael Wacha (4-2, 2.69). `
   },
   {
   id: 'jun1',
