@@ -417,7 +417,7 @@ const schedule = [
   date: 'June 1',
   opp: 'at St. Louis',
   score: '6:45',
-  recap: `TBD vs Michael McGreevy (3-4, 2.98). `
+  recap: `TBD vs. Michael McGreevy (3-4, 2.98). `
   },
   {
   id: 'jun2',
