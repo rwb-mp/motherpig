@@ -409,8 +409,8 @@ const schedule = [
   id: 'may31',
   date: 'May 31',
   opp: 'Kansas City',
-  score: '1:35',
-  recap: `Jack Leiter (2-4, 4.75) vs. Michael Wacha (4-2, 2.69). `
+  score: 'W 6-3',
+  recap: `Jack Leiter (2-4, 4.75) vs. Michael Wacha (4-2, 2.69). The Rangers gave Leiter excellent 1st inning run support for the 2nd consecutive time. With 2 outs in the 1st and Jung on 2nd after a double down the leftfield line, Burger walked and Duran tripled scoring them both. Osuna singled home Duran, and Higashioka doubled home Osuna for a 4-0 lead. Texas added 2 more when Higashioka and Lopez singled to start the 4th. Helman bunted them into scoring position, and Jung singled them both home for a 6-0 lead. Leiter was excellent, pitching 5-2/3 shutout innings on 3 hits and 2 walks with 10 K's. The bullpen faltered for the 2nd straight game. Beeks allowed a run in the 7th, and Collyer allowed 2 in the 8th on a HR to right. Latz pitched s shutout 9th and recorded the save. Jung, Higashioka, and Lopez each had 2 hits. Record: 28-31.`
   },
   {
   id: 'jun1',
