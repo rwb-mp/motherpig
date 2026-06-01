@@ -417,21 +417,21 @@ const schedule = [
   date: 'June 1',
   opp: 'at St. Louis',
   score: '6:45',
-  recap: `TBD vs. Michael McGreevy (3-4, 2.98). `
+  recap: `Jacob deGrom (3-4, 3.77) vs. Michael McGreevy (3-4, 2.98). `
   },
   {
   id: 'jun2',
   date: 'June 2',
   opp: 'at St. Louis',
   score: '6:45',
-  recap: ``
+  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). `
   },
   {
   id: 'jun3',
   date: 'June 3',
   opp: 'at St. Louis',
   score: '6:45',
-  recap: ``
+  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). `
   },
   {
   id: 'jun5',
