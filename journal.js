@@ -416,8 +416,8 @@ const schedule = [
   id: 'jun1',
   date: 'June 1',
   opp: 'at St. Louis',
-  score: '6:45',
-  recap: `Jacob deGrom (3-4, 3.77) vs. Michael McGreevy (3-4, 2.98). `
+  score: 'W 2-1',
+  recap: `Jacob deGrom (3-4, 3.77) vs. Michael McGreevy (3-4, 2.98). deGrom threw 26 pitches in the 1st inning after a Jung error and an infied single off Burger's glove, but he struck out the last 2 batters to keep the game scoreless. The Cardinals had 2 runners on in the 2nd and 4th, but deGrom pitched out of trouble both times. A Nimmo single and a Duran double put Texas on the board in the 4th. Texas scored again in the 5th on a Jansen 1-out walk, a single by Jopez, and an RBI-single by Pederson. deGrom left after 5 with a 2-0 lead on 4 hits, a walk, and 8 K's. Gray allowed a 2-out solo HR in the 6th, but Alexander, Junis, and Latz retired all 9 hitters they faced. Latz recorded his 8th save and his 2nd in consecutive games. Duran had 3 of the Rangers' 8 hits. Record: 29-31.`
   },
   {
   id: 'jun2',
