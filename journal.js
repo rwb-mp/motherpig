@@ -424,7 +424,7 @@ const schedule = [
   date: 'June 2',
   opp: 'at St. Louis',
   score: 'W 7-4',
-  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). The St. Louis starter had lost his last 4 decisions, but he was in complete command of the Ranger lineup for the 1st 4 innings striking out 8. Down 2-0 in the 5th, Texas broke through with a couple of runs on a Carter 1-out bouncer up the middle that split the middle infielders, a Higashioka single, and a 2-out Pederson double. An Osuna RBI single in the 6th, and a Jung sac fly following a Higashioka double in the 7th extended the lead to 4-2. Eovaldi lost the lead in the 7th when the 1st 4 batters reached. Beeks was sensational stranding runners at 1st and 3rd to keep the game tied at 4-4. Carter led off the 9th with a walk, Higashioka singled, Pederson singled in Carter, Jung singled in Helman pinch running for Higashioka, and Nimmo scored Pederson on a sac fly. Junis pitched a shutout 9th and Texas had their 5th consecutive win. Record: 30-31.`
+  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). The game featured excellent hitting by Pederson and Higashioka and clutch bullpen work by Beeks. The Cardinals' starter had lost his last 4 decisions, but was in complete command of the Ranger lineup for the 1st 4 innings, striking out 8. Down 2-0 in the 5th, Texas tied the game on a Carter 1-out soft bouncer up the middle, a Higashioka single, and a 2-out Pederson double. An Osuna RBI single in the 6th, and a Jung sac fly following a Higashioka double in the 7th extended the lead to 4-2. Eovaldi lost the lead in the 7th when the 1st 4 batters reached. Beeks was sensational stranding runners at 1st and 3rd to keep the game tied at 4-4. Carter led off the 9th with a walk, Higashioka singled, Pederson singled in Carter, Jung singled in Helman pinch running for Higashioka, and Nimmo scored Pederson on a sac fly. Junis pitched a shutout 9th and Texas had their 5th consecutive win. Pederson reached base 4 times with a single, 2 doubles, a hit-by-pitch, and 2 RBI's. Higashioka had 2 singles and a double. Record: 30-31.`
   },
   {
   id: 'jun3',
@@ -438,14 +438,14 @@ const schedule = [
   date: 'June 5',
   opp: 'Cleveland',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Parker Messick (6-1, 2.21). `
   },
   {
   id: 'jun6',
   date: 'June 6',
   opp: 'Cleveland',
   score: '6:35',
-  recap: ``
+  recap: `TBD vs. Tanner Bibee (0-7, 4.57). `
   },
   {
   id: 'jun7',
