@@ -151,7 +151,7 @@ const schedule = [
   date: 'April 19',
   opp: 'at Seattle',
   score: 'L 5-2',
-  recap: `MacKenzie Gore (2-1, 3.00) vs. Bryan Woo (0-2, 2.16). Seattle homered on the 1st pitch in their half of the 1st. 2-run HRs in the 2nd and the 5th extended the lead to 5-0. The Rangers had only 2 baserunners in the 1st 6 innings. In the 7th, Seager walked, Langford singled, and Pederson was hit by the pitch to load the bases with 1 out. Jung scored Seager on a sac fly, and Carter doubled home Langford. Smith grounded out for the 3rd out. In the 8th, a 1-out double by Nimmo was wasted when Seager struck out and Langford flew out to right. MacKenzie's line was 5 innings, 5 runs, 7 hits, a walk, and 5 strikeouts. Alexander, Beeks, Collyer, and Junis pitched 3 innings of shutout relief. Record: 11-11.`
+  recap: `MacKenzie Gore (2-1, 3.00) vs. Bryan Woo (0-2, 2.16). Seattle homered on the 1st pitch in their half of the 1st. 2-run HRs in the 2nd and the 5th extended the lead to 5-0. The Rangers had only 2 baserunners in the 1st 6 innings. In the 7th, Seager walked, Langford singled, and Pederson was hit by the pitch to load the bases with 1 out. Jung scored Seager on a sac fly, and Carter doubled home Langford. Smith grounded out for the 3rd out. In the 8th, a 1-out double by Nimmo was wasted when Seager struck out and Langford flew out to right. MacKenzie's line was 5 innings, 5 runs, 7 hits, a walk, and 5 K's. Alexander, Beeks, Collyer, and Junis pitched 3 innings of shutout relief. Record: 11-11.`
   },
   {
   id: 'apr21',
@@ -423,8 +423,8 @@ const schedule = [
   id: 'jun2',
   date: 'June 2',
   opp: 'at St. Louis',
-  score: '6:45',
-  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). `
+  score: 'W 7-4',
+  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). The St. Louis starter had lost his last 4 decisions, but he was in comnplete command of the Ranger lineup for the 1st 4 innings striking out 8. Down 2-0 in the 5th, Texas broke through with a couple of runs on a Carter 1-out bouncer up the middle that split the middle infielders, a Higashioka single, and a 2-out Pederson double. An Osuna RBI single in the 6th, and a Jung sac fly following a Higashioka double in the 7th extended the lead to 4-2. Eovaldi lost the lead in the 7th when the 1st 4 batters reached. Beeks was sensational stranding runners at 1st and 3rd to keep the game tied at 4-4. Carter led off the 9th with a walk, Higashioka singled, Pederson singled in Carter, Jung singled in Helman pinch running for Higashioka, and Nimmo scored Pederson on a sac fly. Junis pitched a shutout 9th and Texas had their 5th consecutive win. Record: 30-31.`
   },
   {
   id: 'jun3',
