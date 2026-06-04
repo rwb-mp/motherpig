@@ -431,7 +431,7 @@ const schedule = [
   date: 'June 3',
   opp: 'at St. Louis',
   score: 'L 5-3',
-  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). After a couple of great starts, Gore was terrible in this one. He walked 3 batters in the 1st inning and threw 31 pitches as a result, only 17 of them for strikes. He left after 4-2/3, trailing 4-2 and having allowed 9 hits. Curvelo gave up another run in the 7th. Robby Ahlstrom made his MLB debut at the age of 26 by retiring all 4 batters he faced. The offense managed only 6 hits. Jung had an RBI-single in the 3rd, and Pederson knocked in 2 with a 1-out triple in the 7th. Jung struck out and Nimmo flew out to strand him. The Rangers had another opportunigy in the 6th with runners in 1st and 2nd, but Duran grounded out and Freeman struck out in his first at-bat of the season. Record: 30-32.`
+  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). After a couple of great starts, Gore was terrible in this one. He walked 3 batters in the 1st inning and threw 31 pitches as a result, only 17 of them for strikes. He left after 4-2/3, trailing 4-2 and having allowed 9 hits. Curvelo gave up another run in the 7th. Robby Ahlstrom made his MLB debut at the age of 26 by retiring all 4 batters he faced. The offense managed only 6 hits. Jung had an RBI-single in the 3rd, and Pederson knocked in 2 with a 1-out triple in the 7th. Jung struck out and Nimmo flew out to strand him. The Rangers had another opportunigy in the 6th with runners on 1st and 2nd, but Duran grounded out and Freeman struck out in his first at-bat of the season. Record: 30-32.`
   },
   {
   id: 'jun5',
