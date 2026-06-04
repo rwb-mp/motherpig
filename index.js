@@ -1081,9 +1081,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Wed',
     date: '3',
     opp: 'at SL <img src="logos/cardinals.gif" width="20px" height="20px" style="vertical-align:bottom"> ',
-    time: '6:45',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'L 5-3',
+    recap: '<a href = "journal.html#jun3" target = "_blank">Recap</a>'
     },
     {
     id: '96',

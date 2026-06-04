@@ -424,35 +424,35 @@ const schedule = [
   date: 'June 2',
   opp: 'at St. Louis',
   score: 'W 7-4',
-  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). The game featured excellent hitting by Pederson and Higashioka and clutch relief by Beeks. The Cardinals' starter was in complete command of the Ranger lineup for the 1st 4 innings, striking out 8. Down 2-0 in the 5th, Texas tied the game on a Carter 1-out soft bouncer up the middle, a Higashioka single, and a 2-out Pederson double. Texas took a 4-2 lead on an Osuna RBI single in the 6th, and a Jung sac fly following a Higashioka double in the 7th. Eovaldi lost the lead in the 7th when the 1st 4 hitters reached. Beeks got 3 outs--2 by strikeout--stranding runners at 1st and 3rd to keep the game tied at 4-4. Carter led off the 9th with a walk, Higashioka singled, Pederson singled in Carter, Jung singled in Helman pinch running for Higashioka, and Nimmo scored Pederson on a sac fly. Junis pitched a shutout 9th and Texas had their 5th consecutive win. Pederson reached base 4 times with a single, 2 doubles, a hit-by-pitch, and 2 RBI's. Higashioka had 2 singles and a double. Record: 30-31.`
+  recap: `Nathan Eovaldi (5-6, 3.93) vs. Dustin May (3-6, 4.57). The Cardinals' starter was in complete command of the Ranger lineup for the 1st 4 innings, striking out 8. Down 2-0 in the 5th, Texas tied the game on a Carter 1-out soft bouncer up the middle, a Higashioka single, and a 2-out Pederson double. Texas took a 4-2 lead on an Osuna RBI single in the 6th, and a Jung sac fly following a Higashioka double in the 7th. Eovaldi lost the lead in the 7th when the 1st 4 hitters reached. Beeks got 3 outs--2 by strikeout--stranding runners at 1st and 3rd to keep the game tied at 4-4. Carter led off the 9th with a walk, Higashioka singled, Pederson singled in Carter, Jung singled in Helman pinch running for Higashioka, and Nimmo scored Pederson on a sac fly. Junis pitched a shutout 9th and Texas had their 5th consecutive win. Pederson reached base 4 times with a single, 2 doubles, a hit-by-pitch, and 2 RBI's. Higashioka had 2 singles and a double. Record: 30-31.`
   },
   {
   id: 'jun3',
   date: 'June 3',
   opp: 'at St. Louis',
-  score: '6:45',
-  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). `
+  score: 'L 5-3',
+  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). After a couple of great starts, Gore was terrible in this one. He walked 3 batters in the 1st inning and threw 31 pitches as a result, only 17 of them for strikes. He left after 4-2/3, trailing 4-2 and having allowed 9 hits. Curvelo gave up another run in the 7th. Robby Ahlstrom made his MLB debut at the age of 26 by retiring all 4 batters he faced. The offense managed only 6 hits. Jung had an RBI-single in the 3rd, and Pederson knocked in 2 with a 1-out triple in the 7th. Jung struck out and Nimmo flew out to strand him. The Rangers had another opportunigy in the 6th with runners in 1st and 2nd, but Duran grounded out and Freeman struck out in his first at-bat of the season. Record: 30-32.`
   },
   {
   id: 'jun5',
   date: 'June 5',
   opp: 'Cleveland',
   score: '7:05',
-  recap: `TBD vs. Parker Messick (6-1, 2.21). `
+  recap: `Kumar Rocker (2-5, 3.54) vs. Parker Messick (6-1, 2.21). `
   },
   {
   id: 'jun6',
   date: 'June 6',
   opp: 'Cleveland',
   score: '6:35',
-  recap: `TBD vs. Tanner Bibee (0-7, 4.57). `
+  recap: `Jack Leiter (3-4, 4.34) vs. Tanner Bibee (0-7, 4.57). `
   },
   {
   id: 'jun7',
   date: 'June 7',
   opp: 'Cleveland',
   score: '1:35',
-  recap: ``
+  recap: `Jacob deGrom (4-4, 3.48) vs. Joey Cantillo (4-2, 3.92). `
   },
   {
   id: 'jun9',
