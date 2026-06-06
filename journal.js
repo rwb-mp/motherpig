@@ -431,14 +431,14 @@ const schedule = [
   date: 'June 3',
   opp: 'at St. Louis',
   score: 'L 5-3',
-  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). After a couple of great starts, Gore was terrible in this one. He walked 3 batters in the 1st inning and threw 31 pitches as a result, only 17 of them for strikes. He left after 4-2/3, trailing 4-2 and having allowed 9 hits. Curvelo gave up another run in the 7th. Robby Ahlstrom made his MLB debut at the age of 26 by retiring all 4 batters he faced. The offense managed only 6 hits. Jung had an RBI-single in the 3rd, and Pederson knocked in 2 with a 1-out triple in the 7th. Jung struck out and Nimmo flew out to strand him. The Rangers had another opportunigy in the 6th with runners on 1st and 2nd, but Duran grounded out and Freeman struck out in his first at-bat of the season. Record: 30-32.`
+  recap: `MacKenzie Gore (4-4, 3.96) vs. Andre Pallente (5-4, 4.19). After a couple of great starts, Gore was terrible in this one. He walked 3 batters in the 1st inning and threw 31 pitches as a result, only 17 of them for strikes. He left after 4-2/3, trailing 4-2 and having allowed 9 hits. Curvelo gave up another run in the 7th. Robby Ahlstrom made his MLB debut at the age of 26 by retiring all 4 batters he faced. The offense managed only 6 hits. Jung had an RBI-single in the 3rd, and Pederson knocked in 2 with a 1-out triple in the 7th. Jung struck out and Nimmo flew out to strand him. The Rangers had another opportunigy in the 6th with runners on 1st and 2nd, but Duran grounded out and Freeman struck out in his 1st at-bat of the season. Record: 30-32.`
   },
   {
   id: 'jun5',
   date: 'June 5',
   opp: 'Cleveland',
-  score: '7:05',
-  recap: `Kumar Rocker (2-5, 3.54) vs. Parker Messick (6-1, 2.21). `
+  score: 'W 3-2',
+  recap: `Kumar Rocker (2-5, 3.54) vs. Parker Messick (6-1, 2.21). Rocker's 3rd pitch was hit 385 feet into the rightfield seats. It was the 20th 1st inning HR allowed by Ranger pitchers. 5 teams are tied for 2nd place in MLB with 13. Rocker allowed a 2nd run on a double and a single in the 4th. He pitched out of trouble in the 5th when he stranded a leadoff triple. The Rangers had only 5 hits, but 4 of them came in the 6th inning. Higashioka led off the inning with a 428-foot blast to the 2nd deck in left. After Helman popped out, Langford doubled to left and Seager homered 399-feet to take a 3-2 lead. Gray, Beeks, and Latz pitched 3 perfect innings to take the lead into the 9th. Cleveland put 2 runners on, but Latz got the final strikeout on a 3-2 pitch above the zone for a 2-inning save. It was Latz' 9th save of the season. Record: 31-32.`
   },
   {
   id: 'jun6',
