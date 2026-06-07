@@ -451,8 +451,8 @@ const schedule = [
   id: 'jun7',
   date: 'June 7',
   opp: 'Cleveland',
-  score: '1:35',
-  recap: `Jacob deGrom (4-4, 3.48) vs. Joey Cantillo (4-2, 3.92). `
+  score: 'W 10-0',
+  recap: `Jacob deGrom (4-4, 3.48) vs. Joey Cantillo (4-2, 3.92). The Rangers showed some slug today as they hit a season-high 4 HR's. Foscue, Jung, Langford, and Helman provided the power and accounted for 5 of the Ranger runs. Duran had 4 hits including a 2-RBI double and Burger had 3 hits including an RBI single. deGrom scattered 3 singles and a pair of walks, striking out 6 over 6 innings. Gray, Alexander, and Curvelo pitched 3 shutout relief innings. Texas added 2 more late runs against a position player. Record: 32-33`
   },
   {
   id: 'jun9',
