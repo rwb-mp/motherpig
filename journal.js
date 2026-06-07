@@ -445,7 +445,7 @@ const schedule = [
   date: 'June 6',
   opp: 'Cleveland',
   score: 'L 6-0',
-  recap: `Jack Leiter (3-4, 4.34) vs. Tanner Bibee (0-7, 4.57). Leiter allowed 1 baserunner through 3 innings, but ran into trouble in the middle innings. He was pulled with 2 outs in the 5th, having allowed 5 runs on 6 hits--including a pair of solo HR's--and 3 walks. Quantrill was good in 2-1/3 innings of relief. Both hitters Curvelo faced reached base and 1 of them scored. Ahlstrom allowed only a single in 2 innings of relief. Seager, Jung, and Higashioka hit singles and that was the extent of the Ranger offense. Texas was 0-for-1 with RISP. Record: 31-33.`
+  recap: `Jack Leiter (3-4, 4.34) vs. Tanner Bibee (0-7, 4.57). Leiter allowed 1 baserunner through 3 innings, but ran into trouble in the middle innings. He was pulled with 2 outs in the 5th, having allowed 5 runs on 6 hits--including a pair of solo HR's--and 3 walks. Quantrill was good in 2-1/3 innings of relief. Both hitters Curvelo faced reached base and 1 of them scored. Ahlstrom allowed a lone single in 2 innings of relief. Seager, Jung, and Higashioka hit singles and that was the extent of the Ranger offense. Texas was 0-for-1 with RISP. Record: 31-33.`
   },
   {
   id: 'jun7',
