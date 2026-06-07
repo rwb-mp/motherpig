@@ -494,7 +494,7 @@ const schedule = [
   date: 'June 14',
   opp: 'Chicago White Sox',
   score: 'W 5-4',
-  recap: `Jacob deGrom (6-2, 2.12) vs. Mike Vasil (3-2, 2.18). Texas went 4-for-23 with RISP and left 17 runners on base. Trailing 2–1 in the 7th, Langford singled and Seager reached on strike 3 that was called ball 4. Semien doubled in the tying run, and Seager scored the go-ahead run on a wild pitch. Then Burger, Jung, and García struck out in order. After Chicago tied the game in the top of the 8th, Smith scored the go-ahead run on an error that should have been the 3rd out. With 2 outs in the top of the 9th, Robert García was called on for the final out but allowed a game-tying double. Adolis García delivered a walk-off single in the 11th inning to give the Rangers the win. Record: 35-36.`
+  recap: `Jacob deGrom (6-2, 2.12) vs. Mike Vasil (3-2, 2.18). Texas went 4-for-23 with RISP and left 17 runners on base. Trailing 2–1 in the 7th, Langford singled and Seager reached on strike 3 that was called ball 4. Semien doubled in the tying run, and Seager scored the go-ahead run on a wild pitch. Then Burger, Jung, and García struck out in order. After Chicago tied the game in the top of the 8th, Smith scored the go-ahead run on an error that should have been the 3rd out. With 2 outs in the top of the 9th, Robert García was called on to close out the game, but he allowed a game-tying double. Adolis García delivered a walk-off single in the 11th inning to score the free runner Seager and give the Rangers the win. Record: 35-36.`
   },
   {
   id: 'jun15',
