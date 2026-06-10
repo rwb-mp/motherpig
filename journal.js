@@ -458,29 +458,29 @@ const schedule = [
   id: 'jun9',
   date: 'June 9',
   opp: 'at Kansas City',
-  score: '6:40',
-  recap: ``
+  score: 'L 5-3',
+  recap: `Nathan Eovaldi (5-6, 4.10) vs. Stephen Kolek (3-1, 3.32). The Rangers scored early but also wasted opportunities that would come back to haunt. In the 2nd, Burger singled home Langford who had walked and advanced to 3rd on a Duran double. But with runners at 1st and 3rd and no outs, Carter grounded into a fielder's choice out at the plate and Higashioka hit into a double play. A pair of 2-out singles in the 3rd by Jung and Nimmo were stranded when Langford popped out to 2nd. With 2 outs in the 4th, Carter singled to right, advanced to 2nd on an errant pickoff attempt, stole 3rd and scored on a bad throw by the catcher to give Texas a 2-0 lead. 2-out singles by Jung and Nimmo again in the 5th produced nothing when Langford flew out to center. Eovaldi carried a no-hitter into the 5th, but got hit hard in the 5th and 6th when he gave up a HR, 2 doubles, and a triple, all of whom eventually scored. Beeks allowed a HR, a double, and a single in 2/3 innings of relief, and the Royals had a 5-2 lead. Texas scored once more in the 7th after a Pederson triple, but when quietly in the final 2 innings. Record: 32-34.`
   },
   {
   id: 'jun10',
   date: 'June 10',
   opp: 'at Kansas City',
   score: '6:40',
-  recap: ``
+  recap: `MacKenzie Gore (4-5, 4.23) vs. Seth Lugo (2-4, 3.91). `
   },
   {
   id: 'jun11',
   date: 'June 11',
   opp: 'at Kansas City',
   score: '1:10',
-  recap: ``
+  recap: `Kumar Rocker (2-5, 3.54) vs. Michael Wacha (4-4, 3.44). `
   },
   {
   id: 'jun12',
   date: 'June 12',
   opp: 'at Boston',
   score: '6:10',
-  recap: ``
+  recap: `TBD vs. Sonny Gray (7-1, 3.20). `
   },
   {
   id: 'jun13',
