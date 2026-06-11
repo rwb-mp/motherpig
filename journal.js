@@ -465,8 +465,8 @@ const schedule = [
   id: 'jun10',
   date: 'June 10',
   opp: 'at Kansas City',
-  score: '6:40',
-  recap: `MacKenzie Gore (4-5, 4.23) vs. Seth Lugo (2-4, 3.91). `
+  score: 'W 6-4',
+  recap: `MacKenzie Gore (4-5, 4.23) vs. Seth Lugo (2-4, 3.91). The Royals' starter was cruising into the 4th when Nimmo knocked him out of the game with a 107-mph line drive to the forehead. The Kansas City bullpen wasn't nearly as effective. The Rangers had 9 walks and 2 hit batters to go with 11 base hits, but left 14 on base. Burger brought the Rangers back twice. A HR in the 7th tied the game at 3-3, and a sac fly in the 8th tied it at 4-4. The 1st Texas run came in the 4th on a bases-loaded walk by Carter, and Nick Lopez had a clutch bases-loaded, 2-out single in the same inning to give Texas a 2-1 lead. Gore was pulled after 5 innings in a 2-2 tie. Gray and Alexander each gave up a run in relief, but Junis pitched 2 hitless innings to get the game into extras. In the Ranger 10th, Elias Diaz--newly acquired and playing for the injured Jansen--doubled home the free runner, and then scored several batters later on a Jung bases-loaded walk to give Texas a 6-4 lead. The Royals loaded the bases with no outs in the bottom of the 10th against Latz, but Latz got a strikeout and a double-play grounder to record his 10th save. Record: 33-34.`
   },
   {
   id: 'jun11',
