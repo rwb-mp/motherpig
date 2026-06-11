@@ -123,7 +123,7 @@ const schedule = [
   date: 'April 15',
   opp: 'at Athletics',
   score: 'L 6-5',
-  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27). Rocker issued a 2-out walk followed by a double to give the Athletics a 1st inning lead. In the 2nd inning it was a 1-out hit batter who came around to score. Seager tied the game 2-2 in the 3rd with a 410-foot HR to right. Rocker was lifted with 2 outs and 2 on in the 5th. His line was 4-2/3 innings, 2 runs, 4 hits, a hit batter, and 6 K's. After a walk to load the bases, Beeks got a bases loaded strikeout to keep the score tied. Winn allowed a 2-run HR in the 6th and another in the 7th to give the Athletics a 6-2 lead. The Rangers didn't threaten again until the 8th when Burger homered 408 feet to left after a Seager walk and a Langford single. With the Rangers trailing 6-5 in the 9th, Smith, Jansen, and McCutcheon went quietly to end the game. Record: 9-9.`
+  recap: `Kumar Rocker (0-1, 4.50) vs. J.T. Ginn (0-0, 3.27). Rocker issued a 2-out walk followed by a double to give the Athletics a 1st inning lead. In the 2nd inning it was a 1-out hit batter who came around to score. Seager tied the game 2-2 in the 3rd with a 410-foot HR to right. Rocker was lifted with 2 outs and 2 on in the 5th. His line was 4-2/3 innings, 2 runs, 4 hits, a hit batter, and 6 K's. After a walk to load the bases, Beeks got a bases-loaded strikeout to keep the score tied. Winn allowed a 2-run HR in the 6th and another in the 7th to give the Athletics a 6-2 lead. The Rangers didn't threaten again until the 8th when Burger homered 408 feet to left after a Seager walk and a Langford single. With the Rangers trailing 6-5 in the 9th, Smith, Jansen, and McCutcheon went quietly to end the game. Record: 9-9.`
   },
   {
   id: 'apr16',
@@ -137,7 +137,7 @@ const schedule = [
   date: 'April 17',
   opp: 'at Seattle',
   score: 'W 5-0',
-  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had a season high 15 base hits, but left 13 runners on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. Collyer made his 2nd relief appearance, and his fastball was clocked at 99.7 mph. Record: 11-9.`
+  recap: `Jacob deGrom (1-0, 2.87) vs. Logan Gilbert (1-2, 4.18). The Rangers had a season high 15 base hits, but left 13 runners on base. Texas went 5-for-17 with RISP. Jung had 3 doubles, and Langford and Burger had 3 singles apiece. The only player in the starting lineup without a hit was Smith who went 0-for-4 and struck out twice. deGrom threw 88 pitches in his 4 innings and pitched out of a bases-loaded, 1-out jam in the 1st. Collyer, Alexander, Beeks, and Winn scattered 2 singles and 3 walks in relief. Collyer made his 2nd relief appearance, and his fastball was clocked at 99.7 mph. Record: 11-9.`
   },
   {
   id: 'apr18',
@@ -207,7 +207,7 @@ const schedule = [
   date: 'April 28',
   opp: 'New York Yankees',
   score: 'L 3-2',
-  recap: `Jacob deGrom (2-0, 2.13) vs. Cam Schlittler (3-1, 1.77). It was another wasted quality start by deGrom as the offense went 1-for-10 with RISP. deGrom allowed one run on 3 hits with no walks and 5K's. Beeks and Winn surrendered solo homers in relief. The first 2 Texas hitters reached in both the 6th and 8th, but the lineup could not advance them. Trailing 3-0 in the bottom of the 9th, after Smith flew out to shallow left, McCutcheon reached on an error and Jansen tripled to score him. After Nimmo was hit by the pitch, Jung singled to score Jansen. With the tying and winning runs on base and 1 out, Seager grounded into a double play to end the game. Record: 14-16. `
+  recap: `Jacob deGrom (2-0, 2.13) vs. Cam Schlittler (3-1, 1.77). It was another wasted quality start by deGrom as the offense went 1-for-10 with RISP. deGrom allowed one run on 3 hits with no walks and 5K's. Beeks and Winn surrendered solo homers in relief. The first 2 Texas hitters reached in both the 6th and 8th, but the lineup could not advance them. Trailing 3-0 in the bottom of the 9th, after Smith flew out to shallow left, McCutcheon reached on an error and Jansen tripled to score him. After Nimmo was hit by the pitch, Jung singled to score Jansen. With the tying and winning runs on base and 1 out, Seager grounded into a double-play to end the game. Record: 14-16. `
   },
   {
   id: 'apr29',
@@ -228,7 +228,7 @@ const schedule = [
   date: 'May 2',
   opp: 'at Detroit',
   score: 'L 5-1',
-  recap: `Kumar Rocker (1-2, 3.38) vs. Keider Montero (1-2, 4.00). A 1st-inning squibber in front of the plate that Jung couldn't handle, followed by a groundball error by Jung, set the stage for a 3-run HR to give Detroit the early lead. A pair of runs on 3 singles in the 2nd extended the lead to 5-0. Rocker was done after 2 innings, charged with 5 earned runs on 6 hits. The 1st Texas hit came with 2 outs in the 4th when Burger homered 373 feet to left. Quantrill, Gray, and Collyer pitched 6 innings of shutout relief. The Rangers opened the 5th with 2 singles, but Jansen hit into a double play and Carter flew out to center. With 1 out in the 8th, Seager singled and Jung doubled, but Pederson grounded out and Burger struck out. Texas was 0-for-6 with RISP. Seager only had 1 hit, but the exit velocities in his 4 plate appearances were 108, 103, 108, and 105. Record: 16-17.`
+  recap: `Kumar Rocker (1-2, 3.38) vs. Keider Montero (1-2, 4.00). A 1st-inning squibber in front of the plate that Jung couldn't handle, followed by a groundball error by Jung, set the stage for a 3-run HR to give Detroit the early lead. A pair of runs on 3 singles in the 2nd extended the lead to 5-0. Rocker was done after 2 innings, charged with 5 earned runs on 6 hits. The 1st Texas hit came with 2 outs in the 4th when Burger homered 373 feet to left. Quantrill, Gray, and Collyer pitched 6 innings of shutout relief. The Rangers opened the 5th with 2 singles, but Jansen hit into a double-play and Carter flew out to center. With 1 out in the 8th, Seager singled and Jung doubled, but Pederson grounded out and Burger struck out. Texas was 0-for-6 with RISP. Seager only had 1 hit, but the exit velocities in his 4 plate appearances were 108, 103, 108, and 105. Record: 16-17.`
   },
   {
   id: 'may3',
@@ -368,7 +368,7 @@ const schedule = [
   date: 'May 25',
   opp: 'Houston',
   score: 'L 9-0',
-  recap: `Kumar Rocker (2-4, 3.60) vs. Tatsuya Imai (1-2, 8.31). Three Astros pitchers combined to no-hit the Rangers. Texas drew 3 walks in the 1st inning but failed to score due largely to a Nimmo double play. The Astros starter faced the minimum 15 batters over the next 5 innings. The Rangers drew their 5th walk in the 7th, but failed to advance him beyond 1st base. Rocker allowed 4 runs in his 5 innings, and Gray allowed 5 in 2 innings of relief, only 3 of them earned. Helman committed errors at shortstop on consecutive batters. Record: 24-29.`
+  recap: `Kumar Rocker (2-4, 3.60) vs. Tatsuya Imai (1-2, 8.31). Three Astros pitchers combined to no-hit the Rangers. Texas drew 3 walks in the 1st inning but failed to score due largely to a Nimmo double-play. The Astros starter faced the minimum 15 batters over the next 5 innings. The Rangers drew their 5th walk in the 7th, but failed to advance him beyond 1st base. Rocker allowed 4 runs in his 5 innings, and Gray allowed 5 in 2 innings of relief, only 3 of them earned. Helman committed errors at shortstop on consecutive batters. Record: 24-29.`
   },
   {
   id: 'may26',
@@ -459,21 +459,21 @@ const schedule = [
   date: 'June 9',
   opp: 'at Kansas City',
   score: 'L 5-3',
-  recap: `Nathan Eovaldi (5-6, 4.10) vs. Stephen Kolek (3-1, 3.32). The Rangers scored early but also wasted opportunities that came back to haunt them. In the 2nd, Burger singled home Langford who had walked and advanced to 3rd on a Duran double. But with runners at 1st and 3rd and no outs, Carter grounded into a fielder's choice out at the plate and Higashioka hit into a double play. A pair of 2-out singles in the 3rd by Jung and Nimmo were stranded when Langford popped out to 2nd. With 2 outs in the 4th, Carter singled to right, advanced to 2nd on an errant pickoff attempt, stole 3rd and scored on a bad throw by the catcher to give Texas a 2-0 lead. 2-out singles by Jung and Nimmo again in the 5th produced nothing when Langford flew out to center. Eovaldi carried a no-hitter into the 5th, but got hit hard in the 5th and 6th when he gave up a HR, 2 doubles, and a triple, all of whom eventually scored. Beeks allowed a HR, a double, and a single in 2/3 innings of relief, and the Royals had a 5-2 lead. Texas scored once more in the 7th after a Pederson triple, but went quietly in the final 2 innings. Record: 32-34.`
+  recap: `Nathan Eovaldi (5-6, 4.10) vs. Stephen Kolek (3-1, 3.32). The Rangers scored early but also wasted opportunities that came back to haunt them. In the 2nd, Burger singled home Langford who had walked and advanced to 3rd on a Duran double. But with runners at 1st and 3rd and no outs, Carter grounded into a fielder's choice out at the plate and Higashioka hit into a double-play. A pair of 2-out singles in the 3rd by Jung and Nimmo were stranded when Langford popped out to 2nd. With 2 outs in the 4th, Carter singled to right, advanced to 2nd on an errant pickoff attempt, stole 3rd and scored on a bad throw by the catcher to give Texas a 2-0 lead. 2-out singles by Jung and Nimmo again in the 5th produced nothing when Langford flew out to center. Eovaldi carried a no-hitter into the 5th, but got hit hard in the 5th and 6th when he gave up a HR, 2 doubles, and a triple, all of whom eventually scored. Beeks allowed a HR, a double, and a single in 2/3 innings of relief, and the Royals had a 5-2 lead. Texas scored once more in the 7th after a Pederson triple, but went quietly in the final 2 innings. Record: 32-34.`
   },
   {
   id: 'jun10',
   date: 'June 10',
   opp: 'at Kansas City',
   score: 'W 6-4',
-  recap: `MacKenzie Gore (4-5, 4.23) vs. Seth Lugo (2-4, 3.91). The Royals' starter was cruising into the 4th when Nimmo knocked him out of the game with a 107-mph line drive to the forehead. The Kansas City bullpen wasn't nearly as effective. The Rangers had 9 walks and 2 hit batters to go with 11 base hits, but left 14 on base. Burger brought the Rangers back twice. A HR in the 7th tied the game at 3-3, and a sac fly in the 8th tied it at 4-4. The 1st Texas run came in the 4th on a bases-loaded walk by Carter, and Nick Lopez had a clutch bases-loaded, 2-out single in the same inning to give Texas a 2-1 lead. Gore was pulled after 5 innings in a 2-2 tie. Gray and Alexander each gave up a run in relief, but Junis pitched 2 hitless innings to get the game into extras. In the Ranger 10th, Elias Diaz--newly acquired and playing for the injured Jansen--doubled home the free runner, and then scored several batters later on a Jung bases-loaded walk to give Texas a 6-4 lead. The Royals loaded the bases with no outs in the bottom of the 10th against Latz, but Latz got a strikeout and a double-play grounder to record his 10th save. Record: 33-34.`
+  recap: `MacKenzie Gore (4-5, 4.23) vs. Seth Lugo (2-4, 3.91). The Royals' starter was cruising into the 4th when Nimmo knocked him out of the game with a 107-mph line drive to the forehead. The Kansas City bullpen wasn't nearly as effective. The Rangers had 9 walks and 2 hit-batters to go with 11 base hits, but left 14 on base. Burger brought the Rangers back twice. A HR in the 7th tied the game at 3-3, and a sac fly in the 8th tied it at 4-4. The 1st Texas run came in the 4th on a bases-loaded walk by Carter, and Nick Lopez had a clutch bases-loaded, 2-out single in the same inning to give Texas a 2-1 lead. Gore was pulled after 5 innings in a 2-2 tie. Gray and Alexander each gave up a run in relief, but Junis pitched 2 hitless innings to get the game into extras. In the Ranger 10th, Elias Diaz--newly acquired and playing for the injured Jansen--doubled home the free runner, and then scored several batters later on a Jung bases-loaded walk to give Texas a 6-4 lead. The Royals loaded the bases with no outs in the bottom of the 10th against Latz, but Latz got a strikeout and a double-play grounder to record his 10th save. Record: 33-34.`
   },
   {
   id: 'jun11',
   date: 'June 11',
   opp: 'at Kansas City',
-  score: '1:10',
-  recap: `Kumar Rocker (2-5, 3.54) vs. Michael Wacha (4-4, 3.44). `
+  score: 'W 4-2',
+  recap: `Kumar Rocker (2-5, 3.54) vs. Michael Wacha (4-4, 3.44). Seager, Nimmo, Duran, Burger, and Diaz each had 2 hits for Texas. Seager had the big blast with a solo 391-foot HR to right in the 3rd, and Nimmo had a pair of doubles. The bats staked Rocker to a 3-0 lead after 3 innings. Both of Kansas City's runs came in the 4th when they strung together a walk and 3 singles. Rocker's outing ended after 4-2/3, and the bullpen--Ahlstrom, Winn, and Latz-- threw 4-1/3 innings of 1-hit ball. The Rangers have a .500 record for the 1st time since May 1. Record: 34-34.`
   },
   {
   id: 'jun12',
