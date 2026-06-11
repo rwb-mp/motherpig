@@ -473,7 +473,7 @@ const schedule = [
   date: 'June 11',
   opp: 'at Kansas City',
   score: 'W 4-2',
-  recap: `Kumar Rocker (2-5, 3.54) vs. Michael Wacha (4-4, 3.44). The Rangers won the game despite having 3 runners tagged out at 3rd base--Nimmo twice and Burger once. Seager, Nimmo, Duran, Burger, and Diaz each had 2 hits for Texas. Seager had the big blast with a solo 391-foot HR to right in the 3rd, and Nimmo had a pair of doubles. The bats staked Rocker to a 3-0 lead after 3 innings. Both of Kansas City's runs came in the 4th when they strung together a walk and 3 singles. Rocker's outing ended after 4-2/3, and the bullpen--Ahlstrom, Winn, and Latz-- threw 4-1/3 innings of 1-hit ball. The Rangers have a .500 record for the 1st time since May 1. Record: 34-34.`
+  recap: `Kumar Rocker (2-5, 3.54) vs. Michael Wacha (4-4, 3.44). The Rangers won despite having 3 runners tagged out at 3rd base--Nimmo twice and Burger once. Seager, Nimmo, Duran, Burger, and Diaz had 2 hits apiece for Texas. Seager had the big blast with a solo 391-foot HR to right in the 3rd, and Nimmo had a pair of doubles. The bats staked Rocker to a 3-0 lead after 3 innings. Both of Kansas City's runs came in the 4th when they strung together a walk and 3 singles. Rocker's outing ended after 4-2/3, and the bullpen--Ahlstrom, Winn, and Latz-- threw 4-1/3 innings of 1-hit ball. The Rangers have a .500 record for the 1st time since May 1. Record: 34-34.`
   },
   {
   id: 'jun12',
