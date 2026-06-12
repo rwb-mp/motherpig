@@ -480,21 +480,21 @@ const schedule = [
   date: 'June 12',
   opp: 'at Boston',
   score: '6:10',
-  recap: `TBD vs. Sonny Gray (7-1, 3.20). `
+  recap: `Jack Leiter (3-5, 4.69) vs. Sonny Gray (7-1, 3.20). `
   },
   {
   id: 'jun13',
   date: 'June 13',
   opp: 'at Boston',
   score: '3:10',
-  recap: ``
+  recap: `Jacob deGrom (5-4, 3.18) vs. Ranger Suarez (2-3, 3.18). `
   },
   {
   id: 'jun14',
   date: 'June 14',
   opp: 'at Boston',
   score: '12:35',
-  recap: ``
+  recap: `Nathan Eovaldi (5-7, 4.26) vs. Connelly Early (5-4, 3.30). `
   },
   {
   id: 'jun15',
