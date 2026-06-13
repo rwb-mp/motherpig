@@ -479,8 +479,8 @@ const schedule = [
   id: 'jun12',
   date: 'June 12',
   opp: 'at Boston',
-  score: '6:10',
-  recap: `Jack Leiter (3-5, 4.69) vs. Sonny Gray (7-1, 3.20). `
+  score: 'L 10-1',
+  recap: `Jack Leiter (3-5, 4.69) vs. Sonny Gray (7-1, 3.20). It was a promising 1st inning for the Ranger offense as Pederson, Jung, and Langford singled to give Texas the early 1-0 lead. Then the offense went into a coma as the next 14 Rangers were retired in order. Leiter couldn't command the strike zone and fell behind hitters consistently. He was lifted after 5 innings, allowing 6 runs on 8 hits and 2 walks. Quantrill and Curvelo gave up 4 more runs in 3 innings of relief. Pederson and Langford each had 2 hits. Nimmo, Duran, Carter, Foscue, Burger, and Higashioka went a collective 0-for-18. Record: 34-35.`
   },
   {
   id: 'jun13',

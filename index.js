@@ -1180,9 +1180,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '12',
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '6:10',
-    score: '',
-    recap: 'CW33'
+    time: '',
+    score: 'L 10-1',
+    recap: '<a href = "journal.html#jun12" target = "_blank">Recap</a>'
     },
     {
     id: '105',
@@ -2882,7 +2882,7 @@ const Hours = document.getElementById('hours');
 const Minutes = document.getElementById('minutes');
 const Seconds = document.getElementById('seconds');
 
-const targetDate = new Date("June 12 2026 18:10:00").getTime();
+const targetDate = new Date("June 13 2026 15:10:00").getTime();
 
 function timer () {
     const currentDate = new Date().getTime();
