@@ -1191,9 +1191,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '13',
     opp: 'at Bos <img src="logos/red-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '3:10',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'L 6-3',
+    recap: '<a href = "journal.html#jun13" target = "_blank">Recap</a>'
     },
     {
     id: '106',

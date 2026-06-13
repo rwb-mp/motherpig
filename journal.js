@@ -480,14 +480,14 @@ const schedule = [
   date: 'June 12',
   opp: 'at Boston',
   score: 'L 10-1',
-  recap: `Jack Leiter (3-5, 4.69) vs. Sonny Gray (7-1, 3.20). It was a promising 1st inning for the Ranger offense as Pederson, Jung, and Langford singled to give Texas the early 1-0 lead. Then the offense went into a coma as the next 14 Rangers were retired in order. Leiter couldn't command the strike zone and fell behind hitters consistently. He was lifted after 5 innings, allowing 6 runs on 8 hits and 2 walks. Quantrill and Curvelo gave up 4 more runs in 3 innings of relief. Pederson and Langford each had 2 hits. Nimmo, Duran, Carter, Foscue, Burger, and Higashioka went a collective 0-for-18. Record: 34-35.`
+  recap: `Jack Leiter (3-5, 4.69) vs. Sonny Gray (7-1, 3.20). It was a promising start to the 1st inning for the Ranger offense as singles by 3 of the 1st 4 hitters--Pederson, Jung, and Langford--gave Texas the early 1-0 lead. Then the offense went into a coma as the next 14 Rangers were retired in order. Leiter couldn't command the strike zone and fell behind hitters consistently. He was lifted after 5 innings, allowing 6 runs--5 earned--on 8 hits and 2 walks. Quantrill and Curvelo gave up 4 more in 3 innings of relief. Ten runs was the most allowed by the Rangers this season. Pederson and Langford each had 2 hits. Nimmo, Duran, Carter, Foscue, Burger, and Higashioka went a collective 0-for-18. Record: 34-35.`
   },
   {
   id: 'jun13',
   date: 'June 13',
   opp: 'at Boston',
-  score: '3:10',
-  recap: `Jacob deGrom (5-4, 3.18) vs. Ranger Suarez (2-3, 3.18). `
+  score: 'L 6-3',
+  recap: `Jacob deGrom (5-4, 3.18) vs. Ranger Suarez (2-3, 3.18). The Rangers continue to choke with RISP. Their 1st hit came with 2 out in the 3rd when a soft Lopez liner hit 2nd base for a single. Langford followed with a single to center with Lopez--running on the pitch--scoring from 1st when the centerfielder nonchalantly threw to 2nd. In the 4th, Jung and Duran singled and Burger walked to load the bases with no outs. After Feeeman struck out, Helman hit a sac fly to plate the 2nd Ranger run. Singles by Lopez and Langford in the 5th led to runners on 2nd and 3rd with 1 out, but Duran and Burger both struck out looking. deGrom pitched 6 innings and left in a 2-2 tie. Winn gave up 2 infleid squib singles in the 7th. After Ahlstrom walked a batter, a Boston single scored 2. Burger solo homered in the 8th with 1 out to draw the Rangers to within 4-3. After Freeman followed with a single and Helman was hit by the pitch to move the tying run to 2nd, Nimmo flew to left and Lopez grounded to 2nd to end the inning. The Red Sox doubled and homered off Gray to put the game out of reach in the 8th. Texas was 0-for-4 with the bases loaded. Record: 34-36.`
   },
   {
   id: 'jun14',
