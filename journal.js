@@ -493,8 +493,8 @@ const schedule = [
   id: 'jun14',
   date: 'June 14',
   opp: 'at Boston',
-  score: '12:35',
-  recap: `Nathan Eovaldi (5-7, 4.26) vs. Connelly Early (5-4, 3.30). `
+  score: 'W 6-4',
+  recap: `Nathan Eovaldi (5-7, 4.26) vs. Connelly Early (5-4, 3.30). The Rangers hit for power in the early innings, but wasted chances to add on later. Langford hit the 1st pitch 418 feet over the green monster, and Higashioka followed singles by Foscue and Freeman in the 2nd with a 381-foot flyball that just cleared the wall in left to stake Eovaldi to a 4-0 lead. Nimmo hit a bases-loaded double in the 4th scoring Osuna and Langford, and then Duran grounded out and Burger popped out. Foscue and Freeman singled to lead off the 5th, but Higashioka, Osuna, and Langford went in order and left them stranded. A 1-out double by Nimmo in the 6th was wasted by Duran and Burger. Eovaldi logged his 6th quality start by pitching 7 innings and allowing 3 runs on 6 hits and a walk with 6 K's. Junis could only get 2 outs in the 8th, allowing a run on 3 singles. Latz got the final out in the 8th and pitched a perfect 9th for his 11th save. Record: 35-36.`
   },
   {
   id: 'jun15',
