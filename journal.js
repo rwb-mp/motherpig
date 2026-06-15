@@ -501,21 +501,21 @@ const schedule = [
   date: 'June 15',
   opp: 'Minnesota',
   score: '7:05',
-  recap: ``
+  recap: `MacKenzie Gore (4-5, 4.18) vs. Mike Paredes (0-0, 4.35). `
   },
   {
   id: 'jun16',
   date: 'June 16',
   opp: 'Minnesota',
   score: '7:05',
-  recap: ``
+  recap: `Kumar Rocker (2-5, 3.56) vs. Zebby Matthews (2-4, 5.20). `
   },
   {
   id: 'jun18',
   date: 'June 18',
   opp: 'Minnesota',
   score: '12:35',
-  recap: ``
+  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3-17). `
   },
   {
   id: 'jun19',
