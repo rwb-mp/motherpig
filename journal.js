@@ -500,8 +500,8 @@ const schedule = [
   id: 'jun15',
   date: 'June 15',
   opp: 'Minnesota',
-  score: '7:05',
-  recap: `MacKenzie Gore (4-5, 4.18) vs. Mike Paredes (0-0, 4.35). `
+  score: 'L 4-2',
+  recap: `MacKenzie Gore (4-5, 4.18) vs. Mike Paredes (0-0, 4.35). The anemic Ranger offense floundered in what was a bullpen game for the Twins. The one bright spot was a Pederson 391-foot HR to right following a Diaz single in the 3rd. Texas had 3 singles the rest of the game and had only 1 runner reach 2nd base. Gore allowed 2 HR's but pitched well enough to win. Minnesota hit a 3-run shot in the 1st and a solo HR in the 6th. Gore pitched 7 innings, allowing 4 hits and 2 walks, striking out a season high 10. Seager was placed on the 7-day IL retroactive in June 12 due to a concussion suffered on a play at home plate. Record: 35-37.`
   },
   {
   id: 'jun16',
