@@ -501,14 +501,14 @@ const schedule = [
   date: 'June 15',
   opp: 'Minnesota',
   score: 'L 4-2',
-  recap: `MacKenzie Gore (4-5, 4.18) vs. Mike Paredes (0-0, 4.35). The anemic Ranger offense floundered in what was a bullpen game for the Twins. The one bright spot was a Pederson 391-foot HR to right following a Diaz single in the 3rd. Texas had 3 singles the rest of the game and had only 1 runner reach 2nd base. Gore allowed 2 HR's but pitched well enough to win. Minnesota hit a 3-run shot in the 1st and a solo HR in the 6th. Gore pitched 7 innings, allowing 4 hits and 2 walks, striking out a season high 10. Joe Ross made his 1st appearance for Texas and pitched a clean 9th. Seager was placed on the 7-day IL retroactive to June 12 due to a concussion suffered on a play at home plate. Record: 35-37.`
+  recap: `MacKenzie Gore (4-5, 4.18) vs. Mike Paredes (0-0, 4.35). The anemic Ranger offense floundered in what was a bullpen game for the Twins. The one bright spot was a Pederson 391-foot HR to right following a Diaz single in the 3rd. Texas had 3 singles the rest of the game and had only 1 runner reach 2nd base. Gore allowed 2 HR's but pitched well enough to win. Minnesota hit a 3-run shot in the 1st and a solo HR in the 6th. Gore pitched 7 innings, allowing 4 hits and 2 walks, striking out a season high 10. Joe Ross made his 1st appearance for Texas and pitched a clean 9th. Seager missed his 4th straight game and was placed on the 7-day IL retroactive to June 12 due to a concussion suffered on a play at home plate. Record: 35-37.`
   },
   {
   id: 'jun16',
   date: 'June 16',
   opp: 'Minnesota',
-  score: '7:05',
-  recap: `Kumar Rocker (2-5, 3.56) vs. Zebby Matthews (2-4, 5.20). `
+  score: 'L 12-2',
+  recap: `Kumar Rocker (2-5, 3.56) vs. Zebby Matthews (2-4, 5.20). After several good starts for Rocker, the Twins homered twice early--including a leadoff HR--to take a 5-0 lead. It was the 10th leadoff HR allowed by Texas, twice as many as any other team. Rocker's outing ended in the 4th after Minnesota doubled and Nimmo dropped a flyball in rightfield. 5 more runs scored against Quantrill in the inning. The Ranger bats were equally bad as they were 0-for-11 with RISP. Smith returned to the starting lineup for the 1st time since early May and went 1-for-4 for a single. Record: 35-38.`
   },
   {
   id: 'jun18',
