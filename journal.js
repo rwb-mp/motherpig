@@ -508,7 +508,7 @@ const schedule = [
   date: 'June 16',
   opp: 'Minnesota',
   score: 'L 12-2',
-  recap: `Kumar Rocker (2-5, 3.56) vs. Zebby Matthews (2-4, 5.20). After several good starts for Rocker, the Twins homered twice early--including a leadoff HR--to take a 5-0 lead. It was the 10th leadoff HR allowed by Texas, twice as many as any other team. Rocker's outing ended in the 4th after Minnesota doubled and Nimmo dropped a flyball in rightfield. 5 more runs scored against Quantrill in the inning. The Ranger bats were equally bad as they were 0-for-11 with RISP. Smith returned to the starting lineup for the 1st time since early May and went 1-for-4 for a single. Record: 35-38.`
+  recap: `Kumar Rocker (2-5, 3.56) vs. Zebby Matthews (2-4, 5.20). After several good starts for Rocker, the Twins homered twice early--including a leadoff HR--to take a 5-0 lead. It was the 10th leadoff HR allowed by Texas, twice as many as any other team. Rocker's outing ended in the 4th after Minnesota doubled and Nimmo dropped a flyball in rightfield. 5 more runs scored against Quantrill in the inning. The Ranger bats were equally bad as they were 0-for-11 with RISP. Smith returned to the starting lineup for the 1st time since early May and went 1-for-4 with a single. Record: 35-38.`
   },
   {
   id: 'jun18',
