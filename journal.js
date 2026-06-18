@@ -514,8 +514,8 @@ const schedule = [
   id: 'jun18',
   date: 'June 18',
   opp: 'Minnesota',
-  score: '12:35',
-  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3-17). `
+  score: 'L 9-3',
+  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3.17). It was Leiter's 3rd consecutive disastrous start giving him an ERA of 8.38 in June. The Rangers' 1st inning woes continued when Leiter gave up 3 singles and a HR to spot Minnesota to a 4-0 lead. With 2 outs in the 4th, Leiter walked the #9 batter and then surrendered his 2nd HR of the day to make the lead 6-0. Gray pitched a clean 5th, but Ahlstrom and Quantrill allowed 3 runs on 6 hits and a walk in their 3 relief innings. Cole pitched a clean 9th. Langford, Duran, and Foscue each hit solo HR's. The Rangers had a runner on 2nd base with 2 outs in 5 different innings, but Osuna, Nimmo, Jung, Burger, and Nimmo again left them stranded. Record 35-39.`
   },
   {
   id: 'jun19',
