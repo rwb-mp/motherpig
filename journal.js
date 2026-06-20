@@ -515,28 +515,28 @@ const schedule = [
   date: 'June 18',
   opp: 'Minnesota',
   score: 'L 9-3',
-  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3.17). It was Leiter's 3rd consecutive disastrous start giving him an ERA of 8.38 in June. The Rangers' 1st inning woes continued when Leiter gave up 3 singles and a HR to spot Minnesota to a 4-0 lead. With 2 outs in the 4th, Leiter walked the #9 batter and then surrendered his 2nd HR of the day to make the lead 6-0. Gray pitched a clean 5th, but Ahlstrom and Quantrill allowed 3 runs on 6 hits and a walk in their 3 relief innings. Cole pitched a clean 9th. Langford, Duran, and Foscue each hit solo HR's. The Rangers had a runner on 2nd base with 2 outs in 5 different innings, but Osuna, Nimmo, Jung, Burger, and Nimmo again left them stranded. Record 35-39.`
+  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3.17). It was Leiter's 3rd consecutive disastrous start giving him an ERA of 8.38 in June. The Rangers' 1st inning woes continued when Leiter gave up 4 singles and a HR to spot Minnesota to a 4-0 lead. With 2 outs in the 4th, Leiter walked the #9 batter and then surrendered his 2nd HR of the day to make the lead 6-0. Gray pitched a clean 5th, but Ahlstrom and Quantrill allowed 3 runs on 6 hits and a walk in their 3 relief innings. Cole pitched a clean 9th. Langford, Duran, and Foscue each hit solo HR's. The Rangers had a runner on 2nd base with 2 outs in 5 different innings, but Osuna, Nimmo, Jung, Burger, and Nimmo again left them stranded. Record 35-39.`
   },
   {
   id: 'jun19',
   date: 'June 19',
   opp: 'San Diego',
-  score: '7:05',
-  recap: ``
+  score: 'W 9-7',
+  recap: `Jacob deGrom (5-4, 3.17) vs. Randy Vasquez (6-4, 3.63). The Rangers 1st inning pitching woes continued with San Diego scoring 5 including a 2-out grand slam. It was the 25th 1st inning HR allowed by Texas, which is 8 more than the team with the 2nd most 1st-inning HR's allowed. The Rangers responded in the bottom of the inning by sending 11 batters to the plate and scoring 6. deGrom settled in allowing only 1 run over the next 5 innings, striking out 9. Junis allowed a run in relief, but Latz earned his 13th save by getting the final 4 outs. The lineup reached base 19 times on 13 hits, 5 walks, and an error. Langford had a single, double, and a 430-foot HR. Duran reached base 4 times on 3 walks and a single. Nimmo had 2 doubles. Jung has a pair of singles and a walk. Osuna had a single and a clutch bases-loaded double. Texas was 6-for-15 with RISP. It was the 1st Texas win this season--after 15 losses--when giving up multiple 1st inning runs. Record: 36-39.`
   },
   {
   id: 'jun20',
   date: 'June 20',
   opp: 'San Diego',
   score: '3:05',
-  recap: ``
+  recap: `Nathan Eovaldi (6-7, 4.23) vs. Walker Buehler (4-3, 4.14). `
   },
   {
   id: 'jun21',
   date: 'June 21',
   opp: 'San Diego',
   score: '1:35',
-  recap: ``
+  recap: `MacKenzie Gore (4-6, 4.27) vs. TBD. `
   },
   {
   id: 'jun22',
