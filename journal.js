@@ -529,14 +529,14 @@ const schedule = [
   date: 'June 20',
   opp: 'San Diego',
   score: '3:05',
-  recap: `Nathan Eovaldi (6-7, 4.23) vs. Walker Buehler (4-3, 4.14). `
+  recap: `MacKenzie Gore (4-6, 4.27) vs. Walker Buehler (4-3, 4.14). `
   },
   {
   id: 'jun21',
   date: 'June 21',
   opp: 'San Diego',
   score: '1:35',
-  recap: `MacKenzie Gore (4-6, 4.27) vs. TBD. `
+  recap: `TBD vs. TBD. `
   },
   {
   id: 'jun22',
