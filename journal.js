@@ -529,7 +529,7 @@ const schedule = [
   date: 'June 20',
   opp: 'San Diego',
   score: 'L 6-4',
-  recap: `MacKenzie Gore (4-6, 4.27) vs. Walker Buehler (4-3, 4.14). Gore logged a quality start pitching 6 innings of 1-run ball on 5 hits and 2 walks, striking out 6. The Rangers tied the game 1-1 in the 6th on a pair of doubles by Jung and Langford, Nimmo and Duran stranded Langford at 2nd. Burger followed a bloop single by newly-acquired Jarred Kelenic with a 408-foot HR to right. The bullpen couldn't hold the 3-1 lead, as San Diego scored 2 in the 8th against Winn and Alexander. The Padres blew the game open in the 10th on a 3-run HR against Joe Ross. Texas made it 6-4 on an infield single by Langford. Record: 36-40.`
+  recap: `MacKenzie Gore (4-6, 4.27) vs. Walker Buehler (4-3, 4.14). Gore logged a quality start pitching 6 innings of 1-run ball on 5 hits and 2 walks, striking out 6. The Rangers tied the game 1-1 in the 6th on a pair of doubles by Jung and Langford, but Nimmo and Duran stranded Langford at 2nd. Burger followed a bloop single by newly-acquired Jarred Kelenic with a 408-foot HR to right. The bullpen couldn't hold the 3-1 lead, as San Diego scored 2 in the 8th against Winn and Alexander. The Padres blew the game open in the 10th on a 3-run HR against Joe Ross. Texas made it 6-4 on an infield single by Langford. Record: 36-40.`
   },
   {
   id: 'jun21',
