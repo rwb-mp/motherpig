@@ -522,21 +522,21 @@ const schedule = [
   date: 'June 19',
   opp: 'San Diego',
   score: 'W 9-7',
-  recap: `Jacob deGrom (5-4, 3.17) vs. Randy Vasquez (6-4, 3.63). The Rangers 1st inning pitching woes continued with San Diego scoring 5 including a 2-out grand slam. It was the 25th 1st inning HR allowed by Texas, which is 8 more than the team with the 2nd most 1st-inning HR's allowed. The Rangers responded in the bottom of the inning by sending 11 batters to the plate and scoring 6. deGrom settled in allowing only 1 run over the next 5 innings, striking out 9. Junis allowed a run in relief, but Latz earned his 13th save by getting the final 4 outs. The lineup reached base 19 times on 13 hits, 5 walks, and an error. Langford had a single, double, and a 430-foot HR. Duran reached base 4 times on 3 walks and a single. Nimmo had 2 doubles. Jung had a pair of singles and a walk. Osuna had a single and a clutch bases-loaded double. Burger had a 2-run double in the 6-run Ranger 1st. Texas was 6-for-15 with RISP. It was the 1st Texas win this season--after 15 losses--when giving up multiple 1st inning runs. Record: 36-39.`
+  recap: `Jacob deGrom (5-4, 3.17) vs. Randy Vasquez (6-4, 3.63). The Rangers 1st inning pitching woes continued with San Diego scoring 5 including a 2-out grand slam. It was the 25th 1st inning HR allowed by Texas, which is 8 more than the team with the 2nd most 1st-inning HR's allowed. The Rangers responded in the bottom of the inning by sending 11 batters to the plate and scoring 6. deGrom settled in allowing only 1 run over the next 5 innings, striking out 9. Junis allowed a run in relief, but Latz earned his 13th save by getting the final 4 outs. The lineup reached base 19 times on 13 hits, 5 walks, and an error. Langford had a single, double, and a 430-foot HR. Duran reached base 4 times on 3 walks and a single. Nimmo had 2 doubles. Jung had a pair of singles and a walk. Osuna had a single and a clutch bases-loaded double. Burger had a 2-run double in the 6-run Ranger 1st. Texas was 6-for-15 with RISP. It was the 1st Texas win this season--after 15 losses--when giving up multiple 1st inning runs. Josh Smith was optioned to Round Rock for the 1st time since 2022. Record: 36-39.`
   },
   {
   id: 'jun20',
   date: 'June 20',
   opp: 'San Diego',
   score: 'L 6-4',
-  recap: `MacKenzie Gore (4-6, 4.27) vs. Walker Buehler (4-3, 4.14). Gore logged a quality start pitching 6 innings of 1-run ball on 5 hits and 2 walks, striking out 6. The Rangers tied the game 1-1 in the 6th on a pair of doubles by Jung and Langford, but Nimmo and Duran stranded Langford at 2nd. Burger followed a bloop single by newly-acquired Jarred Kelenic with a 408-foot HR to right in the 7th. The bullpen couldn't hold the 3-1 lead, as San Diego scored 2 in the 8th against Winn and Alexander. The Padres blew the game open in the 10th on a 3-run HR against Joe Ross. Texas made it 6-4 on an infield single by Langford. Record: 36-40.`
+  recap: `MacKenzie Gore (4-6, 4.27) vs. Walker Buehler (4-3, 4.14). Gore logged a quality start pitching 6 innings of 1-run ball on 5 hits and 2 walks, striking out 6. The Rangers tied the game 1-1 in the 6th on a pair of doubles by Jung and Langford, but Nimmo and Duran stranded Langford at 2nd. Burger followed a bloop single by newly-acquired Jarred Kelenic with a 408-foot HR to right in the 7th. The bullpen couldn't hold the 3-1 lead, as San Diego scored 2 in the 8th against Winn and Alexander. The Padres blew the game open in the 10th on a 3-run HR against Joe Ross. Texas made it 6-4 on an infield single by Langford that scored the free runner. It was the 1st Ranger loss when leading after 7 innings. Record: 36-40.`
   },
   {
   id: 'jun21',
   date: 'June 21',
   opp: 'San Diego',
-  score: '1:35',
-  recap: `TBD vs. Lucas Giolito (2-2, 4.56). `
+  score: 'W 4-3',
+  recap: `Nathan Eovaldi (6-7, 4.23) vs. Wandy Peralta (1-0, 1.96). Langford hit a 403-foot, 3-run HR in the 3rd to propel the Rangers to the win. Eovaldi threw 5 excellent innings and 1 bad one. The Padres scored 3 runs on 6 hits to tie the game 3-3 in the 4th. Consecutive singles by Lopez, Langford, and Jung in the Ranger 4th gave Texas the 4-3 lead. Gray, Ahlstrom, and Junis each threw a shutout inning to protect the lead. San Diego threatened in the 9th when the 1st 2 batters singled, but Junis retired the next 3 hitters to get the save. Record: 37-40.`
   },
   {
   id: 'jun22',

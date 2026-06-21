@@ -1270,7 +1270,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'SD <img src="logos/padres.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
     score: 'L 6-4',
-    recap: '<a href = "journal.html#jun19" target = "_blank">Recap</a>'
+    recap: '<a href = "journal.html#jun20" target = "_blank">Recap</a>'
     },
     {
     id: '113',
@@ -1279,9 +1279,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '21',
     opp: 'SD <img src="logos/padres.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '1:35',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'W 4-3',
+    recap: '<a href = "journal.html#jun21" target = "_blank">Recap</a>'
     },
     {
     id: '114',
