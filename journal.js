@@ -542,8 +542,8 @@ const schedule = [
   id: 'jun22',
   date: 'June 22',
   opp: 'at Miami',
-  score: '5:40',
-  recap: ``
+  score: '',
+  recap: `Tyler Alexander (1-1, 2.97) vs. Tyler Phillips (1-2, 3.10). For the 2nd straight game, Duran used his cannon arm to gun down a runner at home plate on a relay throw from the outfield. Duran also homered 407 feet to CF in the 4th to give the Rangers a 2-0 lead. Alexander opened for Rocker and pitched a clean 1st inning. Rocker was excellent, throwing 76 pitches over 5 innings and allowing 2 runs on 5 hits and no walks, striking out a career-high 9. Ahlstrom pitched a clean 7th. Texas scored in the 8th on a double by Nimmo, a walk to Burger, and a clutch double down the 1st base line by Osuna. Diaz added a sac fly to give Texas a 4-2 lead. Junis couldn't get through the 8th when he put 2 runners on with 2 outs. Latz allowed a double to the first hitter he faced to make the score 4-3, but then got out out of a bases loaded jam to end the 8th. Latz pitched a perfect 9th for his 14th save. Nimmo reached base 4 times with a single, a walk, and 2 doubles.`
   },
   {
   id: 'jun23',
