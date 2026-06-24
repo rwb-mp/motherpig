@@ -550,7 +550,7 @@ const schedule = [
   date: 'June 23',
   opp: 'at Miami',
   score: 'L 6-4',
-  recap: `Cal Quantrill (3-0, 3.68) vs. Sandy Alcantara (7-4, 4.18). Leiter had surgery on his ankle resulting in a bullpen game for Texas. Quantrill allowed a HR in his 2 innings. The rest of the damage was against Corniell who was recently called up from Round Rock. Corniell gave up 5 runs in 3-1/3 including 2 HR's. Joe Ross was effective in his 2-2/3 innings. The Rangers loaded the bases with no outs in the 2nd, but only scored a single run on a groundout by Lopez. Pederson and Langford followed with easy outs. Nimmo homered in the 8th to make the score 6-2. With 2 outs in the 9th, Pederson homered, Langford was hit by the pitch, and Nimmo tripled to bring Texas back at 6-4. Jung batted as the tying run and flew out 382 feet to centerfield. Record: 38-41.`
+  recap: `Cal Quantrill (3-0, 3.68) vs. Sandy Alcantara (7-4, 4.18). Leiter had surgery on his ankle resulting in a bullpen game for Texas. Quantrill allowed a HR in his 2 innings. The rest of the damage was against Corniell who was recently called up from Round Rock. Corniell gave up 5 runs in 3-1/3 including 2 HR's. Joe Ross was effective in his 2-2/3 innings. The Rangers loaded the bases with no outs in the 2nd, but only scored a single run on a groundout by Lopez. Pederson and Langford followed with easy outs. Nimmo homered in the 8th to make the score 6-2. With 2 outs in the 9th, Pederson homered, Langford was hit by the pitch, and Nimmo tripled to bring Texas back at 6-4. Jung batted as the tying run and flew out 382 feet to centerfield. Pederson had 3 hits for the Rangers. Record: 38-41.`
   },
   {
   id: 'jun24',
