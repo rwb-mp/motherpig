@@ -564,7 +564,7 @@ const schedule = [
   date: 'June 25',
   opp: 'at Toronto',
   score: '6:07',
-  recap: `MacKenzien Gore (4-6, 4.07) vs. `
+  recap: `MacKenzie Gore (4-6, 4.07) vs. TBD. `
   },
   {
   id: 'jun26',
