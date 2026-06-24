@@ -550,21 +550,21 @@ const schedule = [
   date: 'June 23',
   opp: 'at Miami',
   score: 'L 6-4',
-  recap: `Cal Quantrill (3-0, 3.68) vs. Sandy Alcantara (7-4, 4.18). Leiter had surgery on his ankle resulting in a bullpen game for Texas. Quantrill allowed a HR in his 2 innings. The rest of the damage was against Corniell who was recently called up from Round Rock. Corniell gave up 5 runs in 3-1/3 including 2 HR's. Joe Ross was effective in his 2-2/3 innings. The Rangers loaded the bases with no outs in the 2nd, but only scored a single run on a groundout by Lopez. Pederson and Langford followed with easy outs. Nimmo homered in the 8th to make the score 6-2. With 2 outs in the 9th, Pederson homered, Langford was hit by the pitch, and Nimmo tripled to bring Texas back at 6-4. Jung batted as the tying run and flew out 382 feet to centerfield. Pederson had 3 hits for the Rangers. Record: 38-41.`
+  recap: `Cal Quantrill (3-0, 3.68) vs. Sandy Alcantara (7-4, 4.18). Leiter had surgery on his ankle resulting in a bullpen game for Texas. Quantrill allowed a HR in his 2 innings. The rest of the damage was against Corniell who was recently called up from Round Rock. Corniell gave up 5 runs in 3-1/3 including 2 HR's. Joe Ross was effective in his 2-2/3 innings. The Rangers loaded the bases with no outs in the 2nd, but only scored a single run on a groundout by Lopez. Pederson and Langford followed with easy outs. Nimmo homered in the 8th to make the score 6-2. With 2 outs in the 9th, Pederson homered, Langford was hit by the pitch, and Nimmo tripled to bring Texas back at 6-4. Jung batted as the tying run and flew out 382 feet to centerfield. Pederson had 3 hits for the Rangers who were 1-for-11 with RISP. Record: 38-41.`
   },
   {
   id: 'jun24',
   date: 'June 24',
   opp: 'at Miami',
-  score: '11:10',
-  recap: `Jacob deGrom (6-4, 3.59) vs. Eury Perez (3-6, 4.60). `
+  score: 'L 4-2',
+  recap: `Jacob deGrom (6-4, 3.59) vs. Eury Perez (3-6, 4.60). deGrom deserved a win, pitching 6 innings and allowing 2 runs on 4 hits and 2 walks with 8 K's. Alexander pitched a perfect 7th, but Winn issued a leadoff walk in the 8th followed by a 1-out, 2-run HR to give the Marlins a 4-1 lead. The offense was a failure. Langford solo homered in the 4th, and Pederson solo homered to begin the 9th. Langford popped up in the infield, Jung lined out to leftfield, and Nimmo flew out to the wall in center to end the game. Besides the 2 solo HR's, the Rangers only had 1 runner reach 2nd base. Jung struck out on a pitch a foot outside in the 6th to end that threat. Record: 38-42.`
   },
   {
   id: 'jun25',
   date: 'June 25',
   opp: 'at Toronto',
   score: '6:07',
-  recap: ``
+  recap: `MacKenzien Gore (4-6, 4.07) vs. `
   },
   {
   id: 'jun26',
