@@ -563,8 +563,8 @@ const schedule = [
   id: 'jun25',
   date: 'June 25',
   opp: 'at Toronto',
-  score: '6:07',
-  recap: `MacKenzie Gore (4-6, 4.07) vs. TBD. `
+  score: 'W 6-5',
+  recap: `MacKenzie Gore (4-6, 4.07) vs. Kevin Gausman (4-5, 4.04). Pederson opened the game with an 11-pitch at-bat that culminated in a 402-foot HR down the rightfield line. After Lopez and Pederson hit 1-out singles in the 3rd, Langford homered 401 feet to left. After a Seager walk in the same inning, Burger homered 378 feet to left to make the score 6-0. The Rangers wasted a great opportunity to add on in the 4th when Higashioka and Lopez singled and Pederson walked to load the bases with 1 out. Langford and Seager both popped out in the infield to end the inning. Gore pitched a 7-inning quality start. He was roughed up for 3 runs in the 5th, but only allowed 1 baserunner in his other 6 innings. Junis pitched a perfect 8th. Latz gave up a leadoff single and a 1-out HR in the 9th that cut the Ranger lead to 6-5. Latz got the last 2 hitters on a groundout and a strikeout to record his 15th save. Texas is hitting .213 with bases loaded which is 25th in MLB. Record: 39-42.`
   },
   {
   id: 'jun26',
