@@ -571,21 +571,21 @@ const schedule = [
   date: 'June 26',
   opp: 'at Toronto',
   score: '6:07',
-  recap: ``
+  recap: `Nathan Eovaldi (7-7, 4.24) vs. Patrick Corbin (2-3, 4.73). `
   },
   {
   id: 'jun27',
   date: 'June 27',
   opp: 'at Toronto',
   score: '2:07',
-  recap: ``
+  recap: `TBD vs. Dylan Cease (4-3, 2.75). `
   },
   {
   id: 'jun28',
   date: 'June 28',
   opp: 'at Toronto',
   score: '12:37',
-  recap: ``
+  recap: `TBD vs. Shane Bieber (0-0, 9.82). `
   },
   {
   id: 'jun29',
