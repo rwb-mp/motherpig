@@ -577,8 +577,8 @@ const schedule = [
   id: 'jun27',
   date: 'June 27',
   opp: 'at Toronto',
-  score: '2:07',
-  recap: `TBD vs. Dylan Cease (4-3, 2.75). `
+  score: 'W 7-4',
+  recap: `Cal Quantrill (3-0, 3.73) vs. Dylan Cease (4-3, 2.75). The Rangers scored in the 1st inning for the 3rd time in the series. After Pederson and Jung struck out to start the game, Seager and Nimmo walked. Burger blooped a Texas leaguer behind the shortstop to score Seager. Kelenic walked to load the bases, but Osuna hit a line drive directly at the rightfielder to end the inning. Texas broke the game open in the 5th when they batted around on walks to Jung and Duran, singles by Nimmo, Burger, and Osuna, and a double by Diaz. Seager added a 7th run with a 2-out, 391-foot solo HR in the 6th. Quantrill was excellent in 4 shutout innings, allowing only 3 baserunners and striking out 5. Ahlstrom and Ross were hit hard in their 1-2/3 innings, allowing 4 runs on 7 hits. Gray put out the fire by getting the last out in the 6th and pitching a perfect 7th and 8th. Alexander pitched a perfect 9th for his 3rd save. Burger had 3 hits for the Rangers. Record: 41-42.`
   },
   {
   id: 'jun28',
