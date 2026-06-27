@@ -570,8 +570,8 @@ const schedule = [
   id: 'jun26',
   date: 'June 26',
   opp: 'at Toronto',
-  score: '6:07',
-  recap: `Nathan Eovaldi (7-7, 4.24) vs. Patrick Corbin (2-3, 4.73). `
+  score: 'W 5-4',
+  recap: `Nathan Eovaldi (7-7, 4.24) vs. Patrick Corbin (2-3, 4.73). The Rangers sent 8 batters to the plate in the 1st inning and scored 3 runs. Langford singled, Jung was hit by the pitch, and Nimmo doubled home Langford. After Burger struck out, Foscue singled home Jung, and Duran singled home Nimmo. Texas added 2 more in the 3rd when Burger walked and Foscue homered 389 feet to left. Eovaldi had one of his best starts of the year, throwing 7 shutout innings on 5 hits, a walk, and 9 K's. Ahlstrom and Junis got slammed for 4 runs in the 8th to draw Toronto to within a run at 5-4. Latz issued a leadoff walk in the 9th and retired the next 3 for his 16th save. Langford had 3 hits and raised his average to .278. Record: 40-42.`
   },
   {
   id: 'jun27',
