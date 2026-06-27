@@ -585,28 +585,28 @@ const schedule = [
   date: 'June 28',
   opp: 'at Toronto',
   score: '12:37',
-  recap: `TBD vs. Shane Bieber (0-0, 9.82). `
+  recap: `Kumar Rocker (2-6, 4.14) vs. Shane Bieber (0-0, 9.82). `
   },
   {
   id: 'jun29',
   date: 'June 29',
   opp: 'at Cleveland',
   score: '6:10',
-  recap: ``
+  recap: `TBD vs. Parker Messick (7-4, 2.67). `
   },
   {
   id: 'jun30',
   date: 'June 30',
   opp: 'at Cleveland',
   score: '5:40',
-  recap: ``
+  recap: `TBD vs. Tanner Bibee (2-8, 3.78). `
   },
   {
   id: 'jul1',
   date: 'July 1',
   opp: 'at Cleveland',
   score: '12:10',
-  recap: ``
+  recap: `TBD vs. Joey Cantillo (6-3, 3.87). `
   },
   {
   id: 'jul2',
