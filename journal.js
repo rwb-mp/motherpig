@@ -599,21 +599,21 @@ const schedule = [
   date: 'June 30',
   opp: 'at Cleveland',
   score: '5:40',
-  recap: `TBD vs. Tanner Bibee (2-8, 3.78). `
+  recap: `Jacob deGrom (6-5, 3.55) vs. Tanner Bibee (2-8, 3.78). `
   },
   {
   id: 'jul1',
   date: 'July 1',
   opp: 'at Cleveland',
   score: '12:10',
-  recap: `TBD vs. Joey Cantillo (6-3, 3.87). `
+  recap: `MacKenzie Gore (5-6, 4.05) vs. Joey Cantillo (6-3, 3.87). `
   },
   {
   id: 'jul2',
   date: 'July 2',
   opp: 'Detroit',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Framber Valdez (4-5, 4.05). `
   },
   {
   id: 'jul4',
