@@ -598,8 +598,8 @@ const schedule = [
   id: 'jun30',
   date: 'June 30',
   opp: 'at Cleveland',
-  score: '5:40',
-  recap: `Jacob deGrom (6-5, 3.55) vs. Tanner Bibee (2-8, 3.78). `
+  score: 'W 4-2',
+  recap: `Jacob deGrom (6-5, 3.55) vs. Tanner Bibee (2-8, 3.78). deGrom allowed a 1-out, 1st-inning double followed by a HR to put the Rangers in a 2-0 hole. After a 2nd-inning single, deGrom retired 17 in a row. His line was 7 innings, 2 runs on 4 hits and no walks with 9 K's. Lopez singled to lead off the 3rd inning and Pederson homered 403 feet to right to tie the game at 2-2. Duran led off the 7th with a single and advanced to 2nd on a groundout by Carter. Osuna flied out to left for the 2nd out, and the recently called up leftfielder mistakenly tossed the ball into the stands for a 2-base error scoring Duran. Jung hit a 2-out solo HR in the 8th to make the score 4-2. Gray pitched a shutout 8th and Latz a perfect 9th for his 18th save. Record: 44-42.`
   },
   {
   id: 'jul1',
