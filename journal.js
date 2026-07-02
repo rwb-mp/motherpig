@@ -613,21 +613,21 @@ const schedule = [
   date: 'July 2',
   opp: 'Detroit',
   score: '7:05',
-  recap: `TBD vs. Framber Valdez (4-5, 4.05). `
+  recap: `Nathan Eovaldi (8-7, 3.95) vs. Framber Valdez (4-5, 4.05). `
   },
   {
   id: 'jul4',
   date: 'July 4',
   opp: 'Detroit',
   score: '3:05',
-  recap: ``
+  recap: `Kumar Rocker (2-6, 3.83) vs. Jack Flaherty (1-8, 4.97). `
   },
   {
   id: 'jul5',
   date: 'July 5',
   opp: 'Detroit',
   score: '1:35',
-  recap: ``
+  recap: `TBD vs. Casey Mize (3-5, 2.63). `
   },
   {
   id: 'jul7',
