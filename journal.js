@@ -612,8 +612,8 @@ const schedule = [
   id: 'jul2',
   date: 'July 2',
   opp: 'Detroit',
-  score: '7:05',
-  recap: `Nathan Eovaldi (8-7, 3.95) vs. Framber Valdez (4-5, 4.05). `
+  score: 'W 10-4',
+  recap: `Nathan Eovaldi (8-7, 3.95) vs. Framber Valdez (4-5, 4.05). The Rangers had a season high 17 hits led by Osuna and Lopez who had 3 hits each at the bottom of the order. Diaz had 2 hits including a 414-foot HR to left to open the scoring. Carter, Duran, Jung, and Smith also had 2 hits apiece including a 406-foot pinch-hit HR to right for Smith. Eovaldi allowed no hits and a walk through 4 innings while striking out 8. The Tigers scored 3 off Eovaldi in the 5th on 3 singles and a pair of HR's. Eovaldi was lifted in the 6th when he surrendered a leadoff double. Alexander loaded the bases on a single and a walk and was replaced by Gray who got a strikeout to kill the rally. Gray, Ahlstron, Winn, and Collyer pitched the last 3, allowing a run on 4 hits and a walk. The Rangers were 5-for-11 with RISP. Record: 45-43. `
   },
   {
   id: 'jul4',
