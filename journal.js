@@ -619,15 +619,15 @@ const schedule = [
   id: 'jul4',
   date: 'July 4',
   opp: 'Detroit',
-  score: '3:05',
-  recap: `Kumar Rocker (2-6, 3.83) vs. Jack Flaherty (1-8, 4.97). `
+  score: 'L 3-0',
+  recap: `Cal Quantrill (3-0, 3.31) vs. Jack Flaherty (1-8, 4.97). The pitching was excellent but the bats were atrocious. Quantrill retired the game's 1st 2 batters and then gave up a single and a 2-run HR. That's all the Tigers would need. Detroit scored an unearned run in the 2nd after Osuna missed a flyball in left. Quantrill, Alexander, Peoples, and Martin allowed only 3 singles in the final 7 innings. Ben Peoples made his 1st MLB appearance by pitching 2 shutout innings. The Rangers had 3 hits, a walk, and a HBP, and only got 1 runner to 2nd base. He was left there by Nimmo on a groundout to 2nd. Record: 45-44.`
   },
   {
   id: 'jul5',
   date: 'July 5',
   opp: 'Detroit',
   score: '1:35',
-  recap: `TBD vs. Casey Mize (3-5, 2.63). `
+  recap: `Kumar Rocker (2-6, 3.83) vs. Casey Mize (3-5, 2.63). `
   },
   {
   id: 'jul7',
