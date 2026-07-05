@@ -620,14 +620,14 @@ const schedule = [
   date: 'July 4',
   opp: 'Detroit',
   score: 'L 3-0',
-  recap: `Cal Quantrill (3-0, 3.31) vs. Jack Flaherty (1-8, 4.97). The pitching was excellent but the bats were atrocious. Quantrill retired the game's 1st 2 batters and then gave up a single and a 2-run HR. That's all the Tigers would need. Detroit scored an unearned run in the 2nd after Osuna missed a flyball in left. Quantrill, Alexander, Peoples, and Martin allowed only 3 singles in the final 7 innings. Ben Peoples made his 1st MLB appearance by pitching 2 shutout innings. The Rangers had 3 hits, a walk, and a HBP, and only got 1 runner to 2nd base. He was left there by Nimmo on a groundout to 2nd. Record: 45-44.`
+  recap: `Cal Quantrill (3-0, 3.31) vs. Jack Flaherty (1-8, 4.97). The pitching was excellent but the bats were atrocious. Quantrill retired the game's 1st 2 batters and then gave up a single and a 2-run HR. That's all the Tigers would need. Detroit scored an unearned run in the 2nd after Osuna missed a flyball in left. Quantrill, Alexander, Peoples, and Martin allowed only 3 singles in the final 7 innings. Ben Peoples made his MLB debut by pitching 2 shutout innings. The Rangers had 3 hits, a walk, and a HBP, and only got 1 runner to 2nd base. He was left there by Nimmo on a groundout to 2nd. Record: 45-44.`
   },
   {
   id: 'jul5',
   date: 'July 5',
   opp: 'Detroit',
-  score: '1:35',
-  recap: `Kumar Rocker (2-6, 3.83) vs. Casey Mize (3-5, 2.63). `
+  score: 'L 6-3',
+  recap: `Kumar Rocker (2-6, 3.83) vs. Casey Mize (3-5, 2.63). Burger homered to left with 1 out in the 3rd to give Texas the early 1-0 lead. Rocker gave the lead back in the 4th, allowing a 1-out single followed by a 2-run HR. Rocker surrendered a 1-out single to the 9-hole hitter in the 5th and was lifted for Ahlstrom. Ahlstron faced 5 batters in the inning and retired none of them. The Tigers reached on 2 singles, a catcher's interference, a triple, and a walk, and Detroit had a 6-2 lead. Collyer, Winn, and Gray pitched 4 shutout innings in relief. The Rangers scored a run in the 5th on a 1-out single by Lopez, a walk to Pederson, and a 2-out single by Nimmo. Texas had only 1 baserunner after the 5th inning, a solo HR by Duran in the 8th that made Detroit's lead 6-3. Record: 45-45.`
   },
   {
   id: 'jul7',
