@@ -1532,9 +1532,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Tue',
     date: '7',
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
-    score: '',
-    recap: 'Victory+'
+    time: '',
+    score: 'W 8-3',
+    recap: '<a href = "journal.html#jul7" target = "_blank">Recap</a>'
     },
     {
     id: '137',
