@@ -634,14 +634,14 @@ const schedule = [
   date: 'July 7',
   opp: 'Los Angeles Angels',
   score: 'W 8-3',
-  recap: `Jacob deGrom (7-5, 3.48) vs. Jose Soriano (8-5, 3.42). The Angels scored 2 in the 1st against deGrom who has a 1st inning ERA above 9. Ranger pitching held Los Angeles to only 1 run in the final 8 innings. deGrom threw 80 pitches over 5 innings, allowing 5 hits and 2 walks with 7 K's. Lopez hit a clutch 2-out single in the second to score Carter and Osuna who both walked. After Winn pitched a perfect 6th, Martin allowed the 3rd Angels' run in the 7th. In the bottom of the 7th, Foscue hit a 387-foot solo homer to left to tie the game at 3-3. After Gray pitched a shutout 8th, the Rangers broke the game open in the bottom of the inning when Smith and Burger singled, Duran singled home Smith, Foscue singled home Burger, and Osuna homered to right--his 1st of the year--to make the Texas lead 8-3. Alexander pitched shutout 9th to seal the win. Record: 46-45.`
+  recap: `Jacob deGrom (7-5, 3.48) vs. Jose Soriano (8-5, 3.42). The Angels scored 2 in the 1st against deGrom who has a 1st inning ERA above 9. Ranger pitching held Los Angeles to 1 run in the final 8 innings. deGrom threw 80 pitches over 5 innings, allowing 5 hits and 2 walks with 7 K's. Lopez hit a clutch 2-out single in the second to score both Carter and Osuna who reached on walks. After Winn pitched a perfect 6th, Martin allowed the 3rd Angels' run in the 7th. In the bottom of the 7th, Foscue hit a 387-foot solo homer to left to tie the game at 3-3. After Gray pitched a shutout 8th, the Rangers broke the game open in the bottom of the inning when Smith and Burger singled, Duran singled home Smith, Foscue singled home Burger, and Osuna homered to right--his 1st of the year--to make the Texas lead 8-3. Alexander pitched a shutout 9th to seal the win. Record: 46-45.`
   },
   {
   id: 'jul8',
   date: 'July 8',
   opp: 'Los Angeles Angels',
-  score: '7:05',
-  recap: `MacKenzie Gore (5-7, 4.31) vs. Walbert Urena (5-7, 3.03). `
+  score: 'L 13-1',
+  recap: `MacKenzie Gore (5-7, 4.31) vs. Walbert Urena (5-7, 3.03). It was one of the more embarassing losses of the season for the Rangers, and it was against the team with the worst record in MLB. Gore gave up 7 runs on a season high 9 hits over 5 innings. Collyer, Ahlstrom, and Higashioka allowed 2 runs seach. Peoples pitched a perfect inning in his 2nd MLB appearance. The hitters were equally bad and could manage only 3 hits, striking out 14 times. The lone Texas run came on a Higashioka solo HR in the 8th. The Rangers are 1-4 against the Angels. Record: 46-46.`
   },
   {
   id: 'jul9',
