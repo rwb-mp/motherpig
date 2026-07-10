@@ -647,22 +647,22 @@ const schedule = [
   id: 'jul9',
   date: 'July 9',
   opp: 'Los Angeles Angels',
-  score: '7:05',
-  recap: `Nathan Eovaldi (9-7, 4.02) vs. Reid Detmers (3-6, 4.13). `
+  score: 'W 7-6',
+  recap: `Nathan Eovaldi (9-7, 4.02) vs. Reid Detmers (3-6, 4.13). With 2 outs and nobody on in the 1st, Nimmo homered, Jung doubled, and Burger singled to give the Rangers an early 2-0 lead. Texas added on in the 3rd when Nimmo singled to start the inning and Duran hit a 2-out, 419-foot HR to the deepest part of the park. Foscue solo homered in the 4th for the 5th Ranger run. After Higashioka singled to start the 6th, Osuna was hit by the pitch with 2 outs, and Foscue doubled home the 6th Ranger run. The Angels had 23 swings and misses against Eovaldi who was dominant for 6 innings, allowing one run and striking out 10. He tired in the 7th. The 1st batter reached on catcher's interference on an 0-2 count. Eovaldi walked the next hitter and gave up a run-scoring single to make the score 6-2. Four hitters reached in the inning against Gray and Alexander, and the Angels tied the game at 6-6. Latz pitched a perfect 8th and allowed 2 to reach base in the 9th before he was replaced by Cole. Cole got the last out on a hard line drive to center. Osuna singled to start the bottom of the 9th, Lopez bunted him to 2nd, and Langford hit a ball off the leftfield wall for the walk-off win. Record: 47-46.`
   },
   {
   id: 'jul10',
   date: 'July 10',
   opp: 'Houston',
   score: '7:05',
-  recap: ``
+  recap: `Cal Quantrill (3-1, 3.35) vs Hunter Brown (1-0, 3.38). `
   },
   {
   id: 'jul11',
   date: 'July 11',
   opp: 'Houston',
   score: '3:05',
-  recap: ``
+  recap: `Kumar Rocker (2-7, 3.95) vs. Peter Lambert (7-5, 3.26). `
   },
   {
   id: 'jul12',
