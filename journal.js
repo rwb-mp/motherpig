@@ -654,8 +654,8 @@ const schedule = [
   id: 'jul10',
   date: 'July 10',
   opp: 'Houston',
-  score: '7:05',
-  recap: `Cal Quantrill (3-1, 3.35) vs. Hunter Brown (1-0, 3.38). `
+  score: 'W 7-3',
+  recap: `Cal Quantrill (3-1, 3.35) vs. Hunter Brown (1-0, 3.38). The Rangers scored 2 in the 1st on a Pederson walk, a single by Jung, a double by Nimmo, and a Burger groundout. Pederson homered 396 feet to right in the 5th to give Texas a 3-0 lead. Quantrill pitched 6 quality innings allowing a run on 5 hits and a walk. Martin came in for the 7th and served up a single and a HR that tied the game. The Rangers scored 4 times in the 8th. Langford led off with a 404-foot blast to left. After Jung walked and Nimmo singled, Burger homered 407 feet to left to give Texas the 7-3 lead. Winn and Alexander faced the minimum 6 batters in the final 2 innings to close it out. Record: 48-46.`
   },
   {
   id: 'jul11',
