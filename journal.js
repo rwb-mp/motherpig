@@ -661,7 +661,7 @@ const schedule = [
   id: 'jul11',
   date: 'July 11',
   opp: 'Houston',
-  score: 'W 9-3',
+  score: 'L 9-3',
   recap: `Kumar Rocker (2-7, 3.95) vs. Peter Lambert (7-5, 3.26). The Rangers were never in this one as the Astros started the game with a single and a HR to take the early lead. A grand slam in the 3rd made the score 6-0. A leadoff HR in the 4th gave Houston a 7-0 lead. Duran drove in all 3 Ranger runs with a solo homer in the 4th and a 2-run shot in the 9th. Otherwise, Texas advanced only 1 runner to secondbase against a starting pitcher they defeated 8-0 on May 17. Record: 48-47.`
   },
   {

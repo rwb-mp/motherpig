@@ -1577,7 +1577,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '11',
     opp: 'Hou <img src="logos/astros.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: 'W 9-3',
+    score: 'L 9-3',
     recap: '<a href = "journal.html#jul11" target = "_blank">Recap</a>'
     },
     {
