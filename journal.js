@@ -277,7 +277,7 @@ const schedule = [
   date: 'May 10',
   opp: 'Chicago Cubs',
   score: 'W 3-0',
-  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). deGrom was sensational, allowing 3 hits and no walks,  striking out 10 over 7 innings. The lineup managed only 7 hits and Jung had 3 of them. Jung led off the 4th with a single and Pederson doubled him to 3rd. Osuna grounded one to firstbase and Jung barely beat the throw home to give Texas a 1-0 lead. deGrom made the lead hold up through 7, and Latz pitched a perfect 8th. Carter homered down the firstbase line in the bottom of the inning after a Jung single to make the lead 3-0. Latz pitched a perfect 9th and completed the 2nd straight shutout of the Cubs. Record: 19-21.`
+  recap: `Jacob deGrom (2-2, 3.11) vs. Jameson Taillon (2-1, 4.24). deGrom was sensational, allowing 3 hits and no walks,  striking out 10 over 7 innings. The lineup managed only 7 hits and Jung had 3 of them. Jung led off the 4th with a single and Pederson doubled him to 3rd. Osuna grounded one to first base and Jung barely beat the throw home to give Texas a 1-0 lead. deGrom made the lead hold up through 7, and Latz pitched a perfect 8th. Carter homered down the first base line in the bottom of the inning after a Jung single to make the lead 3-0. Latz pitched a perfect 9th and completed the 2nd straight shutout of the Cubs. Record: 19-21.`
   },
   {
   id: 'may11',
@@ -668,8 +668,8 @@ const schedule = [
   id: 'jul12',
   date: 'July 12',
   opp: 'Houston',
-  score: '1:35',
-  recap: ``
+  score: 'W 6-5',
+  recap: `MacKenzie Gore (5-8, 4.72) vs. Christian Javier (0-1, 10.22). deGrom missed his scheduled start due to a lower back strain, and Gore pitched on 3 days rest for the 1st time in his career. Gore threw 65 pitches over 4 innings, allowing a single run on 2 hits and a walk with 4 K's. The Rangers scored 3 in the 2nd on a Duran walk, a Carter double, a Lopez single, and a Pederson double. The Astros scored on a solo HR in the 4th, but Texas answered in the 5th on a Jung walk and a Nimmo triple to make the score 4-1. Ahlstrom and Gray were tagged for 3 runs in the 7th that tied the score, and Houston homered off Peoples in the 8th to take a 5-4 lead. Higashioka solo homered with 2 outs in the 8th to tie the game. All-Star closer Latz pitched a shutout 9th. Langford, Jung, and Nimmo hit consecutive singles in the bottom of the 9th for the walk-off win. Record: 49-47.`
   },
   {
   id: 'jul17',
