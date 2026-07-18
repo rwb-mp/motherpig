@@ -675,36 +675,36 @@ const schedule = [
   id: 'jul17',
   date: 'July 17',
   opp: 'at Atlanta',
-  score: '6:15',
-  recap: ``
+  score: 'L 15-1',
+  recap: `Cal Quantril (3-1, 3.11) vs. Chris Sale (9-6, 2.20). The Rangers were outhit 19 to 5. Quuantrill allowed 6 runs on 11 hits and a walk in 4 innings. Emiliano Teodo made his MLB debut by pitching 1-2/3 innings, allowing 2 runs on 3 hits and 2 walks. Collyer allowed 4 runs in an inning of relief, and Higashioka surrendered the final 3 runs in the 9th inning. The Rangers had 2 baserunners in 7 innings against the starter with the 2nd best ERA in the AL. Cauley doubled in the 8th and Lopez knocked him in with an RBI single to score the Rangers' omly run. Record: 49-48.`
   },
   {
   id: 'jul18',
   date: 'July 18',
   opp: 'at Atlanta',
   score: '3:10',
-  recap: ``
+  recap: `MacKenzie Gore (5-8, 4.63) vs. Owen Murphy (0-1, 2.25). `
   },
   {
   id: 'jul19',
   date: 'July 19',
   opp: 'at Atlanta',
   score: '12:30',
-  recap: ``
+  recap: `TBD vs. Grant Holmes (5-4, 3.61). `
   },
   {
   id: 'jul20',
   date: 'July 20',
   opp: 'Chicago White Sox',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Erick Fedde (5-6, 4.15). `
   },
   {
   id: 'jul21',
   date: 'July 21',
   opp: 'Chicago White Sox',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Noah Schultz (3-6, 5.60). `
   },
   {
   id: 'jul22',
