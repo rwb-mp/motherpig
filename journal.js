@@ -676,7 +676,7 @@ const schedule = [
   date: 'July 17',
   opp: 'at Atlanta',
   score: 'L 15-1',
-  recap: `Cal Quantril (3-1, 3.11) vs. Chris Sale (9-6, 2.20). The Rangers were outhit 19 to 5. Quantrill allowed 6 runs on 11 hits and a walk in 4 innings. Emiliano Teodo made his MLB debut by pitching 1-2/3 innings, allowing 2 runs on 3 hits and 2 walks. Collyer allowed 4 runs in an inning of relief, and Higashioka surrendered the final 3 runs in the 9th inning. The Rangers had 2 baserunners in 7 innings against the starter with the 2nd best ERA in the AL. Cauley doubled in the 8th and Lopez knocked him in with an RBI single to score the Rangers' omly run. Record: 49-48.`
+  recap: `Cal Quantril (3-1, 3.11) vs. Chris Sale (9-6, 2.20). The Rangers were outhit 19 to 5. Quantrill allowed 6 runs on 11 hits and a walk in 4 innings. Emiliano Teodo made his MLB debut by pitching 1-2/3 innings, allowing 2 runs on 3 hits and 2 walks. Collyer allowed 4 runs in an inning of relief, and Higashioka surrendered the final 3 runs in the 9th inning. The Rangers had 2 baserunners in 7 innings against the starter with the 2nd best ERA in the AL. Cauley doubled in the 8th and Lopez knocked him in with an RBI single to score the Rangers' only run. Record: 49-48.`
   },
   {
   id: 'jul18',
