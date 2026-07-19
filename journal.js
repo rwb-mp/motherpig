@@ -689,15 +689,15 @@ const schedule = [
   id: 'jul19',
   date: 'July 19',
   opp: 'at Atlanta',
-  score: '12:30',
-  recap: `Nathan Eovaldi (9-7, 4.04) vs. Grant Holmes (5-4, 3.61). `
+  score: 'L 8-5',
+  recap: `Nathan Eovaldi (9-7, 4.04) vs. Grant Holmes (5-4, 3.61). The Braves scored a run in each of the 1st 4 innings, 3 of them on solo HR's. The Rangers staged a comeback with 3 runs in the 5th. Lopez led off with a single. After Higashioka popped out to short, Pederson singled, Langford doubled home Lopez, Jung scored Pederson with a sac fly, and Burger singled home Langford to make the score 4-3. Eovaldi was out after 4 innings. Ahlstrom and Winn pitched a shutout 5th and 6th. Alexander, Gray, and Peoples allowed 4 runs on 5 hits in the final 2 innings. Texas added a run in the 8th on a Higashioka double after a walk by Cauley. Langford hit a leadoff HR in the 9th to make it 8-5, but Jung, Nimmo, and Burger went in order. Langford and Lopez each had 3 hits, and Pederson and Burger each had a pair of hits for Texas. Record: 50-49.`
   },
   {
   id: 'jul20',
   date: 'July 20',
   opp: 'Chicago White Sox',
   score: '7:05',
-  recap: `TBD vs. Erick Fedde (5-6, 4.15). `
+  recap: `Jacob deGrom (7-5, 3.49) vs. Erick Fedde (5-6, 4.15). `
   },
   {
   id: 'jul21',
