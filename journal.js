@@ -690,7 +690,7 @@ const schedule = [
   date: 'July 19',
   opp: 'at Atlanta',
   score: '12:30',
-  recap: `TBD vs. Grant Holmes (5-4, 3.61). `
+  recap: `Nathan Eovaldi (9-7, 4.04) vs. Grant Holmes (5-4, 3.61). `
   },
   {
   id: 'jul20',
