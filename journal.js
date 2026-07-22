@@ -703,8 +703,8 @@ const schedule = [
   id: 'jul21',
   date: 'July 21',
   opp: 'Chicago White Sox',
-  score: '7:05',
-  recap: `TBD vs. Noah Schultz (3-6, 5.60). `
+  score: 'W 10-0',
+  recap: `Kumar Rocker (2-8, 4.40) vs. Noah Schultz (3-6, 5.60). The Rangers had a season high 18 hits as every player in the starting lineup had at least 1 hit. Nimmo had 2 RBI's and went 4-for-4 including a HR that just cleared the wall down the leftfield line. Osuna had 3 hits and 3 RBI's. Langford had 2 hits including a 397-foot, 2-run homer to left. Lopez and Duran also had 2 hits each. Rocker pitched like the ace of the rotation, throwing 75 pitches over 6 innings, allowing 1 hit and 2 walks while striking out 6. Marco Gonzales, recently called up from Round Rock, pitched 3 shutout innings in relief. Record 51-50.`
   },
   {
   id: 'jul22',
