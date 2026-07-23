@@ -710,8 +710,8 @@ const schedule = [
   id: 'jul22',
   date: 'July 22',
   opp: 'Chicago White Sox',
-  score: '7:05',
-  recap: ``
+  score: 'L 4-2',
+  recap: `Tyler Alexander (1-1, 2.79) vs. Anthony Kay (6-4, 4.24). The White Sox scored the 1st run of the game in the 2nd when Alexander issued a 1-out walk and then uncorked a wild pitch that Diaz couldn't locate, allowing the runner to 3rd. The ruunner then scored on a single to left. Cauley responded in the bottom of the inning with a 2-out solo shot to right, the 1st of his career. Quantrill came on in the 3rd and had a bad 4th inning in which he walked 3 batters, the 1st 2 of which came around to score. The Rangers had a great chance in the 4th when Nimmo singled, Duran doubled, and Lopez was hit by the pitch to load the bases with no outs. Diaz hit into a double play that scored one run, and Osuna struck out. Three consecutive singles against Junis in the 6th gave Chicago another run and a 4-2 lead. Ahlstrom, Gray, and Latz pitched 3 shutout innngs, but the last 13 Ranger batters went hitless to end the game. Record: 51-51.`
   },
   {
   id: 'jul24',
