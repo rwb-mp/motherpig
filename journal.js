@@ -718,28 +718,28 @@ const schedule = [
   date: 'July 24',
   opp: 'Seattle',
   score: '7:05',
-  recap: ``
+  recap: `MacKenzie Gore (6-8, 4.80) vs. Brad Miller (4-4, 2.27). `
   },
   {
   id: 'jul25',
   date: 'July 25',
   opp: 'Seattle',
   score: '6:15',
-  recap: ``
+  recap: `Nathan Eovaldi (9-8, 4.21) vs. Bryan Woo (7-6, 4.16). `
   },
   {
   id: 'jul26',
   date: 'July 26',
   opp: 'Seattle',
   score: '1:35',
-  recap: ``
+  recap: `Jacob deGrom (7-6, 3.76) vs. Logan Gilbert (8-6, 3.38). `
   },
   {
   id: 'jul27',
   date: 'July 27',
   opp: 'Seattle',
   score: '1:35',
-  recap: ``
+  recap: `Kumar Rocker (3-8, 4.13) vs. George Kirby (8-8, 3.57). `
   },
   {
   id: 'jul28',
