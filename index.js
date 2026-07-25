@@ -1719,9 +1719,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '24',
     opp: 'Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
+    time: 'W 5-4',
     score: '',
-    recap: 'CW33'
+    recap: '<a href = "journal.html#jul24" target = "_blank">Recap</a>'
     },
     {
     id: '154',
