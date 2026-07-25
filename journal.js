@@ -718,7 +718,7 @@ const schedule = [
   date: 'July 24',
   opp: 'Seattle',
   score: '7:05',
-  recap: `MacKenzie Gore (6-8, 4.80) vs. Brad Miller (4-4, 2.27). `
+  recap: `MacKenzie Gore (6-8, 4.80) vs. Bryce Miller (4-4, 2.27). `
   },
   {
   id: 'jul25',
