@@ -724,8 +724,8 @@ const schedule = [
   id: 'jul25',
   date: 'July 25',
   opp: 'Seattle',
-  score: '6:15',
-  recap: `Nathan Eovaldi (9-8, 4.21) vs. Bryan Woo (7-6, 4.16). `
+  score: 'W 7-1',
+  recap: `Nathan Eovaldi (9-8, 4.21) vs. Bryan Woo (7-6, 4.16). The Rangers hammered the Mariners' starter for 5 runs in the 1st 2 innings. After Pederson lined to center to start the game, the Rangers scored 3 quick runs when Langford doubled, Duran tripled, Nimmo walked, and Carter doubled down the 3rd base line. With 2 outs in the 2nd, Pederson singled and stole 2nd, Langford doubled to score Pederson, Duran singled to score Langford, and Texas had a 5-0 lead. The Rangers scored 2 more in the 7th when Carter and Lopez worked 2-out walks and Osuna doubled them both home. Eovaldi was masterful, throwing 91 pitches over 7 innings, allowing a run on 3 hits and a walk with 8 K's. Ahlstrom and Peoples pitched a pair of shutout relief innings. Pederson and Langford had 3 hits each, and Duran had 2 hits and a pair of RBI's. Record: 53-51.`
   },
   {
   id: 'jul26',
