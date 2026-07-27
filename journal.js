@@ -739,7 +739,7 @@ const schedule = [
   date: 'July 27',
   opp: 'Seattle',
   score: 'W 7-3',
-  recap: `Kumar Rocker (3-8, 4.13) vs. George Kirby (8-8, 3.57). The Rangers had a season-high 7 extra-base hits including 4 HR's. Pederson had his 6th leadoff HR--418 feet to CF--to start the game. Pederson homered again in the 2nd after a Lopez single and a Diaz hit-by-pitch. Duran led off the 3rd with a 436-foot solo HR to left, and Burger homered 403 feet to left with 1 out in the 3rd after a Carter double to give Texas a 7-2 lead. For the 2nd consecutive start, Rocker pitched like an ace, allowing 2 runs on 4 hts and a pair of walks in 6-2/3 innings. Ahlstrom finished the 7th and Junis pitched a shutout 8th. Latz was tagged for a run in the 9th. Record: 54-52.`
+  recap: `Kumar Rocker (3-8, 4.13) vs. George Kirby (8-8, 3.57). The Rangers had a season-high 7 extra-base hits including 4 HR's. Pederson had his 6th leadoff HR--418 feet to CF--to start the game. Pederson homered again in the 2nd after a Lopez single and a Diaz hit-by-pitch. Duran led off the 3rd with a 436-foot solo HR to left, and Burger homered 403 feet to left with 1 out in the 3rd after a Carter double to give Texas a 7-2 lead. For the 2nd consecutive start, Rocker pitched like an ace, allowing 2 runs on 4 hits and a pair of walks in 6-2/3 innings. Ahlstrom finished the 7th and Junis pitched a shutout 8th. Latz was tagged for a run in the 9th. Record: 54-52.`
   },
   {
   id: 'jul28',
