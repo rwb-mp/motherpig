@@ -704,7 +704,7 @@ const schedule = [
   date: 'July 21',
   opp: 'Chicago White Sox',
   score: 'W 10-0',
-  recap: `Kumar Rocker (2-8, 4.40) vs. Noah Schultz (3-6, 5.60). The Rangers had a season high 18 hits as every player in the starting lineup had at least 1 hit. Nimmo had 2 RBI's and went 4-for-4 including a HR that just cleared the wall down the leftfield line. Osuna had 3 hits and 3 RBI's. Langford had 2 hits including a 397-foot, 2-run homer to left. Lopez and Duran also had 2 hits each. Rocker pitched like the ace of the rotation, throwing 75 pitches over 6 innings, allowing 1 hit and 2 walks while striking out 6. Marco Gonzales, recently called up from Round Rock, pitched 3 shutout innings in relief. Record 51-50.`
+  recap: `Kumar Rocker (2-8, 4.40) vs. Noah Schultz (3-6, 5.60). The Rangers had a season high 18 hits as every player in the starting lineup had at least 1 hit. Nimmo had 2 RBI's and went 4-for-4 including a HR that just cleared the wall down the leftfield line. Osuna had 3 hits and 3 RBI's. Langford had 2 hits including a 397-foot, 2-run homer to left. Lopez and Duran also had 2 hits each. Rocker pitched like an ace, throwing 75 pitches over 6 innings, allowing 1 hit and 2 walks while striking out 6. Marco Gonzales, recently called up from Round Rock, pitched 3 shutout innings in relief. Record 51-50.`
   },
   {
   id: 'jul22',
@@ -738,8 +738,8 @@ const schedule = [
   id: 'jul27',
   date: 'July 27',
   opp: 'Seattle',
-  score: '1:35',
-  recap: `Kumar Rocker (3-8, 4.13) vs. George Kirby (8-8, 3.57). `
+  score: 'W 7-3',
+  recap: `Kumar Rocker (3-8, 4.13) vs. George Kirby (8-8, 3.57). The Rangers had a season-high 7 extra-base hits including 4 HR's. Pederson had his 6th leadoff HR--418 feet to CF--to start the game. Pederson homered again in the 2nd after a Lopez single and a Diaz hit-by-pitch. Duran led off the 3rd with a 436-foot solo HR to left, and Burger homered 403 feet to left with 1 out in the 3rd after a Carter double to give Texas a 7-2 lead. For the 2nd consecutive start, Rocker pitched like an ace, allowing 2 runs on 4 hts and a pair of walks in 6-2/3 innings. Ahlstrom finished the 7th and Junis pitched a shutout 8th. Latz was tagged for a run in the 9th. Record: 54-52.`
   },
   {
   id: 'jul28',
