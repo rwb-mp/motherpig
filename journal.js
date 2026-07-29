@@ -745,22 +745,22 @@ const schedule = [
   id: 'jul28',
   date: 'July 28',
   opp: 'at Tampa Bay',
-  score: '5:40',
-  recap: `TBD vs. Griffin Jax (6-7, 3.89). `
+  score: 'W 4-1',
+  recap: `Cal Quantrill (3-3, 4.05) vs. Griffin Jax (6-7, 3.89). The Rangers opened the scoring in the 2nd on consecutive 1-out singles by Carter and Burger and a sac fly by Lopez. The second Texas run came on a Duran sac fly following a Pederson single and a Langford double. Newly-acquired Austin Wynns solo homered 363 feet down the LF line in the 7th for the 3rd Ranger run. In the 8th Duran was hit by the pitch, stole 2nd, and scored the 4th Texas run on a Carter single. Quantrill retired the 1st 10 batters he faced before the Rays loaded the bases with 1 out in the 4th. He pitched out of the jam when he snared a hard grounder up the middle and turned a pitcher-to-home-to-1st double-play. The lone Tampa Bay run came in the 6th when Quantrill issued a 1-out walk, and Gray surrendered a base hit to Langford in left that was misplayed into a triple. Quantrill's line was 1 run on 2 hits and a walk over 5-1/3 innings. Alexander, Junis, and Latz pitched 3 shutout innings in relief. Latz earned his 21st save. Record: 55-52.`
   },
   {
   id: 'jul29',
   date: 'July 29',
   opp: 'at Tampa Bay',
   score: '5:40',
-  recap: ``
+  recap: `MacKenzie Gore (6-8, 4.82) vs. TBD. `
   },
   {
   id: 'jul30',
   date: 'July 30',
   opp: 'at Tampa Bay',
   score: '11:10',
-  recap: ``
+  recap: `Nathan Eovaldi (10-8, 4.05) vs. TBD. `
   },
   {
   id: 'jul31',
