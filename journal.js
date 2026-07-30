@@ -753,7 +753,7 @@ const schedule = [
   date: 'July 29',
   opp: 'at Tampa Bay',
   score: 'L 3-0',
-  recap: `MacKenzie Gore (6-8, 4.82) vs. Casey Legumina (2-2, 3.95). Gore pitched 7 innings, walking none and striking out 9. Unfortunately, 3 of the 1st 4 batters he faced had extra base hits--2 HR's and a double--resulting in 3 1st inning Tampa Bay runs. Offensively, the Rangers had 4 base hits, all doubles. A 2-out double by Cauley in the 2nd was stranded by Osuna; a 1-out double by Diaz in the 3rd was stranded by Langford and Duran; 1-out double by Burger in the 7th was stranded by Cauley and Osuna; and a 1-out double by Nimmo in the 9th was stranded by Burger and Lopez. The Rangers were 0-for-7 with RISP. Record: 55-53.`
+  recap: `MacKenzie Gore (6-8, 4.82) vs. Casey Legumina (2-2, 3.95). Gore pitched 7 innings, walking none and striking out 9. Unfortunately, 3 of the 1st 4 batters he faced had extra base hits--2 HR's and a double--resulting in 3 1st inning Tampa Bay runs. Offensively, the Rangers had 4 base hits, all doubles. A 2-out double by Cauley in the 2nd was stranded by Osuna; a 1-out double by Diaz in the 3rd was stranded by Langford and Duran; a 1-out double by Burger in the 7th was stranded by Cauley and Osuna; and a 1-out double by Nimmo in the 9th was stranded by Burger and Lopez. The Rangers were 0-for-7 with RISP. Record: 55-53.`
   },
   {
   id: 'jul30',
