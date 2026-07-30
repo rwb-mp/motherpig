@@ -759,29 +759,29 @@ const schedule = [
   id: 'jul30',
   date: 'July 30',
   opp: 'at Tampa Bay',
-  score: '11:10',
-  recap: `TBD vs. Shane McClanahan (9-6, 3.09). `
+  score: 'L 3-2',
+  recap: `Cole Winn (5-3, 6.11) vs. Shane McClanahan (9-6, 3.09). It was a bullpen game for the Rangers. After Winn pitched a shutout 1st, newly-acquired Marco Gonzales pitched 3 innings, allowing a run on 5 hits and 2 walks, pitching out of bases-loaded jams in the 3rd and the 4th. Gray allowed a solo HR in his 2 innings of work, erasing a 2-1 Texas lead. Ahlstrom pitched a clean 7th and retired the 1st batter in the 8th before he was replaced by Peoples. Peoples got the 2nd out of the inning and then surrendered a 338-foot HR down the LF line that just cleared the wall. The Rangers had only 2 hits in the game, but benefited from 7 walks and a hit batter. Texas--hitless in the 1st 4 innings--scored in the 4th after Duran was hit by the pitch to open the inning and Nimmo walked. Duran advanced to 3rd on a 402-foot Burger flyout to center and scored on an error by the shortstop. Osuna had the 1st hit for Texas with 1 out in the 5th and scored on a double by Langford to take a brief 2-1 lead.  The Rangers walked twice in the 9th, but Duran struck out on 3 pitches for the final out. Record: 55-54.`
   },
   {
   id: 'jul31',
   date: 'July 31',
   opp: 'at Houston',
   score: '7:10',
-  recap: ``
+  recap: `Nathan Eovaldi (10-8, 4.05) vs. Hunter Brown (2-1, 3.45). `
   },
   {
   id: 'aug1',
   date: 'August 1',
   opp: 'at Houston',
   score: '6:10',
-  recap: ``
+  recap: `Jacob deGrom (7-6, 3.67) vs. Ronel Blanco (0-1, 8.10). `
   },
   {
   id: 'aug2',
   date: 'August 2',
   opp: 'at Houston',
   score: '1:10',
-  recap: ``
+  recap: `Kumar Rocker (4-8, 4.03) vs. TBD. `
   },
   {
   id: 'aug3',
