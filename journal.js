@@ -746,21 +746,21 @@ const schedule = [
   date: 'July 28',
   opp: 'at Tampa Bay',
   score: 'W 4-1',
-  recap: `Cal Quantrill (3-3, 4.05) vs. Griffin Jax (6-7, 3.89). The Rangers opened the scoring in the 2nd on consecutive 1-out singles by Carter and Burger and a sac fly by Lopez. The second Texas run came on a Duran sac fly following a Pederson single and a Langford double. Newly-acquired Austin Wynns solo homered 363 feet down the LF line in the 7th for the 3rd Ranger run. In the 8th Duran was hit by the pitch, stole 2nd, and scored the 4th Texas run on a Carter single. Quantrill retired the 1st 10 batters he faced before the Rays loaded the bases with 1 out in the 4th. He pitched out of the jam when he snared a hard grounder up the middle and turned a pitcher-to-home-to-1st double-play. The lone Tampa Bay run came in the 6th when Quantrill issued a 1-out walk, and Gray surrendered a base hit to Langford in left that was misplayed into a triple. Quantrill's line was 1 run on 2 hits and a walk over 5-1/3 innings. Alexander, Junis, and Latz pitched 3 shutout innings in relief. Latz earned his 21st save. Record: 55-52.`
+  recap: `Cal Quantrill (3-3, 4.05) vs. Griffin Jax (6-7, 3.89). The Rangers opened the scoring in the 2nd on consecutive 1-out singles by Carter and Burger and a sac fly by Lopez. The second Texas run came on a Duran sac fly following a Pederson single and a Langford double. Newly-acquired Austin Wynns solo homered 363 feet down the LF line in the 7th for the 3rd Ranger run. In the 8th, Duran was hit by the pitch, stole 2nd, and scored the 4th Texas run on a Carter single. Quantrill retired the 1st 10 batters he faced before the Rays loaded the bases with 1 out in the 4th. He pitched out of the jam when he snared a hard grounder up the middle and turned a pitcher-to-home-to-1st double-play. The lone Tampa Bay run came in the 6th when Quantrill issued a 1-out walk, and Gray surrendered a base hit to Langford in left that was misplayed into a triple. Quantrill's line was 1 run on 2 hits and a walk over 5-1/3 innings. Alexander, Junis, and Latz pitched 3 shutout innings in relief. Latz earned his 21st save. Record: 55-52.`
   },
   {
   id: 'jul29',
   date: 'July 29',
   opp: 'at Tampa Bay',
-  score: '5:40',
-  recap: `MacKenzie Gore (6-8, 4.82) vs. TBD. `
+  score: 'L 3-0',
+  recap: `MacKenzie Gore (6-8, 4.82) vs. Casey Legumina (2-2, 3.95). Gore pitched 7 innings, walking none and striking out 9. Unfortunately, 3 of the 1st 4 batters he faced had extra base hits--2 HR's and a double--resulting in 3 1st inning Tampa Bay runs. Offensively, the Rangers had 4 base hits, all doubles. A 2-out double by Cauley in the 2nd was stranded by Osuna; a 1-out double by Diaz in the 3rd was stranded by Langford and Duran; 1-out double by Burger in the 7th was stranded by Cauley and Osuna; and a 1-out double by Nimmo in the 9th was stranded by Burger and Lopez. The Rangers were 0-for-7 with RISP. Record: 55-53.`
   },
   {
   id: 'jul30',
   date: 'July 30',
   opp: 'at Tampa Bay',
   score: '11:10',
-  recap: `Nathan Eovaldi (10-8, 4.05) vs. TBD. `
+  recap: `TBD vs. Shane McClanahan (9-6, 3.09). `
   },
   {
   id: 'jul31',
