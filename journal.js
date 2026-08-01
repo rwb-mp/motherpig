@@ -760,14 +760,14 @@ const schedule = [
   date: 'July 30',
   opp: 'at Tampa Bay',
   score: 'L 3-2',
-  recap: `Cole Winn (5-3, 6.11) vs. Shane McClanahan (9-6, 3.09). It was a bullpen game for the Rangers. After Winn pitched a shutout 1st, newly-acquired Marco Gonzales pitched 3 innings, allowing a run on 5 hits and 2 walks, pitching out of bases-loaded jams in the 3rd and the 4th. Gray allowed a solo HR in his 2 innings of work, erasing a 2-1 Texas lead. Ahlstrom pitched a clean 7th and retired the 1st batter in the 8th before he was replaced by Peoples. Peoples got the 2nd out of the inning and then surrendered a 338-foot HR down the LF line that just cleared the wall. The Rangers had only 2 hits in the game, but benefited from 7 walks and a hit batter. Texas--hitless in the 1st 4 innings--scored in the 4th after Duran was hit by the pitch to open the inning and Nimmo walked. Duran advanced to 3rd on a 402-foot Burger flyout to center and scored on an error by the shortstop. Osuna had the 1st hit for Texas with 1 out in the 5th and scored on a double by Langford to take a brief 2-1 lead.  The Rangers walked twice in the 9th, but Duran struck out on 3 pitches for the final out. Record: 55-54.`
+  recap: `Cole Winn (5-3, 6.11) vs. Shane McClanahan (9-6, 3.09). It was a bullpen game for the Rangers. After Winn pitched a shutout 1st, newly-acquired Marco Gonzales pitched 3 innings, allowing a run on 5 hits and 2 walks, pitching out of bases-loaded jams in the 3rd and the 4th. Gray allowed a solo HR in his 2 innings of work, erasing a 2-1 Texas lead. Ahlstrom pitched a clean 7th and retired the 1st batter in the 8th before he was replaced by Peoples. Peoples got the 2nd out of the inning and then surrendered a 338-foot HR down the LF line that just cleared the wall. The Rangers had only 2 hits in the game, but benefited from 7 walks and a hit batter. Texas--hitless in the 1st 4 innings--scored in the 4th after Duran was hit by the pitch to open the inning and Nimmo walked. Duran advanced to 3rd on a 402-foot Burger flyout to center and scored on an error by the shortstop. Osuna had the 1st hit for Texas with 1 out in the 5th and scored on a double by Langford to take a brief 2-1 lead.  The Rangers walked twice in the 9th, but Duran struck out on 3 pitches for the final out. Texas was 1-for-22 with RISP in the series. Record: 55-54.`
   },
   {
   id: 'jul31',
   date: 'July 31',
   opp: 'at Houston',
-  score: '7:10',
-  recap: `Nathan Eovaldi (10-8, 4.05) vs. Hunter Brown (2-1, 3.45). `
+  score: 'L 11-2',
+  recap: `Nathan Eovaldi (10-8, 4.05) vs. Hunter Brown (2-1, 3.45). Seager was in the lineup for the 1st time since June 30. The Astros rocked Eovaldi for 10 hits and a season-high 6 runs in 5 innings. Curvelo was worse in relief allowing 4 runs on 4 hits and 4 walks in 2 innings. Second-baseman Nicky Lopez pitched the final inning and gave up the 11th run. The Rangers had a scoring chance in the 1st when Pederson led off with a walk and Seager hit a 1-out single, but Nimmo grounded into a double-play. In the 3rd with 2 outs, Pederson walked again and Langford singled, but Seager struck out on 3 pitches. The Texas runs came in the 6th when Pederson led off with a 399-foot HR to right. After Langford struck out, Seager doubled. Duran singled to move him to 3rd, and Carter singled to score him. Texas had 1 baserunner in the final 3 innings, a Burger 2-out single in the 9th. Record: 55-55.`
   },
   {
   id: 'aug1',
