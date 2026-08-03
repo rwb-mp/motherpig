@@ -781,7 +781,7 @@ const schedule = [
   date: 'August 2',
   opp: 'at Houston',
   score: 'L 7-3',
-  recap: `Kumar Rocker (4-8, 4.03) vs. Peter Lambert (8-5, 3.06). The 1st 12 Ranger hitters were retired in order, 7 by strikeout. The Astros scored 1 in the 3rd and 2 in the 4th off Rocker. The Rangers scored 2 in the 5th when Nimmo walked and Burger, Carter, and Duran all singled. Rocker gave up 3 runs on 10 hits and 2 walks in his 5-1/3 innings. Ahlstrom finished the 6th allowing only a hit batter. Nimmo tied the score at 3-3 with a leadoff HR in the 7th. Houston blew the game open in the bottom of the 7th with 4 runs on 4 hits and a walk against Alexander and Winn. Texas got 2 runners on in the 8th when Langford reached on an error and Nimmo singled, but Burger struck out to end the inning. Carter, Duran, and Wynns went qietly in the 9th. On the 6-game road trip, The Rangers were 6-for-41 with RISP. Record: 55-57.`
+  recap: `Kumar Rocker (4-8, 4.03) vs. Peter Lambert (8-5, 3.06). The 1st 12 Ranger hitters were retired in order, 7 by strikeout. The Astros scored 1 in the 3rd and 2 in the 4th off Rocker. The Rangers scored 2 in the 5th when Nimmo walked and Burger, Carter, and Duran all singled. Rocker gave up 3 runs on 10 hits and 2 walks in his 5-1/3 innings. Ahlstrom finished the 6th allowing only a hit batter. Nimmo tied the score at 3-3 with a leadoff HR in the 7th. Houston blew the game open in the bottom of the 7th with 4 runs on 4 hits and a walk against Alexander and Winn. Texas got 2 runners on in the 8th when Langford reached on an error and Nimmo singled, but Burger struck out to end the inning. Carter, Duran, and Wynns went qietly in the 9th. On the 6-game road trip, the Rangers were 6-for-41 with RISP. Record: 55-57.`
   },
   {
   id: 'aug3',
