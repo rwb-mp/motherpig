@@ -767,7 +767,7 @@ const schedule = [
   date: 'July 31',
   opp: 'at Houston',
   score: 'L 11-2',
-  recap: `Nathan Eovaldi (10-8, 4.05) vs. Hunter Brown (2-1, 3.45). Seager was in the lineup for the 1st time since June 30. The Astros rocked Eovaldi for 10 hits and a season-high 6 runs in 5 innings. Curvelo was worse in relief allowing 4 runs on 4 hits and 4 walks in 2 innings. Second-baseman Nicky Lopez pitched the final inning and gave up the 11th run. The Rangers had a scoring chance in the 1st when Pederson led off with a walk and Seager hit a 1-out single, but Nimmo grounded into a double play. In the 3rd with 2 outs, Pederson walked again and Langford singled, but Seager struck out on 3 pitches. The Texas runs came in the 6th when Pederson led off with a 399-foot HR to right. After Langford struck out, Seager doubled. Duran singled to move him to 3rd, and Carter singled to score him. Texas had 1 baserunner in the final 3 innings, a Burger 2-out single in the 9th. Record: 55-55.`
+  recap: `Nathan Eovaldi (10-8, 4.05) vs. Hunter Brown (2-1, 3.45). Seager was in the lineup for the 1st time since June 30. The Astros rocked Eovaldi for 10 hits and a season-high 6 runs in 5 innings. Curvelo was worse in relief allowing 4 runs on 4 hits and 4 walks in 2 innings. Second-baseman Nicky Lopez pitched the final inning and gave up the 11th run. The Rangers had a scoring chance in the 1st when Pederson led off with a walk and Seager hit a 1-out single, but Nimmo grounded into a double play. In the 3rd with 2 outs, Pederson walked again and Langford singled, but Seager struck out on 3 pitches. The Texas runs came in the 6th when Pederson led off with a 399-foot HR to right. After Langford struck out, Seager doubled. Duran singled to move him to 3rd, and Carter singled to score him. Texas had 1 baserunner in the final 3 innings, a Burger 2-out single in the 9th. With the loss, the Astros leap-frogged the Rangers into 1st place. Record: 55-55.`
   },
   {
   id: 'aug1',
@@ -787,15 +787,15 @@ const schedule = [
   id: 'aug3',
   date: 'August 3',
   opp: 'San Francisco',
-  score: '7:05',
-  recap: ``
+  score: 'L 5-1',
+  recap: `Cal Quantrill (4-3, 3.84) vs. Logan Webb (6-7, 3.93). The Rangers lost their 6th straight in what may have been their most embarrassing loss of the season, against the Giants who came in with a record of 48-64. Five Ranger errors ruined a good Quantrill start in which he pitched 6 innings, allowing 3 runs--2 of them unearned--on 4 hits and a walk. Duran let a grounder to 3rd go under his glove for a 2-base error to start the 2nd. The next pitch was a single to right that Nimmo let go under his glove and all the way to the wall. Wynns made throwing errors on stolen base attempts in the 5th and the 7th. Seager dropped a throw from Gray after the runner on 1st broke for 2nd early. Peoples pitched a shutout 7th, but Gray and recent callup Nolan Kingham gave up single runs in the 8th and 9th. Texas was 0-for-7 with RISP. Duran went 4-for-4 with an RBI and a run scored. Josh Smith was traded to Torinto at the trade deadline. Record: 55-58.`
   },
   {
   id: 'aug4',
   date: 'August 4',
   opp: 'San Francisco',
   score: '7:05',
-  recap: ``
+  recap: `MacKenzie Gore (6-9, 4.77) vs. Blade Tidwell (0-0, 3.00). `
   },
   {
   id: 'aug5',
