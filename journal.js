@@ -794,15 +794,15 @@ const schedule = [
   id: 'aug4',
   date: 'August 4',
   opp: 'San Francisco',
-  score: '7:05',
-  recap: `MacKenzie Gore (6-9, 4.77) vs. Blade Tidwell (0-0, 3.00). `
+  score: '',
+  recap: `MacKenzie Gore (6-9, 4.77) vs. Blade Tidwell (0-0, 3.00). Pederson led off with a walk and Seager hit a 1-out single to move Pederson to 2nd. Nimmo doubled home Pederson and Duran singled home Seager, moving Nimmo to 3rd with 1 out. Carter popped out to 3rd and Diaz flew out to center to end the inning. Nimmo, Lopez, and Seager hit 2-out singles in the 3rd, 4th, and 5th, respectively, but each was stranded. Langford walked to start the 8th and Seager and Nimmo singled to load the bases. Duran doubled to right scoring Langford and Seager. Carter, Lopez, and Cauley failed to advance the runners, killing a potential big inning. Gore pitched 6 shutout innings on 3 hits and 3 walks. Silseth surrendered a 2-run HR in the 7th. Ahlstrom and Gray got 4 consecutive outs to get to the 9th. Latz blew his 3rd save when he faced 6 batters, allowing 2 runs--1 of them unearned--on 2 singles, a walk, and a passed ball. Burger doubled to start the bottom of the 9th. After Langford flew out to right and Seager was intentionally walked, Nimmo struck out for the 2nd out. Duran hit a game-winning flyball deep to right that fell in when the rightfielder got turned around and fell down. Duran had 3 hits and 4 RBI's in the walkoff win. Seager and Nimmo had 3 hits each. It was Seager's 1st 3-hit game of the season. Record: 56-58.`
   },
   {
   id: 'aug5',
   date: 'August 5',
   opp: 'San Francisco',
   score: '7:05',
-  recap: ``
+  recap: `Cody Bradford (0-0, -.--) vs. Carson Whisenhunt (2-2, 6.63). `
   },
   {
   id: 'aug7',
