@@ -1928,9 +1928,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Wed',
     date: '5',
     opp: 'SF <img src="logos/giants.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '1:35',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 6-0',
+    recap: '<a href = "journal.html#aug5" target = "_blank">Recap</a>'
     },
     {
     id: '173',

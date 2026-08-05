@@ -801,8 +801,8 @@ const schedule = [
   id: 'aug5',
   date: 'August 5',
   opp: 'San Francisco',
-  score: '7:05',
-  recap: `Cody Bradford (0-0, -.--) vs. Carson Whisenhunt (2-2, 6.63). `
+  score: 'W 6-0',
+  recap: `Cody Bradford (0-0, -.--) vs. Carson Whisenhunt (2-2, 6.63). Bradford was on the mound for the 1st time in 679 days and threw 4-1/3 scoreless innings on 5 hits and 2 walks with 5 K's. Alexander, Ahlstrom, Silseth, and Winn pitched 4-2/3 innings of shutout relief on 3 hits and a walk with 5 K's. The Rangers scored 4 in the 3rd when Langford doubled with 1 out. After Duran popped out for the 2nd out, Nimmo and Burger singled, Foscue tripled down the left field line, and Diaz doubled just inside the line in left. Texas added another in the 5th on a 350-foot Nimmo HR into the left field corner. A leadoff walk by Burger in the 8th and singles by Pederson and Lopez produced the 6th Ranger run. Record: 57-58.`
   },
   {
   id: 'aug7',
