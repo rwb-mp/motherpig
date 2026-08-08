@@ -808,22 +808,22 @@ const schedule = [
   id: 'aug7',
   date: 'August 7',
   opp: 'Baltimore',
-  score: '7:05',
-  recap: ``
+  score: 'W 2-1',
+  recap: `Nathan Eovaldi (10-9, 4.31) vs. Shane Baz (4-10, 3.86). Superb pitching, a clutch HR by Pederson, and an outfield assist at home plate on the potential tying run in the 9th allowed the Rangers to steal a win on a night when they could only manage 3 hits. Eovaldi allowed 1 run in 5-1/3 innings on 4 hits and 2 walks. Alexander finished the 6th for Eovaldi. Texas had only 1 baserunner in the first 5 innings--a single by Nimmo in the 2nd. Diaz started the 6th with a single on a tapper up the 1st base line that the pitcher couldn't field cleanly. Lopez bunted him to 2nd and Pederson launched one 414 feet down the left field line to give Texas a 2-1 lead. Ahlstrom pitched a perfect 7th, and Latz was brought in for a 2-inning save. After a shutout 8th, the 1st Orioles hitter reached in the 9th. With 1 out, Nimmo fielded a double down the right field line and hit the cutoff man Lopez who made a perfect throw to Diaz to nail the tying run at the plate. Replay did not confirm that Diaz made the tag, but also did not conclusively show that he missed it. The call on the field stood. Record: 58-58.`
   },
   {
   id: 'aug8',
   date: 'August 8',
   opp: 'Baltimore',
-  score: '6:05',
-  recap: ``
+  score: '6:15',
+  recap: `Jacob deGrom (7-7, 3.96) vs. Kyle Bradish (7-10, 3.79). `
   },
   {
   id: 'aug9',
   date: 'August 9',
   opp: 'Baltimore',
   score: '1:35',
-  recap: ``
+  recap: `Kumar Rocker (4-8, 4.08) vs. Cade Povich (2-1, 3.91). `
   },
   {
   id: 'aug10',
