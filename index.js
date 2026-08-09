@@ -1972,9 +1972,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '9',
     opp: 'Bal <img src="logos/orioles.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '1:35',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'L 10-5',
+    recap: '<a href = "journal.html#aug9" target = "_blank">Recap</a>'
     },
     {
     id: '177',
