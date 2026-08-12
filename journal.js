@@ -836,22 +836,22 @@ const schedule = [
   id: 'aug11',
   date: 'August 11',
   opp: 'at Los Angeles Angels',
-  score: '8:38',
-  recap: ``
+  score: 'L 3-2',
+  recap: `Cody Bradford (0-0, 0.00) vs. Ryan Johnson (2-6, 7.11). Pederson hit his 7th leadoff HR of the season to give the Rangers the early 1-0 lead. Bradford pitched a quality start throwing 75 pitches over 7 innings, allowing 3 runs on 5 hits and a walk. Silseth pitched a perfect 8th. The Angels bunched 3 of their 5 hits in the 3rd when they took a 3-1 lead. The 2nd Texas run came in the 6th when Nimmo, Duran, and Kelenic singled. Texas was 1-for-7 with RISP. Langford, Seager, Burger, Carter twice, and Lopez twice left critical runners in scoring position. Record 60-60.`
   },
   {
   id: 'aug12',
   date: 'August 12',
   opp: 'at Los Angeles Angels',
-  score: '8:38',
-  recap: ``
+  score: '9:10',
+  recap: `TBD vs. George Klassen (0-1, 7.27). `
   },
   {
   id: 'aug13',
   date: 'August 13',
   opp: 'at Los Angeles Angels',
   score: '9:07',
-  recap: ``
+  recap: `TBD vs. Walbert Urena (7-8, 2.83). `
   },
   {
   id: 'aug14',
