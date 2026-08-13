@@ -837,21 +837,21 @@ const schedule = [
   date: 'August 11',
   opp: 'at Los Angeles Angels',
   score: 'L 3-2',
-  recap: `Cody Bradford (0-0, 0.00) vs. Ryan Johnson (2-6, 7.11). Pederson hit his 7th leadoff HR of the season to give the Rangers the early 1-0 lead. Bradford pitched a quality start throwing 75 pitches over 7 innings, allowing 3 runs on 5 hits and a walk. Silseth pitched a perfect 8th. The Angels bunched 3 of their 5 hits in the 3rd when they took a 3-1 lead. The 2nd Texas run came in the 6th when Nimmo, Duran, and Kelenic singled. Texas was 1-for-7 with RISP. Langford, Seager, Burger, Carter twice, and Lopez twice left critical runners in scoring position. Record 60-60.`
+  recap: `Cody Bradford (0-0, 0.00) vs. Ryan Johnson (2-6, 7.11). Pederson hit his 7th leadoff HR of the season to give the Rangers the early 1-0 lead. Bradford pitched a quality start throwing 75 pitches over 7 innings, allowing 3 runs on 5 hits and a walk. Silseth pitched a perfect 8th. The Angels bunched 3 of their 5 hits in the 3rd when they took a 3-1 lead. The 2nd Texas run came in the 6th when Nimmo, Duran, and Kelenic singled. Texas was 1-for-7 with RISP. Langford, Seager, Burger, Carter twice, and Lopez twice left critical runners in scoring position. Pederson reached base 4 times with a HR and 3 walks. Record: 60-60.`
   },
   {
   id: 'aug12',
   date: 'August 12',
   opp: 'at Los Angeles Angels',
-  score: '9:10',
-  recap: `TBD vs. George Klassen (0-1, 7.27). `
+  score: 'L 5-2',
+  recap: `Cal Quantrill (4-4, 3.56) vs. George Klassen (0-1, 7.27). The Rangers scored in the 2nd when Carter and Diaz hit 2-out singles, Lopez was hit by the pitch, and Pederson walked to force in Carter. Nimmo then grounded out to kill a potential big inning. Seager homered 378 feet to right to begin the 3rd, giving Texas a 2-0 lead. Quantrill left after 85 pitches over 5 innings allowing a run on 4 hits and 3 walks. Ahlstrom and Gray blew the game open in the 5th when they gave up 3 runs on 3 hits and a hit batter. Peoples gave up 1 more in the 7th. After the 3rd inning the Rangers only reached 2nd base once when Foscue and Seager singled in the 8th. Duran flew out to right and Kelenic struck out. Texas was 0-for-4 with RISP. Record: 60-61.`
   },
   {
   id: 'aug13',
   date: 'August 13',
   opp: 'at Los Angeles Angels',
   score: '9:07',
-  recap: `TBD vs. Walbert Urena (7-8, 2.83). `
+  recap: `Jacob deGrom (8-7, 3.87) vs. Walbert Urena (7-8, 2.83). `
   },
   {
   id: 'aug14',
