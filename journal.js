@@ -850,15 +850,15 @@ const schedule = [
   id: 'aug13',
   date: 'August 13',
   opp: 'at Los Angeles Angels',
-  score: '9:07',
-  recap: `Jacob deGrom (8-7, 3.87) vs. Walbert Urena (7-8, 2.83). `
+  score: 'L 7-0',
+  recap: `Jacob deGrom (8-7, 3.87) vs. Walbert Urena (7-8, 2.83). deGrom was bad and was pulled after 2 innings due to triceps fatigue after allowing 2 runs on 6 hits and a walk. After Gray pitched a solid 3rd, Montgomery was terrible in his 2 innings, allowing 4 runs on 6 hits. Peoples pitched a shutout 6th, and Winn gave up the 7th Angels run in the 7th. Alexander pitched a shutut 8th. Texas was 0-for-4 with RISP. Duran stranded 2, and Wynns and Foscue stranded the others. The Rangers had 5 hits and were shutout for the 8th time. Record: 60-62. `
   },
   {
   id: 'aug14',
   date: 'August 14',
   opp: 'at Athletics',
   score: '8:40',
-  recap: ``
+  recap: `Kumar Rocker (4-9, 4.46) vs. TBD. `
   },
   {
   id: 'aug15',

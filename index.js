@@ -2016,9 +2016,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Thu',
     date: '13',
     opp: 'at LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '9:07',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'L 7-0',
+    recap: '<a href = "journal.html#aug13" target = "_blank">Recap</a>'
     },
     {
     id: '181',
