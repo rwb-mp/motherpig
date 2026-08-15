@@ -851,28 +851,28 @@ const schedule = [
   date: 'August 13',
   opp: 'at Los Angeles Angels',
   score: 'L 7-0',
-  recap: `Jacob deGrom (8-7, 3.87) vs. Walbert Urena (7-8, 2.83). deGrom was bad and was pulled after 2 innings due to triceps fatigue after allowing 2 runs on 6 hits and a walk. After Gray pitched a solid 3rd, Montgomery was terrible in his 2 innings, allowing 4 runs on 6 hits. Peoples pitched a shutout 6th, and Winn gave up the 7th Angels run in the 7th. Alexander pitched a shutut 8th. Texas was 0-for-4 with RISP. Duran stranded 2, and Wynns and Foscue stranded the others. The Rangers had 5 hits and were shutout for the 8th time. Record: 60-62. `
+  recap: `Jacob deGrom (8-7, 3.87) vs. Walbert Urena (7-8, 2.83). deGrom was bad and was pulled after 2 innings due to triceps fatigue after allowing 2 runs on 6 hits and a walk. After Gray pitched a solid 3rd, Montgomery was terrible in his 2 innings, allowing 4 runs on 6 hits. Peoples pitched a shutout 6th, and Winn gave up the 7th Angels run in the 7th. Alexander pitched a shutout 8th. Texas was 0-for-4 with RISP--Duran stranded 2, and Wynns and Foscue each stranded one. The Rangers had 5 hits and were shutout for the 8th time. Record: 60-62. `
   },
   {
   id: 'aug14',
   date: 'August 14',
   opp: 'at Athletics',
-  score: '8:40',
-  recap: `Kumar Rocker (4-9, 4.46) vs. TBD. `
+  score: 'L 8-3',
+  recap: `Kumar Rocker (4-9, 4.46) vs. Gage Jump (5-7, 4.46). After Langford and Nimmo made outs to start the game, Seager walked, Duran reached on an error, and Burger walked to load the bases for Foscue. Foscue popped out on the 1st pitch he saw to kill the threat. The Rangers have a .502 OPS with the bases loaded, worst in MLB. The Athletics loaded the bases with 1 out in the bottom of the inning. Rocker got a strikeout for the 2nd out, but then gave up a double to put the Rangers in an early 3-0 hole. Texas only had 1 hit in the 1st 5 innings. In the 6th, Seager walked with 1 out, Duran singled, and Burger hit a 428-foot blast to center that tied the game 3-3. Silseth pitched the 6th and gave up a solo HR. Ahstrom allowed a solo HR in the 7th, and three more runs scored against Alexander in the 8th. Texas had only 1 hit in the final 3 innings--a double by Duran--but he was left stranded by Burger and Lopez. Record: 60-63.`
   },
   {
   id: 'aug15',
   date: 'August 15',
   opp: 'at Athletics',
   score: '8:40',
-  recap: ``
+  recap: `MacKenzie Gore (6-9, 4.43) vs. J.T. Ginn (8-6, 3.41). `
   },
   {
   id: 'aug16',
   date: 'August 16',
   opp: 'at Athletics',
   score: '3:05',
-  recap: ``
+  recap: `Cody Bradford (0-1, 2.38) vs. Jacob Lopez (5-4, 5.38). `
   },
   {
   id: 'aug18',
