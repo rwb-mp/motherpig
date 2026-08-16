@@ -864,8 +864,8 @@ const schedule = [
   id: 'aug15',
   date: 'August 15',
   opp: 'at Athletics',
-  score: '8:40',
-  recap: `MacKenzie Gore (6-9, 4.43) vs. J.T. Ginn (8-6, 3.41). `
+  score: 'W 5-3',
+  recap: `MacKenzie Gore (6-9, 4.43) vs. J.T. Ginn (8-6, 3.41). Seager and Langford hit 2-out singles in the 1st, but Duran stranded them on a flyout to right. After the Athletics hit 2-out singles in the 2nd, a 341-foot HR down the left field line barely cleared the fence and nicked the foul pole to put the Rangers in a 3-0 deficit. Texas scored 1 in the 5th when Burger doubled and Lopez singled. Nimmo led off the 6th with a double. Seager scored him and Langford homered 421 feet to left to give the Rangers a 4-3 lead. Texas tacked on an insurance run in the 9th when Carter doubled and Kelenic singled him home. Gore threw 99 pitches in 5-2/3 innings, allowing 3 runs on 8 hits and 2 walks. Silseth, Junis, and Latz pitched 4-2/3 innings of hitless relief. Latz got the last 6 outs for a 2-inning save--his 24 save of the season. Record: 61-63.`
   },
   {
   id: 'aug16',

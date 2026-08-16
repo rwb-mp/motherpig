@@ -2038,9 +2038,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '15',
     opp: 'at Ath <img src="logos/athletics.gif" width="24px" height="20px" style="vertical-align:bottom">',
-    time: '8:40',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 5-3',
+    recap: '<a href = "journal.html#aug15" target = "_blank">Recap</a>'
     },
     {
     id: '183',
