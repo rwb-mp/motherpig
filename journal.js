@@ -871,8 +871,8 @@ const schedule = [
   id: 'aug16',
   date: 'August 16',
   opp: 'at Athletics',
-  score: '3:05',
-  recap: `Cody Bradford (0-1, 2.38) vs. Jacob Lopez (5-4, 5.38). `
+  score: 'L 5-2',
+  recap: `Cody Bradford (0-1, 2.38) vs. Jacob Lopez (5-4, 5.38). Burger solo homered 396 feet to right in the 2nd inning to give the Rangers the early lead. The Athletics responded with a 2-run HR in the 2nd. Texas tied it in the 3rd when Langford walked, moved to 3rd on a Nimmo single, and scored on a Burger groundout. Bradford left a tied game after 81 pitches and 4 innings, having allowed 8 hits and a walk. Silseth and Alexander pitched shutout innings. The Athletics tagged Junis with a 2-run HR in the 7th, and Gray allowed a solo homer in the 8th. The Ranger offense had only 1 runner reach 2nd in the final 6 innings--a Carter double in the 7th was stranded by Langford. The Rangers were 1-for-6 with RISP. Record: 61-64.`
   },
   {
   id: 'aug18',
