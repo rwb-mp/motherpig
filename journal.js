@@ -878,22 +878,22 @@ const schedule = [
   id: 'aug18',
   date: 'August 18',
   opp: 'Washington',
-  score: '7:05',
-  recap: ``
+  score: 'W 5-0',
+  recap: `Cal Quantrill (4-4, 3.44) vs. Jackson Kent (0-0, 6.75). The Rangers scored in each of the 1st 3 innings. Langford and Seager led off with singles and Burger hit into a double play to score Langford. Foscue hit a 1-out solo homer in the 2nd. Langford singled to begin the 3rd and Seager doubled him to 3rd base. After Burger struck out, Nimmo scored Langford on a fielder's choice. Duran and Foscue walked forcing in Seager and Freeman singled to score Nimmo with the 3rd run of the inning. Quantrill dominated the Nationals lineup throwing 91 pitches in 7 shutout innings on 4 hits, no walks, and 5 K's. Ahlstrom, Junis, and Alexander pitched the last 2 shutout innings. Langford, Seager, Nimmo, and Freeman each had 2 hits for Texas. Record: 62-64.`
   },
   {
   id: 'aug19',
   date: 'August 19',
   opp: 'Washington',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Cade Cavalli (10-5, 3.36). `
   },
   {
   id: 'aug20',
   date: 'August 20',
   opp: 'Washington',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Andrew Alvarez (2-4, 3.72). `
   },
   {
   id: 'aug21',
