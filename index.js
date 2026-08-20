@@ -2082,9 +2082,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Wed',
     date: '19',
     opp: 'Was <img src="logos/nationals.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '7:05',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'L 6-0',
+    recap: '<a href = "journal.html#aug19" target = "_blank">Recap</a>'
     },
     {
     id: '187',

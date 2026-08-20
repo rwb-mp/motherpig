@@ -879,21 +879,21 @@ const schedule = [
   date: 'August 18',
   opp: 'Washington',
   score: 'W 5-0',
-  recap: `Cal Quantrill (4-4, 3.44) vs. Jackson Kent (0-0, 6.75). The Rangers scored in each of the 1st 3 innings. Langford and Seager led off with singles and Burger hit into a double play to score Langford. Foscue hit a 1-out solo homer in the 2nd. Langford singled to begin the 3rd and Seager doubled him to 3rd base. After Burger struck out, Nimmo scored Langford on a fielder's choice. Duran and Foscue walked forcing in Seager and Freeman singled to score Nimmo with the 3rd run of the inning. Quantrill dominated the Nationals lineup throwing 91 pitches in 7 shutout innings on 4 hits, no walks, and 5 K's. Ahlstrom, Junis, and Alexander pitched the last 2 shutout innings. Langford, Seager, Nimmo, and Freeman each had 2 hits for Texas. Record: 62-64.`
+  recap: `Cal Quantrill (4-4, 3.44) vs. Jackson Kent (0-0, 6.75). The Rangers scored in each of the 1st 3 innings. Langford and Seager led off with singles and Burger hit into a double play to score Langford. Foscue hit a 1-out solo homer in the 2nd. Langford singled to begin the 3rd and Seager doubled him to 3rd base. After Burger struck out, Nimmo scored Langford on a fielder's choice play at the plate. Duran and Foscue walked forcing in Seager and Freeman singled to score Nimmo with the 3rd run of the inning. Quantrill dominated the Nationals lineup throwing 91 pitches in 7 shutout innings on 4 hits, no walks, and 5 K's. Ahlstrom, Junis, and Alexander pitched the last 2 shutout innings. Langford, Seager, Nimmo, and Freeman each had 2 hits for Texas. Record: 62-64.`
   },
   {
   id: 'aug19',
   date: 'August 19',
   opp: 'Washington',
-  score: '7:05',
-  recap: `TBD vs. Cade Cavalli (10-5, 3.36). `
+  score: 'L 6-0',
+  recap: `Kumar Rocker (4-9, 4.50) vs. Cade Cavalli (10-5, 3.36). The Rangers struck out 13 times and had only 4 hits. Seager hit a 68 mph squibber off the end of his bat down the 3rd base line in the 1st. Carter flared a 70 mph line drive over the second baseman in the 2nd. Seager singled to left in the 3rd. Diaz hit a 47 mph tapper in front of the plate in the 8th. Only 1 Ranger reached 2nd base and he was stranded when the next 2 hitters struck out. Rocker consistently fell behind in the count by throwing 1st pitch balls. He reached 92 pitches in only 5 innings, allowing 2 runs on 6 hits and a walk. Winn gave up a run in his inning of relief and the Nationals hit a 3-run HR off Gray in his inning. Montgomery pitched 2 shutout innings, allowing only 1 hit. Record: 62-65.`
   },
   {
   id: 'aug20',
   date: 'August 20',
   opp: 'Washington',
   score: '7:05',
-  recap: `TBD vs. Andrew Alvarez (2-4, 3.72). `
+  recap: `Jacob deGrom (8-8, 3.95) vs. Andrew Alvarez (2-4, 3.72). `
   },
   {
   id: 'aug21',
