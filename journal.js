@@ -892,8 +892,8 @@ const schedule = [
   id: 'aug20',
   date: 'August 20',
   opp: 'Washington',
-  score: '7:05',
-  recap: `Jacob deGrom (8-8, 3.95) vs. Andrew Alvarez (2-4, 3.72). `
+  score: 'W 2-0',
+  recap: `Jacob deGrom (8-8, 3.95) vs. Andrew Alvarez (2-4, 3.72). deGrom needed 2 K's to reach 2,000 and he got them 2 batters into the game. He finished with 10 K's over 6 shutout innings and allowed only 2 baserunners--a 2nd inning single and a 5th inning walk. Seager homered 382-feet to left in the 3rd to give the Rangers the early lead. Texas went 0-for-10 with RISP. The Rangers got an insurance run in the 8th when Duran hit a 1-out triple and Lopez scored him on a sac fly. Junis walked 2 batters in the 7th but got a double play grounder to escape the inning. Silseth pitched a perfect 8th and Latz struck out the side around a 1-out walk to get his 25th save. Ranger pitchers had 15 K's and Texas is 50-16 when scoring first. Record: 63-65.`
   },
   {
   id: 'aug21',
