@@ -893,7 +893,7 @@ const schedule = [
   date: 'August 20',
   opp: 'Washington',
   score: 'W 2-0',
-  recap: `Jacob deGrom (8-8, 3.95) vs. Andrew Alvarez (2-4, 3.72). deGrom struck out the 1st 2 batters to reach 2,000 in his career. He finished with 10 K's over 6 shutout innings and allowed only 2 baserunners--a 2nd inning single and a 5th inning walk. Seager solo homered 382-feet to left in the 3rd to give the Rangers the early lead. The Rangers got an insurance run in the 8th when Duran hit a 1-out triple and Lopez scored him on a sac fly. Junis walked 2 batters in the 7th, but got a double play grounder to escape the inning. Silseth pitched a perfect 8th and Latz struck out the side around a 1-out walk to get his 25th save. Ranger pitchers had 15 K's and Texas is 50-16 when scoring first. Texas went 0-for-10 with RISP. Record: 63-65.`
+  recap: `Jacob deGrom (8-8, 3.95) vs. Andrew Alvarez (2-4, 3.72). deGrom struck out the 1st 2 batters to reach 2,000 in his career. He finished with 10 K's over 6 shutout innings and allowed only 2 baserunners--a 2nd inning single and a 5th inning walk. Seager solo homered 382-feet to left in the 3rd to give the Rangers the early lead. The Rangers got an insurance run in the 8th when Duran hit a 1-out triple and Lopez scored him on a sac fly. Junis walked 2 batters in the 7th, but got a double play grounder to escape the inning. Silseth pitched a perfect 8th and Latz struck out the side around a 1-out walk to get his 25th save. Ranger pitchers had 15 K's and Texas is 47-16 when scoring first. Texas went 0-for-10 with RISP. Record: 63-65.`
   },
   {
   id: 'aug21',
@@ -907,14 +907,14 @@ const schedule = [
   date: 'August 22',
   opp: 'Los Angeles Angels',
   score: 'L 3-0',
-  recap: `Cody Bradford (0-1, 2.93) vs. Ryan Johnson (2-7, 6.41). The Rangers had 1 hit--a leadoff single by Freeman in the 6th. He advanced to 2nd on a 2-out walk by Seager. Langford tapped a grounder 41 mph to the pitcher and that was the extent of the Ranger offense. Bradford threw 80 pitches in 5-1/3 innings, allowing 2 runs on 7 hits and no walks while striking out 3. Winn retired all 5 batters he faced to get the Rangers to the 8th inning. The 3rd Angels run scored against Ahlstrom in the 8th, and Gray pitched a shutout ninth. Record: 64-66.`
+  recap: `Cody Bradford (0-1, 2.93) vs. Ryan Johnson (2-7, 6.41). The Rangers had 1 hit--a leadoff single by Freeman in the 6th. He advanced to 2nd on a 2-out walk by Seager. Langford tapped a grounder 41 mph to the pitcher and that was the extent of the Ranger offense. Bradford threw 80 pitches in 5-1/3 innings, allowing 2 runs on 7 hits and no walks while striking out 3. Winn retired all 5 batters he faced to get the Rangers to the 8th inning. The 3rd Angels' run scored against Ahlstrom in the 8th, and Gray pitched a shutout ninth. It was the 10th time this season the Rangers have been shutout. Record: 64-66.`
   },
   {
   id: 'aug23',
   date: 'August 23',
   opp: 'Los Angeles Angels',
-  score: '1:35',
-  recap: `Cal Quantrill (5-4, 3.13) vs. TBD`
+  score: 'W 5-3',
+  recap: `Cal Quantrill (5-4, 3.13) vs. Yusei Kikuchi (0-3, 5.81). The Rangers had a 3-run 2nd inning when Duran led off with a HR, O'Hoppe hit a 1-out single in his 1st Ranger at-bat, Freeman tripled, and Diaz followed with a sac fly. The Rangers added 2 more in the 5th when Diaz led off with a HR, Seager hit a 1-out single, Langford doubled him to 3rd, and Nimmo scored him on a sac fly. Quantrill continued his strong month of August by throwing 96 pitches in 6 shutout innings on 6 hits and no walks with 6 K's. Gray pitched a perfect 7th, but allowed a leadoff HR in the 8th. The Angels scored 2 more in the 8th against Alexander. Silseth came in to kill the rally. Latz allowed a leadoff double in the 9th but snuffed out the potential rally for his 26th save. Record: 65-66.`
   },
   {
   id: 'aug24',

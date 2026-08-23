@@ -2126,9 +2126,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '23',
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '1:35',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 5-3',
+    recap: '<a href = "journal.html#aug22" target = "_blank">Recap</a>'
     },
     {
     id: '191',
