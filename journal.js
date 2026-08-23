@@ -900,21 +900,21 @@ const schedule = [
   date: 'August 21',
   opp: 'Los Angeles Angels',
   score: 'W 2-1',
-  recap: `MacKenzie Gore (7-9, 4.45) vs. Reid Detmers (4-8, 3.78). Neither team threatened until the Rangers loaded the bases in the 5th with 1-out singles by Freeman, Diaz, and Carter. Foscue hit into a force out at the plate and Seager struck out to kill the inning. Gore pitched 6 strong shutout innings allowing 2 hits, a walk, and a hit batter with 7 K's. The Rangers threatened in the 7th when Carter hit a 2-out double but Foscue flew out to center. Winn, Silseth, and Latz each pitched a shutout relief inning. Duran led off the bottom of the 9th with a double as the potential winning run, but Burger, Lopez, and Carter struck out to force extra innings. The Angels took a 1-0 lead in the 10th when Alexander gave up a double to score the free runner. With 2 outs in the bottom of the 10th, Langford hit a flare double over 1st base to score the free runner. After Pederson was intentionally walked, Duran hit a 101-mph grounder knocked down by the third baseman who then threw wildly to 2nd scoring Langford with the winning run. It was the 6th walkoff win for Texas. Duran went 4-for-5. Record: 64-65.`
+  recap: `MacKenzie Gore (7-9, 4.45) vs. Reid Detmers (4-8, 3.78). Neither team threatened until the Rangers loaded the bases in the 5th with 1-out singles by Freeman, Diaz, and Carter. Foscue hit into a force out at the plate and Seager struck out to kill the inning. Gore pitched 6 strong shutout innings allowing 2 hits, a walk, and a hit batter with 7 K's. The Rangers threatened in the 7th when Carter hit a 2-out double but Foscue flew out to center. Winn, Silseth, and Latz each pitched a shutout relief inning. Duran led off the bottom of the 9th with a double as the potential winning run, but Burger, Lopez, and Carter struck out to force extra innings. The Angels took a 1-0 lead in the 10th when Alexander gave up a double to score the free runner. With 2 outs in the bottom of the 10th, Langford hit a flare double over 1st base to score the free runner. After Pederson was intentionally walked, Duran hit a 1-hop smash to 3rd, and a wild throw to 2nd scored Langford with the winning run. It was the 6th walkoff win for Texas. Duran went 4-for-5. Record: 64-65.`
   },
   {
   id: 'aug22',
   date: 'August 22',
   opp: 'Los Angeles Angels',
-  score: '6:05',
-  recap: `TBD vs. Ryan Johnson (2-7, 6.41). `
+  score: 'L 3-0',
+  recap: `Cody Bradford (0-1, 2.93) vs. Ryan Johnson (2-7, 6.41). The Rangers had 1 hit--a leadoff single by Freeman in the 6th. He advanced to 2nd on a 2-out walk by Seager. Langford tapped a grounder 41 mph to the pitcher and that was the extent of the Ranger offense. Bradford threw 80 pitches in 5-1/3 innings, allowing 2 runs on 7 hits and no walks while striking out 3. Winn retired all 5 batters he faced to get the Rangers to the 8th inning. The 3rd Angels run scored against Ahlstrom in the 8th, and Gray pitched a shutout ninth. Record: 64-66.`
   },
   {
   id: 'aug23',
   date: 'August 23',
   opp: 'Los Angeles Angels',
   score: '1:35',
-  recap: ``
+  recap: `Cal Quantrill (5-4, 3.13) vs. TBD`
   },
   {
   id: 'aug24',
