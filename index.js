@@ -2128,7 +2128,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     opp: 'LAA <img src="logos/angels.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
     score: 'W 5-3',
-    recap: '<a href = "journal.html#aug22" target = "_blank">Recap</a>'
+    recap: '<a href = "journal.html#aug23" target = "_blank">Recap</a>'
     },
     {
     id: '191',
@@ -2137,9 +2137,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Mon',
     date: '24',
     opp: 'at CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '6:40',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 11-2',
+    recap: '<a href = "journal.html#aug24" target = "_blank">Recap</a>'
     },
     {
     id: '192',

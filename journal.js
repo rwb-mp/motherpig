@@ -920,22 +920,22 @@ const schedule = [
   id: 'aug24',
   date: 'August 24',
   opp: 'at Chicago White Sox',
-  score: '6:40',
-  recap: ``
+  score: 'W 11-2',
+  recap: `Kumar Rocker (4-10, 4.46) vs. Jose Urquidy (2-1, 5.06). The Rangers had 14 hits, 8 walks, and a season-high 11 runs. Seager had a pair of doubles, a single, an intentional walk, and 3 RBI's. Langford had a 2-run blast to left in the 9th, a single, and a walk. Burger hit a 412-foot solo HR to center in the 5th, an RBI-double in the 6th, and had 2 walks. Duran had a double, a single, a walk, and 2 RBI's. Carter had a big 2-out RBI double in the 1st. Nimmo made a sensational reach over the wall in right in the 2nd to bring back a potential 2-run homer. Rocker pitched out of a bases-loaded, 1-out jam in the 3rd with back-to-back K's. He found command of his slider in the 4th and threw 93 pitches in 5-2/3 innings, allowing 2 runs on 5 hits and 3 walks while striking out 8. Ahlstrom and Montgomery pitched a perfect 3-1/3 to finish the win. Record: 66-66.`
   },
   {
   id: 'aug25',
   date: 'August 25',
   opp: 'at Chicago White Sox',
   score: '6:40',
-  recap: ``
+  recap: `Jacob deGrom (9-8, 3.77) vs. Anthony Kay (9-6, 3.96). `
   },
   {
   id: 'aug26',
   date: 'August 26',
   opp: 'at Chicago White Sox',
   score: '6:40',
-  recap: ``
+  recap: `MacKenzie Gore (7-9, 4.26) vs. Sean Burke (7-6, 3.27). `
   },
   {
   id: 'aug28',
