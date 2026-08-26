@@ -2149,7 +2149,7 @@ document.getElementById("dlls").addEventListener("click", () => {
     date: '25',
     opp: 'at CHW <img src="logos/white-sox.gif" width="20px" height="20px" style="vertical-align:bottom">',
     time: '',
-    score: '',
+    score: 'L 11-7',
     recap: '<a href = "journal.html#aug25" target = "_blank">Recap</a>'
     },
     {
