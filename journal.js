@@ -941,22 +941,22 @@ const schedule = [
   id: 'aug28',
   date: 'August 28',
   opp: 'at Milwwukee',
-  score: '6:40',
-  recap: ``
+  score: 'L 6-1',
+  recap: `Cody Bradford (0-2, 3.05) vs. Logan Henderson (8-2, 2.60). The Rangers had 3 baseruunners. Jansen solo homered in the 3rd. Foscue hit an infield single and Freeman walked in the 8th--giving Texas their only RISP--but Jansen grounded softly to 2nd to end the inning. Texas pitchers gave up 14 hits and 4 walks. Bradford's line was 5-2/3 innings, 3 runs on 9 hits and 2 walks. Alexander retired the only hitter he faced. Silseth and Macko--acquired in the Josh Smith trade--gave up 3 runs on 5 hits and 2 walks in their combined 2 innings. Record: 66-69.`
   },
   {
   id: 'aug29',
   date: 'August 29',
   opp: 'at Milwwukee',
   score: '6:15',
-  recap: ``
+  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). `
   },
   {
   id: 'aug30',
   date: 'August 30',
   opp: 'at Milwwukee',
   score: '1:10',
-  recap: ``
+  recap: `Kumar Rocker (5-10, 4.41) vs. Dustin May (6-8, 4.56). `
   },
   {
   id: 'aug31',
