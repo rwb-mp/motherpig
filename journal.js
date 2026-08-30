@@ -949,14 +949,14 @@ const schedule = [
   date: 'August 29',
   opp: 'at Milwwukee',
   score: 'L 5-3',
-  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HR's by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd. Freeman hit a solo HR in the 5th--the 1st HR of his career--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits.`
+  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HR's by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd, and then Quantrill retired 14 in a row. Freeman hit a solo HR in the 5th--the 1st HR of his career--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits. Record: 66-70.`
   },
   {
   id: 'aug30',
   date: 'August 30',
   opp: 'at Milwwukee',
-  score: '1:10',
-  recap: `Kumar Rocker (5-10, 4.41) vs. Dustin May (6-8, 4.56). `
+  score: 'W 7-4',
+  recap: `Kumar Rocker (5-10, 4.41) vs. Dustin May (6-8, 4.56). The 1st 4 Brewers hitters reached on a walk and 3 singles resulting in a pair of runs. Rocker lasted only 3 innings, allowing 4 hits and 4 walks with 7 K's. Freeman and Diaz hit 2-out doubles in the 2nd to plate the 1st Ranger run. Duran hit a 2-out, 410-foot solo HR to left in the 3rd. After Seager and Langford led off the 5th with walks, Duran scored them both with a double in the alley to left center. Pederson solo-homered with 2 outs in the 6th. Singles by Nimmo, Burger, and Freeman resulted in 2 more Texas runs in the 7th. Alexander and Macko pitched 3 shutout relief innings. Montgomery allowed a 2-run HR in the 7th to draw Milwaukee to within 7-4. Junis pitched a scoreless 8th, and Latz had a perfect 9th for his 27th save. Record: 67-70.`
   },
   {
   id: 'aug31',

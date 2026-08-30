@@ -2203,9 +2203,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '30',
     opp: 'at Mil <img src="logos/brewers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '1:10',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 7-4',
+    recap: '<a href = "journal.html#aug30" target = "_blank">Recap</a>'
     },
     {
     id: '198',
