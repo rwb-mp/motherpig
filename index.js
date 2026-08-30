@@ -2192,9 +2192,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '29',
     opp: 'at Mil <img src="logos/brewers.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '6:15',
-    score: '',
-    recap: 'Fox'
+    time: '',
+    score: 'L 5-3',
+    recap: '<a href = "journal.html#aug29" target = "_blank">Recap</a>'
     },
     {
     id: '197',

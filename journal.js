@@ -948,8 +948,8 @@ const schedule = [
   id: 'aug29',
   date: 'August 29',
   opp: 'at Milwwukee',
-  score: '6:15',
-  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). `
+  score: 'L 5-3',
+  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HR's by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd. Freeman hit a solo HR in the 5th--the 1st HR of his career--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits.`
   },
   {
   id: 'aug30',
