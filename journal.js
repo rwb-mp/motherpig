@@ -949,7 +949,7 @@ const schedule = [
   date: 'August 29',
   opp: 'at Milwwukee',
   score: 'L 5-3',
-  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HR's by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd, and then Quantrill retired 14 in a row. Freeman hit a solo HR in the 5th--the 1st HR of his career--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits. Record: 66-70.`
+  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HR's by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd, and then Quantrill retired 14 in a row. Freeman hit a solo HR in the 5th--the 1st of the season--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits. Record: 66-70.`
   },
   {
   id: 'aug30',
@@ -962,22 +962,22 @@ const schedule = [
   id: 'aug31',
   date: 'August 31',
   opp: 'Athletics',
-  score: '7:05',
-  recap: ``
+  score: 'W 8-1',
+  recap: `Jacob deGrom (9-9, 4.21) vs. Gage Jump (6-8, 4.69). The Rangers scored in 5 different innings. Nimmo singled and Burger doubled to lead off the 2nd. Diaz scored Nimmo on a groundout, and Freeman scored Burger with a clutch 2-out single. Seager walked in the 3rd and took 2nd on a wild pitch before Nimmo scored with another clutch 2-out single. Foscue led off the 4th with a 417-foot HR to left. Texas scored 3 more in the 5th when they loaded the bases with no outs on a single by Duran and walks to Seager and Langford. Nimmo scored Duran on a sac fly, Burger singled home Seager, and Carter scored Langford on a groundout. The Rangers completed their scoring in the 8th when O'Hoppe hit a 1-out double and Freeman followed with a single. deGrom faced the minimum 21 batters in his 7 innings, striking out 8. The only runner he allowed was a 2nd inning single that got erased on a double-play. Ahlstrom pitched a perfect 8th, and Peoples allowed the lone Athletics run on a pair of hits in the 9th. Record: 68-70.`
   },
   {
   id: 'sep1',
   date: 'September 1',
   opp: 'Athletics',
   score: '7:05',
-  recap: ``
+  recap: `MacKenzie Gore (7-10, 4.40) vs. J.T. Ginn (9-8, 3.71). `
   },
   {
   id: 'sep2',
   date: 'September 2',
   opp: 'Athletics',
   score: '1:35',
-  recap: ``
+  recap: `Cody Bradford (0-3, 3.42) vs. Jacob Lopez (5-4, 4.82). `
   },
   {
   id: 'sep3',
