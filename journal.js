@@ -969,8 +969,8 @@ const schedule = [
   id: 'sep1',
   date: 'September 1',
   opp: 'Athletics',
-  score: '7:05',
-  recap: `MacKenzie Gore (7-10, 4.40) vs. J.T. Ginn (9-8, 3.71). `
+  score: 'W 8-5',
+  recap: `MacKenzie Gore (7-10, 4.40) vs. Brady Basso (0-1, 4.50). Nimmo had 4 hits and 5 RBI's--3 of the RBI base hits came with 2 outs. Seager had a pair of doubles and a walk and scored 3 times. Langford had a double and a single and scored twice. Duran made a sensational defensive play at second base to end the 4th inning and save at least 1 run. Gore allowed 1 run in 5-1/3 innings on 5 hits and 4 walks, but was lifted in the 6th after he walked 2 of the 1st 3 hitters. Silseth walked the 1st hitter he faced and then pitched out of the bases-loaded jam. Macko and newly-acquired Trevor Williams gave up 4 runs in 2-1/3 relief innings. Latz got the last 2 outs of the game for his 28th save. The Rangers have won 8 of Gore's last 10 starts. Texas is 51-16 in games in which they score 1st. Record: 69-70.`
   },
   {
   id: 'sep2',
