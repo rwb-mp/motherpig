@@ -976,8 +976,8 @@ const schedule = [
   id: 'sep2',
   date: 'September 2',
   opp: 'Athletics',
-  score: '1:35',
-  recap: `Cody Bradford (0-3, 3.42) vs. Jacob Lopez (5-4, 4.82). `
+  score: 'L 9-2',
+  recap: `Cody Bradford (0-3, 3.42) vs. Jacob Lopez (5-4, 4.82). Things looked promising early as Duran led off the 1st with a 406-foot homer to left, and Foscue led off the 2nd with a 424-foot HR to center. That's all the Rangers would get as they went 0-for-5 with RISP. Seager grounded into 2 double plays. Bradford pitched 4 innings and allowed 5 runs on 7 hits--including 3 HR's--and 1 walk. Ahlstrom gave up 3 runs on 3 hits--including 2 HR's--in 1 inning of relief. Montgomery pitched 3 innings, allowing a run on 3 hits and 2 walks. Peoples loaded the bases on a single and 2 walks in the 9th, but pitched out of the jam. Duran had 2 singles in addition to his leadoff HR. Bradford has a batting average against of .331 on the season. Record: 69-71.`
   },
   {
   id: 'sep3',
