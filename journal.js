@@ -983,29 +983,29 @@ const schedule = [
   id: 'sep3',
   date: 'September 3',
   opp: 'Tampa Bay',
-  score: '7:05',
-  recap: ``
+  score: 'W 6-0',
+  recap: `Cal Quantrill (6-5, 3.01) vs. Shane McClanahan (10-6, 3.19). The story of this one was Quantrill who was Rangers player of the month in August. Quantrill was sensational against the team with the best record in the AL and the best team batting average in MLB, as he worked 7 shutout innings on 2 hits and 2 walks with 5 K's. Junis pitched the 8th and Silseth pitched the 9th to close out the win. The 1st Ranger run came in the 4th when Langford doubled and Foscue hit a clutch 2-out single to score him. O'Hoppe led off the 5th with a single. Freeman sacrificed him to 2nd and Duran hit a clutch 2-out single to score the 2nd Ranger run. Seager followed with a 403-foot HR to right center to make the lead 4-0. Langford walked to start the 8th and Carter tripled down the right field line to score him. Burger hit a sac fly for the 6th Ranger run. Record: 70-71.`
   },
   {
   id: 'sep4',
   date: 'September 4',
   opp: 'Tampa Bay',
   score: '7:05',
-  recap: ``
+  recap: `Kumar Rocker (5-10, 4.44) vs. Nick Martinez (13-4, 2.99). `
   },
   {
   id: 'sep5',
   date: 'September 5',
   opp: 'Tampa Bay',
   score: '6:05',
-  recap: ``
+  recap: `Jacob deGrom (10-9, 4.00) vs. Drew Rasmussen (14-5, 2.95). `
   },
   {
   id: 'sep6',
   date: 'September 6',
   opp: 'Tampa Bay',
   score: '1:35',
-  recap: ``
+  recap: `MacKenzie Gore (8-10, 4.31) vs. TBD. `
   },
   {
   id: 'sep8',
