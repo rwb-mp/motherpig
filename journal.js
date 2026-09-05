@@ -990,8 +990,8 @@ const schedule = [
   id: 'sep4',
   date: 'September 4',
   opp: 'Tampa Bay',
-  score: '7:05',
-  recap: `Kumar Rocker (5-10, 4.44) vs. Nick Martinez (13-4, 2.99). `
+  score: 'L 7-6',
+  recap: `Trevor Williams (0-0, 3.93) vs. Nick Martinez (13-4, 2.99). The Rangers used 2 openers for Rocker in this one. Williams pitched a perfect 1st and Ahlstrom gave up a single, a walk, and a hit batter in the 2nd, but escaped the bases loaded jam. Duran led off the bottom of the 2nd with a 419-foot solo HR to center to give Texas the early lead. Rocker entered in the 3rd and allowing 6 runs--5 of them earned--in his 5 innings on 9 hits including 2 HR's. Texas didn't get a runner into scoring position until the 7th when they loaded the bases on a single and 2 walks. Diaz homered 384 feet to left to draw the Rangers to within a run at 6-5. Alexander retired all 4 batters he faced and was replaced by Silseth with 1 out in the 9th. Silseth didn't record an out as all 3 hitters reached base and the Rays scored an insurance run to take a 7-5 lead. Burger and Carter walked to start the 9th. After Freeman bunted them into scoring position, Diaz scored Burger on a sac fly, but Foscue popped out to 2nd to end the game. Diaz had 5 RBI's including the team's 1st grand slam. Record: 70-72.`
   },
   {
   id: 'sep5',
