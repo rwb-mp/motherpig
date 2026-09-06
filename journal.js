@@ -998,7 +998,7 @@ const schedule = [
   date: 'September 5',
   opp: 'Tampa Bay',
   score: 'L 6-3',
-  recap: `Jacob deGrom (10-9, 4.00) vs. Drew Rasmussen (14-5, 2.95). The Rangers played from behind again as the Rays scored 2 runs on 2 solo HR's against deGrom in his 6 innings. All Texas could manage was a couple of singles until the 6th when Pederson hit a 1-out solo homer 409 feet to right. Alexander pitched a clean 7th, but Junis surrendered a run in the 8th. The Rangers scored 2 in the bottom of the 8th on a leadoff 421-foot HR by Carter, a single by Jansen, and a double by Foscue. Latz pitched a clean 9th. In the 10th, a 1-out intentional walk was followed by a 3-run homer to give Tampa Bay a 6-3 lead. Texas went qietly in the bottom of the 10th. Record: 70-73.`
+  recap: `Jacob deGrom (10-9, 4.00) vs. Drew Rasmussen (14-5, 2.95). The Rangers played from behind again as the Rays scored 2 runs on 2 solo homers against deGrom in his 6 innings. All Texas could manage was a couple of singles until the 6th when Pederson hit a 1-out solo HR 409 feet to right. Alexander pitched a clean 7th, but Junis surrendered a run in the 8th. The Rangers scored 2 in the bottom of the 8th on a leadoff 421-foot homer by Carter, a single by Jansen, and a double by Foscue. Latz pitched a clean 9th. In the 10th, Latz issued a 1-out intentional walk that was followed by a 3-run HR to give Tampa Bay a 6-3 lead. Texas went qietly in the bottom of the 10th. Record: 70-73.`
   },
   {
   id: 'sep6',
