@@ -935,21 +935,21 @@ const schedule = [
   date: 'August 26',
   opp: 'at Chicago White Sox',
   score: 'L 10-4',
-  recap: `MacKenzie Gore (7-9, 4.26) vs. Sean Burke (7-6, 3.27). The Rangers drew 10 walks to go with 8 base hits, but could manage only 4 runs. For the 2nd game in a row, the tone was set in the 1st inning. Seager drew a 1-out walk, but was picked off 1st base. Then Langford walked, but he was thrown out attempting to steal 2nd. The Rangers drew 8 walks in the 1st 4 innings against the White Sox starter, but scored only twice. The runs came in the 3rd when Pederson homered to right following a leadoff walk to Freeman. Duran knocked in 2 more in the the 7th when he followed a Langford walk and a Nimmo double with a 2-RBI single. After 4 good starts in August, Gore was terrible in his 3-2/3 innings, allowing 4 runs on 8 hits and 4 walks. Silseth allowed a run in his inning, and Ahlstrom gave up 5 runs on 4 hits--including 2 HR's-- and a walk in 1 inning of relief. Gray and Junis finished the game with 2-1/3 shutout innings. Record: 66-68.`
+  recap: `MacKenzie Gore (7-9, 4.26) vs. Sean Burke (7-6, 3.27). The Rangers drew 10 walks to go with 8 base hits, but could manage only 4 runs. For the 2nd game in a row, the tone was set in the 1st inning. Seager drew a 1-out walk, but was picked off 1st base. Then Langford walked, but he was thrown out attempting to steal 2nd. The Rangers drew 8 walks in the 1st 4 innings against the White Sox starter, but scored only twice. The runs came in the 3rd when Pederson homered to right following a leadoff walk to Freeman. Duran knocked in 2 more in the the 7th when he followed a Langford walk and a Nimmo double with a 2-RBI single. After 4 good starts in August, Gore was terrible in his 3-2/3 innings, allowing 4 runs on 8 hits and 4 walks. Silseth allowed a run in his inning, and Ahlstrom gave up 5 runs on 4 hits--including 2 HRs-- and a walk in 1 inning of relief. Gray and Junis finished the game with 2-1/3 shutout innings. Record: 66-68.`
   },
   {
   id: 'aug28',
   date: 'August 28',
   opp: 'at Milwwukee',
   score: 'L 6-1',
-  recap: `Cody Bradford (0-2, 3.05) vs. Logan Henderson (8-2, 2.60). The Rangers had 3 baseruunners. Jansen solo homered in the 3rd. Foscue hit an infield single and Freeman walked in the 8th--giving Texas their only RISP--but Jansen grounded softly to 2nd to end the inning. Texas pitchers gave up 14 hits and 4 walks. Bradford's line was 5-2/3 innings, 3 runs on 9 hits and 2 walks. Alexander retired the only hitter he faced. Silseth and Macko--acquired in the Josh Smith trade--gave up 3 runs on 5 hits and 2 walks in their combined 2 innings. Record: 66-69.`
+  recap: `Cody Bradford (0-2, 3.05) vs. Logan Henderson (8-2, 2.60). The Rangers had 3 baserunners. Jansen solo homered in the 3rd. Foscue hit an infield single and Freeman walked in the 8th--giving Texas their only RISP--but Jansen grounded softly to 2nd to end the inning. Texas pitchers gave up 14 hits and 4 walks. Bradford's line was 5-2/3 innings, 3 runs on 9 hits and 2 walks. Alexander retired the only hitter he faced. Silseth and Macko--acquired in the Josh Smith trade--gave up 3 runs on 5 hits and 2 walks in their combined 2 innings. Record: 66-69.`
   },
   {
   id: 'aug29',
   date: 'August 29',
   opp: 'at Milwwukee',
   score: 'L 5-3',
-  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HR's by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd, and then Quantrill retired 14 in a row. Freeman hit a solo HR in the 5th--the 1st of the season--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits. Record: 66-70.`
+  recap: `Cal Quantrill (6-4, 2.90) vs. Shane Drohan (6-5, 3.84). The Rangers outhit the Brewers 8 to 7, but Texas was 1-for-4 with RISP while Milwaukee went 3-for-7. Quantrill logged a quality start allowing 3 runs over 6 innings on 4 hits and no walks with 8 K's. Two 1st-inning solo HRs by the Brewers gave them the early 2-0 lead. Milwaukee added another run in the 2nd, and then Quantrill retired 14 in a row. Freeman hit a solo HR in the 5th--the 1st of the season--to cut the deficit to 3-1. Gray allowed 2 runs--only 1 earned--on 3 hits and a Duran infield error in the 7th. Nimmo homered 426 feet to right after a Seager walk in the 8th to cut the Brewers' lead to 5-3. Junis pitched a shutout 8th, and Texas went quietly in the 9th. Nimmo had 3 of the Rangers' 8 hits. Record: 66-70.`
   },
   {
   id: 'aug30',
@@ -977,7 +977,7 @@ const schedule = [
   date: 'September 2',
   opp: 'Athletics',
   score: 'L 9-2',
-  recap: `Cody Bradford (0-3, 3.42) vs. Jacob Lopez (5-4, 4.82). Things looked promising early as Duran led off the 1st with a 406-foot homer to left, and Foscue led off the 2nd with a 424-foot HR to center. That's all the Rangers would get as they went 0-for-5 with RISP. Seager grounded into 2 double plays. Bradford pitched 4 innings and allowed 5 runs on 7 hits--including 3 HR's--and 1 walk. Ahlstrom gave up 3 runs on 3 hits--including 2 HR's--in 1 inning of relief. Montgomery pitched 3 innings, allowing a run on 3 hits and 2 walks. Peoples loaded the bases on a single and 2 walks in the 9th, but pitched out of the jam. Duran had 2 singles in addition to his leadoff HR. Bradford has a batting average against of .331 on the season. Record: 69-71.`
+  recap: `Cody Bradford (0-3, 3.42) vs. Jacob Lopez (5-4, 4.82). Things looked promising early as Duran led off the 1st with a 406-foot homer to left, and Foscue led off the 2nd with a 424-foot HR to center. That's all the Rangers would get as they went 0-for-5 with RISP. Seager grounded into 2 double plays. Bradford pitched 4 innings and allowed 5 runs on 7 hits--including 3 HRs--and 1 walk. Ahlstrom gave up 3 runs on 3 hits--including 2 HRs--in 1 inning of relief. Montgomery pitched 3 innings, allowing a run on 3 hits and 2 walks. Peoples loaded the bases on a single and 2 walks in the 9th, but pitched out of the jam. Duran had 2 singles in addition to his leadoff HR. Bradford has a batting average against of .331 on the season. Record: 69-71.`
   },
   {
   id: 'sep3',
@@ -991,21 +991,21 @@ const schedule = [
   date: 'September 4',
   opp: 'Tampa Bay',
   score: 'L 7-6',
-  recap: `Trevor Williams (0-0, 3.93) vs. Nick Martinez (13-4, 2.99). The Rangers used 2 openers for Rocker in this one. Williams pitched a perfect 1st and Ahlstrom gave up a single, a walk, and a hit batter in the 2nd, but escaped the bases loaded jam. Duran led off the bottom of the 2nd with a 419-foot solo HR to center to give Texas the early lead. Rocker entered in the 3rd and allowing 6 runs--5 of them earned--in his 5 innings on 9 hits including 2 HR's. Texas didn't get a runner into scoring position until the 7th when they loaded the bases on a single and 2 walks. Diaz homered 384 feet to left to draw the Rangers to within a run at 6-5. Alexander retired all 4 batters he faced and was replaced by Silseth with 1 out in the 9th. Silseth didn't record an out as all 3 hitters reached base and the Rays scored an insurance run to take a 7-5 lead. Burger and Carter walked to start the 9th. After Freeman bunted them into scoring position, Diaz scored Burger on a sac fly, but Foscue popped out to 2nd to end the game. Diaz had 5 RBI's including the team's 1st grand slam. Record: 70-72.`
+  recap: `Trevor Williams (0-0, 3.93) vs. Nick Martinez (13-4, 2.99). The Rangers used 2 openers for Rocker in this one. Williams pitched a perfect 1st and Ahlstrom gave up a single, a walk, and a hit batter in the 2nd, but escaped the bases loaded jam. Duran led off the bottom of the 2nd with a 419-foot solo HR to center to give Texas the early lead. Rocker entered in the 3rd and allowing 6 runs--5 of them earned--in his 5 innings on 9 hits including 2 HRs. Texas didn't get a runner into scoring position until the 7th when they loaded the bases on a single and 2 walks. Diaz homered 384 feet to left to draw the Rangers to within a run at 6-5. Alexander retired all 4 batters he faced and was replaced by Silseth with 1 out in the 9th. Silseth didn't record an out as all 3 hitters reached base and the Rays scored an insurance run to take a 7-5 lead. Burger and Carter walked to start the 9th. After Freeman bunted them into scoring position, Diaz scored Burger on a sac fly, but Foscue popped out to 2nd to end the game. Diaz had 5 RBI's including the team's 1st grand slam. Record: 70-72.`
   },
   {
   id: 'sep5',
   date: 'September 5',
   opp: 'Tampa Bay',
   score: 'L 6-3',
-  recap: `Jacob deGrom (10-9, 4.00) vs. Drew Rasmussen (14-5, 2.95). The Rangers played from behind again as the Rays scored 2 runs on 2 solo homers against deGrom in his 6 innings. All Texas could manage was a couple of singles until the 6th when Pederson hit a 1-out solo HR 409 feet to right. Alexander pitched a clean 7th, but Junis surrendered a run in the 8th. The Rangers scored 2 in the bottom of the 8th on a leadoff 421-foot homer by Carter, a single by Jansen, and a double by Foscue. Latz pitched a clean 9th. In the 10th, Latz issued a 1-out intentional walk that was followed by a 3-run HR to give Tampa Bay a 6-3 lead. Texas went qietly in the bottom of the 10th. Record: 70-73.`
+  recap: `Jacob deGrom (10-9, 4.00) vs. Drew Rasmussen (14-5, 2.95). The Rangers played from behind again as the Rays scored 2 runs on 2 solo homers against deGrom in his 6 innings. All Texas could manage was a couple of singles until the 6th when Pederson hit a 1-out solo HR 409 feet to right. Alexander pitched a clean 7th, but Junis surrendered a run in the 8th. The Rangers scored 2 in the bottom of the 8th on a leadoff 421-foot homer by Carter, a single by Jansen, and a double by Foscue. Latz pitched a clean 9th. In the 10th, Latz issued a 1-out intentional walk followed by a 3-run HR to give Tampa Bay a 6-3 lead. Texas went qietly in the bottom of the 10th. Record: 70-73.`
   },
   {
   id: 'sep6',
   date: 'September 6',
   opp: 'Tampa Bay',
-  score: '1:35',
-  recap: `MacKenzie Gore (8-10, 4.31) vs. TBD. `
+  score: 'W 8-6',
+  recap: `MacKenzie Gore (8-10, 4.31) vs. Ian Seymour (9-6, 4.21). Gore was lifted when the 1st 2 batters in the 4th reached on a single and a double. Gore's line was 5 runs on 6 hits and 3 walks--1 intentional--with only 1 K in 3+ innings. Burger solo homered 402 feet to left in the 2nd, and the score was 5-1 entering the bottom of the 4th. Langford walked and Burger homered 428 feet to center to draw the Rangers to within 2. O'Hoppe singled to left. After Diaz and Freeman made outs, Duran singled and Seager reached on an error to load the bases. Foscue delivered a 2-run double and the game was tied at 5-5. With 1 out in the 5th, Burger walked and O'Hoppe singled. Diaz singled in Burger and Duran hit a 2-out single to score O'Hoppe and give Texas a 7-5 lead. Williams and Silseth pitched 3 innings of scoreless relief, but Alexander allowed a run in the 7th on a pair of singles. Latz pitched a scoreless top of the 8th, and Seager homered in the bottom of the inning to give Texas an 8-6 lead. Junis pitched a perfect 9th for his 6th save. Burger has 2 HRs and a walk, scored 3 runs, and knocked in 3. Duran had 3 singles and O'Hoppe had a pair of singles. Record: 71-73.`
   },
   {
   id: 'sep8',
