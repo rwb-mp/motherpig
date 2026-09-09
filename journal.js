@@ -1005,28 +1005,28 @@ const schedule = [
   date: 'September 6',
   opp: 'Tampa Bay',
   score: 'W 8-6',
-  recap: `MacKenzie Gore (8-10, 4.31) vs. Ian Seymour (9-6, 4.21). Gore was lifted when the 1st 2 batters in the 4th reached on a single and a double. Gore's line was 5 runs on 6 hits and 3 walks--1 intentional--with only 1 K in 3+ innings. Burger solo homered 402 feet to left in the 2nd, and the score was 5-1 entering the bottom of the 4th. Langford walked and Burger homered 428 feet to center to draw the Rangers to within 2. O'Hoppe singled to left. After Diaz and Freeman made outs, Duran singled and Seager reached on an error to load the bases. Foscue delivered a 2-run double and the game was tied at 5-5. With 1 out in the 5th, Burger walked and O'Hoppe singled. Diaz singled in Burger and Duran hit a 2-out single to score O'Hoppe and give Texas a 7-5 lead. Williams and Silseth pitched 3 innings of scoreless relief, but Alexander allowed a run in the 7th on a pair of singles. Latz pitched a scoreless top of the 8th, and Seager homered in the bottom of the inning to give Texas an 8-6 lead. Junis pitched a perfect 9th for his 6th save. Burger has 2 HRs and a walk, scored 3 runs, and knocked in 3. Duran had 3 singles and O'Hoppe had a pair of singles. Record: 71-73.`
+  recap: `MacKenzie Gore (8-10, 4.31) vs. Ian Seymour (9-6, 4.21). Gore was lifted when the 1st 2 batters in the 4th reached on a single and a double. Gore's line was 5 runs on 6 hits and 3 walks--1 intentional--with only 1 K in 3+ innings. Burger solo homered 402 feet to left in the 2nd, and the score was 5-1 entering the bottom of the 4th. Langford walked and Burger homered 428 feet to center to draw the Rangers to within 2. O'Hoppe singled to left. After Diaz and Freeman made outs, Duran singled and Seager reached on an error to load the bases. Foscue delivered a 2-run double and the game was tied at 5-5. With 1 out in the 5th, Burger walked and O'Hoppe singled. Diaz singled in Burger and Duran hit a 2-out single to score O'Hoppe and give Texas a 7-5 lead. Williams and Silseth pitched 3 innings of scoreless relief, but Alexander allowed a run in the 7th on a pair of singles. Latz pitched a scoreless top of the 8th, and Seager homered in the bottom of the inning to give Texas an 8-6 lead. Junis pitched a perfect 9th for his 6th save. Burger had 2 HRs and a walk, scored 3 runs, and knocked in 3. Duran had 3 singles and O'Hoppe had a pair of singles. Record: 71-73.`
   },
   {
   id: 'sep8',
   date: 'September 8',
   opp: 'at Seattle',
-  score: '8:40',
-  recap: ``
+  score: 'W 10-5',
+  recap: `Cal Quantrill (7-5, 2.79) vs. Bryce Miller (4-8, 4.01). Seager set the tone with a 418-foot solo homer to right in the 1st. Lopez had 3 singles and a hit-by-pitch including a clutch 2-out RBI single in the 2nd. Foscue had 2 hits including a 2-out, 2-run single with the bases loaded in the 4th. The 5th inning saw Langford hit a 438-foot, 2-run HR to left and Jansen with a 391-foot, 3-run homer also to left. Jansen had a 4th RBI in the 7th on a single that scored Carter. Carter had 2 singles and scored twice. Quantrill pitched another quality start, throwing 93 pitches over 6 innings, allowing 3 runs on 5 hits and a walk. Garcia pitched a perfect 7th, his 1st appearance since April. Macko pitched the last 2 innings and was touched for 2 runs--only 1 earned--on 4 hits. Record: 72-73.`
   },
   {
   id: 'sep9',
   date: 'September 9',
   opp: 'at Seattle',
   score: '8:40',
-  recap: ``
+  recap: `Cody Bradford (0-3, 4.45) vs. Kade Anderson (0-1, 5.40). `
   },
   {
   id: 'sep10',
   date: 'September 10',
   opp: 'at Seattle',
   score: '3:10',
-  recap: ``
+  recap: `Jacob deGrom (10-9, 3.96) vs. Logan Gilbert (11-9, 3.71). `
   },
   {
   id: 'sep11',
