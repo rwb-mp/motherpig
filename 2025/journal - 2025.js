@@ -907,21 +907,21 @@ const schedule = [
   date: 'August 22',
   opp: 'Cleveland',
   score: 'W 4-3',
-  recap: `Nathan Eovaldi (11-3, 1.76) vs. Slade Cecconi (5-6, 4.50). It was another gem for Eovaldi who allowed 1 run on 4 hits and 0 walks in 7 innings, striking out 9. A 349-foot solo shot by Tellez in the 5th that just cleared the fence down the LF line, and a 398-foot blast to left in the 6th by Langford gave Texas a 2-1 lead entering the 8th. It took Milner only 2 pitches to load the bases on a hit batter, a single to left, and a squibber in front of the plate. Maton struck out the side, but not before giving up the lead on a 2-run double. Trailing 3-2 in the bottom of the 9th, Langford led off with a hustle-double to left center, Seager singled him home and took 2nd on the throw to the plate, and Pederson doubled Seager home for the walk-off win. Record: 64-66.`
+  recap: `Nathan Eovaldi (11-3, 1.76) vs. Slade Cecconi (5-6, 4.50). It was another gem for Eovaldi who allowed 1 run on 4 hits and no walks in 7 innings, striking out 9. A 349-foot solo shot by Tellez in the 5th that just cleared the fence down the LF line, and a 398-foot blast to left in the 6th by Langford gave Texas a 2-1 lead entering the 8th. It took Milner only 6 pitches to load the bases on a hit batter, a single to left, and a squibber in front of the plate. Maton came in and struck out the side, but not before giving up the lead on a 2-run double. Trailing 3-2 in the bottom of the 9th, Langford led off with a hustle-double to left center, Seager singled him home and took 2nd on the throw to the plate, and Pederson doubled Seager home for the walk-off win. Record: 64-66.`
   },
   {
   id: 'aug23',
   date: 'August 23',
   opp: 'Cleveland',
   score: 'W 10-0',
-  recap: `Jack Leiter (7-7, 4.06) vs. Logan Allen (7-9, 3.87). Semien was placed on the IL and is out for the season with a foot injury. The Rangers put on a hitting display and Leiter was sensational in a rout of the Guardians. Cody Freeman hit his 1st big league HR 385 feet to left in the 2nd. Jung homered 390 feet to left in the 3rd. Garcia homered 377 feet down the LF line in the 5th. Langford, Jung, and Freeman had 2 hits apiece and Duran had 3 RBI's. Leiter pitched 7 shutout innings on 2 hits and 0 walks, striking out 10. Record: 65-66.`
+  recap: `Jack Leiter (7-7, 4.06) vs. Logan Allen (7-9, 3.87). Semien was placed on the IL and is out for the season with a foot injury. The Rangers put on a hitting display and Leiter was sensational in a rout of the Guardians. Cody Freeman hit his 1st big league HR 385 feet to left in the 2nd. Jung homered 390 feet to left in the 3rd. Garcia homered 377 feet down the LF line in the 5th. Langford, Jung, and Freeman had 2 hits apiece and Duran had 3 RBI's. Leiter pitched 7 shutout innings on 2 hits and no walks, striking out 10. Record: 65-66.`
   },
   {
   id: 'aug24',
   date: 'August 24',
   opp: 'Cleveland',
   score: 'W 5-0',
-  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center in the 4th after a Garcia walk to give Texas a 2-0 lead. Jung and Duran extended the inning with singles, and Langford scored them both with a clutch 2-out base hit. Pederson homered 409 feet to right in the 7th--in a rare plate appearance against a left-handed pitcher--to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark with 30 games remaining and was the 13th shutout by Ranger pitching this season. Record: 66-66.`
+  recap: `Merrill Kelly (9-7, 3.35) vs. Gavin Williams (8-4, 3.24). Tellez homered 426 feet to center in the 4th after a Garcia walk to give Texas a 2-0 lead. Jung and Duran extended the inning with singles, and Langford scored them both with a clutch 2-out base hit. Pederson homered 409 feet to right in the 7th in a rare plate appearance against a lefty to make the lead 5-0. Kelly pitched 7 shutout innings on 4 hits and 2 walks, striking out 8. After allowing a single and a walk to start the 8th, Coulombe replaced Kelly and retired the next 3 hitters to kill the Cleveland rally. Milner pitched a shutout 9th to complete the sweep. The win put Texas back at the .500 mark with 30 games remaining and was the 13th shutout by Ranger pitching this season. Record: 66-66.`
   },
   {
   id: 'aug25',
@@ -935,28 +935,28 @@ const schedule = [
   date: 'August 26',
   opp: 'Los Angeles Angels',
   score: 'W 7-3',
-  recap: `Patrick Corbin (6-9, 4.61) vs. Yusei Kikuchi (6-8, 3.42). The Rangers scored early and then rode the arm of Patrick Corbin who had his best start of the season. Corbin threw 102 pitches over 8 shutout innings, allowing 3 hits and 1 walk, striking out 8. The Rangers scored 3 in the 1st on walks to Langford and Seager, a double by Garcia, a single by Jung, and a sac fly by Cody Freeman. Helman homered 383 feet to left in the 2nd after a Heim walk to make the score 5-0. Higashioka blasted one 421 feet to left in the 4th, and Seager homered 376 feet to right in the 7th for a 7-0 Rangers lead. Coulombe gave up a single and a pair of home runs in the 9th, but Maton got the final 2 outs to secure the win. Record: 67-67.`
+  recap: `Patrick Corbin (6-9, 4.61) vs. Yusei Kikuchi (6-8, 3.42). The Rangers scored early and then rode the arm of Corbin who had his best start of the season. Corbin threw 102 pitches over 8 shutout innings, allowing 3 hits and 1 walk, striking out 8. The Rangers scored 3 in the 1st on walks to Langford and Seager, a double by Garcia, a single by Jung, and a sac fly by Cody Freeman. Helman homered 383 feet to left in the 2nd after a Heim walk to make the score 5-0. Higashioka blasted one 421 feet to left in the 4th, and Seager homered 376 feet to right in the 7th for a 7-0 Rangers lead. Coulombe gave up a single and a pair of home runs in the 9th, but Maton got the final 2 outs to secure the win. Record: 67-67.`
   },
   {
   id: 'aug27',
   date: 'August 27',
   opp: 'Los Angeles Angels',
   score: 'W 20-3',
-  recap: `Jacob Latz (1-0, 3.05) vs. Jack Kochanowicz (3-10, 6.19). The Rangers had a 12-2 lead after 6 innings on the strength of 12 base hits and added 8 runs on 8 hits against position players in their final 2 innings. All 12 Ranger hitters had at least 1 base hit, and Garcia led the way with 4. Jung had 3 hits. Langford, Seager, Duran, Pederson, and Higashioka had 2 apiece. Garcia, Pederson, and Higashioka had 5 RBI's each. Latz pitched 4-1/3 innings in a bullpen start, allowing 2 runs on 4 hits and a walk and striking out 5. Webb, Curvelo, Armstrong, and Boushley allowed a run on 3 hits to finish off the Angels. Record: 68-67.`
+  recap: `Jacob Latz (1-0, 3.05) vs. Jack Kochanowicz (3-10, 6.19). The Rangers had a 12-2 lead after 6 innings on 12 base hits, and added 8 more runs on 8 hits against position players in the final 2 innings. All 12 Ranger hitters had at least 1 base hit, and Garcia led the way with 4. Jung had 3 hits. Langford, Seager, Duran, Pederson, and Higashioka each had 2. Garcia, Pederson, and Higashioka had 5 RBI's each. Latz pitched 4-1/3 innings in a bullpen start, allowing 2 runs on 4 hits and a walk, striking out 5. Webb, Curvelo, Armstrong, and Boushley allowed a run on 3 hits to finish off the Angels. Record: 68-67.`
   },
   {
   id: 'aug29',
   date: 'August 29',
   opp: 'at Athletics',
   score: 'W 5-2',
-  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore--recently acquired from the Mariners--and a sac fly by Heim. The Athletics responded with 2 runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389 foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief. Record: 69-67.`
+  recap: `Jack Leiter (8-7, 3.81) vs. Jeffrey Springs (10-8, 4.15). Seager underwent an appendectomy and was placed on the IL. The Rangers scored 2 in the 2nd on singles by Jung, Higashioka, Freeman, and Dylan Moore--recently acquired from the Mariners--and a sac fly by Heim. The Athletics responded with 2 runs in the 3rd, but that's all the A's would get off Leiter who pitched 6 innings, giving up 5 hits and 2 walks and striking out 6. Heim solo homered 392 feet to left in the 5th. Michael Helman added 2 more runs on a 389-foot HR to left in the 7th. Milner and Armstrong pitched 3 innings of no-hit relief. Record: 69-67.`
   },
   {
   id: 'aug30',
   date: 'August 30',
   opp: 'at Athletics',
   score: 'W 9-3',
-  recap: `Merrill Kelly (10-7, 3.20) vs. Mason Barnett (0-0, -.--). It was another big day for the Rangers' bats as they banged out 17 base hits. Langford homered 364 feet to left in the 5th inning, and Dylan Moore hit a 2-run shot 403 feet to CF in the 9th. Jung and Garcia had 3 hits apiece, and Langford, Higashioka, and Helman each had a pair of base hits. Kelly pitched a quality start into the 7th inning allowing 3 runs on 6 hits and no walks. Webb, Maton, and Garcia pitched 2-2/3 shutout innings in relief. Record: 70-67.`
+  recap: `Merrill Kelly (10-7, 3.20) vs. Mason Barnett (0-0, -.--). It was a big day for the Rangers' bats as they had 17 base hits. Langford homered 364 feet to left in the 5th inning, and Dylan Moore hit a 2-run shot 403 feet to CF in the 9th. Jung and Garcia had 3 hits apiece, and Langford, Higashioka, and Helman each had a pair of base hits. Kelly pitched a quality start into the 7th inning, allowing 3 runs on 6 hits and no walks. Webb, Maton, and Garcia pitched 2-2/3 shutout innings in relief. Record: 70-67.`
   },
   {
   id: 'aug31',
@@ -970,7 +970,7 @@ const schedule = [
   date: 'September 1',
   opp: 'at Arizona',
   score: 'W 7-5',
-  recap: `Patrick Corbin (7-9, 4.33) vs. Ryne Nelson (7-3, 3.53). The Mariners lost earlier, so a win would move the Rangers to within 1-1/2 games of the final wild card spot. Things looked bleak early. Corbin gave up solo home runs to the 1st 2 batters he faced. Arizona added another solo homer in the 2nd. Cody Freeman answered with a 391 foot 2-run shot in the 3rd after a Higashioka single to make the score 3-2. Langford homered 382-feet to left in the 6th to tie the game 3-3. Corbin settled down to pitch 3-2/3 innings of hitless ball into the 6th, but the DBacks singled and tripled off Corbin to score a run. Webb replaced Corbin in the 6th and gave up a double to the 1st batter he faced to make the score 5-3. The Rangers went 6 up and 6 down in the 7th and 8th, but Dylan Moore led off the 9th with a single and scored on a Burger 1-out triple. Cody Freeman followed with a clutch 2-out single to right to tie the game 5-5. Chris Martin, in his 1st game off the IL, pitched a scoreless 9th. Duran walked to put 2 on in the 10th and Osuna singled home both runners to give the Rangers their 1st lead of the game 7-5. Armstrong pitched a perfect 10th to close out the win. Record: 72-67.`
+  recap: `Patrick Corbin (7-9, 4.33) vs. Ryne Nelson (7-3, 3.53). The Mariners lost earlier, so a win would move the Rangers to within 1-1/2 games of the final wild card spot. Things looked bleak early. Corbin gave up solo home runs to the 1st 2 batters he faced. Arizona added another solo homer in the 2nd. Cody Freeman answered with a 391 foot 2-run shot in the 3rd after a Higashioka single to make the score 3-2. Langford homered 382-feet to left in the 6th to tie the game 3-3. Corbin settled down to pitch 3-2/3 innings of no-hit ball into the 6th, but then gave up a single and an RBI-triple. Webb replaced Corbin in the 6th and gave up a double to the 1st batter he faced to make the score 5-3. The Rangers went 6-up-and-6-down in the 7th and 8th, but Dylan Moore led off the 9th with a single and scored on a Burger 1-out triple. Cody Freeman followed with a clutch 2-out single to right to tie the game 5-5. Chris Martin, in his 1st game off the IL, pitched a scoreless 9th. Duran walked to put 2 on in the 10th and Osuna singled home both runners to give the Rangers their 1st lead of the game 7-5. Armstrong pitched a perfect 10th to close out the win. Record: 72-67.`
   },
   {
   id: 'sep2',
@@ -1005,14 +1005,14 @@ const schedule = [
   date: 'September 7',
   opp: 'Houston',
   score: 'W 4-2',
-  recap: `Patrick Corbin (7-9, 4.48) vs. Framber Valdez (12-8, 3.40). Corbin was excellent over his 5-2/3 innings allowing a run on 3 hits and a walk while striking out 5. Texas scored in the 2nd when Dylan Moore singled, stole 2nd, and scored on a Heim strikeout that got past the catcher, who then hit Heim with his throw to 1st. After Houston tied the game in the 6th, Freeman singled with 2 outs and scored from 1st on a Jung double. Burger followed with a 364-foot homer to right to make the score 4 to 1. Houston scored in the 7th, but Armstrong retired the last 4 batters of the game to close it out. Record: 74-70.`
+  recap: `Patrick Corbin (7-9, 4.48) vs. Framber Valdez (12-8, 3.40). Corbin was excellent over his 5-2/3 innings allowing a run on 3 hits and a walk while striking out 5. Texas scored in the 2nd when Dylan Moore singled, stole 2nd, and scored on a Heim strikeout when the catcher's throw to 1st base hit Heim. After Houston tied the game in the 6th, Freeman singled with 2 outs and scored from 1st on a Jung double. Burger followed with a 364-foot homer to right to make the score 4-1. Houston scored in the 7th, but Armstrong retired the last 4 batters of the game to close out the win. Record: 74-70.`
   },
   {
   id: 'sep8',
   date: 'September 8',
   opp: 'Milwaukee',
   score: 'W 5-0',
-  recap: `Jacob Latz (1-0, 3.15) vs. Jose Quintana (11-5, 3.72). Rangers' pitching was spectacular against the team with the 2nd highest batting average and the 2nd highest OBP in MLB. Latz threw 84 pitches over 5-2/3 innings allowing 3 hits and a walk while striking out 4. Winn, Webb, and Martin completed the shutout allowing 3 hits and a walk over the final 3-2/3. Michael Helman drove in all 5 runs for Texas. The Rangers had their 1st baserunner in the 5th when a Burger popup in foul territory was dropped, allowing him to eventually reach 1st base on a walk. Higashioka doubled and Heim walked to load the bases. Helman homered 381 feet to left for the team's 1st grand slam. With 2 outs in the 7th, Heim singled and Helman followed with a double to score the Rangers' 5th run. The shutout was the 14th by Rangers' pitching this season. Record 75-70.`
+  recap: `Jacob Latz (1-0, 3.15) vs. Jose Quintana (11-5, 3.72). Rangers' pitching was spectacular against the team with the 2nd highest batting average and the 2nd highest OBP in MLB. Latz threw 84 pitches over 5-2/3 innings allowing 3 hits and a walk while striking out 4. Winn, Webb, and Martin completed the shutout allowing 3 hits and a walk over the final 3-2/3. Helman drove in all 5 runs for Texas. The Rangers had their 1st baserunner in the 5th when a Burger popup in foul territory was dropped which allowed Burger to eventually reach 1st base on a walk. Higashioka doubled and Heim walked to load the bases. Helman homered 381 feet to left for the team's 1st grand slam. With 2 outs in the 7th, Heim singled and Helman followed with a double to score the Rangers' 5th run. The shutout was the 14th by Rangers' pitching this season. Record 75-70.`
   },
   {
   id: 'sep9',
@@ -1026,7 +1026,7 @@ const schedule = [
   date: 'September 10',
   opp: 'Milwaukee',
   score: 'W 6-3',
-  recap: `Merrill Kelly (11-7, 3.16) vs. Freddie Peralta (16-5, 2.50). The 1st 2 batters of the game homered off Kelly. The Rangers responded against Brewers ace Freddie Peralta who had not allowed a run over his previous 5 starts. Burger homered twice to CF--a 432-foot solo shot in the 2nd and a 420-foot 2-run blast in the 5th. The Rangers also scored twice in the 3rd on a single, a pair of walks, a groundout, and a balk. The Brewers scored a run in the 6th on 3 singles to make the score 5-3. The 6th Ranger run came in the 8th on a pair of walks and a couple of groundouts. Kelly allowed 3 runs on 10 hits and 0 walks over 5-2/3 innings. Milner, Garcia, Armstrong, and Maton threw 3-1/3 shutout innings to complete the sweep of the team with the best record in MLB. For the 1st time this season, the Rangers are 7 games over .500. Record: 77-70`
+  recap: `Merrill Kelly (11-7, 3.16) vs. Freddie Peralta (16-5, 2.50). The 1st 2 batters of the game homered off Kelly, but the Rangers responded. Burger homered twice to CF, a 432-foot solo shot in the 2nd and a 420-foot 2-run blast in the 5th. The Rangers also scored twice in the 3rd on a single, a pair of walks, a groundout, and a balk. The Brewers scored a run in the 6th on 3 singles to make the score 5-3. The 6th Ranger run came in the 8th on a pair of walks and a couple of groundouts. Kelly allowed 3 runs on 10 hits and 0 walks over 5-2/3 innings. Milner, Garcia, Armstrong, and Maton threw 3-1/3 shutout innings to complete the sweep of the team with the best record in MLB. For the 1st time this season, the Rangers are 7 games over .500. Record: 77-70`
   },
   {
   id: 'sep12',
