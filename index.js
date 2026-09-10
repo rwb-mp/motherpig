@@ -2390,9 +2390,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Wed',
     date: '9',
     opp: 'at Sea <img src="logos/mariners.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '3:10',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'L 3-2',
+    recap: '<a href = "journal.html#sep9" target = "_blank">Recap</a>'
     },
     {
     id: '215',

@@ -1012,14 +1012,14 @@ const schedule = [
   date: 'September 8',
   opp: 'at Seattle',
   score: 'W 10-5',
-  recap: `Cal Quantrill (7-5, 2.79) vs. Bryce Miller (4-8, 4.01). Seager set the tone with a 418-foot solo homer to right in the 1st. Lopez had 3 singles and a hit-by-pitch including a clutch 2-out RBI single in the 2nd. Foscue had 2 hits including a 2-out, 2-run single with the bases loaded in the 4th. The 5th inning saw Langford hit a 438-foot, 2-run HR to left and Jansen with a 391-foot, 3-run homer also to left. Jansen had a 4th RBI in the 7th on a single that scored Carter. Carter had 2 singles and scored twice. Quantrill pitched another quality start, throwing 93 pitches over 6 innings, allowing 3 runs on 5 hits and a walk. Garcia pitched a perfect 7th, his 1st appearance since April. Macko pitched the last 2 innings and was touched for 2 runs--only 1 earned--on 4 hits. Record: 72-73.`
+  recap: `Cal Quantrill (7-5, 2.79) vs. Bryce Miller (4-8, 4.01). Seager set the tone with a 418-foot solo homer to right in the 1st. Lopez had 3 singles and a hit-by-pitch including a clutch 2-out RBI single in the 2nd. Foscue had 2 hits including a 2-out, 2-RBI single with the bases loaded in the 4th. The 5th inning saw Langford hit a 438-foot, 2-run HR to left and Jansen with a 391-foot, 3-run homer also to left. Jansen had a 4th RBI in the 7th on a single that scored Carter. Carter had 2 singles and scored twice. Quantrill pitched another quality start, throwing 93 pitches over 6 innings, allowing 3 runs on 5 hits and a walk. Garcia pitched a perfect 7th, his 1st appearance since April. Macko pitched the last 2 innings and was touched for 2 runs--only 1 earned--on 4 hits. Record: 72-73.`
   },
   {
   id: 'sep9',
   date: 'September 9',
   opp: 'at Seattle',
-  score: '8:40',
-  recap: `Cody Bradford (0-3, 4.45) vs. Kade Anderson (0-1, 5.40). `
+  score: 'L 3-2',
+  recap: `Cody Bradford (0-4, 4.45) vs. Kade Anderson (0-1, 5.40). Burger homered to lead off the 2nd and Seager homered to lead off the 8th. Otherwise, scoring opportunities were few. Foscue and Nimmo hit 1-out singles in the 1st, but Langford flew out to left to end the inning. With 1 out in the 2nd, Seager singled and Foscue walked, but Nimmo grounded into a fielder's choice and Langford struck out to kill the threat. Outside of Seager's 8th inning HR, the Rangers didn't get another runner to 2nd. With Texas leading 2-1 in the 4th, the Mariners reached on a 2-out single when a ground ball up the middle hit 2nd base. The lucky break led to 2 Seattle runs and the Rangers couldn't overcome the 3-2 deficit. Bradford's line was 3 runs on 4 hits and 2 walks in 4 innings. Alexander, Williams, and Ahlstrom pitched 4 shutout innings in relief. Record: 72-74.`
   },
   {
   id: 'sep10',
