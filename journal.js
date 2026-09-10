@@ -732,7 +732,7 @@ const schedule = [
   date: 'July 26',
   opp: 'Seattle',
   score: 'L 6-4',
-  recap: `Jacob deGrom (7-6, 3.76) vs. Logan Gilbert (8-6, 3.38). The bullpen blew a late lead and prevented the Rangers from going up 3-0 in the series. After Pederson doubled to start the game, Langford singled him to 3rd, and Duran scored him on a sac fly. The next Texas hit came in the 4th when Nimmo hit a 1-out single, Burger walked, Carter singled Nimmo home, and Lopez singled Burger home for a 3-1 lead. deGrom pitched into the 6th, allowing a run on 7 hits and no walks. After Seattle singled twice to open the 6th, Ahlstrom did a phenomenal job in retiring the next 3 hitters. Alexander and Winn allowed 4 Seattle runs on 4 hits in the 7th, including back-to-back HRs. Duran homered 420 feet to left in the 8th to draw the Rangers to within a run. Peoples pitched a shutout 8th, but Gray gave up another run in the 9th to give Seattle the 6-4 lead. Carter, Lopez, and Osuna struck out in order in the 9th. The Mariners outhit the Rangers 14 to 6. Record: 53-52.`
+  recap: `Jacob deGrom (7-6, 3.76) vs. Logan Gilbert (8-6, 3.38). The bullpen blew a late lead and prevented the Rangers from going up 3-0 in the series. After Pederson doubled to start the game, Langford singled him to 3rd, and Duran scored him on a sac fly. The next Texas hit came in the 4th when Nimmo hit a 1-out single, Burger walked, Carter singled Nimmo home, and Lopez singled Burger home for a 3-1 lead. deGrom pitched into the 6th, allowing a run on 7 hits and no walks. After Seattle singled twice to open the 6th, Ahlstrom retired the next 3 hitters. Alexander and Winn allowed 4 Seattle runs on 4 hits in the 7th, including back-to-back HRs. Duran homered 420 feet to left in the 8th to draw the Rangers to within a run. Peoples pitched a shutout 8th, but Gray gave up another run in the 9th to give Seattle the 6-4 lead. Carter, Lopez, and Osuna struck out in order in the 9th. The Mariners outhit the Rangers 14 to 6. Record: 53-52.`
   },
   {
   id: 'jul27',
@@ -1025,8 +1025,8 @@ const schedule = [
   id: 'sep10',
   date: 'September 10',
   opp: 'at Seattle',
-  score: '3:10',
-  recap: `Jacob deGrom (10-9, 3.96) vs. Logan Gilbert (11-9, 3.71). `
+  score: 'L 4-3',
+  recap: `Jacob deGrom (10-9, 3.96) vs. Logan Gilbert (11-9, 3.71). deGrom retired the 1st 15 hitters he faced. The only hit against him was a head-high line drive that went off his glove in the 6th. deGrom's line was 1 hit and no walks with 12 K's over 6 innings. The Rangers scored 2 in the 3rd when Lopez hit a 1-out single and Pederson homered 385 feet to right. Texas added another in the 5th when Carter was hit by the pitch, Burger walked, and Lopez bunted home Carter. Lopez made the final out of the inning at home plate when a wild pitch bounced off the brick wall and right back to the catcher. Junis gave up 4 runs in the 7th without getting an out when he hit the 1st batter, allowed a pair of singles, and then surrendered a 3-run HR. Garcia retired the 3 batters he faced to end the 7th. Jansen hit a 1-out single in the top of the 8th. Pinch runner Cauley stole 2nd, but Foscue struck out and Seager grounded out. After Ahlstrom pitched a shutout 8th, Langford and Carter drew 2-out walks in the top of the 9th. Burger grounded out for the final out. Record: 72-75.`
   },
   {
   id: 'sep11',
