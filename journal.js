@@ -1026,21 +1026,21 @@ const schedule = [
   date: 'September 10',
   opp: 'at Seattle',
   score: 'L 4-3',
-  recap: `Jacob deGrom (10-9, 3.96) vs. Logan Gilbert (11-9, 3.71). deGrom retired the 1st 15 hitters he faced. The only hit against him was a head-high line drive that went off his glove in the 6th. deGrom's line was 1 hit and no walks with 12 K's over 6 innings. The Rangers scored 2 in the 3rd when Lopez hit a 1-out single and Pederson homered 385 feet to right. Texas added another in the 5th when Carter was hit by the pitch, Burger walked, and Lopez bunted home Carter. Lopez made the final out of the inning at home plate when a wild pitch bounced off the brick wall and right back to the catcher. Junis gave up 4 runs in the 7th without getting an out when he hit the 1st batter, allowed a pair of singles, and then surrendered a 3-run HR. Garcia retired the 3 batters he faced to end the 7th. Jansen hit a 1-out single in the top of the 8th. Pinch runner Cauley stole 2nd, but Foscue struck out and Seager grounded out. After Ahlstrom pitched a shutout 8th, Langford and Carter drew 2-out walks in the top of the 9th, but Burger grounded out for the final out. Record: 72-75.`
+  recap: `Jacob deGrom (10-9, 3.96) vs. Logan Gilbert (11-9, 3.71). deGrom retired the 1st 15 hitters he faced. The only hit against him was a head-high line drive that went off his glove in the 6th. deGrom's line was 1 hit and no walks with a season high 12 K's over 6 innings. The Rangers scored 2 in the 3rd when Lopez hit a 1-out single and Pederson homered 385 feet to right. Texas added another in the 5th when Carter was hit by the pitch, Burger walked, and Lopez bunted home Carter. Lopez made the final out of the inning at home plate when a wild pitch bounced off the brick wall and right back to the catcher. Junis gave up 4 runs in the 7th without getting an out when he hit the 1st batter, allowed a pair of singles, and then surrendered a 3-run HR. Garcia retired the 3 batters he faced to end the 7th. Jansen hit a 1-out single in the top of the 8th. Pinch runner Cauley stole 2nd, but Foscue struck out and Seager grounded out. After Ahlstrom pitched a shutout 8th, Langford and Carter drew 2-out walks in the top of the 9th, but Burger grounded out for the final out. Record: 72-75.`
   },
   {
   id: 'sep11',
   date: 'September 11',
   opp: 'at Arizona',
-  score: '8:40',
-  recap: ``
+  score: 'L 9-1',
+  recap: `MacKenzie Gore (8-10, 4.51) vs. Merrill Kelly (9-13, 5.06). Gore was effective for 4 innings, but allowed a walk and 3 doubles in the 5th without retiring a batter. He was charged with 4 runs on 5 hits and 3 walks in his 4 innings pitched. His ERA in his last 4 starts is 7.87. Junis, Silseth, and Macko were terrible in 2 innings of relief, allowing 5 runs on 6 hits, a hit batter, and 2 walks--1 intentional. Montgomery was perfect in his 2 innings of relief. The Rangers drew 2 walks in the 2nd, but Burger swung at ball 4 twice and then grounded out followed by a Lopez strikeout to strand the runners. The only Texas run came in the 5th when Burger walked, Lopez sacrificed him to 2nd, Jansen was hit by a pitch, and Pederson doubled home Burger. Duran was hit by a pitch to load the bases, but Nimmo grounded out to strand the 3 runners. The Rangers were 1-for 8 with RISP. Record: 72-76.`
   },
   {
   id: 'sep12',
   date: 'September 12',
   opp: 'at Arizona',
   score: '7:10',
-  recap: ``
+  recap: `Kumar Rocker(5-11, 4.61) vs. TBD. `
   },
   {
   id: 'sep13',

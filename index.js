@@ -2412,9 +2412,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Fri',
     date: '11',
     opp: 'at Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '8:40',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'L 9-1',
+    recap: '<a href = "journal.html#sep11" target = "_blank">Recap</a>'
     },
     {
     id: '217',
