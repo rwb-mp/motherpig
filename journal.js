@@ -1039,15 +1039,15 @@ const schedule = [
   id: 'sep12',
   date: 'September 12',
   opp: 'at Arizona',
-  score: '7:10',
-  recap: `Kumar Rocker(5-11, 4.61) vs. TBD. `
+  score: 'W 6-2',
+  recap: `Kumar Rocker (5-11, 4.61) vs. Brandon Pfaadt (7-2, 3.53). The Rangers scored all their runs in the 5th. Langford led off the inning with a 435-foot blast to left. Burger followed with a single and stole 2nd when the catcher's throw short-hopped the player covering. Lopez sacrificed Burger to 3rd. Diaz singled Burger home and Pederson was hit by the pitch moving Diaz to 2nd. Seager grounded into an apparent double play, but the pitcher covering was ruled to have missed 1st base. Jung hit a clutch 2-out single to score Diaz and Nimmo doubled home Seager. Duran knocked in the 5th and 6th runs of the inning with a single to center before Langford struck out to end the inning. Rocker allowed a run on 2 hits and 2 walks through 4 innings. When he walked the 1st 2 hitters in the 5th, Garcia came in and retired the next 3. Eovaldi pitched 2-2/3 of 1-run ball in his 1st appearance since August 7. Latz got the final 4 outs in a non-save situation. Jung had 2 singles, an RBI, and scored a run in his first at bats since July 21. Record: 73-76.`
   },
   {
   id: 'sep13',
   date: 'September 13',
   opp: 'at Arizona',
   score: '3:10',
-  recap: ``
+  recap: `Cal Quantrill (8-5, 2.89) vs. Eduardo Rodriguez (15-5, 2.55). `
   },
   {
   id: 'sep15',
