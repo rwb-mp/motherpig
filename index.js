@@ -2434,9 +2434,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '13',
     opp: 'at Ari <img src="logos/diamondbacks.gif" width="20px" height="20px" style="vertical-align:bottom">',
-    time: '3:10',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 7-6',
+    recap: '<a href = "journal.html#sep13" target = "_blank">Recap</a>'
     },
     {
     id: '219',
