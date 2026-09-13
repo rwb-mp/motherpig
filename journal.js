@@ -1047,28 +1047,28 @@ const schedule = [
   date: 'September 13',
   opp: 'at Arizona',
   score: 'W 7-6',
-  recap: `Cal Quantrill (8-5, 2.89) vs. Eduardo Rodriguez (15-5, 2.55). The Rangers opened the game with a Foscue single and a Seager 458-foot HR to center. Texas turned 2 Arizona errors and singles by Seager, Jung, and Nimmo into 3 5th inning runs. The Rangers scored 2 more in the 6th when Duran walked, Diaz bunted him to 2nd, Jansen doubled, and Seager hit a clutch 2-out single. Quantrill was outstanding in his 6+ innings, allowing 1 run on 5 hits and no walks. After Quantrill gave up a leadoff single in the 7th, Alexander surrendered a single and a 3-run HR to make the score 7-4. Garcia pitched a shutout 8th. Latz gave up 3 doubles in the 9th to draw Arizona to within a run at 7-6. With 1-out and the tying run at 2nd, Latz got a strikeout and a pop up to short to notch his 29th save. Record: 74-76.`
+  recap: `Cal Quantrill (8-5, 2.89) vs. Eduardo Rodriguez (15-5, 2.55). The Rangers opened the game with a Foscue single and a Seager 458-foot HR to center. Texas turned 2 Arizona errors and singles by Seager, Jung, and Nimmo into 3 5th inning runs. The Rangers scored 2 more in the 6th when Duran walked, Diaz bunted him to 2nd, Jansen doubled, and Seager hit a clutch 2-out single. Quantrill was outstanding in his 6+ innings, allowing 1 run on 5 hits and no walks. After Quantrill gave up a leadoff single in the 7th, Alexander surrendered a single and a 3-run HR to make the score 7-4. Garcia pitched a shutout 8th. Latz gave up 3 doubles in the 9th to draw Arizona to within a run at 7-6. With 1-out and the tying run at 2nd, Latz got a strikeout and a pop up to notch his 29th save. Record: 74-76.`
   },
   {
   id: 'sep15',
   date: 'September 15',
   opp: 'Boston',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Patrick Sandoval (1-5, 4.58). `
   },
   {
   id: 'sep16',
   date: 'September 16',
   opp: 'Boston',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Jake Bennett (9-7, 3.69). `
   },
   {
   id: 'sep17',
   date: 'September 17',
   opp: 'Boston',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Sonny Gray (17-5, 2.76). `
   },
   {
   id: 'sep18',
