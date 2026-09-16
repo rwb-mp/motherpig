@@ -1053,15 +1053,15 @@ const schedule = [
   id: 'sep15',
   date: 'September 15',
   opp: 'Boston',
-  score: '7:05',
-  recap: `TBD vs. Patrick Sandoval (1-5, 4.58). `
+  score: 'W 4-2',
+  recap: `Jacob deGrom (10-9, 3.80) vs. Patrick Sandoval (1-5, 4.58). All the Ranger runs came in the 2nd when Nimmo singled after Burger struck out. After Langford flew out to the wall in center, Duran singled Nimmo to 2nd. Diaz came through with a 2-out double down the line in left scoring Nimmo and Duran. After Jansen and Foscue walked, Seager scored Diaz and Jansen with a bloop single to left and the Rangers had a 4-0 lead. The Red Sox answered with 2 runs in the 3rd. Boston loaded the bases in the 5th on a hit batter, catcher's interference, and a walk, but deGrom stranded all 3 runners on an infield grounder. deGrom's line was 92 pitches over 5 innings, allowing 2 runs on 3 hits, a walk, and a hit batter with 8 K's. Silseth, Alexander, Garcia, and Latz shut out the Red Sox the rest of the way. After Garcia put 2 on with 1 out in the 8th, Latz came in and killed the threat. Latz also pitched the 9th and recorded his 30th save of the season and his 7th save of at least 5 outs. Record: 75-76.`
   },
   {
   id: 'sep16',
   date: 'September 16',
   opp: 'Boston',
   score: '7:05',
-  recap: `TBD vs. Jake Bennett (9-7, 3.69). `
+  recap: `MacKenzie Gore (8-11, 4.62) vs. Jake Bennett (9-7, 3.69). `
   },
   {
   id: 'sep17',
