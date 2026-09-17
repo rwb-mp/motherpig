@@ -1060,29 +1060,29 @@ const schedule = [
   id: 'sep16',
   date: 'September 16',
   opp: 'Boston',
-  score: '7:05',
-  recap: `MacKenzie Gore (8-11, 4.62) vs. Jake Bennett (9-7, 3.69). `
+  score: 'W 7-3',
+  recap: `MacKenzie Gore (8-11, 4.62) vs. Jake Bennett (9-7, 3.69). Gore issued a leadoff walk and surrendered a 2-run HR 3 batters later to put Texas in an early hole. Foscue responded with a leadoff double in the bottom of the 1st. After Seager struck out, Jung singled Foscue to 3rd, and Burger doubled him home for the 1st Ranger run. The Rangers tied the game in the 4th when Langford walked to start the inning, Jansen singled after 2 were out, and Foscue scored Langford with a single to center. Gore issued a leadoff walk in the 5th followed by a single, and Junis replaced Gore. Junis balked home the 3rd Red Sox run when he dropped the baseball out of his glove after stepping on the rubber. The Rangers tied the game again in the 5th when Jung hit a leadoff double and Langford hit a clutch 2-out single to score him. Texas opened up a 6-3 lead in the 7th when Seager was hit by the pitch and Burger drew a 1-out walk. Nimmo doubled home Seager, and Duran hit a clutch 2-out, 2-RBI single to score Burger and Nimmo. The Rangers added an insurance run in the 8th when Diaz reached on an error, Jansen bunted him to 2nd, and Seager hit a 2-out single to score Diaz. Texas outhit Boston 13 to 3, and Eovaldi pitched 4 innings of 1-hit relief to get the win. The Rangers are tied with the Astros for the division lead with 10 games to play, but Houston owns the tie-break. Record: 76-76.`
   },
   {
   id: 'sep17',
   date: 'September 17',
   opp: 'Boston',
   score: '7:05',
-  recap: `TBD vs. Sonny Gray (17-5, 2.76). `
+  recap: `Tyler Alexander (5-2. 3.38) vs. Sonny Gray (17-5, 2.76). `
   },
   {
   id: 'sep18',
   date: 'September 18',
   opp: 'Toronto',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs Dylan Cease (11-5, 2.38). `
   },
   {
   id: 'sep19',
   date: 'September 19',
   opp: 'Toronto',
   score: '6:05',
-  recap: ``
+  recap: `TBD vs. Jose Soriano (12-7, 3.56). `
   },
   {
   id: 'sep20',
