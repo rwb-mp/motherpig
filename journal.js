@@ -1061,35 +1061,35 @@ const schedule = [
   date: 'September 16',
   opp: 'Boston',
   score: 'W 7-3',
-  recap: `MacKenzie Gore (8-11, 4.62) vs. Jake Bennett (9-7, 3.69). Gore issued a leadoff walk and surrendered a 2-run HR 3 batters later to put Texas in an early hole. Foscue responded with a leadoff double in the bottom of the 1st. After Seager struck out, Jung singled Foscue to 3rd, and Burger doubled him home for the 1st Ranger run. The Rangers tied the game in the 4th when Langford walked to start the inning, Jansen singled after 2 were out, and Foscue scored Langford with a single to center. Gore issued a leadoff walk in the 5th followed by a single, and Junis replaced Gore. Junis balked home the 3rd Red Sox run when he dropped the baseball out of his glove after stepping on the rubber. The Rangers tied the game again in the 5th when Jung hit a leadoff double and Langford hit a clutch 2-out single to score him. Texas opened up a 6-3 lead in the 7th when Seager was hit by the pitch and Burger drew a 1-out walk. Nimmo doubled home Seager, and Duran hit a clutch 2-out, 2-RBI single to score Burger and Nimmo. The Rangers added an insurance run in the 8th when Diaz reached on an error, Jansen bunted him to 2nd, and Seager hit a 2-out single to score Diaz. Texas outhit Boston 13 to 3, and Eovaldi pitched 4 innings of 1-hit relief to get the win. The Rangers are tied with the Astros for the division lead with 10 games to play, but Houston owns the tie-break. Record: 76-76.`
+  recap: `MacKenzie Gore (8-11, 4.62) vs. Jake Bennett (9-7, 3.69). Gore issued a leadoff walk and surrendered a 2-run HR 3 batters later to put Texas in an early hole. Foscue responded with a leadoff double in the bottom of the 1st. After Seager struck out, Jung singled Foscue to 3rd, and Burger doubled him home for the 1st Ranger run. The Rangers tied the game in the 4th when Langford walked to start the inning, Jansen singled after 2 were out, and Foscue scored Langford with a single to center. Gore issued a leadoff walk in the 5th followed by a single, and Junis replaced Gore. Junis balked home the 3rd Red Sox run when he dropped the baseball out of his glove after stepping on the rubber. The Rangers tied the game again in the 5th when Jung hit a leadoff double and Langford hit a clutch 2-out single to score him. Texas opened up a 6-3 lead in the 7th when Seager was hit by the pitch and Burger drew a 1-out walk. Nimmo doubled home Seager, and Duran hit a clutch 2-out, 2-RBI single to score Burger and Nimmo. The Rangers added an insurance run in the 8th when Diaz reached on an error, Jansen bunted him to 2nd, and Seager hit a 2-out bloop single to score Diaz. Texas outhit Boston 13 to 3, and Eovaldi pitched 4 innings of 1-hit relief to get the win. The Rangers are tied with the Astros for the division lead with 10 games to play, but Houston owns the tie-break. Record: 76-76.`
   },
   {
   id: 'sep17',
   date: 'September 17',
   opp: 'Boston',
-  score: '7:05',
-  recap: `Tyler Alexander (5-2. 3.38) vs. Sonny Gray (17-5, 2.76). `
+  score: 'L 4-3',
+  recap: `Tyler Alexander (5-2. 3.38) vs. Sonny Gray (17-5, 2.76). Jung solo homered 369 feet to right with 2 outs in the 1st to give the Rangers the early lead. Texas scored 2 more in the 2nd when Langford and Burger led off with walks and Lopez bunted them to 2nd and 3rd. Jansen singled home Langford, and Carter squeeze bunted Burger home to give the Rangers a 3-0 lead. Alexander opened for Bradford by pitching a shutout 1st inning. Bradford followed with 4-1/3 shutout innings on 3 singles and a walk. After Bradford allowed a 1-out single in the 6th, Silseth surrendered a double before pitching out of a runners on 2nd and 3rd jam. Ahlstrom allowed a run in the 7th after he walked the 1st 2 hitters. Junis began the 8th by walking the first batter and hitting the 2nd. Latz replaced him and got a popup to 1st before giving up the lead on a 3-run HR to left. It was the 4th blown save for Latz. After the 2nd inning, Ranger hitters managed 2 singles and 2 walks and never got a runner to 2nd base. Record: 76-77.`
   },
   {
   id: 'sep18',
   date: 'September 18',
   opp: 'Toronto',
   score: '7:05',
-  recap: `TBD vs Dylan Cease (11-5, 2.38). `
+  recap: `Kumar Rocker (5-11, 4.54) vs Dylan Cease (11-5, 2.38). `
   },
   {
   id: 'sep19',
   date: 'September 19',
   opp: 'Toronto',
   score: '6:05',
-  recap: `TBD vs. Jose Soriano (12-7, 3.56). `
+  recap: `Cal Quantrill (9-5, 2.90) vs. Jose Soriano (12-7, 3.56). `
   },
   {
   id: 'sep20',
   date: 'September 20',
   opp: 'Toronto',
   score: '1:35',
-  recap: ``
+  recap: `Jacob deGrom (11-9, 3.79) vs. TBD. `
   },
   {
   id: 'sep22',
