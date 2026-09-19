@@ -1074,8 +1074,8 @@ const schedule = [
   id: 'sep18',
   date: 'September 18',
   opp: 'Toronto',
-  score: '7:05',
-  recap: `Kumar Rocker (5-11, 4.54) vs Dylan Cease (11-5, 2.38). `
+  score: 'W 7-1',
+  recap: `Kumar Rocker (5-11, 4.54) vs. Dylan Cease (11-5, 2.38). The Rangers benefited from 10 walks and 3 Toronto errors. Only 3 of the walks came around to score as the Rangers were 4-for-15 with RISP and left 12 runners on base. Lopez had 2 hits, Burger had 2 RBI's, and Duran, Seager, Langford, and Carter also had RBI's. Rocker was good until the 5th inning when he issued a pair of leadoff walks and then a 1-out double. Alexander came in and quelled the rally. Trevor Williams pitched 4 innings of 2-hit ball to get the win. Record 77-77.`
   },
   {
   id: 'sep19',
