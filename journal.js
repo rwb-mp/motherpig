@@ -1075,21 +1075,21 @@ const schedule = [
   date: 'September 18',
   opp: 'Toronto',
   score: 'W 7-1',
-  recap: `Kumar Rocker (5-11, 4.54) vs. Dylan Cease (11-5, 2.38). The Rangers benefited from 10 walks and 3 Toronto errors. Only 3 of the walks came around to score as the Rangers were 4-for-15 with RISP and left 12 runners on base. Lopez had 2 hits, Burger had 2 RBI's, and Duran, Seager, Langford, and Carter also had RBI's. Rocker was good until the 5th inning when he issued a pair of leadoff walks and then a 1-out double. Alexander came in and quelled the rally. Trevor Williams pitched 4 innings of 2-hit ball to get the win. Record 77-77.`
+  recap: `Kumar Rocker (5-11, 4.54) vs. Dylan Cease (11-5, 2.38). The Rangers benefited from 10 walks and 3 Toronto errors. Only 3 of the walks came around to score as the Rangers were 4-for-15 with RISP and left 12 runners on base. Lopez had 2 hits, Burger had 2 RBI's, and Duran, Seager, Langford, and Carter also had RBI's. Rocker was good until the 5th inning when he issued a pair of leadoff walks and then a 1-out double. Alexander came in and quelled the rally. Trevor Williams pitched 4 innings of 2-hit ball to get the win. Record: 77-77.`
   },
   {
   id: 'sep19',
   date: 'September 19',
   opp: 'Toronto',
-  score: '6:05',
-  recap: `Cal Quantrill (9-5, 2.90) vs. Jose Soriano (12-7, 3.56). `
+  score: 'W 6-2',
+  recap: `Cal Quantrill (9-5, 2.90) vs. Jose Soriano (12-7, 3.56). For the 2nd time in three games, Jung solo homered in the 1st to give the Rangers an early lead. Quantrill retired the 1st 4 batters he faced and then had to leave due to back stiffness. Montgomery followed with 3-2/3 innings hitless innings to get Texas to the 6th. The Rangers scored 2 in the 2nd on a walk, a hit batter, an error, and a wild pitch. Texas scored 3 more in the 6th when Jung was hit by the pitch, Nimmo singled, and Langford doubled home Jung. Lopez was intentionally walked to load the bases. Jansen was hit by a pitch to force in Nimmo, and Carter scored Langford on a sac fly. Eovaldi allowed the 1st Toronto run in the 6th on a hit batter and a pair of singles. Garcia gave up a solo HR in the 7th for the 2nd Blue Jays run. Silseth pitched a shutout 8th and Latz was perfect in the 9th to secure the win. The Rangers were 1-for-11 with RISP. The win gave the Rangers sole possession of 1st place over Houston. Record: 78-77.`
   },
   {
   id: 'sep20',
   date: 'September 20',
   opp: 'Toronto',
   score: '1:35',
-  recap: `Jacob deGrom (11-9, 3.79) vs. TBD. `
+  recap: `Jacob deGrom (11-9, 3.79) vs. Spencer Miles (6-2, 2.65). `
   },
   {
   id: 'sep22',

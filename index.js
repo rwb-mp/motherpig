@@ -2500,9 +2500,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sat',
     date: '19',
     opp: 'Tor <img src="logos/blue-jays.gif" width="24px" height="20px" style="vertical-align:bottom">',
-    time: '6:05',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'W 6-2',
+    recap: '<a href = "journal.html#sep19" target = "_blank">Recap</a>'
     },
     {
     id: '225',
