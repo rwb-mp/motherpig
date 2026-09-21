@@ -2511,9 +2511,9 @@ document.getElementById("dlls").addEventListener("click", () => {
     day: 'Sun',
     date: '20',
     opp: 'Tor <img src="logos/blue-jays.gif" width="24px" height="20px" style="vertical-align:bottom">',
-    time: '1:35',
-    score: '',
-    recap: 'RSN'
+    time: '',
+    score: 'L 7-2',
+    recap: '<a href = "journal.html#sep20" target = "_blank">Recap</a>'
     },
     {
     id: '226',

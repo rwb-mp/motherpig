@@ -515,7 +515,7 @@ const schedule = [
   date: 'June 18',
   opp: 'Minnesota',
   score: 'L 9-3',
-  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3.17). It was Leiter's 3rd consecutive disastrous start giving him an ERA of 8.38 in June. The Rangers' 1st inning woes continued when Leiter gave up 4 singles and a HR to spot Minnesota to a 4-0 lead. With 2 outs in the 4th, Leiter walked the #9 batter and then surrendered his 2nd HR of the day to make the lead 6-0. Gray pitched a clean 5th, but Ahlstrom and Quantrill allowed 3 runs on 6 hits and a walk in their 3 relief innings. Cole pitched a clean 9th. Langford, Duran, and Foscue each hit solo HRs. The Rangers had a runner on 2nd base with 2 outs in 5 different innings, but Osuna, Nimmo, Jung, Burger, and Nimmo again left them stranded. Record 35-39.`
+  recap: `Jack Leiter (3-6, 4.97) vs. Joe Ryan (4-3, 3.17). It was Leiter's 3rd consecutive disastrous start giving him an ERA of 8.38 in June. The Rangers' 1st inning woes continued when Leiter gave up 4 singles and a HR to spot Minnesota to a 4-0 lead. With 2 outs in the 4th, Leiter walked the #9 batter and then surrendered his 2nd HR of the day to make the lead 6-0. Gray pitched a clean 5th, but Ahlstrom and Quantrill allowed 3 runs on 6 hits and a walk in their 3 relief innings. Cole pitched a clean 9th. Langford, Duran, and Foscue each hit solo HRs. The Rangers had a runner on 2nd base with 2 outs in 5 different innings, but Osuna, Nimmo, Jung, Burger, and Nimmo (a second time) left them stranded. Record 35-39.`
   },
   {
   id: 'jun19',
@@ -1088,29 +1088,29 @@ const schedule = [
   id: 'sep20',
   date: 'September 20',
   opp: 'Toronto',
-  score: '1:35',
-  recap: `Jacob deGrom (11-9, 3.79) vs. Spencer Miles (6-2, 2.65). `
+  score: 'L 7-2',
+  recap: `Jacob deGrom (11-9, 3.79) vs. Spencer Miles (6-2, 2.65). It was a bullpen game for the Blue Jays, but the Rangers' lineup struggled. The 2 Texas runs came in the 4th when Burger hit a 2-out, 2-run HR to center after a Duran walk. The Rangers had runners in scoring position in the 5th, 6th, and 9th innings but could not convert. deGrom didn't have his quality slider and allowed 3 runs on 5 hts and 4 walks in 4-1/3 innings. Garcia induced a double play grounder to get deGrom out of the 5th. Garcia pitched a shutout 6th, but Alexander faced 3 batters in the 7th and allowed a double, a walk, and a single. Silseth got 2 outs but couldn't kill the rally allowing a 2-out, 2-run double. Macko was the 3rd pitcher in the inning and allowed an RBI-single to the 1st batter he faced. When the inning ended, Toronto had a 7-2 lead. Macko pitched shutout innings in the 8th and 9th. The Rangers left 9 runners on base and were 1-for-5 with RISP. Quantrill was placed on the 15-day IL with a right lat strain. Record: 78-78.`
   },
   {
   id: 'sep22',
   date: 'September 22',
   opp: 'New York Mets',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs. Sean Manaea (5-7, 4.74). `
   },
   {
   id: 'sep23',
   date: 'September 23',
   opp: 'New York Mets',
   score: '7:05',
-  recap: ``
+  recap: `TBD vs Nolan McLean (11-10, 3.18). `
   },
   {
   id: 'sep24',
   date: 'September 24',
   opp: 'New York Mets',
   score: '1:35',
-  recap: ``
+  recap: `TBD vs. Zac Thornton (5-5, 3.40). `
   },
   {
   id: 'sep25',
