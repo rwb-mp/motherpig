@@ -1095,8 +1095,8 @@ const schedule = [
   id: 'sep22',
   date: 'September 22',
   opp: 'New York Mets',
-  score: '7:05',
-  recap: `TBD vs. Sean Manaea (5-7, 4.74). `
+  score: 'L 6-3',
+  recap: `MacKenzie Gore (8-11, 4.67) vs. Sean Manaea (5-7, 4.74). With 1st place on the line, the lineup produced 3 base hits--none after the 4th inning--and struck out 15 times against the last place Mets. The Rangers had a 3-2 lead after 4. Jung had a 2-out RBI double in the 3rd. Texas added 2 in the 4th when they loaded the bases on a Nimmo single, a walk to Duran, a Foscue hit-by-pitch, and Diaz and Langford followed with RBI sac flies. The Rangers had one of their worst defensive games of the season. Gore allowed 2 runs--only 1 earned--in his 5 innings. Foscue failed to reach a 2-out slow roller up the middle that produced the 1st New York run. The second Mets run came on a 2-out error on a flyball to Nimmo in the 4th. Eovaldi came in for the 6th and gave up a 2 doubles, a single, a walk, and a sac fly. The 3rd batter of the inning hit an apparent double play ball, but Jung's throw pulled Burger off first base. By the end of the inning, the Mets had a 5-3 lead. New York scored their final run in the 7th when Burger fielded a popup in foul ground with a runner on 3rd and was slow in making his throw to home plate. With the loss, the Rangers fell into a tie with Houston who owns the tie break. Record: 78-79.`
   },
   {
   id: 'sep23',
