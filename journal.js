@@ -1102,36 +1102,36 @@ const schedule = [
   id: 'sep23',
   date: 'September 23',
   opp: 'New York Mets',
-  score: '7:05',
-  recap: `TBD vs Nolan McLean (11-10, 3.18). `
+  score: 'L 7-2',
+  recap: `Cody Bradford (0-5, 4.19) vs. Nolan McLean (11-10, 3.18). Bradford was perfect the 1st time through the lineup except for a Burger error on a 1st inning ground ball. He surrendered a 2-out single and a HR the 2nd time through and the Rangers were down 2-0 in the 3rd. Alexander came in with 2 on and 1 out in the 5th and pitched out of trouble. Texas tied the game in the bottom of the 5th on singles by Nimmo, Burger, and Lopez, a walk by Jansen, and a fielder's choice grounder by Carter. After Alexander pitched a perfect 6th, Silseth began the 7th with a walk and single before getting a strikeout for the 1st out. Latz came on to finish the 7th and keep the game tied. The Mets untied it in the 8th with a solo HR to left against Latz. Montgomery put 2 runners on in the 9th, and Trevor Williams issued a walk and then a grand slam to put the game put of reach. The Rangers had only 4 hits and 1 walk and went 3 up and 3 down in 7 of the 9 innings. In the first 2 games of the series, Langford and Seager at the top of the lineup are hitless in 16 at bats with 10 K's. The Astros also lost, so the Rangers and Astros remain tied at the top of the division with the Astros owning the tie break. Record: 78-80.`
   },
   {
   id: 'sep24',
   date: 'September 24',
   opp: 'New York Mets',
   score: '1:35',
-  recap: `TBD vs. Zac Thornton (5-5, 3.40). `
+  recap: `Kumar Rocker (5-11, 4.47) vs. Zac Thornton (5-5, 3.40). `
   },
   {
   id: 'sep25',
   date: 'September 25',
   opp: 'at Minnesota',
   score: '7:10',
-  recap: ``
+  recap: `TBD vs. Joe Ryan (6-10, 3.83). `
   },
   {
   id: 'sep26',
   date: 'September 26',
   opp: 'at Minnesota',
   score: '3:10',
-  recap: ``
+  recap: `TBD vs. Bailey Ober (7-6, 4.21). `
   },
   {
   id: 'sep27',
   date: 'September 27',
   opp: 'at Minnesota',
   score: '2:10',
-  recap: ``
+  recap: `TBD vs. Dean Kremer (4-5, 4.97). `
   },
 ]
 
