@@ -1110,21 +1110,21 @@ const schedule = [
   date: 'September 24',
   opp: 'New York Mets',
   score: 'W 3-1',
-  recap: `Kumar Rocker (5-11, 4.47) vs. Zac Thornton (5-5, 3.40). Rocker allowed a 1st inning run on a leadoff double and a 2-out single, but that's all the scoring the Mets would do. Rocker pitched 4 more innings, allowing only double and 2 walks--1 intentional. Garcia, Alexander, Silseth, and Montgomery each pitched a shutout relief inning allowing 1 baserunner over the 4 innings. In the bottom of the 1st, Foscue hit a leadoff single and Jung homered down the left field line. Seager added a run in the 6th with a line drive HR to right. Jung had 3 of the Rangers' 7 hits. Record: 79-80.`
+  recap: `Kumar Rocker (5-11, 4.47) vs. Zac Thornton (5-5, 3.40). Rocker allowed a 1st inning run on a leadoff double and a 2-out single, but that's all the scoring the Mets would do. Rocker pitched 4 more innings, allowing only a double and 2 walks--1 intentional. Garcia, Alexander, Silseth, and Montgomery each pitched a shutout relief inning allowing 1 baserunner over the 4 innings. In the bottom of the 1st, Foscue hit a leadoff single and Jung homered down the left field line. Seager added a run in the 6th with a line drive HR to right. Jung had 3 of the Rangers' 7 hits. The Astros also won, so the Rangers and Astros remain tied at the top of the division with the Astros owning the tie break. ecord: 79-80.`
   },
   {
   id: 'sep25',
   date: 'September 25',
   opp: 'at Minnesota',
-  score: '7:10',
-  recap: `Jacob deGrom (11-10, 3.86) vs. Joe Ryan (6-10, 3.83). `
+  score: 'L 10-2',
+  recap: `Jacob deGrom (11-10, 3.86) vs. Joe Ryan (6-10, 3.83). Nimmo opened the game with a double and Jung was hit by a pitch to put 2 on. Seager singled home Nimmo and Jung scored on a Langford groundout. deGrom had a clean 1st inning, but things fell apart in the 2nd. The Twins scored 6 runs on a walk, 5 singles, and a triple. The Rangers reached 2nd base twice after the 1st inning. In 4 innings pitched, deGrom allowed 8 runs on 8 hits, 3 walks, and a wild pitch. Collyer gave up 2 runs in 2 relief innings, and Williams pitched a pair of shutout innings. Jung suffered a broken right wrist when he was hit by the pitch in the 1st inning and is out for the season. The Astros lost to the Athletics, so the Rangers and Astros remain tied at the top of the division with the Astros owning the tie break. Record: 79-81.`
   },
   {
   id: 'sep26',
   date: 'September 26',
   opp: 'at Minnesota',
   score: '3:10',
-  recap: `TBD vs. Bailey Ober (7-6, 4.21). `
+  recap: `Nathan Eovaldi (11-10, 4.27) vs. Bailey Ober (7-6, 4.21). `
   },
   {
   id: 'sep27',
