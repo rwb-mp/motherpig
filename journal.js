@@ -1130,8 +1130,8 @@ const schedule = [
   id: 'sep27',
   date: 'September 27',
   opp: 'at Minnesota',
-  score: '2:10',
-  recap: `MacKenzie Gore (8-11, 4.59) vs. Dean Kremer (4-5, 4.97). `
+  score: 'L 6-4',
+  recap: `MacKenzie Gore (8-11, 4.59) vs. Dean Kremer (4-5, 4.97). Gore started the game by walking the leadoff man who eventually came around to score. Silseth entered with 1 out and bases empty in the 3rd and hit the 1st batter he faced before surrendering a 2-run HR 2 batters later. Garcia pitched to 1 batter and got the final out in the 3rd. Alexander pitched a shutout 4th. After allowing a leadoff single in the 5th, Alexander was replaced by Junis who walked 3 of the 4 batters he faced to make the score 4-0. Montgomery replaced Junis and gave up a single to the 1st hitter he faced scoring the 5th Twins run. Montgomery got the final 2 outs in the 5th and pitched shutout innings in the 6th and 7th. Bradford pitched the 8th and gave up the 6th Minnesota run on a homer to the 1st batter he faced. All the Rangers' runs came on the long ball. Jansen solo homered to left in the 3rd, Diaz solo homered to left in the 8th, and Seager hit a 2-run shot to right in the 9th. Record: 80-82.`
   },
 ]
 
