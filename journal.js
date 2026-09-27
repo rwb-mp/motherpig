@@ -1123,15 +1123,15 @@ const schedule = [
   id: 'sep26',
   date: 'September 26',
   opp: 'at Minnesota',
-  score: '3:10',
-  recap: `Nathan Eovaldi (11-10, 4.27) vs. Bailey Ober (7-6, 4.21). `
+  score: 'W 6-2',
+  recap: `Nathan Eovaldi (11-10, 4.27) vs. Bailey Ober (7-6, 4.21). The Twins scored first on a 1st inning leadoff double and a pair of groundouts. Burger and Duran struck out to begin the 2nd. Lopez followed with a double, Jansen singled, Carter, Osuna, and Nimmo doubled, and Texas had a 4-1 lead. The Rangers added 2 more runs on a Jansen HR to left in the 4th and a Burger HR to center in the 5th. Eovaldi pitched 4-1/3 innings, allowing 1 run on 4 hits and 2 walks. Garcia finished the 5th and pitched a shutout 6th. Junis pitched a shutout 7th. Alexander gave up a run in the 8th after a leadoff triple, and Latz struck out the side in the 9th. The Rangers were 4-for-8 with RISP. The Astros defeated the Athletics, so the Rangers and Astros remain tied at the top of the division with the Astros owning the tie break. Record: 80-81.`
   },
   {
   id: 'sep27',
   date: 'September 27',
   opp: 'at Minnesota',
   score: '2:10',
-  recap: `TBD vs. Dean Kremer (4-5, 4.97). `
+  recap: `MacKenzie Gore (8-11, 4.59) vs. Dean Kremer (4-5, 4.97). `
   },
 ]
 
